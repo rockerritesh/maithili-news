@@ -1,35 +1,50 @@
-name: Run Python script every 12 hours
-
+name: Update file(s) 
+ 
 on:
+  push:
+    branches: [ main ]
   schedule:
-    - cron: '0 */12 * * *'  # Run this workflow every 12 hours
-
+    - cron: "0 */12 * * *" # every 12 hours
+ 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
-
-    - name: Set up Python 3.8
+ 
+    - name: Set up Python 3.9
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8
-
+        python-version: 3.9
+ 
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
-
-    - name: Run Python script
+        pip install black
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+ 
+    - name: Format code
+      run: black run.py
+ 
+    - name: Fetch data and update the file(s)
+      run: python run.py 
+ 
+    - name: Commit updated file(s) back to this repository
       run: |
-        python run.py > output.txt
-
-    - name: Commit and push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
-        force: true
-        directory: .
-        commit_message: Update data files
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git diff-index --quiet HEAD || git commit -m "[skip ci] Save result of action"
+          git fetch origin main 
+          git push
+ 
+  # - name: Push file to remote repo
+  #   uses: dmnemec/copy_file_to_another_repo_action@main
+  #    env:
+  #      API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+  #    with:
+  #      source_file: nepse_simple.xlsx
+  #      destination_repo: dotehacker/dotehacker.github.io
+  #      user_name: dotehacker
+  #      user_email: rockerritesh4@gmail.com
+  #      target-branch: main
