@@ -25,4 +25,5 @@ jobs:
 
     - name: Run Streamlit script
       run: |
+        export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
         streamlit run app.py
