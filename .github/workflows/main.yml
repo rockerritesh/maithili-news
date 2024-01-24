@@ -1,19 +1,17 @@
-name: Deploy Streamlit App
+name: Run Python script every 12 hours
 
 on:
-  push:
-    branches:
-      - web-app  # replace with your default branch if not 'main'
+  schedule:
+    - cron: '0 */12 * * *'  # Run this workflow every 12 hours
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+    - uses: actions/checkout@v2
 
-    - name: Setup Python
+    - name: Set up Python 3.8
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
@@ -23,7 +21,15 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Run Streamlit script
+    - name: Run Python script
       run: |
-        export PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python
-        streamlit run app.py
+        python run.py > output.txt
+
+    - name: Commit and push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+        force: true
+        directory: .
+        commit_message: Update data files
