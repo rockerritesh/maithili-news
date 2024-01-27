@@ -5,16 +5,21 @@ from googletranslate import translate
 import requests
 import json
 
+
 def translate_text(x):
     try:
-        translation_result = translate(x, dest='mai', src='en')
+        translation_result = translate(x, dest="mai", src="en")
         return translation_result
     except requests.exceptions.RequestException as e:
         print(f"Error making translation request: {e}")
-        return None  # Handle the error gracefully, you can modify this based on your needs
+        return (
+            None  # Handle the error gracefully, you can modify this based on your needs
+        )
     except json.decoder.JSONDecodeError as e:
         print(f"Error decoding JSON response: {e}")
-        return None  # Handle the error gracefully, you can modify this based on your needs
+        return (
+            None  # Handle the error gracefully, you can modify this based on your needs
+        )
 
 
 google_news = GNews()
@@ -66,7 +71,7 @@ print("--------Removed non-ascii characters----------")
 # )
 
 # Assuming 'max_length_of_news' is defined
-df['translated'] = df.tail(max_length_of_news)['full_article'].apply(translate_text)
+df["translated"] = df.tail(max_length_of_news)["full_article"].apply(translate_text)
 
 print("--------Translated to maithili---------")
 
@@ -75,7 +80,7 @@ df.tail(max_length_of_news).to_csv("today_news.csv", index=False)
 print("--------Saved to csv--------")
 
 # making main datafram for store and retaive data
-main_df = pd.read_csv("filename.csv", on_bad_lines='skip')
+main_df = pd.read_csv("filename.csv", on_bad_lines="skip")
 
 # merging two dataframe to make one main dataframe
 merged_df = (
