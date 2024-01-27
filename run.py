@@ -75,7 +75,7 @@ df.tail(max_length_of_news).to_csv("today_news.csv", index=False)
 print("--------Saved to csv--------")
 
 # making main datafram for store and retaive data
-main_df = pd.read_csv("filename.csv")
+main_df = pd.read_csv("filename.csv", on_bad_lines='skip')
 
 # merging two dataframe to make one main dataframe
 merged_df = (
