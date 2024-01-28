@@ -46,16 +46,13 @@ print("-----------Normalized news------------")
 max_length_of_news = 20
 
 # Get the full article for the last 20 news and Images
-df["full_article"] = (
-    df.tail(max_length_of_news)["url"]
-    .apply(google_news.get_full_article)
-    .apply(lambda x: x.text)
-)
+df['full_article'] = df.tail(max_length_of_news)['url'].apply(google_news.get_full_article).apply(lambda x: x.text if x is not None else '')
+
 
 df["images"] = (
     df.tail(max_length_of_news)["url"]
     .apply(google_news.get_full_article)
-    .apply(lambda x: x.images)
+    .apply(lambda x: x.images if x is not None else '')
 )
 print("--------Got full article and images----------")
 
