@@ -99,9 +99,9 @@ print("---------Merged two dataframe--------")
 print("---------Applying Machine Learning--------")
 
 # loading joblib file model
-tfidi_model = joblib.load('model/tfidf_model.joblib')
-label_encoder = joblib.load('model/label_model.joblib')
-svm_model = joblib.load('model/svc_77_classifier_model.joblib')
+tfidi_model = joblib.load("model/tfidf_model.joblib")
+label_encoder = joblib.load("model/label_model.joblib")
+svm_model = joblib.load("model/svc_77_classifier_model.joblib")
 print("---------Loaded Machine Learning Model--------")
 
 # droping null values according to translated column
