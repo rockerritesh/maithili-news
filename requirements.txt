@@ -3,4 +3,5 @@ protobuf==3.20.0
 altair==4.1.0
 gnews==0.3.6
 newspaper3k==0.2.8
+scikit-learn
 git+https://github.com/ultrafunkamsterdam/googletranslate

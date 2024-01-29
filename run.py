@@ -5,6 +5,11 @@ from googletranslate import translate
 import requests
 import json
 
+from sklearn.preprocessing import LabelEncoder
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.svm import SVC
+import joblib
+
 
 def translate_text(x):
     try:
@@ -90,6 +95,35 @@ merged_df = (
     .reset_index(drop=True)
 )
 print("---------Merged two dataframe--------")
+
+print("---------Applying Machine Learning--------")
+
+# loading joblib file model
+tfidi_model = joblib.load('model/tfidf_model.joblib')
+label_encoder = joblib.load('model/label_model.joblib')
+svm_model = joblib.load('model/svc_77_classifier_model.joblib')
+print("---------Loaded Machine Learning Model--------")
+
+# droping null values according to translated column
+merged_df = merged_df.dropna(subset=["translated"])
+print("---------Dropped null values--------")
+
+# applying tfidf vectorizer to translated column
+tfidf = tfidi_model.transform(merged_df["translated"])
+print("---------Applied tfidf vectorizer--------")
+
+# predicting the label of translated column
+label = svm_model.predict(tfidf)
+print("---------Predicted the label--------")
+
+# encoding the label
+label = label_encoder.inverse_transform(label)
+print("---------Encoded the label--------")
+
+# adding label column to main dataframe
+merged_df["label"] = label
+print("---------Added label column--------")
+
 
 # saving the main dataframe to csv
 merged_df.to_csv("filename.csv", index=False)

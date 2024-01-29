@@ -55,6 +55,10 @@ def main():
     start_date = datetime.combine(start_date, datetime.min.time())
     end_date = datetime.combine(end_date, datetime.max.time())
 
+    # Display a bar chart of the number of examples per label in the sidebar
+    st.sidebar.header('Number of Examples per Label')
+    st.sidebar.bar_chart(df['label'].value_counts())
+
     # Filter DataFrame based on selected date range
     filtered_df = df[(df['published date'] >= start_date) & (df['published date'] <= end_date)]
 
@@ -65,6 +69,7 @@ def main():
         # Display title, published date, and translated content
         st.header(row['title'])
         st.write('Published on:', row['published date'])
+        st.write('Category:', row['label'])
         st.write('Translated Content:')
         st.markdown(row['translated'])
 
