@@ -67,10 +67,10 @@ def main():
 
     for index, row in filtered_df.iloc[start:end+1].iterrows():
         # Display title, published date, and translated content
-        st.header(row['title'])
+        st.header(row['title'], divider='rainbow')
         st.write('Published on:', row['published date'])
         st.write('Category:', row['label'])
-        st.write('Content In Maithili:')
+        st.write('Content In :blue[Maithili]:')
         st.markdown(row['translated'])
         with st.expander("See In Other Language"):
             st.write('In English:')
