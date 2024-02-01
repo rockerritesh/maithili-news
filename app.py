@@ -31,7 +31,7 @@ from datetime import datetime
 # Set the page title
 st.set_page_config(page_title='Maithili News Portal')
 
-
+@st.cache_data
 def load_data():
     # Load your DataFrame here
     df = pd.read_csv('filename.csv')
@@ -70,8 +70,11 @@ def main():
         st.header(row['title'])
         st.write('Published on:', row['published date'])
         st.write('Category:', row['label'])
-        st.write('Translated Content:')
+        st.write('Content In Maithili:')
         st.markdown(row['translated'])
+        with st.expander("See In Other Language"):
+            st.write('In English:')
+            st.markdown(row['full_article'])
 
         # Display full article link
         #st.write('Read Full Article:', row['url'])
