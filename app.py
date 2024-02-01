@@ -31,7 +31,7 @@ from datetime import datetime
 # Set the page title
 st.set_page_config(page_title='Maithili News Portal')
 
-@st.cache_data
+
 def load_data():
     # Load your DataFrame here
     df = pd.read_csv('filename.csv')
