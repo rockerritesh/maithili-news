@@ -128,3 +128,7 @@ print("---------Added label column--------")
 # saving the main dataframe to csv
 merged_df.to_csv("filename.csv", index=False)
 print("Done")
+
+# save merged_df to json
+merged_df.to_json("filename.json", orient="records")
+print("json file created successfully")
