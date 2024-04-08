@@ -52,7 +52,7 @@ batches = [df[i:i+batch_size] for i in range(0, len(df), batch_size)]
 
 
 # Iterate through batches and perform inference
-for batch_df in batches:
+for batch_df in batches[:1]:
     texts = batch_df['full_article'].tolist()
 
     # Tokenize and preprocess the batch of inputs
