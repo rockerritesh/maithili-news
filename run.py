@@ -9,7 +9,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 import joblib
-
+from classify import predict_using_maibert
 
 def translate_text(x):
     try:
@@ -85,6 +85,39 @@ print("--------Translated to maithili---------")
 df.tail(max_length_of_news).to_csv("today_news.csv", index=False)
 print("--------Saved to csv--------")
 
+# print("---------Applying Machine Learning--------")
+
+# # loading joblib file model
+# tfidi_model = joblib.load("model/tfidf_model.joblib")
+# label_encoder = joblib.load("model/label_model.joblib")
+# svm_model = joblib.load("model/svc_77_classifier_model.joblib")
+# print("---------Loaded Machine Learning Model--------")
+
+# droping null values according to translated column
+df = df.dropna(subset=["translated"])
+print("---------Dropped null values--------")
+
+# # applying tfidf vectorizer to translated column
+# tfidf = tfidi_model.transform(df["translated"])
+# print("---------Applied tfidf vectorizer--------")
+
+# # predicting the label of translated column
+# label = svm_model.predict(tfidf)
+# print("---------Predicted the label--------")
+
+# # encoding the label
+# label = label_encoder.inverse_transform(label)
+# print("---------Encoded the label--------")
+
+# # adding label column to main dataframe
+# df["label"] = label
+# print("---------Added label column--------")
+
+# applying deeplearning model to predict the label
+print("---------Applying deeplearning model--------")
+df = predict_using_maibert(df)  # calling the function from classify.py
+print("---------Predicted the label--------")
+
 # making main datafram for store and retaive data
 main_df = pd.read_csv("filename.csv", on_bad_lines="skip")
 
@@ -95,34 +128,6 @@ merged_df = (
     .reset_index(drop=True)
 )
 print("---------Merged two dataframe--------")
-
-print("---------Applying Machine Learning--------")
-
-# loading joblib file model
-tfidi_model = joblib.load("model/tfidf_model.joblib")
-label_encoder = joblib.load("model/label_model.joblib")
-svm_model = joblib.load("model/svc_77_classifier_model.joblib")
-print("---------Loaded Machine Learning Model--------")
-
-# droping null values according to translated column
-merged_df = merged_df.dropna(subset=["translated"])
-print("---------Dropped null values--------")
-
-# applying tfidf vectorizer to translated column
-tfidf = tfidi_model.transform(merged_df["translated"])
-print("---------Applied tfidf vectorizer--------")
-
-# predicting the label of translated column
-label = svm_model.predict(tfidf)
-print("---------Predicted the label--------")
-
-# encoding the label
-label = label_encoder.inverse_transform(label)
-print("---------Encoded the label--------")
-
-# adding label column to main dataframe
-merged_df["label"] = label
-print("---------Added label column--------")
 
 
 # saving the main dataframe to csv
