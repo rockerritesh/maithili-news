@@ -24,6 +24,14 @@ jobs:
         python -m pip install --upgrade pip
         pip install black
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Install newspaper
+      run: |
+        git clone https://github.com/dailydotdev/newspaper  
+        cd newspaper
+        pip install -r requirements.txt
+        python setup.py install
+        cd ..
  
     - name: Format code
       run: black run.py
