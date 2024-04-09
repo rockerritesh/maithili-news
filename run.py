@@ -11,6 +11,7 @@ from sklearn.svm import SVC
 import joblib
 from classify import predict_using_maibert
 
+
 def translate_text(x):
     try:
         translation_result = translate(x, dest="mai", src="en")
