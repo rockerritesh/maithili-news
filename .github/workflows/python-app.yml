@@ -31,8 +31,8 @@ jobs:
     - name: Fetch data and update the file(s)
       run: python run.py 
 
-    - name: Classify the data
-      run: python classify.py
+    # - name: Classify the data
+    #   run: python classify.py
  
     - name: Commit updated file(s) back to this repository
       run: |
