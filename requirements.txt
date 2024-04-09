@@ -8,3 +8,4 @@ git+https://github.com/ultrafunkamsterdam/googletranslate
 torch
 transformers
 huggingface-hub
+tensorflow
