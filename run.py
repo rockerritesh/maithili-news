@@ -130,6 +130,8 @@ merged_df = (
 )
 print("---------Merged two dataframe--------")
 
+print("----------Removing Nan Column -----------")
+merged_df = merged_df.dropna(subset=["translated"])
 
 # saving the main dataframe to csv
 merged_df.to_csv("filename.csv", index=False)
