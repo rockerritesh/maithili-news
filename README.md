@@ -12,6 +12,19 @@ Maithili-news-gnews is a project aimed at automating the fetching of news from t
 
 ## Usage
 
+### Fetching Latest News
+
+> Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+> Fetching latest news
+
+```bash
+python run.py
+```
+
 1. Clone the repository:
 
    ```bash
