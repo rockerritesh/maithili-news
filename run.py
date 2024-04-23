@@ -142,5 +142,5 @@ merged_df.to_json("docs/filename.json", orient="records")
 print("json file created successfully")
 
 # save last 100 news to json
-merged_df.tail(100).to_json("docs/last_100_news.json", orient="records")
+merged_df.tail(200).to_json("docs/last_100_news.json", orient="records")
 print("json file created successfully")
