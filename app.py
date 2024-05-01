@@ -29,7 +29,7 @@ import pandas as pd
 from datetime import datetime
 
 # Set the page title
-st.set_page_config(page_title='Maithili News Portal')
+st.set_page_config(page_title='Maithili News Portal', page_icon="https://sumityadav.com.np/favicon.ico")
 
 
 def load_data():
@@ -61,6 +61,13 @@ def main():
 
     # Filter DataFrame based on selected date range
     filtered_df = df[(df['published date'] >= start_date) & (df['published date'] <= end_date)]
+
+    # Search by category
+    selected_category = st.sidebar.selectbox('Search by Category', filtered_df['label'].unique())
+
+    # Filter DataFrame based on selected category
+    if selected_category:
+        filtered_df = filtered_df[filtered_df['label'] == selected_category]
 
     # Create a slider for pagination
     start, end = st.slider('Select a range of rows', 0, len(filtered_df)-1, (0, min(20, len(filtered_df)-1)), 1)
