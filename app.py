@@ -34,7 +34,7 @@ st.set_page_config(page_title='Maithili News Portal')
 
 def load_data():
     # Load your DataFrame here
-    df = pd.read_csv('filename.csv')
+    df = pd.read_csv('last_200_news.csv')
     # Convert 'published date' to datetime format
     df['published date'] = pd.to_datetime(df['published date'], format='%Y-%m-%d %H:%M:%S')
     return df
