@@ -46,6 +46,9 @@ def main():
     df = load_data()
     df = df.iloc[::-1]
 
+    # Search by category at the top of the page
+    selected_category = st.selectbox('Search by Category', df['label'].unique())
+
     # Sidebar for filtering by date
     st.sidebar.header('Filter by Date')
     start_date = st.sidebar.date_input('Start Date', min(df['published date']))
@@ -61,9 +64,6 @@ def main():
 
     # Filter DataFrame based on selected date range
     filtered_df = df[(df['published date'] >= start_date) & (df['published date'] <= end_date)]
-
-    # Search by category
-    selected_category = st.sidebar.selectbox('Search by Category', filtered_df['label'].unique())
 
     # Filter DataFrame based on selected category
     if selected_category:
@@ -93,6 +93,7 @@ def main():
 
         # Add a separator between news articles
         st.markdown('---')
+
 
 if __name__ == "__main__":
     main()
