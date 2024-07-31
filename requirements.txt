@@ -1,5 +1,5 @@
 numpy==1.24.3
-protobuf==3.20.0
+protobuf>=3.20.3
 altair==4.1.0
 gnews==0.3.6
 # newspaper3k==0.2.8
