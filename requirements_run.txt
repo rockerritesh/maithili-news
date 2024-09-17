@@ -1,0 +1,13 @@
+numpy==1.24.3
+protobuf>=3.20.3
+altair==4.1.0
+gnews==0.3.6
+# newspaper3k==0.2.8
+scikit-learn==1.5.0
+git+https://github.com/ultrafunkamsterdam/googletranslate
+torch==2.3.1
+transformers==4.41.2
+huggingface-hub==0.23.4
+tensorflow>=2.12.1
+pandas
+tf-keras
