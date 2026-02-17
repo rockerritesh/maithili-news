@@ -1,10 +1,11 @@
 numpy==1.24.3
 protobuf>=3.20.3
 altair==4.1.0
-gnews==0.3.6
+gnews>=0.4.3
+googlenewsdecoder>=0.1.7
 # newspaper3k==0.2.8
 scikit-learn==1.5.0
-git+https://github.com/ultrafunkamsterdam/googletranslate
+deep-translator>=1.11.4
 torch==2.3.1
 transformers==4.41.2
 huggingface-hub==0.23.4

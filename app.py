@@ -35,6 +35,8 @@ st.set_page_config(page_title='Maithili News Portal', page_icon="https://sumitya
 def load_data():
     # Load your DataFrame here
     df = pd.read_csv('last_200_news.csv')
+    # Drop rows with null translations
+    df = df.dropna(subset=['translated'])
     # Convert 'published date' to datetime format
     df['published date'] = pd.to_datetime(df['published date'], format='%Y-%m-%d %H:%M:%S')
     return df
@@ -89,7 +91,7 @@ def main():
         # Display images if available
         if 'images' in row and isinstance(row['images'], set):
             for image in row['images']:
-                st.image(image, caption='Image', use_column_width=True)
+                st.image(image, caption='Image', use_container_width=True)
 
         # Add a separator between news articles
         st.markdown('---')

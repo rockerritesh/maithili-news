@@ -1,4 +1,4 @@
- 
+
 # import transformers for bertclassifier
 import torch
 from transformers import  AutoTokenizer, AutoModel
@@ -44,16 +44,15 @@ target_cols = ['Politics', 'Culture', 'Sports', 'Literature', 'Entertainment',
        'Health', 'EduTech', 'Opinion', 'Interview', 'Economy']
 
 
-#df = pd.read_csv('filename.csv')
-# df.head()
-
 def predict_using_maibert(df):
-    # Split the dataframe into batches (you can adjust the batch size)
+    df = df.copy()
+    all_labels = []
+
+    # Split the dataframe into batches
     batch_size = 32
     batches = [df[i:i+batch_size] for i in range(0, len(df), batch_size)]
 
-
-    # Iterate through batches and perform inference
+    # Iterate through all batches and perform inference
     for batch_df in batches:
         texts = batch_df['translated'].tolist()
 
@@ -65,34 +64,20 @@ def predict_using_maibert(df):
             max_length=256,
             padding='max_length',
             return_token_type_ids=True,
-            return_tensors='pt'  # Return PyTorch tensors
+            return_tensors='pt'
         )
 
-        # Move tensors to the available device (GPU or CPU)
-        #device = "cuda" if torch.cuda.is_available() else "cpu"
         input_ids = tokenized_batch['input_ids'].to(device)
         attention_mask = tokenized_batch['attention_mask'].to(device)
         token_type_ids = tokenized_batch['token_type_ids'].to(device)
 
         model.eval()
-        # Perform inference
         with torch.no_grad():
             outputs = model(input_ids, attention_mask, token_type_ids)
 
-        # Process outputs
         predicted_classes = torch.argmax(outputs, dim=1).tolist()
         predicted_classes = [target_cols[idx] for idx in predicted_classes]
+        all_labels.extend(predicted_classes)
 
-        # Associate predictions with original DataFrame
-        batch_df['label'] = predicted_classes
-
-        # # Print or use the results as needed
-        # print(batch_df[['Text', 'Predicted_Class']])
-        break
-    return batch_df
-
-# Save the results to a CSV file
-# batch_df.to_csv('predictions.csv', index=False)
-
-# category_out = predict_using_maibert(pd.read_csv('filename.csv'))
-# print(category_out.head())
+    df['label'] = all_labels
+    return df
