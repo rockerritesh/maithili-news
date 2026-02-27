@@ -10,6 +10,7 @@ from classify import predict_using_maibert
 translator = GoogleTranslator(source="en", target="mai")
 
 MAX_CHARS = 4900
+MAX_ROWS = 3500  # Keep files under GitHub's 100 MB limit
 
 
 def translate_text(x):
@@ -128,6 +129,9 @@ def main():
 
     print("----------Removing Nan Column -----------")
     merged_df = merged_df.dropna(subset=["translated"])
+
+    # Keep only the most recent rows to stay under GitHub file size limits
+    merged_df = merged_df.tail(MAX_ROWS)
 
     # Save outputs
     merged_df.to_csv("filename.csv", index=False)
