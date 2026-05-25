@@ -1,616 +1,4 @@
 title,description,published date,url,publisher.href,publisher.title,full_article,images,translated,label
-Ateme and Akamai Power Nepal Premier League Live Streaming - Sports Video Group,Ateme and Akamai Power Nepal Premier League Live Streaming  Sports Video Group,2026-05-19 14:32:36,https://news.google.com/rss/articles/CBMinwFBVV95cUxOTWJwVnBnejlfN2IyOFl3c3hXWF8ycy1PYjhTZGtNc2pYNnp5cjhaY2FVeWNTR1cwelRtR1FtQXN1RU1KeWRtejFKSzNFUnk0cDBHU3dGUkY4cGVKM2FUVmJPcFp4WktQWndyd21oU01WWnNxeE5RcWtKdFdjMjlwNmJNaFc4WGJURUJtMEpPU0xaZDFIemV5elRkOEZ0U1k?oc=5&hl=en-US&gl=US&ceid=US:en,https://www.sportsvideo.org,Sports Video Group,"Ateme has announced the migration of Dish Home Nepal’s Nepal Premier League (NPL) streaming infrastructure to Ateme’s TITAN Live solution deployed on Akamai Cloud. Dish Home, operated by Dish Media Network Ltd., is one of Nepal’s leading DTH and internet service providers and the official rights holder for streaming NPL matches through its DishHome GO App.
-
-The new workflow ingests live feeds via SRT and RTMP, operates with a fully redundant primary and backup pipeline, and delivers encoded streams in HLS format via Akamai CDN. The migration replaced a legacy on-premises encoding infrastructure with a cloud-based architecture.
-
-“Delivering live sports at scale requires technology partners with proven experience in managing high-priority, high-concurrency events. Ateme’s track record with tier-one customers, combined with their ability to deploy on Akamai Cloud, made them the right choice for our Nepal Premier League streaming. Since the migration, we have seen a clear improvement in viewer Quality of Experience while optimizing operational and infrastructure costs,” says Amit Shakya, HOD, Broadcast and Communication Technology, Dish Home Nepal.
-
-“Working with Dish Home and Akamai, we helped put in place a resilient, future-ready platform designed to handle peak live events while remaining flexible for long-term growth,” says Vinod Kumar, Regional Sales Manager, Ateme South Asia.","{'https://www.sportsvideo.org/wp-content/uploads/2026/05/unnamed-17-1.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2026/02/Upcoming-Events-Regional-300x180.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-11.55.24-AM.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2026/05/unnamed-2-1-1.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2026/04/Upcoming-Events-Summer-Camp-1-300x179.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2025/11/SVGLogoNO-TAG-1.svg', 'https://www.sportsvideo.org/wp-content/uploads/2026/05/unnamed-2-1-1-960x321.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2026/05/Screenshot-2026-05-19-at-11.54.55-AM.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2023/05/SVG-Newsletter-Button-Sidebar.png', 'https://www.sportsvideo.org/wp-content/uploads/2026/05/Supershooter-11-Audio-1.jpg', 'https://www.sportsvideo.org/wp-content/uploads/2026/01/Upcoming-Events-College-300x180.jpg'}","अतेमे डिश होम नेपाल के नेपाल प्रीमियर लीग (एनपीएल) के स्ट्रीमिंग इंफ्रास्ट्रक्चर के अतेमे के टाइटन लाइव सॉल्यूशन के अकमाई क्लाउड पर तैनात करय के घोषणा केलक अछि. डिश मीडिया नेटवर्क लिमिटेड द्वारा संचालित डिश होम नेपाल केरऽ प्रमुख डीटीएच आरू इंटरनेट सेवा प्रदाता म॑ स॑ एक आरू अपनऽ डिशहोम जीओ ऐप के माध्यम स॑ एनपीएल मैच स्ट्रीम करै के आधिकारिक अधिकार धारक छै ।
-
-नब कार्यप्रवाह एसआरटी आ आरटीएमपी कें माध्यम सं लाइव फीड कें अंतर्ग्रहण करयत छै, एकटा पूर्ण रूप सं फालतू प्राथमिक आ बैकअप पाइपलाइन कें साथ संचालित करयत छै, आ अकामाई सीडीएन कें माध्यम सं एचएलएस प्रारूप मे एन्कोडेड धारा वितरित करयत छै. ई माइग्रेशन न॑ एक विरासत ऑन-प्रिमाइसेस एन्कोडिंग इंफ्रास्ट्रक्चर के जगह क्लाउड आधारित आर्किटेक्चर के साथ बदली देलकै ।
-
-""परिमाण पर लाइव खेल उपलब्ध कराबै लेली उच्च प्राथमिकता वाला, उच्च समवर्ती आयोजन के प्रबंधन के सिद्ध अनुभव वाला तकनीकी भागीदार के जरूरत छै. टीयर-वन ग्राहक के साथ अटेमे के ट्रैक रिकॉर्ड, अकमाई क्लाउड प तैनात करै के क्षमता के साथ मिलाय क, ओकरा हमरौ नेपाल प्रीमियर लीग स्ट्रीमिंग लेली सही विकल्प बनैलकै। माइग्रेशन के बाद स॑ हम्मं॑ परिचालन आरू बुनियादी ढांचा के लागत क॑ अनुकूलित करतें हुअ॑ दर्शक के अनुभव के गुणवत्ता म॑ स्पष्ट सुधार देखल॑ छियै ,” कहैत छथि अमित शाक्य, HOD, Broadcast and Communication Technology, Dish Home Nepal.
-
-अतेमे साउथ एशिया केरऽ क्षेत्रीय बिक्री प्रबंधक विनोद कुमार न॑ कहलकै कि डिश होम आरू अकमाई के साथ काम करी क॑ हम्मं॑ एगो लचीला, भविष्य लेली तैयार प्लेटफॉर्म क॑ जगह प॑ रखै म॑ मदद करल॑ छेलियै जेकरा पीक लाइव इवेंट क॑ संभाल॑ लेली डिजाइन करलऽ गेलऽ छै आरू साथ ही साथ दीर्घकालिक विकास लेली लचीला बनलऽ रहै छै ।",Interview
-JP Nadda holds bilateral meeting with Nepal Health Minister in Geneva #Gallery - Social News XYZ,JP Nadda holds bilateral meeting with Nepal Health Minister in Geneva #Gallery  Social News XYZ,2026-05-19 16:04:32,https://news.google.com/rss/articles/CBMitwFBVV95cUxQMUd5SDY5bm5yYnZSRE1samZoQXVDR2d1YVhfcVV6dThWdHVxY1pnUVNwWmE4eE5EcWQzUVhSYmpkRGVwMHRILWZBYXF4aXMyaHI2MWVobzZPV0lkOXZEY2pvRlV6M3Z2ZGxISE9DLTlidnYzY25uYTd4U292ampiZ1gybmRFQk40TzB0UUVDTl9nNFVVZzE5ZDFDU3MyWEZBeGdDallWUnhCbE1vLVU3WTQzMmNoeWfSAbcBQVVfeXFMUDFHeUg2OW5ucmJ2UkRNbGpmaEF1Q0dndWFYX3FVenU4VnR1cWNaZ1FTcFphOHhORHFkM1FYUmJqZERlcDB0SC1mQWFxeGlzMmhyNjFlaG82T1dJZDl2RGNqb0ZVejN2dmRsSEhPQy05YnZ2M2NubmE3eFNvdmpqYmdYMm5kRUJONE8wdFFFQ05fZzRVVWcxOWQxQ1NzMlhGQXhnQ2pZVlJ4QmxNby1VN1k0MzJjaHln?oc=5&hl=en-US&gl=US&ceid=US:en,https://www.socialnews.xyz,Social News XYZ,"About SocialNewsXYZ
-
-An Indo-American News website. It covers Gossips, Politics, Movies, Technolgy, and Sports News and Photo Galleries and Live Coverage of Events via Youtube. The website is established in 2015 and is owned by AGK FIRE INC.","{'https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2021/03/03/WhatsApp-Image-2021-03-02-at-12.45.01-PM.jpeg?fit=1024%2C575&quality=80&zoom=1&ssl=1', 'https://secure.gravatar.com/avatar/b349f4ec18d6bf75961a97fd9e11645578819d8f9291d23d50fe98cc91f23b7b?s=100&d=mm&r=g', 'https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/05/19/20260519379f_NBDXgyW.jpg?resize=360%2C165&quality=80&zoom=1&ssl=1?v=1779215435', 'https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/05/19/20260519346f.jpg?fit=1899%2C1274&quality=80&zoom=1&ssl=1?v=1779206461', 'https://www.socialnews.xyz/wp-content/uploads/2022/08/02/social-news-xyz-header.png', 'https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/05/19/20260519347f.jpg?fit=1937%2C1309&quality=80&zoom=1&ssl=1?v=1779206456', 'https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/05/19/20260519348f.jpg?fit=1982%2C1255&quality=80&zoom=1&ssl=1?v=1779206466', 'https://www.facebook.com/tr?id=678233006323423&ev=PageView&noscript=1', 'https://i0.wp.com/www.socialnews.xyz/wp-content/uploads/2026/05/19/202605203794557.jpg?resize=360%2C165&quality=80&zoom=1&ssl=1'}","SocialNewsXYZ के बारे में
-
-एकटा इंडो-अमेरिकन न्यूज वेबसाइट। एहि मे गपशप, राजनीति, सिनेमा, टेक्नोलॉजी, आ खेल समाचार आ फोटो गैलरी आ Youtube के माध्यम सं आयोजन के लाइव कवरेज कवर कएल गेल अछि. ई वेबसाइट २०१५ म॑ स्थापित करलऽ गेलऽ छै आरू एकरऽ मालिकाना हक एजीके फायर इंक के छै ।",Interview
-Nepal: Funds for Landless Squatters Displaced in Kathmandu - Rediff MoneyWiz,Nepal: Funds for Landless Squatters Displaced in Kathmandu  Rediff MoneyWiz,2026-05-19 16:50:34,https://news.google.com/rss/articles/CBMirgFBVV95cUxOdm5NU1RDcEowQUNhTVlMalBFN0Fpbm1mRG9DQU5JSjFZeXYycEhPcDdaYzBXMlR0WHUwT3dSbkFQVHQtS3N0V3Vyazdjd3JJZDJSNDlwajVhSkZ5aUVDYzg3MHNheUdvQ2RQVGw5d19qMTh2SmpCZ0w3OXN3d2RpY0pPWmRmaEVIY2w3NzJPWDczdm1kamktVXNPdjU1TWZvSmpJcnJXZDZ2ZndxT2fSAbMBQVVfeXFMT0hJZXZCR1NXclAzVnBOekxJQ3F2b3RLa2JJQThKdm05eDJzZUZHRnpXa1dPSzlJa1RDSnRfUUZScXRaWWIzS1R5eXVDZEhpR2J3ZUk0NWZHSWVEb2ZxUnRjNnBPbXlpSi12aF9xRHNPRGFpSlRTYU5pOXJ2THVhX2ZtVEpTY3prcVhNTmdUUGtFX3gyZ1FxdTdaVUZjblFTSWNneEV6cFprd1JLQmpLbWE4UFE?oc=5&hl=en-US&gl=US&ceid=US:en,https://money.rediff.com,Rediff MoneyWiz,"Kathmandu, May 19 (PTI) The Nepal government led by Prime Minister Balendra Shah on Tuesday decided to provide Rs 15,000 in rehabilitation support to each landless and squatter family displaced from riverbank settlements in Kathmandu.The Council of Ministers on Tuesday decided to provide monthly funds for the next three months as temporary shelter costs for every family removed from the banks of the Bagmati River and other public lands.The Cabinet also decided to provide Rs 25,000 in a lump sum for rehabilitation to each family after verifying the details of squatters living on the banks of rivers and on public land in the Kathmandu Valley.So far, 15,000 people living in more than 2,600 households have been displaced as the government launched an eviction drive in Kathmandu Valley last month.The landless squatters are demanding a piece of land and housing costs from the government as a long-term solution to the problem.""The authorities demolished our three-story house located at Shankhamul area of Kathmandu, where we had lived for half a century without a land ownership certificate, with the hope that the government will come up with a solution,"" said Pavan Gurung, who is residing in a holding centre at Nepal Electricity Authority guest house, Kharipati.""If the government cannot provide land elsewhere, then they should allow us to construct a house in the same area, where the demolition took place,"" said Babita Tamang, a landless squatter from the Balkhu area of Kathmandu, who is currently residing at the Kharipati Holding Centre.Meanwhile, the Landless People and Unmanaged Squatters Struggle Committee has warned to launch intensified protests in Kathmandu and other major parts of the country from next month if their demand for providing alternative shelter and land pieces is not fulfilled.","{'https://im.rediff.com/200-120/money/2022/mar/24oil.jpg', 'https://imworld.rediff.com/moneyrediff/pix/rediff_newlogo.svg', 'https://im.rediff.com/200-120/money/2017/may/15it.jpg', 'https://im.rediff.com/200-120/news/2023/jun/02manipur.jpg', 'https://im.rediff.com/news/2025/sep/09nepal-protests35.jpg?fr=money', 'https://im.rediff.com/170-100/money/2017/mar/10insolvency.jpg', 'https://im.rediff.com/200-120/money/2012/aug/21air9.jpg', 'https://im.rediff.com/170-100/news/2025/sep/09nepal-protests35.jpg', 'https://im.rediff.com/200-120/cricket/2023/sep/03india.jpg'}","काठमांडू, 19 मई (वार्ता) प्रधानमन्त्री बलेन्द्र शाहके नेतृत्वमे नेपाल सरकार काठमाण्डौमे नदीक कात बस्तीसँ विस्थापित प्रत्येक भूमिहीन आ सुकणकारी परिवारके पुनर्वास सहयोगके रुपमे १५ हजार रुपैयाँ देबाक निर्णय लेलक अछि ।बँकसँ हटल प्रत्येक परिवारक लेल अस्थायी आश्रय व्यय हटलासँ मंगलदिन मन्त्री परिषद् अगिला तीन मासक लेल मासिक धनराशि उपलब्ध कराबयके निर्णय केलक अछि के बागमती नदी आ अन्य सार्वजनिक भूमि के।काठमांडू उपत्यका में नदी के कात आ सार्वजनिक भूमि पर रहय वाला सुकून के विवरण के सत्यापन के बाद प्रत्येक परिवार के पुनर्वास के लेल 25 हजार रुपया एकमुश्त राशि उपलब्ध करय के सेहो निर्णय लेलक।अखन तक 2600 स बेसी घर में रहय वाला 15 हजार लोक के विस्थापित भ गेल अछि, कियाक त सरकार 2019 में बेदखली अभियान शुरू केलक काठमांडू उपत्यका पिछला मास।जमीनहीन सुकूनी सब सरकार स एकटा टुकड़ी जमीन आ आवास लागत क मांग क रहल अछि जे समस्या क दीर्घकालीन समाधान क रूप मे अछि।"" अधिकारि सब काठमांडू क शंखमुल इलाका मे स्थित हमर तीन मंजिला मकान कए तोड़ि देलक, जतय हम सब आधा सदी स बिना जमीन क मालिकाना हक प्रमाण पत्र कए रहैत छलहुं, एहि उम्मीद स जे सरकार एकर समाधान निकालत।"" holding center at Nepal Electricity Authority guest house, Kharipati.""जदि सरकार अन्यत्र जमीन नहि दऽ सकैत अछि त' ओही क्षेत्र मे घर बनेबाक अनुमति देबाक चाही, जतय तोड़फोड़ भेल छल।"" वैकल्पिक आश्रय आ जमीनक टुकड़ी उपलब्ध करेबाक हुनकर मांग पूरा नहि भेला पर अगिला मास सँ काठमांडू आ देशक अन्य प्रमुख भाग मे तीव्र विरोध प्रदर्शन करबाक चेतावनी देने अछि ।",Culture
-Nepal plans ‘Romeo-Juliet’ clause in rape law to shield consensual teen couples - The Times of India,Nepal plans ‘Romeo-Juliet’ clause in rape law to shield consensual teen couples  The Times of India,2026-05-19 17:47:00,https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY0F1cFVkQ2NUX09QX0EyX0NnVy1zcVRqQnpPcjVPQUNfeEotanNEOW41cGFrTS1WTVFSR0dhVHRDVE9Rck5NckJFOE02Tl9tTVFSeUtPbjJPazMyU3ZBeWc1TUZZSXZ2RFVPOUxSOENYLWdhMndLaWxLSDIxWnJvZHItSFVaQ3BsakluR29Od29vSTdmbjY2TjZvTTNxRmtjM29SRm0tUzJvN3hucUswV0FyUkNtMGFqWXl0MThoam00SDQ4OVdsWlN0M2hSNWtIU2x3dFVEMmNmbFktZDFKenQ2S3NSVzhBR1hCTdIB8gFBVV95cUxNWHJMQWI0Mkw5OHgtS0xLNTBwUnVUZWw3dHFMS2RiY0lmdlhLaHBHZWZVckUtN1dCOFQwT1VsWkJSQ0l1eFhnWEhxdW5yaEswdnVIaEZLVWNfMHVLRmVlOEdqSUk0aUx6MTJrS1dqbHBXc19RYjNNNXdoTkgzdmxWeExQbE1RV2FRUTFNQS0tZ29yd0pqYllOZC0yZUZ1Nk1xUW9aSTItdVdDQVdCM0Z4dktTdVppaGRUYUgyYnpyOElFRkpLNmtvU0xnaWpPbHR3UUlOdDZXTkRPeWNOS09DYjhjVkMxY3pxU1hRc1YwZTlnZw?oc=5&hl=en-US&gl=US&ceid=US:en,https://timesofindia.indiatimes.com,The Times of India,"Nepal PM Balendra Shah (File image)
-
-TOI
-
-TOI
-
-
-
-
-
-
-
-The Balendra Shah govt in Nepal is planning to change its statutory rape law by introducing a “Romeo-Juliet” clause that would prevent consensual relationships between teenagers close in age from automatically becoming rape cases. The proposed reform, now under review, seeks to create a three-year age-gap exemption for adolescents aged between 16 and 18, while retaining strict punishment for sexual abuse, coercion and exploitation.Nepal’s current law treats any sexual relationship involving a person below 18 as rape, regardless of consent, while the legal marriage age in the country is 20. Critics of the existing law said this had led to cases where teenage boys were jailed after consensual relationships, often following complaints by families opposed to the relationship, including inter-caste relationships or elopements. The debate has also come at a time when Nepal is debating whether to lower the legal marriage age to 18, a proposal that has drawn support in some quarters but concern from child-rights activists.The proposal gained momentum after several controversial cases involving teenage couples reached Nepal’s courts. Law secretary Udaya Raj Dhungana said govt is preparing a “Romeo and Juliet law” after seeing a rise in such cases.“The intention is not to weaken rape laws. The intention is to separate exploitation from natural adolescent relationships,” he said.Dhungana said one suggestion before govt was to apply the exemption where the age difference was up to three years, while cases involving a larger age gap would continue under regular criminal law.Senior advocate Meera Dhungana, who was involved in discussions around the reform, toldthat families often used rape complaints to break relationships they disapproved of. “We found cases where the law was being used to punish young couples rather than protect minors from abuse,” she said.The debate has found support among younger activists and students, who argued that the law does not reflect the realities of adolescent relationships in Nepal. Kathmandu-based youth rights activist and law student Samikshya Karki told, “Two teenagers in a relationship should not automatically become a criminal case. The law must distinguish between abuse and consensual relationships among peers.”The proposal, however, has raised concern among child rights groups and women’s rights activists, who warned that any relaxation of statutory rape provisions could weaken protections for girls in a country still battling child marriage and gender violence. Former National Human Rights Commission member Mohna Ansari urged caution and said, “There must be broad discussion and understanding of social realities before changing the law. Otherwise, there is a risk of misuse.”","{'https://static.toiimg.com/photo/113254487.cms', 'https://static.toiimg.com/photo/122244803.cms', 'https://static.toiimg.com/photo/92222747.cms', 'https://static.toiimg.com/photo/118390705.cms', 'https://static.toiimg.com/photo/83033472.cms', 'https://static.toiimg.com/thumb/msid-131208174,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg', 'https://www.facebook.com/tr?id=593671331875494&ev=PageView&noscript=1', 'https://static.toiimg.com/thumb/msid-131208174,imgsize-89102,width-400,height-225,resizemode-4/balendra.jpg'}","नेपाल के पीएम बलेन्द्र शाह (फाइल इमेज)
-
-टीओआई
-
-टीओआई
-
-
-
-
-
-
-
-नेपाल केरऽ बलेन्द्र शाह सरकार न॑ अपनऽ वैधानिक बलात्कार कानून म॑ बदलाव करै के योजना बना रहलऽ छै आरू “रोमियो-जूलियट” खंड लागू करी क॑ उम्र के करीब किशोरऽ के बीच सहमति स॑ संबंध स्वतः बलात्कार के मामला नै बनी सकै छै । आब समीक्षाधीन प्रस्तावित सुधार मे 16 सं 18 साल के बीच के किशोर के लेल तीन साल के उम्र के अंतर के छूट बनेबाक कोशिश कएल गेल अछि, जखन कि यौन शोषण, जबरदस्ती आ शोषण के लेल सख्त सजा बरकरार राखल गेल अछि.नेपाल के वर्तमान कानून मे 18 साल सं कम उम्र के कोनो यौन संबंध के बलात्कार मानल गेल अछि, चाहे ओ सहमति के कोनो बात नहिं, जखन कि देश मे कानूनी विवाह के उम्र अछि . ई बहस ऐन्हऽ समय म॑ भी आबी गेलऽ छै जब॑ नेपाल म॑ कानूनी शादी केरऽ उम्र घटा क॑ १८ साल करलऽ जाय कि नै, ई प्रस्ताव क॑ कुछ हिस्सा म॑ समर्थन मिललऽ छै लेकिन बाल अधिकार कार्यकर्ता सिनी के चिंता मिललऽ छै ।किशोर दंपति स॑ जुड़लऽ कईएक विवादित मामला नेपाल केरऽ कोर्ट म॑ पहुँचला के बाद ई प्रस्ताव तेज होय गेलै । कानून सचिव उदय राज ढुंगाना कहलनि जे, सरकार एहन मामला मे बढ़ोतरी देखला के बाद “रोमियो आ जूलियट कानून” तैयार क रहल अछि।“मंशा बलात्कार कानून के कमजोर करय के नहि अछि।मंशा अछि जे शोषण के प्राकृतिक किशोर संबंध स अलग करब अछि।’ नियमित आपराधिक कानून के तहत उम्र के अंतर जारी रहत।सुधार के आसपास चर्चा में शामिल वरिष्ठ अधिवक्ता मीरा ढुंगाना कहलनि जे परिवार अक्सर बलात्कार के शिकायत के उपयोग ओहि संबंध के तोड़य लेल करैत छल जेकरा ओ अस्वीकार करैत छल। ओ कहलीह जे हमरा सब कए एहन मामला भेटल जतय एहि कानून क उपयोग नाबालिग कए दुर्व्यवहार स बचाबय क बजाय युवा दंपति कए सजा देबा लेल भ रहल छल।एहि बहस कए युवा कार्यकर्ता आ छात्र क बीच समर्थन भेटल अछि, जेकर तर्क छल जे एहि कानून मे नेपाल मे किशोर संबंध क वास्तविकता नहि देखा रहल अछि। काठमांडू स्थित युवा अधिकार कार्यकर्ता आ कानून के छात्रा समीक्षा कार्की कहलनि जे, रिश्ता मे दू टा किशोर के स्वतः आपराधिक मामला नहि बनबाक चाही।कानून मे साथी के बीच दुर्व्यवहार आ सहमति सं संबंध मे भेद करय पड़त।’ हालांकि एहि प्रस्ताव स बाल अधिकार समूह आ महिला अधिकार कार्यकर्ता मे चिंता पैदा भ गेल अछि, जे वैधानिक बलात्कार के प्रावधान मे कोनो तरहक ढील देब कमजोर भ सकैत अछि जे देश मे एखनहु बाल विवाह आ लैंगिक हिंसा सं लड़ रहल छै ओकर लड़किक कें सुरक्षा. राष्ट्रीय मानवाधिकार आयोग केरऽ पूर्व सदस्य मोहना अंसारी न॑ सावधानी बरतै के आग्रह करतें हुअ॑ कहलकै कि कानून म॑ बदलाव करै स॑ पहल॑ सामाजिक यथार्थ के व्यापक चर्चा आरू समझ होना जरूरी छै, नै त॑ दुरुपयोग के खतरा छै ।",Interview
-EU presses Nepal to address the rights of undocumented Tibetan refugees - Phayul,EU presses Nepal to address the rights of undocumented Tibetan refugees  Phayul,2026-05-19 17:56:27,https://news.google.com/rss/articles/CBMilgFBVV95cUxNTUJRMy0xdDFCd2xENWlqenpaak83S1liRlY2QkU1LWhJMUdQeEZGZFRZZXN0RXBfQ0duNXVwWjdackliQmdScGRIazFFNjZMLWd3S1lOZVA4ejEtQkJJX0NaUlFScGhUOVJpalUwbjZBT1ZPRmVVLWt5REFNNEFISnZMa3BTM182NFRqVnRPTVZtTWJRd3c?oc=5&hl=en-US&gl=US&ceid=US:en,https://phayul.com,Phayul,"Tenzin Nyidon
-
-DHARAMSHALA, May 19: The European Union has formally urged the Government of Nepal to address the longstanding humanitarian and administrative challenges faced by undocumented Tibetan refugees in the country, according to an official communication from the European External Action Service (EEAS).
-
-The letter, dated April 29, 2026, was sent by Charles Whiteley, Head of Division for Asia and the Pacific at the EEAS, in response to concerns raised by Members of the European Parliament Hannes Heide and Dainius Zalimas regarding the precarious legal and humanitarian status of Tibetan refugees in Nepal.
-
-In the correspondence, the EEAS acknowledged Nepal’s decades-long role in hosting Tibetan refugees while stressing the urgent need to improve access to basic identity documentation. The EU Delegation in Nepal, as part of the Refugee Core Group (RCG) comprising the EU, the United States, the United Nations, the United Kingdom, Australia, Switzerland, and Norway, has urged Nepalese authorities to consider issuing Personal Account Number (PAN) cards to Tibetan refugees.
-
-The letter noted that “most of the refugees do not have any form of identity documentation,” adding that PAN cards would serve as a minimum form of identification and enable access to bank accounts, employment opportunities, and other essential administrative services. The measure is seen as particularly critical for Tibetan youth and those with limited economic opportunities.
-
-The EU also called on Nepal to uphold the cultural and religious rights of Tibetans by allowing them to “peacefully observe and celebrate important cultural and religious events within the country,” an issue that has remained sensitive amid periodic restrictions on Tibetan public gatherings and commemorations.
-
-Additionally, the EU has requested that Nepal facilitate visa waivers and exit permits for Tibetan refugees accepted for resettlement in third countries or for those wishing to return to their home countries.
-
-The EEAS further confirmed that the EU Ambassador in Nepal had previously written to Nepal’s Home Minister on October 17, 2025, formally raising these concerns with the government. According to the letter, the matter will continue to remain a diplomatic priority and is expected to feature prominently during the upcoming annual EU–Nepal Joint Commission scheduled for the second half of 2026.","{'https://phayul.com/wp-content/uploads/wide-ads-1.gif', 'https://phayul.com/wp-content/uploads/Advertise-Your-Brand-Here.gif', 'https://phayul.com/wp-content/uploads/Screen-Shot-2026-05-19-at-11.24.08-PM.png', 'https://phayul.com/wp-content/uploads/phayul-logo-1.png'}","तेन्जिन न्यिडोन
-
-धर्मशाला, १९ मई : यूरोपीय विदेश कार्य सेवा (ईईएएस) केरऽ आधिकारिक संचार के अनुसार यूरोपीय संघ न॑ नेपाल सरकार स॑ औपचारिक रूप स॑ आग्रह करलकै कि देश म॑ अदस्तावेज रहित तिब्बती शरणार्थी सिनी के सामने आबी रहलऽ मानवीय आरू प्रशासनिक चुनौती के समाधान करलऽ जाय ।
-
-ई पत्र, 29 अप्रैल, 2026 क॑ ईईएएस केरऽ एशिया आरू प्रशांत केरऽ प्रभाग प्रमुख चार्ल्स व्हाइटली न॑ यूरोपीय संसद केरऽ सदस्य हनेस हाइडे आरू डायनियस ज़ालिमास द्वारा नेपाल म॑ तिब्बती शरणार्थी केरऽ अनिश्चित कानूनी आरू मानवीय स्थिति के संबंध म॑ उठैलऽ गेलऽ चिंता के जवाब म॑ भेजलकै ।
-
-पत्राचार मँ ईईएएस नँ तिब्बती शरणार्थी सिनी के मेजबानी मँ नेपाल केरौ दशकौ स॑ चलै वाला भूमिका क॑ स्वीकार करी क॑ बुनियादी पहचान के दस्तावेजीकरण तलक पहुँच मँ सुधार के तत्काल जरूरत प॑ जोर देलकै । ईयू, अमेरिका, संयुक्त राष्ट्र, यूनाइटेड किंगडम, ऑस्ट्रेलिया, स्विट्जरलैंड, आरू नॉर्वे स॑ जुड़लऽ शरणार्थी कोर ग्रुप (आरसीजी) के हिस्सा के रूप म॑ नेपाल म॑ यूरोपीय संघ केरऽ प्रतिनिधिमंडल न॑ नेपाली अधिकारियऽ स॑ आग्रह करल॑ छै कि तिब्बती शरणार्थी सिनी क॑ पर्सनल अकाउंट नंबर (पैन) कार्ड जारी करै प॑ विचार करलऽ जाय ।
-
-पत्र म॑ नोट करलऽ गेलऽ छै कि “अधिकांश शरणार्थी के पास कोनो भी तरह के पहचान के दस्तावेज नै छै,” आरू कहलकै कि पैन कार्ड पहचान के न्यूनतम रूप के रूप म॑ काम करतै आरू बैंक खाता, रोजगार के अवसर, आरू अन्य आवश्यक प्रशासनिक सेवा तलक पहुँच सक्षम करतै । ई उपाय क॑ तिब्बती युवा आरू सीमित आर्थिक अवसर वाला लोगऽ लेली विशेष रूप स॑ महत्वपूर्ण मानलऽ जाय रहलऽ छै ।
-
-ईयू न॑ नेपाल स॑ भी आह्वान करलकै कि तिब्बती लोगऽ क॑ “देश के भीतर महत्वपूर्ण सांस्कृतिक आरू धार्मिक आयोजनऽ के शांतिपूर्वक पालन आरू मनाबै के अनुमति द॑ क॑ ओकरा सांस्कृतिक आरू धार्मिक अधिकारऽ के कायम रखना” जे मुद्दा तिब्बती जनसभा आरू स्मरण समारोह प॑ समय-समय प॑ प्रतिबंध के बीच संवेदनशील बनलऽ छै ।
-
-एकरऽ अलावा ईयू न॑ आग्रह करल॑ छै कि नेपाल न॑ तेसरऽ देश म॑ पुनर्वास लेली स्वीकार करलऽ गेलऽ तिब्बती शरणार्थी या अपनऽ देश वापस आबै के इच्छुकऽ लेली वीजा माफी आरू निकास परमिट के सुविधा देलऽ जाय ।
-
-ईईएएस न॑ आगू ई बात के पुष्टि करलकै कि नेपाल म॑ ईयू केरऽ राजदूत न॑ एकरा स॑ पहल॑ १७ अक्टूबर २०२५ क॑ नेपाल केरऽ गृहमंत्री क॑ लिखी क॑ औपचारिक रूप स॑ ई चिंता सरकार के सामने रखन॑ छेलै । पत्र के अनुसार ई मामला कूटनीतिक प्राथमिकता बनल रहत आरू २०२६ के उत्तरार्ध म॑ आयोजित आगामी वार्षिक यूरोपीय संघ-नेपाल संयुक्त आयोग के दौरान एकरा प्रमुखता स॑ पेश करलऽ जाय के उम्मीद छै ।",Interview
-Int’l medevac: Critical patient airlifted from Nepal lands at Bhopal airport - The Times of India,Int’l medevac: Critical patient airlifted from Nepal lands at Bhopal airport  The Times of India,2026-05-19 18:49:00,https://news.google.com/rss/articles/CBMi4gFBVV95cUxONW9VS3JUOUJGTlBGRk80RUVJaHd0elRObDd5RkRFRkhTaUowNTkzeHBaMXBGU2hfTXl6SklVUUFtYUdKZmdRZ1ozVkljbk94dTdNVmdoOHFmVWM4eUJhNTYtSExzXzF4c18wb0VVMklsVkFoUU5UZ3NJZ1JHZnZpbXFrcDhIY0QxVG9VUEN3RnpRbHNKeWpmSmw3QVU3cEp2ZXI0UXFzSXNfOXMtamdOTWJfOXQwbTA5YzJ4cy1rZnh2am1wbFI2OTJ0OEhvNGtSYzk0dFRSckF0c3E4X29aRGN30gHnAUFVX3lxTFBFRkZiU0l3YzlldnVnWVdJV1RsNE44dTVQSnZhRi1zUS1BcktDQkdBYjIxbnVKTXljakw1UVIxenFuZHhWQUc2ajZLa2FpWkR3REtjX3ZmSEtyaHZjclJyQ1VENkNGV0k4N1NrMjdkRENTdy1Pa2tLOFlWbnFSYnpjTFVSdDZVOUtjVWNLOXpHOXgwLW9naElVc0xrNlNBWEhVZWpfZFZSU3lVRWl4RjRFMXkyRzJxdEdtQXFrSllMaU0xeDVJTXpRZG5kNnFJQlZMZ3pQSDc1b2lJOHlhcE5HWXlVTGNVVQ?oc=5&hl=en-US&gl=US&ceid=US:en,https://timesofindia.indiatimes.com,The Times of India,"
-
-
-
-You Can Also Check: Gold Rate in Bhopal | Silver Rate in Bhopal | Bank Holidays in Bhopal | Public Holidays in Bhopal | Petrol Price in Bhopal | Diesel Price in Bhopal | CNG Price in Bhopal | LPG Price in Bhopal
-
-Bhopal: An international medical‑evacuation flight from Pokhara, Nepal, landed at Raja Bhoj Airport, Bhopal, on Tuesday evening, carrying a critically ill resident who required urgent treatment, airport officials said. The patient, who was travelling with family, was brought into India on a special flight operated by Nepal’s Shree Airlines.Director of the airport Ramjee Awasthi said the aircraft was given priority handling to ensure the patient received immediate medical attention. “Immigration and customs officers, along with airline and ground‑handling teams, were mobilised immediately and provided expedited clearance for the patient and the accompanying medical team,” he said.Raja Bhoj Airport, which functions 24x7 and is designated as an integrated check post and customs airport, activated its international handling facilities to facilitate the emergency operation.Streamlined procedures enabled all required formalities to be completed without delay, allowing the patient to be handed over to a waiting medical team for onward evacuation and treatment. “All relevant agencies worked in close coordination to expedite the process and prioritise the patient’s welfare,” Awasthi added.Following completion of formalities, the Shree Airlines aircraft departed Raja Bhoj Airport for Nepal at around 6 pm, officials said.","{'https://static.toiimg.com/photo/113254487.cms', 'https://static.toiimg.com/photo/122244803.cms', 'https://static.toiimg.com/photo/92222747.cms', 'https://static.toiimg.com/photo/118390705.cms', 'https://static.toiimg.com/thumb/msid-47529300,imgsize-110164,width-400,height-225,resizemode-72/47529300.jpg', 'https://static.toiimg.com/photo/83033472.cms', 'https://www.facebook.com/tr?id=593671331875494&ev=PageView&noscript=1', 'https://static.toiimg.com/photo/msid-47529300/47529300.jpg'}","आप भी जाँच कर सकते हैं: भोपाल में गोल्ड रेट | भोपाल में चांदी के दर | भोपाल में बैंक छुट्टी | भोपाल में सार्वजनिक अवकाश | भोपाल में पेट्रोल मूल्य | भोपाल में डीजल मूल्य | भोपाल में सीएनजी मूल्य | भोपाल में एलपीजी मूल्य
-
-भोपाल, मिथिला मिरर: नेपालक पोखरा सँ आयल अन्तर्राष्ट्रिय मेडिकल-इवेक्यूएशन फ्लाइट मंगलदिन साँझ भोपालक राजा भोज विमानस्थल पर उतरल, जाहि मे एकटा गंभीर रूप सँ बीमार निवासी छल, जकर तत्काल इलाज के आवश्यकता छल, एयरपोर्ट अधिकारी कहलनि। परिवार के साथ यात्रा करै वाला मरीज क॑ नेपाल के श्री एयरलाइंस द्वारा संचालित विशेष उड़ान स॑ भारत लानलऽ गेलऽ छेलै ।विमान अड्डा के निदेशक रामजी अवस्थी न॑ कहलकै कि मरीज क॑ तत्काल चिकित्सा के सुविधा मिलै लेली विमान क॑ प्राथमिकता संभालना देलऽ गेलै । हुनी कहलकै, “एयरलाइन आरू ग्राउंड-हैंडलिंग टीम के साथ-साथ आप्रवासन आरू सीमा शुल्क अधिकारी सिनी क तुरंत जुटान करी क मरीज आरू ओकरा साथ आबै वाला मेडिकल टीम लेली तेजी स॑ मंजूरी उपलब्ध कराय देलऽ गेलै ।राजा भोज हवाई अड्डा, जे 24x7 काम करै छै आरू एक एकीकृत चेक पोस्ट आरू सीमा शुल्क हवाई अड्डा के रूप म॑ नामित छै, आपातकालीन संचालन के सुविधा लेली अपनऽ अंतर्राष्ट्रीय हैंडलिंग सुविधा क॑ सक्रिय करी देलकै बिना देरी कें सबटा आवश्यक औपचारिकताक कें पूरा करय मे सक्षम बना देल गेलय, जेकरा सं रोगी कें आगू निकालय आ इलाज कें लेल प्रतीक्षारत मेडिकल टीम कें सौंपल जा सकय छै. अवस्थी आगू कहलनि जे, ‘सब संबंधित एजेंसी घनिष्ठ समन्वय मे काज केलक जे प्रक्रिया मे तेजी आबय आ मरीज के कल्याण के प्राथमिकता देल गेल।औपचारिकता पूरा भेला के बाद श्री एयरलाइंस के विमान राजा भोज हवाई अड्डा स करीब 6 बजे राजा भोज हवाई अड्डा स नेपाल लेल रवाना भेल अधिकारी सब कहलनि।",Interview
-Nepal Tech Roadshow USA 2026 concludes - Technology Khabar,Nepal Tech Roadshow USA 2026 concludes  Technology Khabar,2026-05-19 18:49:02,https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yZElJWDhYOGsxVFg4Q253Sm5xWkIySVNLdldad1JaNWduWHU0VGp6QXJPNTdPRXU3dExDcHRPZVFUNVdPYVlRYmVPeW9sa1RaTEJWdkNVdnQyMFN6MFU2Xw?oc=5&hl=en-US&gl=US&ceid=US:en,https://www.technologykhabar.com,Technology Khabar,"काठमाडौं ।
-
-Nepal Tech Roadshow USA 2026, organized by the Nepal Association for Software and IT Services Companies (NAS-IT) in collaboration with the Nepalese American Chamber of Commerce (NACOC), concluded successfully in Dallas, Texas, with the objective of creating global awareness around Nepal’s growing technology ecosystem and strengthening confidence in Nepal as an emerging technology destination.
-
-The event aimed to send a strong message to the international community that Nepali tech companies and professionals are equally capable, competitive, and ready to contribute at a global level, positioning Nepal as a potential future tech hub in South Asia.
-
-Held at Embassy Suites by Hilton Grapevine, the event brought together technology leaders, entrepreneurs, diaspora professionals, investors, and businesses from both Nepal and the United States. The venue witnessed overwhelming participation, reflecting growing curiosity and interest in Nepal’s rapidly evolving IT industry and outsourcing capabilities.
-
-Throughout the program, speakers highlighted Nepal’s expanding software and IT services sector, growing engineering talent, startup ecosystem, export potential, and increasing global competitiveness.
-
-Industry leaders including Richan Shrestha, Himal Karmacharya, and Shankar Uprety shared insights into Nepal’s digital transformation journey and the opportunities emerging within the country’s tech ecosystem.
-
-Presentations highlighted that Nepal’s IT sector now includes more than 2,000 technology companies, over 100,000 tech professionals, and nearly $1 billion in annual IT exports, demonstrating the scale and momentum of the industry.
-
-Many attendees from the diaspora community expressed surprise at the progress Nepal’s technology sector has achieved in recent years.
-
-Building on the momentum of Nepal Tech Roadshow Sydney 2025 and the recently held Nepal Tech Connect San Francisco session, the USA Roadshow further strengthened Nepal’s international technology presence and opened new opportunities for collaboration, investment, outsourcing partnerships, and diaspora engagement.
-
-Organizers emphasized that initiatives like these are important in reshaping global perceptions of Nepal and showcasing the country not only as a tourism destination, but also as a rising force in technology and innovation.
-
-The event organizers extended sincere appreciation to all valued partners, sponsors, and supporting organizations whose collaboration played a crucial role in the successful execution of Nepal Tech Roadshow USA 2026.
-
-Special gratitude was extended to the Nepalese American Chamber of Commerce (NACOC) for serving as the Official Local Partner and ensuring the smooth coordination of the Dallas program.
-
-Appreciation was also expressed to Dexperts Inc. as Title Sponsor, American Chamber of Commerce in Nepal as Associate Partner, Focus Health as Sponsor, Fusemachines as Supporting Sponsor, and Global IME Bank as Sustainability Partner for their valuable support in advancing the initiative and helping elevate Nepal’s presence on the global technology stage.","{'https://www.technologykhabar.com/wp-content/uploads/2020/07/ezgif.com-gif-maker.gif', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Vape-500x350.jpg', 'https://www.technologykhabar.com/wp-content/uploads/2025/06/SpaceX_Dragon_capsul-500x350.jpg', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Nepal-Tech-Roadshow.jpg', 'https://www.technologykhabar.com/wp-content/uploads/2024/07/sajilo-visa_3.gif', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Nepal-Tech-Roadshow-500x350.jpg', 'https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/twitter.svg', 'https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/settings.svg', 'https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/youtube.svg', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Ampeare-150x150.jpg', 'https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/search.svg', 'https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/searcharrow.png', 'https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/facebook.svg', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-18-at-19.40.25-150x150.jpeg', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Police_Nepal_-500x350.jpg', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Oppo-150x150.jpg', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Back-To-School-150x150.jpg', 'https://www.technologykhabar.com/wp-content/themes/techokhabar/html/assets/img/todaytechstories.png', 'https://technologykhabar.com/wp-content/uploads/2020/03/Technology-Khabar-Logo-small-WHITE-1.png', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Vega-C_rocket_SMILE_French-Guiana_-500x350.jpg', 'https://www.technologykhabar.com/wp-content/uploads/2026/01/Mocit_Sanchar_Mantralaya-500x350.jpg', 'https://www.technologykhabar.com/wp-content/uploads/2026/05/Nepal-Tech-Roadshow-900x518.jpg'}","काठमाडौं।
-
-नेपाल टेक रोडशो यूएसए २०२६, नेपाली अमेरिकन चैम्बर ऑफ कॉमर्स (एनएसीओसी) के सहयोग से नेपाल एसोसिएशन फॉर सॉफ्टवेयर एंड आईटी सर्विसेज कम्पनी (एनएएस-आईटी) द्वारा नेपाल के बढ़ते प्रौद्योगिकी पारिस्थितिकी तंत्र के आसपास वैश्विक जागरूकता पैदा करना आरू उभरतऽ प्रौद्योगिकी गंतव्य के रूप म॑ नेपाल के प्रति विश्वास मजबूत करै के उद्देश्य स॑ टेक्सास के डलास म॑ सफलतापूर्वक समापन करलऽ गेलै ।
-
-ई आयोजन के उद्देश्य अंतरराष्ट्रीय समुदाय क॑ ई बात के मजबूत संदेश देना छेलै कि नेपाली टेक कंपनी आरू प्रोफेशनल भी वैश्विक स्तर प॑ भी समान रूप स॑ सक्षम, प्रतिस्पर्धी, आरू योगदान दै लेली तैयार छै, जेकरा स॑ नेपाल क॑ दक्षिण एशिया म॑ संभावित भविष्य केरऽ टेक हब के रूप म॑ स्थापित करलऽ जाय ।
-
-हिल्टन ग्रेपवाइन केरऽ एम्बेसी सुइट्स म॑ आयोजित ई आयोजन म॑ नेपाल आरू अमेरिका दोनों देशऽ के तकनीक के नेता, उद्यमी, प्रवासी पेशेवर, निवेशक, आरू व्यवसायी सब क॑ एक साथ लानलऽ गेलै । आयोजन स्थल पर भारी भागीदारी देखल गेल, जे नेपाल के तेजी सं विकसित भ रहल आईटी उद्योग आ आउटसोर्सिंग क्षमता के प्रति बढ़ैत जिज्ञासा आ रुचि के दर्शाबैत छल.
-
-पूरा कार्यक्रम में वक्ता सब नेपाल के विस्तारित सॉफ्टवेयर आ आईटी सेवा क्षेत्र, बढ़ैत इंजीनियरिंग प्रतिभा, स्टार्टअप इकोसिस्टम, निर्यात संभावना, आ बढ़ैत वैश्विक प्रतिस्पर्धा पर प्रकाश देलनि।
-
-रिचन श्रेष्ठ, हिमल कर्मचार्य, आरू शंकर उप्रेटी सहित उद्योग जगत के नेता न॑ नेपाल केरऽ डिजिटल रूपांतरण यात्रा आरू देश केरऽ टेक इकोसिस्टम के भीतर उभरतऽ अवसरऽ के बारे म॑ जानकारी साझा करलकै ।
-
-प्रस्तुति म॑ ई बात प॑ प्रकाश डाललऽ गेलै कि नेपाल केरऽ आईटी क्षेत्र म॑ अब॑ २,००० स॑ भी अधिक टेक्नोलॉजी कंपनी, १,००,००० स॑ भी अधिक टेक प्रोफेशनल, आरू लगभग १ अरब डॉलर के वार्षिक आईटी निर्यात शामिल छै, जे उद्योग केरऽ पैमाना आरू गति क॑ दर्शाबै छै ।
-
-प्रवासी समुदायक बहुतो उपस्थित लोकनि नेपालक प्रौद्योगिकी क्षेत्र मे हालक वर्ष मे भेल प्रगति पर आश्चर्य व्यक्त कयलनि ।
-
-नेपाल टेक रोडशो सिडनी २०२५ आरू हाल ही म॑ आयोजित नेपाल टेक कनेक्ट सैन फ्रांसिस्को सत्र केरऽ गति के आधार प॑ यूएसए रोडशो न॑ नेपाल केरऽ अंतर्राष्ट्रीय प्रौद्योगिकी उपस्थिति क॑ आरू मजबूत करलकै आरू सहयोग, निवेश, आउटसोर्सिंग साझेदारी, आरू प्रवासी संलग्नता लेली नया अवसर खोललकै ।
-
-आयोजक सब नेपाल के वैश्विक धारणा के नव रूप देबय में आ देश के पर्यटन स्थल के रूप में नै, बल्कि तकनीक आ नवीनता के बढ़ैत शक्ति के रूप में सेहो प्रदर्शित करय में एहि तरहक पहल महत्वपूर्ण अछि।
-
-आयोजन के आयोजक सब मूल्यवान भागीदार, प्रायोजक, आ सहयोगी संस्था के हार्दिक सराहना केलनि जिनकर सहयोग स नेपाल टेक रोडशो यूएसए २०२६ के सफल निष्पादन में अहम भूमिका छल ।
-
-आधिकारिक स्थानीय भागीदार के रूप में सेवा देबय आ डलास कार्यक्रम के सुचारू समन्वय सुनिश्चित करय लेल नेपाली अमेरिकन वाणिज्य संघ (एनएसीओसी) के विशेष आभार व्यक्त कायल गेल।
-
-एहि पहल कए आगू बढ़ेबा मे आ ग्लोबल टेक्नोलॉजी क मंच पर नेपाल क उपस्थिति कए ऊंचाई पर पहुंचेबा मे मदद करबाक लेल टिटल स्पॉन्सर क रूप मे डेक्सपर्ट्स इंक, एसोसिएट पार्टनर क रूप मे नेपाल मे अमेरिकन चैंबर ऑफ कॉमर्स, प्रायोजक क रूप मे फोकस हेल्थ, सपोर्टिंग स्पॉन्सर क रूप मे फ्यूजमशीन्स, आ सस्टेनेबिलिटी पार्टनर क रूप मे ग्लोबल आईएमई बैंक क सेहो सराहना कैल गेल।",Economy
-Underground water found in Korala at altitude of 4650 metres - The Rising Nepal,Underground water found in Korala at altitude of 4650 metres  The Rising Nepal,2026-05-20 01:01:08,https://news.google.com/rss/articles/CBMiUEFVX3lxTE5UaFJMemZuU2FidXUzMzltcGdObFV3bXZmTVZqeGVNVDNQbEJfdDEweDA1OUJqb2U4Q2xKRWZHUnNmY25GeTFjaDlqenpud0w5?oc=5&hl=en-US&gl=US&ceid=US:en,https://risingnepaldaily.com,The Rising Nepal,"By Hari Krishna Sharma,Mustang, May 20: A successful underground water test has been carried out in the no-man’s land area of the Korala Border Point, which connects Nepal and China in Upper Mustang.
-
-Water was discovered on Sunday during drilling by a technical team after natural water sources were found to be unavailable in the area, which is located at an altitude of 4,650 metres above sea level. Drilling had begun on April 9 using specialised machinery.
-
-Tashi Nharbu Gurung, Chairperson of Lo Manthang Rural Municipality, said water was found at a depth of 120 metres. “Now there will no longer be a drinking water shortage at the border point. We will develop additional infrastructure to use the water properly,” he said.
-
-According to Gurung, efforts are underway to install an electricity meter and build storage tanks and other infrastructure to ensure a regular drinking water supply. He said it would still take some time before potable water facilities become fully operational in the border area.
-
-The underground drinking water project was carried out by Asian Drilling Company for Rs. 3 million, funded by the rural municipality.
-
-Due to a severe shortage of drinking water at the border point, local traders and tourists had previously depended on water supplied by Chinese authorities through tankers or transported by vehicle from the Mustang Customs Office located 14 kilometres away. They had to pay between Rs. 200 and Rs. 300 for 20 to 40 litres of water.
-
-Karma Namgyal, Ward chairperson of Chhoser and coordinator of the municipality’s economic committee, said traders were encouraged by the successful water test. “The biggest problem here was drinking water. Now things will become much easier,” he said.
-
-Around 152 people operating nearly 70 tents for business purposes at Korala have welcomed the development. Local traders also thanked local representatives, including Vice-chairperson Chhumi Bista Gurung.
-
-Previously, the rural municipality had built six temporary toilets at the border point, while the Chinese government had provided materials for four permanent toilets. Drinking water and sanitation had remained the area’s main challenges.
-
-Development work at Korala has also faced difficulties because 600 ropanis of land at the border point fall under the ownership of the Mustang Customs Office.
-
-The border point, which was closed after Tibetan Khampa rebels used Nepali territory during the 1960s following Tibet’s integration into China, was formally reopened on November 13, 2023. It came into commercial operation from September 15 of the current fiscal year.
-
-Photo caption: Underground water testing carried out successfully at the Korala border point connecting Nepal and China on Sunday.
-
-
-
-","{'https://risingnepaldaily.com/commons/rising-logo.png', 'https://risingnepaldaily.com/storage/media/102529/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102533/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102528/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102530/conversions/water-1-(1)-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102522/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102519/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/885/conversions/square-thumb-thumb-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102524/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102531/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102514/Untitled-1.jpg', 'https://risingnepaldaily.com/storage/media/102531/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102527/conversions/Untitled-7-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102530/conversions/water-1-(1)-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102525/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102528/conversions/Untitled-1-square-thumb.jpg'}","हरि कृष्ण शर्मा,मुस्तांग, 20 मई : अपर मस्टैंग में नेपाल आ चीन के जोड़य वाला कोराला बॉर्डर प्वाइंट के नो-मैन’स लैंड एरिया में सफल भूमिगत जल परीक्षण कायल गेल अछि।
-
-समुद्र तल स॑ ४६५० मीटर के ऊंचाई प॑ स्थित ई क्षेत्र म॑ प्राकृतिक पानी के स्रोत अनुपलब्ध पाबै के बाद रविवार क॑ तकनीकी टीम द्वारा ड्रिलिंग के दौरान पानी के खोज करलऽ गेलै । विशेष मशीनरी क उपयोग कए 9 अप्रैल स ड्रिलिंग शुरू भ गेल छल।
-
-लो मन्थाङ गाउँपालिकाके अध्यक्ष ताशी न्हारबु गुरुङ १२० मिटर गहिरमे पानि भेटल बतौलनि । ओ कहला जे आब सीमा बिन्दु पर पेयजल क कमी नहि होएत, हम सब अतिरिक्त बुनियादी ढांचा विकसित करब जाहि स पानि क सही उपयोग कैल जा सकए।
-
-गुरुंग के अनुसार नियमित रूप स पेयजल के आपूर्ति सुनिश्चित करय लेल बिजली मीटर लगाबय आ भंडारण टंकी आ अन्य बुनियादी ढांचा के निर्माण के प्रयास चलि रहल अछि। ओ कहला जे सीमावर्ती इलाका मे पेयजल क सुविधा पूर्ण रूप स चालू हेबा मे एखनो किछु समय लागत।
-
-भूमिगत पेयजल परियोजना एशियन ड्रिलिंग कंपनी द्वारा 100 रुपया मे कैल गेल छल। ३० लाख, ग्रामीण नगरपालिका द्वारा वित्त पोषित।
-
-सीमा बिंदु पर पेयजल के भारी कमी के कारण स्थानीय व्यापारी आ पर्यटक पहिने चीनी अधिकारी द्वारा टैंकर के माध्यम सं या 14 किलोमीटर दूर स्थित मस्टैंग सीमा शुल्क कार्यालय सं गाड़ी सं पहुंचाओल गेल पानि पर निर्भर छल. 100 रुपैया के बीच देबय पड़ैत छलन्हि. 200 एवं रु. 20 स 40 लीटर पानि लेल 300।
-
-चोसेरके वडा अध्यक्ष आ नगरपालिकाके आर्थिक समितिके संयोजक कर्म नामग्याल सफल जल परीक्षणसँ व्यापारी उत्साहित भेल बतौलनि । ओ कहला जे एहि ठाम सबस पैघ समस्या पानि पीबाक छल, आब काज बहुत आसान भ जाएत।
-
-कोराला मे व्यवसायिक उद्देश्य स लगभग 70 टेंट संचालित करय वाला करीब 152 लोक एहि विकास क स्वागत केलथि अछि। स्थानीय व्यापारी सब उपाध्यक्ष छुमी बिष्ट गुरुंग सहित स्थानीय प्रतिनिधि के सेहो धन्यवाद देलखिन।
-
-एहि सं पहिने ग्रामीण नगरपालिका सीमा बिन्दु पर छहटा अस्थायी शौचालय बनौने छल, जखन कि चीन सरकार चारिटा स्थायी शौचालय लेल सामग्री उपलब्ध करौने छल। पीबय के पानि आ स्वच्छता एहि इलाका के मुख्य चुनौती बनल छल.
-
-कोराला मे विकास कार्य मे सेहो दिक्कत के सामना करय पड़ल अछि किएक त सीमा बिंदु पर 600 रोपानी जमीन मस्टैंग सीमा शुल्क कार्यालय के स्वामित्व मे अछि.
-
-तिब्बत केरऽ चीन म॑ एकीकरण के बाद १९६० के दशक के दौरान तिब्बती खम्पा विद्रोही न॑ नेपाली इलाका के इस्तेमाल के बाद बंद होय गेलऽ सीमा बिंदु क॑ १३ नवंबर २०२३ क॑ औपचारिक रूप स॑ खोललऽ गेलै ।
-
-फोटो कैप्शन : नेपाल आ चीन के जोड़य वाला कोराला सीमा बिन्दु पर रविदिन भूमिगत जल परीक्षण सफलतापूर्वक कयल गेल।",Interview
-Hopes For Homeless Renewed - The Rising Nepal,Hopes For Homeless Renewed  The Rising Nepal,2026-05-20 01:21:10,https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZd0xxeE81clVBd2hDOXZZUWY4N2haQ3JKWHRPUVd5V0lZb3hYLW5qYlNhOFhQaFYtYXlQbFBuVklwOUZfYlpnYlI1d3h4Z2w1?oc=5&hl=en-US&gl=US&ceid=US:en,https://risingnepaldaily.com,The Rising Nepal,"The issues of landlessness among the squatters have lingered for decades in Nepal. The governments have promised justice to families who have lived for years on riverbanks, public land and settlements without legal recognition. They have voted, and also contributed to the informal economy, yet many still remain uncertain whether the land beneath their homes truly belongs to them. The latest assurance by Minister for Infrastructure Development Sunil Lamsal that genuine landless families will receive ownership certificates by Dashain is therefore appreciable. It offers hope to thousands of landless squatters who have spent much of their lives waiting for the state to ensure their right to live with dignity.
-
-
-
-
-
-Minister Lamsal's remarks come in the wake of ongoing eviction of landless squatters from riverbanks located in different parts of the Kathmandu Valley. A total of 2,687 huts and houses were demolished from the settlements along the Bagmati River and its tributaries, citing they are vulnerable to annual floods. More than 2,600 families came into contact with the government, seeking to be identified as landless squatters and waiting for permanent settlement. Their problem was deeply rooted in many years of poorly governed land issues, political patronage, and contradictory policies regarding the settlement of those who have no land. Successive governments have made similar commitments, especially when public pressure intensifies or elections approach. Announcements are made, timelines are set and expectations are raised. Then the machinery of bureaucracy slows, political priorities shift and the promise fades into the long archive of unfinished commitments.
-
-
-
-
-
-However, the present government should be different. Many people have bestowed their aspirations for positive change. The landlessness is not only an administrative problem. Sometimes, the most vulnerable landless people are left without any assistance, whereas influential interests take advantage of the same situation. Any sustainable policy should be able to differentiate between them. This is why the stress put on identifying genuine squatters is paramount. But it should go hand-in-hand with full openness. Criteria which define whether someone qualifies as an eligible applicant should be of public knowledge, local community participation in decision-making should be allowed, and an appeals procedure should exist for those whom this process leaves behind. Still, citizens should guard themselves against disinformation. False rumours might create unnecessary scares, especially for vulnerable families. But distrust is not a phenomenon that comes out of nowhere. It is the product of years of broken promises.
-
-
-
-
-
-The burden, therefore, lies with the government to communicate clearly and to demonstrate progress through action rather than rhetoric. The clearing of informal settlements in urban areas had added to public anxiety. In disaster-prone locations, relocation is necessary to protect lives. But the rules of humanity dictate that people should not be forced to leave their homes without having the possibility of resettlement and safety. Economic development should not come at the cost of the poor. Land tenure does not count in paperwork only, but it also opens the door to credit, education, investment and a stronger sense of belonging. For landless families, a certificate is recognition that they belong to their nation. The commitment of the government to resolve these issues should be taken optimistically. But is it possible by Dashain? Citizens will not judge the government’s spirit by speeches or action plans, but they want results, such as whether families finally hold the land certificates they were promised. The government should keep the promise and work to fulfil the commitments on time.","{'https://risingnepaldaily.com/commons/rising-logo.png', 'https://risingnepaldaily.com/storage/media/102529/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102533/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102528/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102530/conversions/water-1-(1)-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102522/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102519/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/885/conversions/square-thumb-thumb-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102524/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102531/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102516/edtoril.jpg', 'https://risingnepaldaily.com/storage/media/102531/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102527/conversions/Untitled-7-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102530/conversions/water-1-(1)-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102525/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/102528/conversions/Untitled-1-square-thumb.jpg'}","नेपाल मे दशकों सँ सुकूनवासी मे भूमिहीनताक मुद्दा टिकल अछि । सरकार सब ओहि परिवार के न्याय के वादा केलक अछि जे सालों स नदी के कात, सार्वजनिक जमीन आ बस्ती पर बिना कानूनी मान्यता के रहैत अछि। ओ सब वोट देने छथि, आ अनौपचारिक अर्थव्यवस्था मे सेहो योगदान देने छथि, तइयो बहुतो एखनो अनिश्चित छथि जे हुनकर घरक नीचाक जमीन सही मायने मे हुनकर अछि कि नहि। बुनियादी ढांचा विकास मंत्री सुनील लमसल क ताजा आश्वासन जे असली भूमिहीन परिवार कए दशैन स स्वामित्व प्रमाणपत्र भेटत, एहि लेल सराहनीय अछि। ई हजारों भूमिहीन सुकून के लोगऽ क॑ आशा प्रदान करै छै जे अपनऽ जीवन के बहुत हिस्सा राज्य केरऽ इज्जत स॑ जीबै के अधिकार सुनिश्चित करै के इंतजार म॑ बिताबै छै ।
-
-
-
-
-
-काठमांडू उपत्यकाके विभिन्न भागमे अवस्थित नदी किनारसँ भूमिहीन सुकूनवासीके बेदखली जारी रहलाके बाद मन्त्री लमसालके ई बात आएल अछि । बागमती नदी आ ओकर सहायिका नदी क कात मे बनल बस्ती स कुल 2687 झोपड़ी आ मकान तोड़ि देल गेल, जेकर कारण अछि जे ओ सालाना बाढ़ि क शिकार अछि। 2600 स बेसी परिवार सरकार क संपर्क मे आबि गेल, जे भूमिहीन सुकून क रूप मे पहचानल जाए आ स्थायी बस्ती क इंतजार मे छल। हुनका लोकनिक समस्याक जड़ि कतेको वर्षक खराब शासित जमीनक मुद्दा, राजनीतिक संरक्षण, आ जमीन नहि रहल लोकक बस्तीक संबंध मे विरोधाभासी नीति मे छलनि । लगातार सरकारऽ न॑ भी ऐसनऽ प्रतिबद्धता जतैन॑ छै, खास करी क॑ जब॑ जन दबाव तेज होय जाय छै या चुनाव नजदीक आबी जाय छै । घोषणा होइत अछि, समय सीमा तय होइत अछि आ उम्मीद जगैत अछि। तखन नौकरशाहीक मशीनरी धीमा भ' जाइत अछि, राजनीतिक प्राथमिकता बदलि जाइत अछि आ वादा अधूरा प्रतिबद्धताक लंबा अभिलेखागार मे फीका भ' जाइत अछि.
-
-
-
-
-
-ओना वर्तमान सरकार अलग हेबाक चाही। सकारात्मक परिवर्तन के लेल बहुत लोक अपन आकांक्षा के समर्पित क देलखिन्ह. भूमिहीनता मात्र प्रशासनिक समस्या नहि अछि। कखनो काल, सबसँ कमजोर भूमिहीन लोक बिना कोनो सहायता के रहि जाइत छथि, जखन कि प्रभावशाली हित सेहो ओही स्थिति के लाभ उठाबैत छथि । कोनों टिकाऊ नीति कें ओकरा मे अंतर करय मे सक्षम होबाक चाही. यही कारण छै कि असली सुकून केरऽ पहचान करै प॑ जे तनाव डाललऽ जाय छै, वू सर्वोपरि छै । मुदा पूर्ण खुलापनक संग-संग चलबाक चाही। जे मानदंड परिभाषित करयत छै की कोनों पात्र आवेदक कें रूप मे योग्य छै या नहि, ओ जन ज्ञान कें होबाक चाही, निर्णय लेवा मे स्थानीय समुदाय कें भागीदारी कें अनुमति होबाक चाही, आ ओय लोगक कें लेल अपील प्रक्रिया मौजूद होबाक चाही जिनका इ प्रक्रिया पाछू छोड़यत छै. तइयो नागरिक के गलत सूचना स अपना के बचाव करबाक चाही। गलत अफवाहक सं अनावश्यक डर पैदा भ सकय छै, खासकर कमजोर परिवारक कें लेल. मुदा अविश्वास कोनो एहन घटना नहि अछि जे कतहु सँ निकलल हो। ई वर्षों के टूटल-फूटल वादा के उपज अछि।
-
-
-
-
-
-अतः सरकार पर बोझ अछि जे ओ स्पष्ट संवाद करय आ बयानबाजी सं बेसी काज के माध्यम सं प्रगति के प्रदर्शन करय. शहरी क्षेत्र मे अनौपचारिक बस्ती कए खाली करबा स जन चिंता आओर बढ़ि गेल छल। आपदा प्रवण स्थानक पर जीवन कें सुरक्षा कें लेल स्थानांतरण आवश्यक छै. लेकिन मानवता के नियम के अनुसार लोगऽ क॑ पुनर्वास आरू सुरक्षा के संभावना के बिना घरऽ स॑ बाहर निकलै लेली मजबूर नै करलऽ जाय । आर्थिक विकास गरीबक कीमत पर नहि आबय। जमीन क कब्जा केवल कागजी काज मे नहि गिनल जाइत अछि, मुदा एहि स ऋण, शिक्षा, निवेश आ अपनत्व क मजबूत भावना क दरवाजा सेहो खुलैत अछि। भूमिहीन परिवार कें लेल प्रमाणपत्र इ मान्यता छै की ओ अपन राष्ट्र कें छै. एहि सब मुद्दा के समाधान के लेल सरकार के प्रतिबद्धता के आशावादी तरीका स लेल जेबाक चाही। मुदा की दशैनसँ संभव अछि ? नागरिक सरकार केरऽ भावना केरऽ आकलन भाषण या कार्य योजना स॑ नै करतै, लेकिन ओकरा परिणाम चाहै छै, जेना कि आखिरकार परिवारऽ के पास वू जमीन के प्रमाणपत्र छै जेकरा स॑ ओकरा वादा करलऽ गेलऽ छेलै । सरकार के वादा पूरा करबाक चाही आ समय पर प्रतिबद्धता पूरा करय के काज करबाक चाही.",Opinion
-Opinion | How Utilitarianism explains Nepal’s political shift - The Kathmandu Post,Opinion | How Utilitarianism explains Nepal’s political shift  The Kathmandu Post,2026-05-20 01:23:43,https://news.google.com/rss/articles/CBMinAFBVV95cUxQOF9EbkFpUjIwQ2hYMU1uRExjbG82ci0wV25tM19tT1hrZC03NTVBQzlxa0h6X0w0aC1icFE0WEZjczhlYjNNSVFmQ3VMempaajRWZk9kaHlFQlhmbEpXRVdCOXJoQWVhRG13ZXY0UllSc0JqRUNFOXFxTTJoMW04ZFZuZHF2VTlmWjhIeGNoZjhBUXFNczZrZks5N2I?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"The political atmosphere in Kathmandu feels surreal and fundamentally different in 2026 with a new government, new political actors and hope for positive change. For decades, the Nepalese electorate has moved through the shifting phases of socialism, communism and democracy, and the hollow promises used by the old guards to extract loyalty. But today, the tables have turned. A new generation is doing a different kind of math, replacing ideological devotion with a pragmatic demand: a quantifiable return on their civic participation, a hope to improve their own quality of life.
-
-This shift is not merely a change in mood; it is a mass application of the ‘Utility Principle’. In political philosophy, Utilitarianism holds that a government's moral duty is to maximise the ‘greatest good for the greatest number’. Yet, for decades, Nepal has operated under a system of factionalism and decentralisation of corruption and power, prioritising internal power struggles over the public interest. Our institutions were designed not to maximise public happiness, but to fuel the utility of the party elite. In this lopsided equation, the joy of parties outweighs public suffering, and it demonstrates simple math. As long as the authorities lack accountability, citizens are bound to carry the debt. A 2016 research, Decentralisation of Corruption by Krishna Raj Panta, found that several local bodies in Nepal lacked basic transparency and accountability standards, including timely audits and public disclosure of budgets and expenditures. The study further revealed that weak social auditing and secretive budgetary practices created a fertile environment for corruption at the local level, ultimately undermining public service delivery.
-
-As a woman volunteer from Chilime VDC described in the study, “They meet in secret. We don’t know about budgeting, and it’s not transparent.” This single sentence carries the dark reality of so-called trusted authorities and the crisis of local governance, which has compelled today's citizens to think more critically and stand for themselves as a collective rational agent rather than emotional consumers of political propaganda.
-
-Today, the discussion on political governance is no longer an abstract debate; it is a daily calculation of cost and inconvenience. The most crucial of these costs is time. Chronic queues for passports, licenses and basic documentation, compounded by system delays and lost workdays, transform into a massive economic setback for a nation striving for recovery. These ‘time costs’ accumulate perniciously, shaping a reality where the system meant to serve the people actually reduces their efficiency and happiness. This inefficiency is not limited to mundane administrations. Citizens have experienced system failure across daily life and national crises. Even during moments of state crisis, such as the 2015 earthquake, citizens experienced massive delays in relief distribution, weak coordination of authorities and delays in public funding. The crisis is further highlighted in the research article by Nepal Administrative Staff College, which shows that the government was not only underprepared to handle a massive disaster but also struggled to demonstrate effective leadership in public funding and coordination. The study points to weak institutional mechanisms for responding to victims’ needs, as local government structures were largely dysfunctional and lacked the capacity to effectively represent or respond to affected communities.
-
-The current administration is attempting to address this instability through high-stakes accountability. The recent decision by Prime Minister Balendra Shah to personally assume the Home Ministry portfolio following Home Minister Gurung’s resignation is a strategic attempt to hedge against a ‘Utility Deficit’. By taking direct responsibility, the Prime Minister is signalling that political morality must not be sacrificed at the cost of administrative delay and is preventing a legal vacuum, as the onus lies solely on PM Shah to carry both the duties of the PM and the Home Minister until further notice. This move is predicated on the belief that direct accountability can finally bridge the gap between state capacity and citizen benefit.
-
-The Nepali voter has realised that the cost of pain and suffering under the old establishment was too high and the loyalty was too low. They didn't switch their votes because they fell in love with new faces or parties, but because, as citizens, they were the victims of corruption and had to bear its cost. Panta's research also highlights how local political actors and officials frequently exercised monopolistic control over budgets and project selection, transforming public institutions into institutions of selfishness and corruption. Now, citizens have represented themselves as rational agents seeking a better service provider. They want their time, their money and their dignity back.
-
-The mandate given to the new political actors is not mere impulsive action, but citizens’ trust who see them as a persona with a vision, fuelled with optimism, entrusting them with their votes. We are seeing the first signs of success in initiatives like doorstep delivery for essential documents, bypassing the limitations of bureaucratic delays. If these leaders succeed in reducing the ‘administrative burden’ of daily life, they will solidify an era of high-utility governance. However, if they fail to meet the high utility expectations of a hopeful public, they will find that the same rational calculus that brought them to power might lead to their obsolescence.
-
-The math of the past definitely failed us; the math of the future depends on the new government’s ability to balance utility and justice.","{'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://openweathermap.org/img/w/50d.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/DOWNPOSTFILEPHOTOOOO-1779195232.jpg', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png'}","काठमांडू केरऽ राजनीतिक माहौल २०२६ म॑ नया सरकार, नया राजनीतिक अभिनेता आरू सकारात्मक परिवर्तन के आशा के साथ अतिवास्तविक आरू मौलिक रूप स॑ अलग महसूस होय रहलऽ छै । दशकों स॑ नेपाली मतदाता समाजवाद, साम्यवाद आरू लोकतंत्र केरऽ बदलतऽ चरणऽ स॑ गुजरी रहलऽ छै, आरू पुरानऽ गार्डऽ द्वारा निष्ठा निकालै लेली इस्तेमाल करलऽ जाय वाला खोखला वादा स॑ गुजरी रहलऽ छै । मुदा आइ टेबुल घुमि गेल अछि। एकटा नव पीढ़ी एकटा अलग तरहक गणित क रहल अछि, वैचारिक भक्ति के जगह एकटा व्यावहारिक मांग ल रहल अछि: अपन नागरिक भागीदारी पर मात्रा निर्धारित करय योग्य रिटर्न, अपन जीवन के गुणवत्ता में सुधार के आशा.
-
-ई बदलाव मात्र मनोदशा में परिवर्तन नहिं थिक; इ ‘उपयोगिता सिद्धांत’ कें सामूहिक अनुप्रयोग छै. राजनीतिक दर्शन में उपयोगितावाद के मानना ​​छै कि सरकार के नैतिक कर्तव्य छै कि ‘सबसे अधिक संख्या के लेलऽ सबसें अधिक भलाई’ के अधिकतम करलऽ जाय । तइयो दशकों स नेपाल गुटबाजी आ भ्रष्टाचार आ सत्ता के विकेंद्रीकरण के व्यवस्था के तहत संचालित अछि, जनहित स बेसी आतंरिक सत्ता संघर्ष के प्राथमिकता दैत अछि। हमरऽ संस्थानऽ के डिजाइन ऐन्हऽ छेलै कि जन-खुशी क॑ अधिकतम करलऽ जाय, बल्कि पार्टी केरऽ अभिजात वर्ग केरऽ उपयोगिता क॑ ईंधन देलऽ जाय । एहि एकतरफा समीकरण मे पार्टीक खुशी जन-दुख पर भारी पड़ैत अछि, आ ई सरल गणितक प्रदर्शन करैत अछि । जा धरि अधिकारि के जवाबदेही के कमी रहत ता धरि नागरिक कर्ज उठाबय लेल बाध्य अछि. २०१६ मे कृष्णराज पन्त द्वारा भ्रष्टाचारक विकेन्द्रीकरण नामक शोधमे नेपालमे कतेको स्थानीय निकायमे समय पर लेखा परीक्षा आ बजट आ व्ययके सार्वजनिक खुलासा सहित मूलभूत पारदर्शिता आ जवाबदेही मानकके अभाव देखल गेल अछि । अध्ययन स॑ आगू पता चललै कि कमजोर सामाजिक लेखा परीक्षा आरू गुप्त बजटीय प्रथा न॑ स्थानीय स्तर प॑ भ्रष्टाचार लेली उपजाऊ माहौल पैदा करलकै, जेकरा स॑ अंततः लोक सेवा प्रदायगी क॑ कमजोर करलऽ गेलै ।
-
-जेना कि चिलीमे गाविस के एकटा महिला स्वयंसेविका अध्ययन में वर्णन केने छथि, “ओ सब गुप्त रूप स’ भेंट करैत छथि.हमरा सब के बजट के बारे में पता नै अछि, आ ई पारदर्शी सेहो नहिं अछि.” ई एकल वाक्य तथाकथित भरोसेमंद अधिकारियऽ के अन्हार यथार्थ आरू स्थानीय शासन के संकट के वाहक छै, जेकरा चलतें आज के नागरिकऽ क॑ राजनीतिक प्रचार के भावनात्मक उपभोक्ता नै बल्कि सामूहिक तर्कसंगत एजेंट के रूप म॑ अधिक आलोचनात्मक रूप स॑ सोचै आरू खुद के पक्ष म॑ खड़ा होय के मजबूर होय गेलऽ छै ।
-
-आइ राजनीतिक शासन पर चर्चा अमूर्त बहस नहिं रहि गेल अछि; ई लागत आ असुविधाक दैनिक गणना थिक। एहि मे स सबस महत्वपूर्ण लागत अछि समय। पासपोर्ट, लाइसेंस आरू बुनियादी दस्तावेजीकरण लेली पुरानी कतार, जेकरा सिस्टम म॑ देरी आरू काम के दिन के नुकसान स॑ बढ़ी जाय छै, वसूली लेली प्रयासरत राष्ट्र लेली एगो बड़ऽ आर्थिक झटका म॑ बदली जाय छै । ई ‘समय लागत’ घातक रूप स॑ जमा होय जाय छै, जेकरा स॑ एगो वास्तविकता के आकार मिलै छै, जहाँ जनता के सेवा करै के मतलब वाला व्यवस्था वास्तव म॑ ओकरऽ दक्षता आरू खुशी क॑ कम करी दै छै । ई अक्षमता खाली सांसारिक प्रशासन तक सीमित नै छै । नागरिकक कें दैनिक जीवन आ राष्ट्रीय संकट कें दौरान सिस्टम कें विफलता कें अनुभव भेल छै. राज्य संकट केरऽ क्षणऽ म॑ भी, जेना कि २०१५ केरऽ भूकंप, नागरिकऽ क॑ राहत वितरण म॑ भारी देरी, अधिकारियऽ के कमजोर समन्वय आरू सार्वजनिक वित्तपोषण म॑ देरी के अनुभव करलऽ गेलै । नेपाल प्रशासनिक कर्मचारी महाविद्यालय केरऽ शोध लेख म॑ ई संकट क॑ आरू रेखांकित करलऽ गेलऽ छै, जेकरा स॑ पता चलै छै कि सरकार न॑ न सिर्फ एगो विशाल आपदा क॑ संभाल॑ लेली कम तैयार छेलै बल्कि सार्वजनिक वित्तपोषण आरू समन्वय म॑ प्रभावी नेतृत्व के प्रदर्शन करै लेली भी संघर्ष करलकै । अध्ययन पीड़ितक कें जरूरतक कें जवाब देवय कें लेल कमजोर संस्थागत तंत्र कें ओर इशारा करयत छै, कियाकि स्थानीय सरकारक कें संरचना काफी हद तइक बेकाम छल आ प्रभावित समुदायक कें प्रभावी ढंग सं प्रतिनिधित्व करय या ओकर प्रतिक्रिया देवय कें क्षमता कें कमी छल.
-
-वर्तमान प्रशासन उच्च दांव वाला जवाबदेही के माध्यम स॑ ई अस्थिरता क॑ दूर करै के कोशिश करी रहलऽ छै । गृहमंत्री गुरुंग केरऽ इस्तीफा के बाद प्रधानमंत्री बलेन्द्र शाह द्वारा गृह मंत्रालय केरऽ विभाग क॑ व्यक्तिगत रूप स॑ ग्रहण करै के हाल के फैसला ‘उपयोगिता घाटा’ स॑ बचाव के रणनीतिक कोशिश छै । सीधा जिम्मेदारी लैत प्रधानमंत्री इ संकेत द रहल छथि जे प्रशासनिक देरी क कीमत पर राजनीतिक नैतिकता क बलिदान नहि देबाक चाही आ कानूनी रिक्त स्थान कए रोकि रहल छथि, किया कि आगू क सूचना तक पीएम आ गृहमंत्री दूनू क कर्तव्य कए पूरा करबाक भार केवल पीएम शाह पर अछि। ई कदम ई विश्वास प॑ आधारित छै कि प्रत्यक्ष जवाबदेही आखिरकार राज्य केरऽ क्षमता आरू नागरिक लाभ के बीच के अंतर क॑ पूरा करी सकै छै ।
-
-नेपाली मतदाता के ई अहसास भ गेल अछि जे पुरान प्रतिष्ठान के तहत पीड़ा आ दुख के खर्च बहुत बेसी छल आ निष्ठा बहुत कम छल। ओ सब अपन वोट एहि लेल नहि बदलल जे नव चेहरा या पार्टी स प्रेम भ गेल छल, बल्कि एहि लेल जे नागरिक क रूप मे ओ सब भ्रष्टाचार क शिकार भ गेल छल आ ओकर खर्च उठाबय पड़ैत छल। पंता केरऽ शोध स॑ ई भी उजागर करलऽ गेलऽ छै कि कोना स्थानीय राजनीतिक अभिनेता आरू अधिकारी अक्सर बजट आरू परियोजना चयन प॑ एकाधिकार के नियंत्रण रखै छेलै, जेकरा स॑ सार्वजनिक संस्थानऽ क॑ स्वार्थ आरू भ्रष्टाचार के संस्था म॑ बदली देलऽ गेलऽ छेलै । आब नागरिक अपना कए बेहतर सेवा प्रदाता क तलाश मे तर्कसंगत एजेंट क रूप मे प्रतिनिधित्व केलथि अछि। अपन समय, अपन पाइ आ अपन इज्जत वापस चाहैत छथि।
-
-नबका राजनीतिक अभिनेता सब क॑ जे जनादेश देलऽ गेलऽ छै, वू खाली आवेगपूर्ण कार्रवाई नै छै, बल्कि नागरिकऽ के भरोसा छै जे ओकरा एगो दृष्टि वाला व्यक्तित्व के रूप म॑ देखै छै, आशावाद स॑ ईंधन भरलऽ, ओकरा अपनऽ वोट सौंप॑ छै । नौकरशाही देरी के सीमा के बाईपास करैत आवश्यक दस्तावेज के दरवाजा पर डिलीवरी जेहन पहल में सफलता के पहिल संकेत हमरा सब के देखय लेल मिल रहल अछि. अगर ई नेता सब दैनिक जीवन के ‘प्रशासनिक बोझ’ क॑ कम करै म॑ सफल होय जाय छै त॑ ई उच्च उपयोगिता वाला शासन के युग क॑ ठोस करी देतै । लेकिन, अगर वू कोनो आशावादी जनता के उच्च उपयोगिता के अपेक्षा के पूरा नै कर॑ पारै छै त॑ ओकरा पता चलतै कि जे तर्कसंगत गणना ओकरा सत्ता म॑ लानल॑ छेलै, वू ही ओकरऽ अप्रचलित होय के कारण बनी सकै छै ।
-
-अतीतक गणित हमरा लोकनि कें निश्चित रूपें असफल क' देलक; भविष्य के गणित उपयोगिता आ न्याय के संतुलन बनेबाक नव सरकार के क्षमता पर निर्भर करैत अछि.",Opinion
-"APG warns Nepal over weak anti-money laundering progress, flags risk of further downgrade from grey list - The Kathmandu Post","APG warns Nepal over weak anti-money laundering progress, flags risk of further downgrade from grey list  The Kathmandu Post",2026-05-20 01:43:44,https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNWltNF9lRlVCNTdBUC12ZmlES0pCN0l3LS1IRVFiRG5QMVpMWWtROTE3cGdaN3k3M0lTSWZjcGdRU25sTTI5SF9YdWRQd3AxYzVnelRuVUl1Z2lqajI5ZWRCd3VRZ0V6VXFabkFWZGQwSFlmV2stc2s4WS1lTG94R0VqLU1aUEpCUGlwUFE1Ym9EVl9TYldoanFMRXE5MTdsU2JxUi1sMm9UekhEYk9zTk9GWlhCNmJBbS1lRTVlckpBREZ0UEItVWVkTFlPZWU1UnJxTXdMczhReWNGcG1KS09RWQ?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"A delegation from the Asia/Pacific Group on Money Laundering (APG), the regional body of the Financial Action Task Force (FATF), has met Nepali officials in Kathmandu and reminded them of areas where the country has failed to make adequate improvements after being placed on the grey list. The delegation warned that failure to address those shortcomings could put Nepal at risk of being blacklisted, instead of being removed from the grey list.
-
-The two-member delegation, led by APG Deputy Executive Secretary David Shannon, met Finance Minister Swarnim Wagle, senior ministry officials, Nepal Rastra Bank governor Bishwo Nath Poudel, senior central bank officials, the police chief and other stakeholders. During the meetings, the delegation reviewed progress in areas where authorities have been working and pointed out shortcomings in implementation.
-
-Based on conversations Kantipur held with more than six officials involved in the meetings, the APG said Nepal had made limited progress on several commitments outlined in the action plan for exiting the grey list and suggested improvements.
-
-“They are dissatisfied not only with implementation but also Nepal’s inability to properly report the progress already made,” one official who attended the meetings said. “The APG also appears dissatisfied with progress in regulation, investigation and prosecution related to the banking and financial sector, cooperatives regulation, banking offences, real estate transactions, precious metals trading, corruption, tax evasion, human trafficking, environmental and wildlife crimes, and money laundering through shell companies.”
-
-The delegation held a series of meetings with various government agencies from early Tuesday morning. Discussions began at around 8:30am with Nepal Police and other security agencies and concluded at around 6pm with Finance Minister Wagle.
-
-Throughout the day, the delegation held eight separate meetings with senior officials of Nepal Rastra Bank, the Commission for Investigation of Abuse of Authority, members of the parliamentary Finance Committee, the law minister, the foreign minister and other stakeholders. Officials said the APG acknowledged Nepal’s efforts to exit the grey list but stressed that the measures taken so far were inadequate and had not produced sufficiently effective results.
-
-According to one official present during the meetings, the APG said meaningful progress had been made on only nine of the 15 items outlined in Nepal’s FATF action plan, while the remaining six had seen only partial implementation. The assessment was based on a January 2026 review. However, Nepali officials claimed that further improvements had been made on those six partially completed items since January.
-
-Mahesh Acharya, chief of the Financial Sector Management & Corporation Co-ordination Division at the finance ministry, said the APG urged Nepal to intensify efforts to complete the action plan within the two-year timeline.
-
-“The Nepali side also expressed commitment to implementing the action plan effectively,” Acharya said. “The APG delegation said it was willing to provide facilitation and support if Nepal faces difficulties during implementation.”
-
-The APG also raised concerns over recent amendments to Nepal’s anti-money laundering laws introduced through an ordinance.
-
-The government amended the Anti-Money Laundering Prevention Act to allow the Department of Money Laundering Investigation to probe financial crimes categorised as predicate offences under FATF standards.
-
-According to an official present at the meetings, APG Deputy Executive Secretary Shannon questioned whether the amendment had been introduced after sufficient consultation with investigative agencies, regulators and prosecutors, and whether the long-term implications had been properly assessed.
-
-“The law published in the gazette on April 12, 2024 had been introduced following consultations with FATF to strengthen money laundering investigations and prosecutions,” the official said.
-
-“Now the APG is asking why the government again changed the law through an ordinance to allow the department itself to investigate predicate offences. The delegation has raised serious questions over whether consultations were held with the Office of the Attorney General, Nepal Police, the anti-graft agency and other regulatory institutions.”
-
-APG Deputy Executive Secretary Shannon met Inspector General of Police Dan Bahadur Karki on Tuesday to discuss issues related to money laundering. During the meeting, Karki expressed commitment to fulfilling the stipulated conditions and carrying out the measures required for Nepal to exit the grey list, the police headquarters said.
-
-According to police spokesperson Abi Narayan Kafle, Inspector General Karki informed the APG delegation that police investigations have so far led to 21 money laundering cases being filed in court, while 36 cases remain under investigation. He said a separate division has been established within the Central Investigation Bureau to handle financial crimes, and an anti-money laundering and counter-terrorism financing action plan formulated and implemented. Karki also told the delegation that parallel money laundering investigations are being conducted alongside investigations into all major crimes.
-
-Officials who attended the discussions said the APG questioned the intent behind the ordinance and raised concerns over what it described as weak enforcement efforts. According to one joint secretary present at the meetings, the delegation criticised authorities for neglecting certain offences during investigations, failing to show urgency in meeting FATF targets, ignoring confiscation and management of criminal assets, weakening investigations through institutional interference, failing to strengthen investigative agencies and neglecting regulation and monitoring in identified high-risk sectors.
-
-Nepal was placed on the FATF’s grey list on February 21, 2025. FATF then provided the country with a detailed action plan, giving Nepal two years to implement the reforms required to exit the list. The two years have been divided into five four-month phases because FATF holds review meetings every four months.
-
-According to the annual report of Nepal Rastra Bank’s Financial Intelligence Unit for the fiscal year 2024-25, reports related to suspicious financial activities increased by more than 30 percent after Nepal was grey-listed.
-
-The report said authorities received 9,565 suspicious transaction reports and suspicious activity reports during the fiscal year, an increase of 30.34 percent compared to the previous year. Nepal had received 7,338 such reports in 2023-24 and 5,335 in 2022-23.
-
-Commercial banks accounted for 7,303 reports, or 76 percent of the total. Development banks submitted 708 reports, finance companies 355, securities brokers 491, payment service operators and related entities 252, insurance companies 244, remittance companies 100, cooperatives 36, casinos two, and microfinance institutions and government agencies one each.
-
-Debate over investigative authority
-
-Parliament had amended the anti-money laundering law in April 2024 to allow agencies investigating predicate offences to also investigate related money laundering crimes.
-
-Under the revised law, 13 offices related to the Commission for Investigation of Abuse of Authority, the Nepal Police, the Revenue Investigation Department, forest authorities and national parks authorities, among others, were authorised to investigate money laundering cases linked to their jurisdiction.
-
-After the law came into effect, the Department of Money Laundering Investigation was no longer allowed to independently register complaints and investigate such cases unless they related to older cases predating the amendment.
-
-However, on May 1 this year, the government again amended the law through an ordinance, allowing the department to investigate money laundering cases linked to smuggling, customs and tax evasion, securities and commodities market manipulation, insider trading, currency offences, banking and financial crimes, foreign exchange violations and insurance-related offences.
-
-Officials said the APG questioned the rationale behind the latest amendment.
-
-Former officials urge stronger commitment
-
-Khumraj Punjali, former secretary and founding director general of the Department of Money Laundering Investigation, said Nepal had failed to achieve the goals envisioned when the department was established.
-
-“Our initial focus after the law was introduced was on building the institution and managing human resources,” Punjali said. “We did work on policy, administration and investigations, but despite efforts by successive governments, we have not done enough. The grey listing is the result. Now the entire state machinery must work together to prevent Nepal from slipping into the blacklist.”
-
-Punjali said all political parties and state institutions must unite because the issue concerns the country’s international reputation.
-
-“If Nepal ends up on the blacklist, the consequences will not affect only one government or one political party. The entire country will suffer,” he said. “The concerns raised by the APG must be addressed honestly and seriously.”
-
-Former appellate court judge and former anti-graft commissioner Kishor Silwal said Nepal has no alternative but to strictly follow APG directives and FATF guidelines.
-
-According to Silwal, agencies investigating predicate offences must be institutionally strong and free from interference.
-
-“The principle behind allowing agencies investigating predicate offences to also investigate money laundering is that the agency handling the original crime is better positioned to conduct an effective money laundering investigation and prosecution,” he said. “FATF supported that approach because separating investigations between agencies had not been effective in the past.”
-
-Silwal also warned that weak investigations could allow offenders to escape conviction in court.
-
-Economic consequences of grey listing
-
-Experts say remaining on the grey list could have wide-ranging economic consequences for Nepal.
-
-Imports and exports are likely to become more expensive because banks and financial institutions face heightened scrutiny from international partners.
-
-A Nepal Rastra Bank official said traders opening letters of credit may increasingly be required to obtain guarantees from third-country banks. Banks and companies borrowing from abroad may also face higher interest rates.
-
-“As long as Nepal remains on the grey list, inflationary pressure will rise, and foreign investors will think several times before investing,” the official said.
-
-Officials also warned that development partners, including the World Bank, the International Monetary Fund and the Asian Development Bank, could reduce financial assistance or impose stricter conditions on lending.
-
-Bankers say international transactions are already becoming slower and more expensive due to additional documentation and compliance procedures.
-
-“Transactions are not being blocked outright, but each transfer now requires more time and cost, and that burden ultimately reaches customers,” one banking source said.
-
-Analysts say the grey listing has also increased Nepal’s country risk profile, potentially discouraging foreign direct investment.
-
-Experts say the grey listing will not immediately trigger an economic crisis, but could gradually raise costs in banking, trade and investment while weakening Nepal’s access to international financial systems.
-
-What happens if Nepal is blacklisted?
-
-Analysts warn that if Nepal fails to exit the grey list within the extended timeline and eventually falls onto FATF’s blacklist, the consequences would be far more severe.
-
-While grey listing mainly increases scrutiny and compliance burdens, blacklisting could result in international banks cutting ties with Nepali financial institutions altogether.
-
-Foreign investment could sharply decline, and imports and exports could face major disruptions.
-
-International banks could either impose extremely strict conditions on dealings with Nepali banks or terminate correspondent banking relationships entirely. Access to US dollars and other major foreign currencies could become highly restricted, creating serious obstacles in international payments.
-
-Countries on the blacklist are considered high-risk by international financial institutions, making borrowing difficult and expensive. Risk premiums and interest rates could rise sharply, development financing could slow, and supply chains and international trade could face severe disruption.","{'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/Nepalongreylist-1779241368.jpg', 'https://openweathermap.org/img/w/50d.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png'}","फाइनेंशियल एक्शन टास्क फोर्स (एफएटीएफ) के क्षेत्रीय निकाय एशिया/पैसिफिक ग्रुप ऑन मनी लांड्रिंग (एपीजी) के प्रतिनिधिमंडल काठमांडू मे नेपाली अधिकारी सब सं भेंट क ओहि क्षेत्र के याद दिला देलक अछि जतय देश ग्रे लिस्ट मे राखला के बाद पर्याप्त सुधार नहि क सकल अछि. प्रतिनिधिमंडल चेतावनी देलक अछि जे ओहि कमी कए दूर नहि करबा स नेपाल कए ग्रे सूची स हटाबय क बजाय ब्लैकलिस्ट हेबाक खतरा भ सकैत अछि।
-
-एपीजी के उपकार्यकारी सचिव डेविड शैनन के नेतृत्व में दू सदस्यीय प्रतिनिधिमंडल वित्त मंत्री स्वर्णिम वागले, मन्त्रालय के वरिष्ठ अधिकारी, नेपाल राष्ट्र बैंक के गवर्नर विश्वनाथ पौडेल, केंद्रीय बैंक के वरिष्ठ अधिकारी, थानाध्यक्ष आ अन्य सरोकारवाला सब स भेंट केलक। बैठकऽ के दौरान प्रतिनिधिमंडल न॑ वू क्षेत्रऽ म॑ प्रगति के समीक्षा करलकै, जहां अधिकारियऽ न॑ काम करी रहलऽ छै आरू कार्यान्वयन म॑ कमी ​​के ओर इशारा करलकै ।
-
-बैसारमे संलग्न छहसँ बेसी अधिकारीसभसँ कान्तिपुरसँ भेल गपशपके आधारमे एपीजी ग्रे सूचीसँ बाहर निकलबाक कार्ययोजनामे उल्लिखित कतेको प्रतिबद्धतामे नेपाल सीमित प्रगति कएने अछि आ सुधारक सुझाव देलक अछि ।
-
-बैसार मे भाग लेनिहार एकटा अधिकारी कहलनि जे, ओ सब केवल कार्यान्वयन स असंतुष्ट छथि, नेपाल के पहिने स भेल प्रगति के सही रिपोर्ट करय मे असमर्थता स सेहो असंतुष्ट छथि। “एपीजी बैंकिंग आरू वित्तीय क्षेत्र, सहकारी नियमन, बैंकिंग अपराध, रियल एस्टेट लेनदेन, कीमती धातु के कारोबार, भ्रष्टाचार, कर चोरी, मानव तस्करी, पर्यावरण आरू वन्यजीव अपराध, आरू शेल कंपनी के माध्यम स॑ मनी लांड्रिंग स॑ संबंधित नियमन, जांच आरू अभियोजन म॑ प्रगति स॑ भी असंतुष्ट नजर आबी रहलऽ छै ।”
-
-मंगलदिन भोर स प्रतिनिधिमंडल विभिन्न सरकारी एजेंसी स लगातार बैसार केलक। नेपाल प्रहरी आ अन्य सुरक्षा एजेन्सीसबसँग भोर करीब आठ बजेसँ विमर्श प्रारम्भ भेल आ वित्त मन्त्री वागलेसँग साँझ करीब ६ बजे समापन भेल ।
-
-दिन भरि नेपाल राष्ट्र बैंक के वरिष्ठ अधिकारी, प्राधिकरण के दुरुपयोग के अनुसन्धान आयोग, संसदीय वित्त समिति के सदस्य, कानून मंत्री, विदेश मंत्री आ अन्य सरोकारवाला सब के संग प्रतिनिधिमंडल के आठ अलग-अलग बैसार भेल। अधिकारी सब कहलनि जे, एपीजी नेपाल के ग्रे लिस्ट स बाहर निकलबाक प्रयास के स्वीकार केलक अछि मुदा एखन धरि जे उपाय कयल गेल अछि ओ अपर्याप्त अछि आ पर्याप्त प्रभावी परिणाम नहि भेटल अछि ताहि पर जोर देलक अछि।
-
-बैसार के दौरान उपस्थित एक अधिकारी के अनुसार एपीजी नेपाल के एफएटीएफ कार्य योजना में उल्लिखित 15 मद में स मात्र नौ टा पर सार्थक प्रगति भेल अछि, जखन कि शेष छह टा के आंशिक क्रियान्वयन मात्र देखल गेल अछि। ई आकलन जनवरी 2026 केरऽ समीक्षा के आधार प॑ करलऽ गेलऽ छेलै । मुदा जनवरी स ओहि छहटा आंशिक रूप स पूरा भेल वस्तु मे आओर सुधार कैल गेल नेपाली अधिकारी क दावा अछि।
-
-वित्त मन्त्रालयके वित्त क्षेत्र प्रबन्धन तथा निगम समन्वय प्रभागके प्रमुख महेश आचार्य नेपालके दु वर्षके समय सीमाभितर कार्ययोजना पूरा करैके प्रयास तेज करैके आग्रह करल बटैलै ।
-
-आचार्य कहलनि जे, नेपाली पक्ष सेहो कार्य योजना के प्रभावी ढंग स लागू करबाक प्रतिबद्धता व्यक्त केलक। “एपीजी प्रतिनिधिमंडल कहलनि जे, यदि नेपाल के कार्यान्वयन के दौरान दिक्कत के सामना करय पड़य त ओ सुविधा आ सहयोग देबय लेल तैयार अछि।”
-
-एपीजी अध्यादेश के माध्यम सं नेपाल के मनी लांड्रिंग विरोधी कानून मे हाल मे भेल संशोधन पर सेहो चिंता जतौलक अछि.
-
-सरकार न॑ मनी लांड्रिंग विरोधी रोकथाम अधिनियम म॑ संशोधन करी क॑ मनी लांड्रिंग जांच विभाग क॑ एफएटीएफ मानक के तहत प्रीडिकेट अपराध के रूप म॑ श्रेणीबद्ध वित्तीय अपराधऽ के जांच करै के अनुमति देलकै ।
-
-बैठकऽ म॑ मौजूद एगो अधिकारी के अनुसार एपीजी केरऽ उप कार्यकारी सचिव शैनन न॑ सवाल उठैलकै कि की जांच एजेंसी, नियामक आरू अभियोजकऽ स॑ पर्याप्त परामर्श के बाद संशोधन पेश करलऽ गेलऽ छै, आरू की दीर्घकालिक प्रभाव के सही आकलन करलऽ गेलऽ छै ।
-
-अधिकारी नँ कहलकै, “12 अप्रैल, 2024 क राजपत्र मँ प्रकाशित कानून क मनी लांड्रिंग के जांच आरू मुकदमा क मजबूत करै लेली एफएटीएफ के साथ परामर्श के बाद पेश करलौ गेलौ छेलै ।
-
-“आब एपीजी पूछि रहल अछि जे सरकार फेर एकटा अध्यादेशक माध्यम सँ कानून मे परिवर्तन किएक केलक जाहि सँ विभाग स्वयं प्रीडिकेट अपराधक जांच करबाक अनुमति देलक, प्रतिनिधिमंडल एहि बात पर गंभीर प्रश्न ठाढ़ केलक अछि जे महाधिवक्ता कार्यालय, नेपाल प्रहरी, भ्रष्टाचार विरोधी एजेंसी आ अन्य नियामक संस्था सँ परामर्श भेल की नहि।”
-
-एपीजी के उप कार्यकारी सचिव शैनन मंगलदिन पुलिस महानिरीक्षक दान बहादुर कार्की सं भेंट क मनी लांड्रिंग सं जुड़ल मुद्दा पर चर्चा केलनि। बैसार के दौरान कार्की निर्धारित शर्त पूरा करय आ नेपाल के ग्रे लिस्ट स बाहर निकलय लेल आवश्यक उपाय के अंजाम देबाक प्रतिबद्धता व्यक्त केलथि पुलिस मुख्यालय जनौलक अछि ।
-
-पुलिस प्रवक्ता अबी नारायण काफ्ले के अनुसार महानिरीक्षक कार्की एपीजी प्रतिनिधिमंडल के सूचित केलनि जे पुलिस जांच के बाद एखन धरि 21 मनी लांड्रिंग के मामला कोर्ट मे दर्ज भ चुकल अछि, जखन कि 36 मामला के जांच जारी अछि। हुनी कहलकै कि केंद्रीय जांच ब्यूरो के भीतर वित्तीय अपराध के निपटारा लेली एगो अलग डिवीजन के स्थापना करलौ गेलौ छै, आरू मनी लांड्रिंग आरू आतंकवाद विरोधी वित्तपोषण कार्य योजना तैयार करी क लागू करलौ गेलौ छै । कार्की प्रतिनिधि मंडल के इहो कहलनि जे, सब पैघ अपराध के जांच के संग संग समानांतर मनी लांड्रिंग के जांच सेहो भ रहल अछि।
-
-चर्चा म॑ शामिल अधिकारी न॑ कहलकै कि एपीजी न॑ अध्यादेश केरऽ पीछू के मंशा प॑ सवाल उठैलकै आरू जेकरा क॑ कमजोर प्रवर्तन प्रयास बतैलकै ओकरा प॑ चिंता जतैलकै । बैठक मँ मौजूद एगो संयुक्त सचिव के अनुसार प्रतिनिधिमंडल नँ अधिकारियौ के आलोचना करलकै कि हुनी जांच के दौरान कुछ अपराध के उपेक्षा करलकै, एफएटीएफ के लक्ष्य क पूरा करै मँ तात्कालिकता नै दिखाबै छै, आपराधिक संपत्ति के जब्त आरू प्रबंधन के अनदेखी करलकै, संस्थागत हस्तक्षेप के माध्यम स॑ जांच क कमजोर करलकै, जांच एजेंसी क मजबूत नै करलकै आरू पहचानलौ गेलौ उच्च जोखिम वाला क्षेत्र मँ नियमन आरू निगरानी के उपेक्षा करलकै ।
-
-नेपाल क॑ २१ फरवरी २०२५ क॑ एफएटीएफ केरऽ ग्रे लिस्ट म॑ रखलऽ गेलै ।तब एफएटीएफ न॑ देश क॑ विस्तृत कार्य योजना उपलब्ध कराय देलकै, जेकरा म॑ नेपाल क॑ ई सूची स॑ बाहर निकलै लेली जरूरी सुधार क॑ लागू करै लेली दू साल के समय मिललै । दू साल क॑ चारि महीना के पांच चरण म॑ बांटलऽ गेलऽ छै, कैन्हेंकि एफएटीएफ हर चार महीना प॑ समीक्षा बैठक करै छै ।
-
-नेपाल राष्ट्र बैंक के वित्तीय खुफिया इकाई के वित्तीय वर्ष 2024-25 के वार्षिक रिपोर्ट के अनुसार नेपाल के ग्रे लिस्टिंग के बाद संदिग्ध वित्तीय गतिविधि स संबंधित रिपोर्ट में 30 प्रतिशत स बेसी के बढ़ोतरी भेल अछि।
-
-रिपोर्ट मे कहल गेल अछि जे वित्तीय वर्ष मे अधिकारि कए 9,565 संदिग्ध लेनदेन रिपोर्ट आ संदिग्ध गतिविधि रिपोर्ट भेटल अछि जे पिछला साल क मुकाबले 30.34 प्रतिशत बेसी अछि। नेपालमे २०२३-२४ मे ७३३८ आ २०२२-२३ मे ५३३५ एहन रिपोर्ट भेटल छल ।
-
-वाणिज्यिक बैंक क हिस्सेदारी 7,303 रिपोर्ट अछि जे कुल रिपोर्ट क 76 प्रतिशत अछि। विकास बैंक 708 रिपोर्ट, वित्त कंपनी 355, प्रतिभूति दलाल 491, भुगतान सेवा संचालक आ संबंधित संस्था 252, बीमा कंपनी 244, रेमिटंस कंपनी 100, सहकारी 36, कैसिनो दू, आ सूक्ष्म वित्त संस्थान आ सरकारी एजेंसी एक-एकटा रिपोर्ट जमा केलक।
-
-जांच अधिकार पर बहस
-
-संसद न॑ अप्रैल २०२४ म॑ मनी लांड्रिंग विरोधी कानून म॑ संशोधन करी क॑ प्रीडिकेट अपराधऽ के जांच करै वाला एजेंसी सिनी क॑ संबंधित मनी लांड्रिंग अपराधऽ के जांच भी करै के अनुमति देल॑ छेलै ।
-
-संशोधित कानून के तहत प्राधिकरण के दुरुपयोग के जांच आयोग, नेपाल पुलिस, राजस्व जांच विभाग, वन प्राधिकरण आ राष्ट्रीय उद्यान प्राधिकरण सहित अन्य के संग जुड़ल 13 कार्यालय के अपन क्षेत्राधिकार स जुड़ल मनी लांड्रिंग के मामला के जांच करय लेल अधिकृत कायल गेल।
-
-कानून लागू होला के बाद मनी लांड्रिंग जांच विभाग क॑ अब॑ स्वतंत्र रूप स॑ शिकायत दर्ज करै आरू ऐसनऽ मामला के जांच करै के अनुमति नै छेलै जब॑ तलक कि ई संशोधन स॑ पहल॑ के पुरानऽ मामला स॑ संबंधित नै होय ।
-
-लेकिन, ई साल १ मई क॑ सरकार न॑ फेरू एगो अध्यादेश के माध्यम स॑ कानून म॑ संशोधन करी क॑ विभाग क॑ तस्करी, सीमा शुल्क आरू कर चोरी, प्रतिभूति आरू वस्तु बाजार म॑ हेरफेर, अंदरूनी व्यापार, मुद्रा अपराध, बैंकिंग आरू वित्तीय अपराध, विदेशी मुद्रा के उल्लंघन आरू बीमा स॑ जुड़लऽ अपराध स॑ जुड़लऽ मनी लांड्रिंग के मामला के जांच करै के अनुमति देल॑ छै ।
-
-अधिकारी कहला जे एपीजी ताजा संशोधन क पाछु क तर्क पर सवाल उठेलक।
-
-पूर्व अधिकारी सब मजबूत प्रतिबद्धता के आग्रह करैत छथि
-
-मनी लांड्रिंग अनुसन्धान विभागके पूर्व सचिव तथा संस्थापक महानिदेशक खुमराज पंजाली विभाग स्थापनाके समय परिकल्पित लक्ष्य प्राप्त करबामे नेपाल विफल रहल बतौलनि ।
-
-पंजाली कहलनि जे, कानून लागू भेलाक बाद हमर प्रारंभिक ध्यान संस्थाक निर्माण आ मानव संसाधनक प्रबंधन पर छल। ओ कहला जे नीति, प्रशासन आ जांच पर काज जरूर केलहुं, मुदा लगातार सरकार क प्रयास क बादो हम सब पर्याप्त काज नहि केलहुं, ग्रे लिस्टिंग एकर परिणाम अछि, आब पूरा राज्य मशीनरी कए मिलिकए नेपाल कए ब्लैकलिस्ट मे फिसलबा स रोकबा लेल काज करबाक चाही।”
-
-पंजाली नँ कहलकै कि सब राजनीतिक दल आरू राज्य संस्थान क एकजुट होना जरूरी छै, कैन्हेंकि ई मुद्दा देश के अंतरराष्ट्रीय प्रतिष्ठा स॑ संबंधित छै ।
-
-ओ कहलनि जे, नेपाल ब्लैकलिस्ट मे समाप्त भ गेल त एकर परिणाम केवल एकटा सरकार या एकटा राजनीतिक दल पर नहि पड़त, पूरा देश के नुकसान होयत। “एपीजी द्वारा उठाओल गेल चिंता के ईमानदारी आ गंभीरता स संबोधित करबाक चाही।”
-
-अपीलीय न्यायालय के पूर्व न्यायाधीश आ पूर्व भ्रष्टाचार विरोधी आयुक्त किशोर सिलवाल कहलनि जे, नेपाल के पास एपीजी निर्देश आ एफएटीएफ के दिशा निर्देश के कड़ाई सं पालन करय के अलावा कोनो विकल्प नहि अछि।
-
-सिलवाल के अनुसार प्रीडिकेट अपराध के जांच करय वाला एजेंसी के संस्थागत रूप सं मजबूत आ हस्तक्षेप सं मुक्त होबाक चाही.
-
-हुनी कहलकै, 'प्रीडिकेट अपराध के जांच करै वाला एजेंसी सिनी क मनी लांड्रिंग के जांच भी करै के अनुमति दै के पाछु के सिद्धांत ई छै कि मूल अपराध क संभालै वाला एजेंसी मनी लांड्रिंग के प्रभावी जांच आरू मुकदमा चलाबै लेली बेहतर स्थिति मँ छै । “एफएटीएफ न॑ वू दृष्टिकोण के समर्थन करलकै, कैन्हेंकि एजेंसी के बीच जांच क॑ अलग करना पहल॑ भी प्रभावी नै रहलऽ छेलै ।”
-
-सिलवाल न॑ ई भी चेतावनी देलकै कि कमजोर जांच स॑ अपराधी क॑ कोर्ट म॑ सजा स॑ बचै के मौका मिल॑ सकै छै ।
-
-ग्रे लिस्टिंग के आर्थिक परिणाम
-
-विशेषज्ञ के कहनाय छनि जे ग्रे लिस्ट मे रहला सं नेपाल के लेल व्यापक आर्थिक परिणाम भ सकैत अछि.
-
-आयात आरू निर्यात महंगा होय के संभावना छै, कैन्हेंकि बैंक आरू वित्तीय संस्थानऽ प॑ अंतरराष्ट्रीय भागीदारऽ के तरफ स॑ अधिक जांच के सामना करना पड़ै छै ।
-
-नेपाल राष्ट्र बैंक के एकटा अधिकारी कहलनि जे, लेटर ऑफ क्रेडिट खोलय वाला व्यापारी के तेसर देश के बैंक सं गारंटी लेबय के जरूरत बढ़ि सकैत अछि. विदेश सं कर्ज लेबय वाला बैंक आओर कंपनी के सेहो बेसि ब्याज दर के सामना करय पड़ि सकैत अछि.
-
-अधिकारी कहला जे जा धरि नेपाल ग्रे लिस्ट मे रहत ता धरि महंगाई क दबाव बढ़त, आ विदेशी निवेशक निवेश करबा स पहिने कई बेर सोचत।
-
-अधिकारी न॑ ई भी चेतावनी देलकै कि विश्व बैंक, अंतर्राष्ट्रीय मुद्रा कोष आरू एशियाई विकास बैंक सहित विकास भागीदार वित्तीय सहायता म॑ कमी ​​या ऋण दै प॑ कड़ा शर्त लगाय सकै छै ।
-
-बैंकरऽ के कहना छै कि अतिरिक्त दस्तावेजीकरण आरू अनुपालन प्रक्रिया के कारण अंतरराष्ट्रीय लेनदेन पहिने स॑ ही धीमा आरू महंगा होय रहलऽ छै ।
-
-बैंकिंग केरऽ एगो सूत्र न॑ कहलकै कि लेनदेन क॑ एकदम स॑ ब्लॉक नै करलऽ जाय रहलऽ छै, लेकिन हर ट्रांसफर लेली अब॑ अधिक समय आरू लागत के जरूरत होय छै, आरू वू बोझ अंततः ग्राहकऽ प॑ पहुँची जाय छै ।
-
-विश्लेषकऽ के कहना छै कि ग्रे लिस्टिंग स॑ नेपाल केरऽ देश केरऽ जोखिम प्रोफाइल भी बढ़ी गेलऽ छै, जेकरा स॑ संभावित रूप स॑ प्रत्यक्ष विदेशी निवेश क॑ हतोत्साहित करलऽ गेलऽ छै ।
-
-विशेषज्ञऽ के कहना छै कि ग्रे लिस्टिंग स॑ तुरंत आर्थिक संकट नै पैदा होय जैतै, लेकिन धीरे-धीरे बैंकिंग, व्यापार आरू निवेश म॑ लागत बढ़ी सकै छै जबकि अंतरराष्ट्रीय वित्तीय प्रणाली म॑ नेपाल केरऽ पहुँच कमजोर होय सकै छै ।
-
-नेपाल ब्लैकलिस्ट भ गेल त की होयत?
-
-विश्लेषकऽ न॑ चेतावनी देल॑ छै कि अगर नेपाल विस्तारित समय सीमा के भीतर ग्रे लिस्ट स॑ बाहर नै निकल॑ पारै छै आरू अंततः एफएटीएफ केरऽ ब्लैकलिस्ट म॑ आबी जाय छै त॑ एकरऽ परिणाम कहीं अधिक गंभीर होतै ।
-
-ग्रे लिस्टिंग मुख्य रूप स जांच आ अनुपालन क बोझ बढ़बैत अछि, मुदा ब्लैकलिस्टिंग क परिणामस्वरूप अंतरराष्ट्रीय बैंक नेपाली वित्तीय संस्थान स संबंध कए एकदम स काटि सकैत अछि।
-
-विदेशी निवेश म॑ भारी गिरावट आबी सकै छै, आरू आयात आरू निर्यात म॑ बड़ऽ बाधा के सामना करना पड़॑ सकै छै ।
-
-अंतर्राष्ट्रीय बैंक या त नेपाली बैंक स व्यवहार पर अत्यंत सख्त शर्त लगा सकैत अछि या संवाददाता बैंकिंग संबंध कए पूर्ण रूप स समाप्त क सकैत अछि। अमेरिकी डॉलर आरू अन्य प्रमुख विदेशी मुद्रा केरऽ पहुँच बहुत प्रतिबंधित होय सकै छै, जेकरा स॑ अंतरराष्ट्रीय भुगतान म॑ गंभीर बाधा पैदा होय सकै छै ।
-
-ब्लैकलिस्ट म॑ शामिल देशऽ क॑ अंतरराष्ट्रीय वित्तीय संस्थानऽ द्वारा उच्च जोखिम वाला मानलऽ जाय छै, जेकरा स॑ उधार लेना मुश्किल आरू महंगा होय जाय छै । जोखिम प्रीमियम आरू ब्याज दर म॑ भारी बढ़ोत्तरी होय सकै छै, विकास केरऽ वित्तपोषण म॑ धीमापन आबी सकै छै, आरू आपूर्ति श्रृंखला आरू अंतर्राष्ट्रीय व्यापार म॑ भारी व्यवधान के सामना करना पड़॑ सकै छै ।",Economy
-Who is Nepal’s egg donation ban actually protecting? - The Kathmandu Post,Who is Nepal’s egg donation ban actually protecting?  The Kathmandu Post,2026-05-20 01:48:45,https://news.google.com/rss/articles/CBMingFBVV95cUxNUTVGVG5WU0V0VHJkZjV5YjRSX3VzbndqUGg1UzBUcWZWWlNyQkgxQkR0R1ZDZWZMSHVUcTY3cTVNM3JnOS1YbTh5ZE5IdGRvUnMzajY4VVdCOG9jQkVCUDJMVEhyTWx4aU9MRUpfbzFaV2ZlYUhUMlZCa2hGRHVUUnBZQWpzNnlDZWJhRnNiNVlmbnhjZlFIT0d3WkNRZw?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"When Padma was 22, she was diagnosed with cancer. What followed were three brutal cycles of chemotherapy—each necessary, each taking something from her. Doctors warned that the radiation would damage her ovaries. But Padma was fighting to stay alive. Freezing her eggs felt like a problem for another time, one she hoped she would have.
-
-She survived. Her ovaries did not.
-
-Now 27, Padma—whose name has been changed to protect her privacy—needs a donor egg to conceive. Under normal circumstances, that option would have been available in Nepal. But last August, Nepal's Supreme Court issued an interim order banning the extraction and storage of women’s eggs entirely, directing the government to form regulations before any clinic could resume the services. The order came after Hope Fertility and Diagnostic Pvt Ltd in Babarmahal was found to have been illegally extracting eggs from teenage girls and selling them commercially. The court’s intent was protection. But for women like Padma, the protection arrived too late, and the wait for what comes next has no clear end.
-
-‘‘I did everything right,’’ she said. ‘‘I treated my cancer. And now I am being told to wait for the government to write a law.’’
-
-Nepal’s Supreme Court order, issued on August 19, 2025, by a single bench led by Justice Tek Prasad Dhungana, was the result of a writ petition filed by advocates Nirab Gyawali, Dhruva Bhandari, and Ankita Tripathi. The petitioners argued that egg extraction should only be permitted under a clear legal framework. The court agreed and, in the absence of a law, banned it altogether.
-
-The ban was not without reason. The Hope Fertility case had exposed what many in the medical community had long known: Nepal’s rapidly expanding fertility industry was operating with little or no oversight. Agents recruited donors, many of them young women who needed money and had little understanding of the procedure. Clinics multiplied. And behind those clinics was a system built on concealment.
-
-A young woman—referred to here as Sita, a pseudonym—was 17 when an agent named Justina Pradhan first approached her. The pitch was simple: donate your eggs, get paid. ‘‘She said this is how it works and this is how you get money,’’ Sita recalled. ‘‘She told me many people had done it, even girls younger than me.’’ The money promised was Rs15,000. What Pradhan collected from the clinic on her behalf was between Rs70,000 and Rs80,000.
-
-No one told Sita she would be put under anesthesia. No one explained what the injections were for. When she was asked to sign documents, the agent signed them herself, listing herself as a guardian. Sita does not know what those documents said. She was never given a copy.
-
-‘‘They said there were no risks,’’ she said. ‘‘They didn’t mention injections or being unconscious. They just called it egg donation.’’
-
-Sita donated once, though she knew girls who had donated twice within two months, far shorter than the four-to-five-month gap that medical standards require between donations. Her periods have been irregular ever since—sometimes late, sometimes early. That had never happened before.
-
-The clinic did not follow up. Her parents only found out when they saw messages on her phone. She was, by then, already gone from the clinic's records—replaced by a false name and a false age. When her father—identified here by his last name, Tamang—later obtained the files, his daughter’s age had been changed to 25. The names listed were not hers.
-
-‘‘All the documents were totally fake,’’ Tamang said. When he tried to fight the case, a clinic-linked official warned him: ‘‘I am a judge-like person, you cannot fight against us.’’ Tamang pushed back regardless, eventually approaching the Central Investigation Bureau. Even after the CIB arrested the doctors and agents involved, they were released quickly. Political pressure, Tamang said, ran through the entire process. ‘‘Because of high-level connections, the legal process was constantly obstructed.’’
-
-Today, Sita is clear about what happened to her. ‘‘Yes, I was exploited,’’ she said. She is just as clear on bodily autonomy. ‘‘I think doing this under the age of 25 is very risky. If I had been more mature and had more information, I wouldn’t have done it. If a younger girl asked me today if she should donate, I would say: “A definte ‘No’!”
-
-Nutan Sharma, an IVF specialist at Norvic Hospital, does not dispute what Sita experienced.
-
-‘‘A 17-year-old girl has hardly any knowledge and can be easily swayed for a little bit of money,’’ she said. ‘‘The reason we have this problem is that the system was being misused.’’
-
-But Sharma’s concern now is what the ban means for the other side of that same system—the women who are not donors, but who cannot conceive without one.
-
-Sharma supports the ban—conditionally. ‘‘I obey and support the recent suspension because our government should come up with clear regulations that are good for everyone,’’ she said. But she is also clear about what is at stake in the interim. “Forty to fifty percent of IVF patients cannot become mothers without donor eggs. They have a right to achieve motherhood.’’
-
-Lawyer Shreena Nepal, who has been involved in legal advocacy around Nepal’s Assisted Reproductive Technology (ART) framework, explains that the court’s order exposed a fundamental problem: there is no statute in Nepal that specifically defines or regulates egg donation. The Civil Code addresses the paternity of children born through artificial insemination but says nothing about ova. The Criminal Code is similarly silent. ‘‘As there is no law, there is no crime—but that also means there is no protection,’’ she said.
-
-The classification of what the clinics involved in the Hope Fertility case actually did has proven legally difficult. Nepal’s Human Trafficking Act focuses largely on sexual exploitation, and it is unclear whether extracting and selling eggs from a minor fits that definition. ‘‘These are new and developing concepts in Nepal,’’ the lawyer said. ‘‘The law has not caught up.’’
-
-She is among those pushing for a comprehensive ART law—one that would set age limits for donors, require that donors have at least one child of their own, cap the number of times a person can donate, mandate citizenship verification to confirm age, standardise compensation across both public and private hospitals, and require mandatory health screening for donors. India passed its own ART Act in 2021, and Nepal’s fertility advocates have pointed to it as a model, however imperfect.
-
-Lawyer Nepal is not optimistic that such a law will come anytime soon. ‘‘It can take decades,’’ she said. She points to surrogacy—the Supreme Court ordered its regulation in 2016, and Nepal is yet to enact a law governing it. Egg donation, she fears, risks the same fate.
-
-In government hospitals, the queues say what the policy documents do not. Since the ban, the demand for fertility services has not disappeared, but it has simply backed up. Geeta, a doctor at one such hospital who asked to be identified by a pseudonym, has watched it happen.
-
-‘‘Egg donation is needed when women have low ovarian reserves. Any woman of any age can have low ovarian reserve—I have seen it in women who are 20, 25, 30, and 40,’’ she said. ‘‘If a woman is 40, she may need a younger woman’s eggs. As a doctor, what should I do now that it has been banned?’’
-
-She is not opposed to the ban itself. ‘‘The government acted as minors were being used as donors, and the same persons were donating multiple times.” But she wants the government to move quickly. The age criteria, the health checks, the limits on repeat donations, the standardised pricing—all of it, she said, needs to be codified. ‘‘They should check citizenship cards to confirm age. India has already started doing this. Our government can do the same.’’
-
-She has also seen the cross-border effect. ‘‘Many people are going to India, especially to Delhi, because egg donation is allowed there. But many of them are not financially stable or fully aware of how the process works. IVF is not a guarantee. I have seen people return after three cycles, three months, three attempts—unable to conceive. It is a waste of money for them.’’
-
-Preeti Bista, a clinical embryologist at Angel Fertility Clinic and Maya IVF, says that before the ban, her clinic would see an average of 15 to 20 patients seeking fertility services. That figure has since then dropped to 7 to 8 cases, and that too only self-implantation. ‘‘This has affected all the clinics,’’ she said. Those who genuinely need donor eggs are left with two options: either to join the waitlist or to cross the border for the service.
-
-Sharma’s view on cross-border care is less about cost than quality. ‘‘I would always recommend against going abroad,’’ she said. ‘‘We provide very good quality service here. We have patients coming to us from Bangladesh, China, the US, the UK, and Australia.’’
-
-The cross-border movement for fertility services was already underway before the Supreme Court order and Nepal’s regulatory crackdown has accelerated it. Several IVF clinics in Delhi and other Indian cities openly market themselves to patients from Nepal, offering packages that include flights, medical visa assistance, and accommodation. After the ban, some clinics in Nepal that had offered donor-egg services scaled back or paused entirely, pushing more couples across the border.
-
-In April this year, Nepal Medical Council Registrar Satis Kumar Deo moved to stop an unauthorised IVF consultation camp run by Indian doctors at a Kathmandu hotel, underscoring both the existing demand and the vacuum that has formed to fill it.
-
-The Supreme Court’s intervention was framed as a form of protection. But who was consulted before that protection was put in place?
-
-Sumitra Poudel, Program and Research Coordinator at WOREC Nepal—an organisation that has conducted sustained field research on infertility through an Sexual and Reproductive Health and Rights lens—says the absence of consultation with women’s rights groups and civil society before the ban reflects a familiar pattern.
-
-“Policies affecting women's bodies and reproductive choices are often shaped through moral, legal, or institutional perspectives without adequately hearing from those most impacted,” she said. “This is especially concerning in areas like infertility, where stigma already prevents open discussion and where women frequently suffer in silence.”
-
-Infertility, WOREC research found, becomes a trigger for domestic violence, social exclusion, and mental health distress, not because of medicine but because of social meaning attached to a woman’s inability to conceive.
-
-The problem, Poudel argues, was never the transaction itself, it was the absence of any framework that would make it safe and ethical. ‘‘If women voluntarily choose to support intended parents through egg donation, the government should not criminalise or silence those decisions,’’ Poudel said. ‘‘It should ensure dignity, informed consent, fair compensation, medical safety, and protection from exploitation.’’
-
-A blanket ban, she warned, risks pushing practices underground—reducing accountability rather than eliminating harm. ‘‘Bans alone rarely eliminate exploitation. They often increase risk.’’
-
-The women WOREC works with, Poudel said, are not asking only for access to technology. ‘‘A recurring message was that women should not be forced to suffer silently because of policy gaps, stigma, or the absence of state responsibility.’’ She was as direct on what the state owes all women involved. ‘‘Women should not have to choose between exploitation and complete denial of reproductive options. The state’s responsibility is to create rights-based regulation that protects all women involved—donors, recipients, and intended parents—rather than relying solely on prohibition.’’
-
-The egg donation ban sits at the centre of a broader tension in how Nepal and many countries legislate around women’s reproduction. For Shreena Nepal, who was part of the legal team behind the writ petition, that right was never in question. Article 38 of Nepal's Constitution guarantees women a fundamental right to bodily autonomy—one she says the ban does not negate.
-
-‘“The right exists,” she said. “The issue is the lack of regulation around how those rights are exercised.” The ban, while it is permanent for the minors, she said, is a temporary measure for others—as a way to prevent exploitation until proper rules are in place. But temporary, in Nepal’s legislative history, can mean a very long time.
-
-For Sita, there is at least a partial reckoning. The CIB acted. The case reached court. The agent and the clinic have been named. The system that failed her has been, however imperfectly, interrupted.
-
-For Padma, the wait continues. She is not the person the Supreme Court was trying to protect. She is someone who needed the system to function ethically so that she could use it, and the ban that came to stop Sita’s exploitation is the same ban that now stands between Padma and the only medical option she has left.
-
-“I understand why they stopped it,” she said. “But I wish they had a plan for people like me.”","{'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://openweathermap.org/img/w/50d.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/news/InfertilityOPDPrasutiHospital01-1779241683.jpg', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png'}","पद्मा जखन 22 वर्षक छलीह तखन हुनका कैंसर केर पता चलल छलनि। एकरऽ बाद जे भेलै, वू छेलै कीमोथेरेपी केरऽ तीन क्रूर चक्र--प्रत्येक आवश्यक, हर एक ओकरा स॑ कुछ-कुछ लेन॑ छेलै । डॉक्टर चेतावनी देलखिन्ह जे एहि विकिरण सं हुनकर अंडाशय के नुकसान होएत. मुदा पद्मा जीबैत रहबाक लेल लड़ि रहल छलाह। ओकर अंडा जमब एकटा आओर समय लेल समस्या बुझाइत छलैक, जे ओकरा आशा छलैक जे ओकरा हेतैक।
-
-ओ बचि गेलीह। ओकर अंडाशय नहि छलैक।
-
-आब 27 वर्षीय पद्मा-जिनकर नाम हुनकर निजता के रक्षा के लेल बदलल गेल अछि- के गर्भधारण करय लेल दाता के अंडा चाही. सामान्य परिस्थिति मे ओ विकल्प नेपाल मे उपलब्ध रहैत। लेकिन पिछला अगस्त म॑ नेपाल केरऽ सर्वोच्च न्यायालय न॑ अंतरिम आदेश जारी करी क॑ महिला केरऽ अंडा निकालै आरू भंडारण प॑ पूरा तरह स॑ रोक लगाय क॑ सरकार क॑ निर्देश देल॑ छेलै कि कोय भी क्लिनिक म॑ सेवा शुरू होय स॑ पहल॑ नियम बनाबै के छै । बाबरमहल स्थित होप फर्टिलिटी एंड डायग्नोस्टिक प्राइवेट लिमिटेड किशोरी लड़की स अंडा क अवैध तरीका स निकालि कए व्यावसायिक रूप स बेचैत पाउल गेलाक बाद इ आदेश देल गेल अछि। कोर्ट’क मंशा छल सुरक्षा. मुदा पद्मा सन महिला लेल सुरक्षा बहुत देर स पहुंचल, आ आगू की हेतै ओकर इंतजार क कोनो स्पष्ट अंत नहि।
-
-‘‘हम सब किछु ठीके केलहुँ,’’ ओ बजलीह । ‘‘हम अपन कैंसर के इलाज केलहुं। आ आब हमरा कहल जा रहल अछि जे सरकारक कानून लिखबाक प्रतीक्षा करू।’’
-
-नेपाल केरऽ सर्वोच्च न्यायालय केरऽ आदेश, जे १९ अगस्त २०२५ क॑ न्यायमूर्ति टेक प्रसाद ढुंगाना के नेतृत्व म॑ एकल पीठ द्वारा जारी करलऽ गेलऽ छेलै, अधिवक्ता नीरब ग्यावाली, ध्रुव भण्डारी, आरू अंकिता त्रिपाठी द्वारा दायर करलऽ गेलऽ रिट याचिका के परिणाम छेकै । याचिकाकर्ता सब के तर्क छल जे अंडा निकालय के अनुमति केवल स्पष्ट कानूनी ढाँचा के तहत देल जेबाक चाही। कोर्ट एहि बात पर सहमत भ गेल आ कोनो कानून के अभाव मे एकरा पर एकदम रोक लगा देलक।
-
-प्रतिबंध बेवजह नहि छल। होप फर्टिलिटी केस मे ओ बात उजागर भ गेल छल जे चिकित्सा समुदाय के बहुतो लोक के बहुत पहिने सं पता छलन्हि जे नेपाल के तेजी सं बढ़ैत फर्टिलिटी उद्योग कम या कोनो निगरानी के संग संचालित भ रहल छल. एजेंट सब दाता के भर्ती केलक, जाहि में बहुतो युवती सब के पैसा के जरूरत छल आ प्रक्रिया के बारे में कम समझ छल। क्लिनिक गुणा-भाग भ गेल। आ ओहि क्लिनिक सभक पाछू एकटा सिस्टम छल जे नुकाबय पर बनल छल.
-
-एकटा युवती-जेकरा एतय सीता कहल जाइत अछि, छद्म नाम-17 वर्षक छलीह जखन जस्टीना प्रधान नामक एजेंट पहिल बेर हुनका लग आयल छलीह. पिच सरल छल: अपन अंडा दान करू, वेतन पाउ। ‘‘ओ कहने छलीह जे एहि तरहेँ काज होइत छैक आ एहि तरहेँ पाइ भेटैत छैक,’’ सीता मोन पाड़लीह । ‘‘ओ हमरा कहलनि जे कतेको लोक ई काज केने छथि, ओहो हमरा सँ छोट लड़कियो।’’ वादा कएल गेल पाइ 15 हजार रुपैया छल। प्रधान अपन तरफ स क्लिनिक स जे वसूली केलथि ओ 70 स 80 हजार टका क बीच छल।
-
-सीता के कियो नहि कहलक जे हुनका एनेस्थेसिया देल जायत। कियो नहि बुझेलक जे इंजेक्शन कोन काज लेल अछि। जखन हुनका दस्तावेज पर हस्ताक्षर करय लेल कहल गेल त एजेंट स्वयं हस्ताक्षर क लेलक, अपना के गार्जियन के रूप मे सूचीबद्ध केलक। सीता के पता नै छै कि ओ दस्तावेज में की कहल गेल छल। हुनका कहियो एकर प्रति नहि देल गेलनि।
-
-‘‘ओ सभ कहलक जे कोनो जोखिम नहि अछि,’’ ओ बजलीह । ‘‘ओ सब इंजेक्शन आ बेहोश रहबाक बात नहि केलक। बस एकरा अंडा दान कहैत छल।’’
-
-सीता एक बेर दान केने छलीह, हालांकि ओ एहन लड़कियो के चिन्हैत छलीह जे दू महीना के भीतर दू बेर दान केने छलीह, जे चारि सं पांच महीना के अंतर सं कहीं कम छल जे चिकित्सा मानक के अनुसार चंदा के बीच चाही. तहिया सँ ओकर पीरियड्स अनियमित भ' गेलै-कखनो देर, कखनो जल्दी। पहिने कहियो एहन नहि भेल छल।
-
-क्लिनिक मे कोनो फॉलोअप नहि भेल। हुनकर माता-पिता के तखने पता चललनि जखन हुनकर फोन पर मैसेज देखलनि। ओ, ताबत, क्लिनिकक रिकार्डसँ चलि गेल छलीह-जकर स्थान पर एकटा झूठ नाम आ एकटा झूठ उम्र आबि गेल छलीह. बाद मे जखन ओकर पिता – जकर पहचान एतय ओकर अंतिम नाम तामांग सँ भेलैक – तखन ओकर बेटी’क उम्र बदलि क’ 25 साल भ’ गेलै.
-
-‘‘सब दस्तावेज एकदम नकली छल,’’ तामांग कहलनि। जखन ओ एहि मामला सँ लड़बाक प्रयास केलनि त’ क्लिनिक सँ जुड़ल एकटा अधिकारी हुनका चेतावनी देलनि: ‘‘हम जज सन व्यक्ति छी, अहाँ हमरा सभक विरुद्ध लड़ि नहि सकैत छी।’’ तामांग परवाह केने बिना पाछू हटि गेल, अंततः केंद्रीय जांच ब्यूरो लग पहुँचल। सीआईबी के तरफ सं एहि मे शामिल डॉक्टर आओर एजेंट के गिरफ्तार करला के बाद सेहो हुनका सभ के जल्दी छोड़ि देल गेल. तामांग कहलनि जे, एहि पूरा प्रक्रिया मे राजनीतिक दबाव चलल। ‘‘उच्च स्तरीय कनेक्शन के कारण कानूनी प्रक्रिया में लगातार बाधा आबि रहल छल।’’
-
-आइ सीता स्पष्ट छथि जे हुनका संग की भेलनि। ‘‘हँ, हमर शोषण भेल,’’ ओ बजलीह । शारीरिक स्वायत्तता पर सेहो ओतबे स्पष्ट छथि । ‘‘हमरा लगै छै कि 25 साल स॑ कम उम्र म॑ ई काम करना बहुत जोखिम भरलऽ छै । जँ हम बेसी परिपक्व रहितहुँ आ बेसी जानकारी रहैत त’ हम ई काज नहि करितहुँ. आइ जँ कोनो छोटकी लड़की हमरा सँ पूछैत छल जे दान करबाक चाही की नहि त’ हम कहैत छलहुँ: “एकटा निश्चित ‘नहि’!”
-
-नॉर्विक अस्पताल के आईवीएफ विशेषज्ञ नूतन शर्मा के कोनो विवाद नै छैन्ह जे सीता के जे अनुभव भेलैन।
-
-‘‘17 साल के लड़की के शायदे कोनो ज्ञान होयत छै आ कनिको पैसा के लेल ओकरा आसानी स झूला देल जा सकैत छै,’’ ओ बजलीह। ‘‘हमरा सब के ई समस्या के कारण ई छै कि सिस्टम के दुरुपयोग होय रहलऽ छेलै।’’
-
-मुदा शर्मा’क चिंता आब ई जे ओहि व्यवस्थाक दोसर पक्ष लेल एहि प्रतिबंधक की मतलब छैक-ओहि महिला जे दाता नहि छथि, मुदा बिना दाताक गर्भधारण नहि क’ सकैत छथि.
-
-शर्मा एहि प्रतिबंधक समर्थन करैत छथि-सशर्त। ‘‘हम हाल केरऽ निलंबन केरऽ बात मानबै आरू समर्थन करै छियै, कैन्हेंकि हमरऽ सरकार क॑ ऐन्हऽ स्पष्ट नियम बनाबै के चाही जे सब लेली अच्छा होय,’’ हुनी कहलकै । मुदा एहि बीच की दांव पर लागल अछि एहि पर सेहो ओ साफ छथि। “आईवीएफ केरऽ चालीस स॑ पचास प्रतिशत मरीज बिना दाता केरऽ अंडा के मां नै बनी सकै छै । ओकरा मातृत्व प्राप्त करै के अधिकार छै ।’’
-
-नेपाल केरऽ सहायता प्राप्त प्रजनन प्रौद्योगिकी (एआरटी) ढाँचा के आसपास कानूनी वकालत म॑ जुटलऽ वकील श्रीना नेपाल बतैलकै कि कोर्ट केरऽ आदेश स॑ एगो मौलिक समस्या के खुलासा करलऽ गेलै : नेपाल म॑ ऐन्हऽ कोय विधान नै छै जेकरा म॑ अंडादान क॑ विशेष रूप स॑ परिभाषित या नियमन करलऽ जाय । सिविल कोड मे कृत्रिम गर्भाधान कें माध्यम सं जन्म लेवय वाला बच्चाक कें पितृत्व कें संबोधित कैल गेल छै मुदा अंडा कें बारे मे किछ नहि कहल गेल छै. आपराधिक संहिता सेहो एहने मौन अछि। ‘‘जेना कानून नै छै, अपराध नै छै-मुदा एकरऽ मतलब ई भी छै कि सुरक्षा नै छै,’’ ओ बजलीह ।
-
-होप फर्टिलिटी मामला म॑ शामिल क्लिनिक न॑ वास्तव म॑ की करलकै, एकरऽ वर्गीकरण कानूनी रूप स॑ मुश्किल साबित होय गेलऽ छै । नेपाल केरऽ मानव तस्करी अधिनियम म॑ बहुत हद तलक यौन शोषण प॑ ध्यान देलऽ गेलऽ छै, आरू ई स्पष्ट नै छै कि नाबालिग स॑ अंडा निकालना आरू बेचना वू परिभाषा प॑ फिट बैठै छै कि नै । ‘‘नेपाल मे ई सब नव आ विकासशील अवधारणा अछि,’’ वकील कहलनि । ‘‘कानून नहि पकड़लक अछि।’’
-
-ओ एकटा व्यापक एआरटी कानून कें लेल धक्का देवय वालाक मे शामिल छै-जे दाताक कें लेल उम्र सीमा निर्धारित करतय, दाताक कें लेल कम सं कम एकटा बच्चा होबाक चाही, कोनों व्यक्ति कें दान करय कें संख्या कें सीमा निर्धारित करतय, उम्र कें पुष्टि करय कें लेल नागरिकता सत्यापन कें अनिवार्य करतय, सार्वजनिक आ निजी दूनू अस्पतालक मे मुआवजा कें मानकीकरण करतय, आ दाताक कें लेल अनिवार्य स्वास्थ्य जांच कें आवश्यकता होयत. भारत न॑ २०२१ म॑ अपनऽ एआरटी एक्ट पास करलकै, आरू नेपाल केरऽ प्रजनन क्षमता के पक्षधर एकरा मॉडल के रूप म॑ इंगित करल॑ छै, चाहे वू कतनी भी अपूर्ण होय ।
-
-वकील नेपाल आशावादी नहि अछि जे एहन कानून जल्दिये आओत। ‘‘दशकों लागि सकैत अछि,’’ ओ बजलीह । ओ सरोगेसी दिस इशारा करैत छथि-सुप्रीम कोर्ट 2016 मे एकर नियमन क आदेश देलक, आ नेपाल मे एखन धरि एकरा नियंत्रित करय वाला कानून नहि बनल अछि। अंडा दान, ओकरा आशंका छै, ओही भाग्य के जोखिम में छै।
-
-सरकारी अस्पताल मे कतार मे ओ बात कहैत अछि जे नीतिगत दस्तावेज मे नहि अछि। प्रतिबंध के बाद सं प्रजनन सेवा के मांग गायब नहिं भेल अछि, मुदा बस एकर समर्थन केलक अछि. एहने एकटा अस्पताल के डॉक्टर गीता जे छद्म नाम सं पहचान करय लेल कहलखिन्ह, ओ एकरा होइत देखलखिन्ह.
-
-‘‘अंडादान कें जरूरत तखन होयत छै जखन महिलाक मे अंडाशय कें भंडार कम होयत छै. कोनो उम्र के कोनो महिला के अंडाशय के रिजर्व कम भ सकैत अछि-हम 20, 25, 30, आ 40 साल के महिला में देखलहुं अछि,’’ ओ बजलीह. ‘‘जँ कोनो महिला 40 वर्षक अछि त’ ओकरा छोट महिला’क अंडा चाही. एकटा डाक्टरक रूप मे आब जखन एकरा पर रोक लगा देल गेल अछि तखन हम की करी?’’
-
-ओ स्वयं एहि प्रतिबंधक विरोध नहि करैत छथि । ‘‘सरकार नाबालिग के रूप में काज केलक जेना दाता के रूप में उपयोग भ रहल छल, आ ओही व्यक्ति सब कई बेर दान क रहल छल।” मुदा ओ चाहैत छथि जे सरकार जल्दीए आगू बढ़य। उम्र केरऽ मानदंड, स्वास्थ्य जांच, बार-बार दान केरऽ सीमा, मानकीकृत मूल्य निर्धारण-ई सब क॑ संहिताबद्ध करै के जरूरत छै, हुनी कहलकै । ‘‘उम्र के पुष्टि करय लेल नागरिकता कार्ड के जांच करबाक चाही. भारत ई काज करब शुरू क’ चुकल अछि। हमर सरकार सेहो एहने क सकैत अछि।’’
-
-सीमा पारक प्रभाव सेहो देखलनि अछि । ‘‘बहुत लोक भारत जा रहल छथि, खास क’ दिल्ली, कारण ओतय अंडा दानक अनुमति अछि । मुदा एहि मे सं बहुतो के आर्थिक रूप सं स्थिर नहिं छथिन्ह आओर एहि बात के पूरा जानकारी नहिं छथिन्ह जे ई प्रक्रिया कोना चलैत अछि. आईवीएफ कोनो गारंटी नहि अछि। हम देखलहुँ जे तीन चक्र, तीन मास, तीन प्रयासक बाद लोक घुरैत अछि-गर्भधारण करबा मे असमर्थ। हुनका सभक लेल ई पाइक बर्बादी अछि।’’
-
-एंजेल फर्टिलिटी क्लिनिक आरू माया आईवीएफ केरऽ क्लिनिकल भ्रूण विज्ञानी प्रीति बिष्ट के कहना छै कि प्रतिबंध स॑ पहल॑ हुनकऽ क्लिनिक म॑ औसतन १५ स॑ २० मरीज फर्टिलिटी सेवा चाहै वाला देखै ल॑ मिलतै । तकर बाद ओ आंकड़ा घटि कए 7 स 8 मामला भ गेल अछि, आ ओहो केवल स्व-प्रत्यारोपण। ‘‘एकर असर सब क्लिनिक पर पड़ल अछि,’’ ओ बजलीह। जेकरा सही मायने मे दाता कें अंडा कें जरूरत छै ओकरा दूटा विकल्प छोड़ल गेल छै: या त वेटलिस्ट मे शामिल होनाय या सेवा कें लेल सीमा पार करनाय.
-
-सीमा पार सं देखभाल पर शर्मा कें विचार गुणवत्ता सं बेसि लागत कें बारे मे कम छै. ‘‘हम सदिखन विदेश जेबाक विरुद्ध सिफारिश करब,’’ ओ बजलीह । ‘‘हम एतय बहुत नीक क्वालिटी के सेवा दैत छी। हमरा सब लग बांग्लादेश, चीन, अमेरिका, ब्रिटेन, आ ऑस्ट्रेलिया स मरीज आबि रहल छथि।’’
-
-सुप्रीम कोर्ट केरऽ आदेश स॑ पहल॑ ही प्रजनन सेवा लेली सीमा पार स॑ आन्दोलन चलै छेलै आरू नेपाल केरऽ नियामक दमन स॑ एकरा म॑ तेजी आबी गेलऽ छै । दिल्ली आरू अन्य भारतीय शहरऽ म॑ कईएक आईवीएफ क्लिनिक नेपाल स॑ आबै वाला मरीजऽ लेली खुल क॑ खुद के मार्केटिंग करै छै, जेकरा म॑ पैकेज उपलब्ध छै जेकरा म॑ उड़ान, मेडिकल वीजा सहायता, आरू आवास शामिल छै । प्रतिबंध के बाद नेपाल के किछ क्लिनिक जे दाता-अंडा सेवा दैत छल, ओहि मे स्केल कम भ गेल या पूरा तरह सं रुकि गेल, जाहि सं बेसि दंपति के सीमा पार धकेल देल गेल.
-
-एहि साल अप्रैल मे नेपाल मेडिकल काउन्सिल क रजिस्ट्रार सतीस कुमार देव काठमांडू होटल मे भारतीय चिकित्सक द्वारा संचालित अनधिकृत आईवीएफ परामर्श शिविर कए रोकबाक प्रस्ताव रखलथि, जाहि मे मौजूदा मांग आ ओकरा भरबा लेल जे रिक्त स्थान बनल अछि, दुनू कए रेखांकित कैल गेल।
-
-सुप्रीम कोर्ट केरऽ हस्तक्षेप क॑ सुरक्षा केरऽ रूप म॑ फ्रेम करलऽ गेलऽ छेलै । मुदा ओहि संरक्षण के लागू करय सं पहिने केकरा सं परामर्श भेल छल?
-
-यौन आरू प्रजनन स्वास्थ्य आरू अधिकार केरऽ चश्मा स॑ बांझपन प॑ लगातार क्षेत्रीय शोध करै वाला संस्था WOREC नेपाल केरऽ कार्यक्रम आरू शोध समन्वयक सुमित्रा पौडेल के कहना छै कि प्रतिबंध स॑ पहल॑ महिला अधिकार समूह आरू नागरिक समाज स॑ परामर्श के अभाव एगो परिचित पैटर्न क॑ दर्शाबै छै ।
-
-हुनी कहलकै, “महिला के शरीर आरू प्रजनन विकल्प क प्रभावित करै वाला नीति क अक्सर नैतिक, कानूनी या संस्थागत दृष्टिकोण के माध्यम स॑ आकार देलऽ जाय छै, जेकरा म॑ सबसें अधिक प्रभावित लोगऽ स॑ पर्याप्त रूप स॑ सुनलऽ नै जाय छै । “ई खास करी क॑ बांझपन जैसनऽ क्षेत्रऽ म॑ चिंताजनक छै, जहां कलंक पहिने स॑ ही खुला चर्चा क॑ रोकै छै आरू जहाँ महिला सिनी क॑ अक्सर चुप्पी म॑ पीड़ित होय छै ।”
-
-WOREC केरऽ शोध म॑ पता चललै कि बांझपन घरेलू हिंसा, सामाजिक बहिष्कार, आरू मानसिक स्वास्थ्य संकट केरऽ ट्रिगर बनी जाय छै, जे चिकित्सा के कारण नै बल्कि महिला केरऽ गर्भधारण म॑ असमर्थता स॑ जुड़लऽ सामाजिक अर्थ के कारण होय छै ।
-
-पौडेल के तर्क छै कि समस्या कहियो खुद लेनदेन नै छेलै, ई कोनो ऐन्हऽ ढाँचा के अभाव छेलै जेकरा स॑ एकरा सुरक्षित आरू नैतिक बनाबै के कोशिश करलऽ जाय । ‘‘जदि महिला स्वेच्छा स॑ अंडा दान के माध्यम स॑ इच्छित माता-पिता के साथ देना चुनै छै त॑ सरकार क॑ वू फैसला क॑ अपराध नै बनाबै के चाही या चुप नै करै के चाही,’’ पौडेल न॑ कहलकै । ‘‘एकरा गरिमा, सूचित सहमति, उचित मुआवजा, चिकित्सा सुरक्षा, आ शोषण सं सुरक्षा सुनिश्चित करबाक चाही.’’
-
-ओ चेतावनी देलनि जे कंबल प्रतिबंध सं प्रथा के भूमिगत धकेलबाक जोखिम अछि-हानि खत्म करय सं बेसी जवाबदेही कम. ‘‘अकेले प्रतिबंध स शोषण कए शायदे कखनो समाप्त भ जाइत अछि। ई सब अक्सर जोखिम बढ़ाबै छै।’’
-
-पौडेल कहला जे वोरेक जे महिला क संग काज करैत अछि ओ केवल तकनीक तक पहुंच नहि मांगि रहल छथि। ‘‘एकटा आवर्ती संदेश ई छेलै कि नीतिगत अंतराल, कलंक, या राज्य के जिम्मेदारी के अभाव के कारण महिला सिनी क॑ चुपचाप कष्ट नै उठाबै लेली मजबूर नै करलऽ जाय ।’’ हुनी ई बात प॑ भी ओतने प्रत्यक्ष छेली कि राज्य केरऽ की ऋण छै, जेकरा म॑ शामिल सब महिला छै । ‘‘महिला कें शोषण आ प्रजनन विकल्पक कें पूर्ण रूप सं इनकार करय कें बीच चुनाव नहि करय कें चाही. राज्य कें जिम्मेदारी अधिकार आधारित नियमन बनाना छै जे केवल निषेध पर भरोसा करय कें बजाय शामिल सब महिलाक-दाता, प्राप्तकर्ता, आ इच्छित माता-पिता कें सुरक्षा करय.’’
-
-अंडा दान पर रोक एकटा व्यापक तनाव के केंद्र में बैसल अछि जे नेपाल आ बहुत रास देश महिला के प्रजनन के आसपास कोना कानून बनबैत अछि. रिट याचिका के पाछु कानूनी टीम के हिस्सा रहल श्रीना नेपाल के लेल ओहि अधिकार पर कहियो सवाल नहि उठल। नेपाल के संविधान के अनुच्छेद ३८ महिला सब के शारीरिक स्वायत्तता के मौलिक अधिकार के गारंटी दै छै-एकरा के हुनकऽ कहना छै कि प्रतिबंध नकार नै करै छै ।
-
-‘“अधिकार अछि” ओ बजलीह । “मुद्दा ई छै कि वू अधिकारऽ के प्रयोग केना करलऽ जाय छै, एकरा आसपास नियमन के कमी छै।” ओ कहली जे इ प्रतिबंध, जखन कि इ नाबालिग क लेल स्थायी अछि, मुदा दोसर क लेल एकटा अस्थायी उपाय अछि-जखन तक उचित नियम नहि बनल ता धरि शोषण कए रोकबाक तरीका अछि। मुदा अस्थायी, नेपाल के विधायी इतिहास मे, बहुत लंबा समय के मतलब भ सकैत अछि.
-
-सीता लेल कम स कम आंशिक हिसाब-किताब त अछि। सीआईबी काज केलक। मामला कोर्ट मे पहुंच गेल। एजेंट आ क्लिनिक के नाम राखल गेल अछि। जे व्यवस्था हुनका असफल क' देलकनि, से कतबो अपूर्ण रूपें, बाधित भ' गेल अछि.
-
-पद्मा लेल प्रतीक्षा जारी अछि। ओ ओ व्यक्ति नहि छथि जेकर सुरक्षा सुप्रीम कोर्ट क रहल छल। ओ एहन व्यक्ति छथि जिनका एहि व्यवस्थाक नैतिकतापूर्वक काज करबाक आवश्यकता छलनि जाहि सँ ओ एकर उपयोग क’ सकथि, आ सीता’क शोषण केँ रोकबाक लेल जे प्रतिबंध आयल छल से वैह प्रतिबंध अछि जे आब पद्म आ एकमात्र चिकित्सा विकल्पक बीच ठाढ़ अछि जे हुनका बँचि गेल छनि.
-
-ओ कहलीह जे हम बुझैत छी जे ओ सब एकरा किया रोकलथि। “मुदा काश, हमरा सन लोकक लेल हुनका सभक कोनो योजना रहैत।”",Health
 Foreign minister at odds with ministry officials downsizing Nepal’s diplomatic outreach - The Kathmandu Post,Foreign minister at odds with ministry officials downsizing Nepal’s diplomatic outreach  The Kathmandu Post,2026-05-20 01:58:46,https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ05DVXp6ODhXZ0FQSkRNUEFaWEcwZHBVbU9WMHpuNTB3NGFQcjcxbHExeWg0d1QyLXE5bzRONEJHUDJPbVpBTUVDRkJEaWhoYWtwbGYySWxwZnRCdTVJdGQ1LUhtaF9pNkdERGVTMmpLMGN6V3hHX3FPUE1mTloydTdUSFBvRHZHcWp3d2pmZXdTWXZobF9tNEhsMGtPbHVzekVLLVlaZzE4TDZ3YUpPWlZUbTNCRjF1QzNha0dfM05OOXpNQXd2YWVIempJdw?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"One of the primary agendas of the current Balendra Shah government is to restructure the oversized bureaucracy to ensure more effective service delivery and reduce public expenditure. In line with this effort, the government has slashed the number of ministries to 18 from 21.
 
 Additionally, a committee is now working on streamlining the civil service, which could potentially cut over 25,000 positions, according to officials at the Ministry of General Administration.
@@ -10909,3 +10297,435 @@ Published on May 25, 2026","{'https://www.google-analytics.com/g/collect?v=2&tid
 टिप्पणी
 
 25 मई, 2026 को प्रकाशित",Interview
+Junko Tabei comes back to life on screen - Nepali Times,Junko Tabei comes back to life on screen  Nepali Times,2026-05-25 06:56:02,https://news.google.com/rss/articles/CBMickFVX3lxTFBoMkgxcW1ncnVVZ0lxbXVxQ0I3SjAxUXlSM3VnOHlCRFJVbEpNbzk3czczUFZLUUNKVzZoU0dnUV9heVhha2pEOF9tYzAxY3l5cG40Rko5bWhCa1hoNnBMU3FpSnlhNVFMWDFoS3JGYUFUQQ?oc=5&hl=en-US&gl=US&ceid=US:en,https://nepalitimes.com,Nepali Times,"Junko Tabei (1939-2016) is remembered not only as the first woman to summit Mt Everest in 1975, but also as an irreplaceable lifelong friend of Nepal.
+
+It was 1975, the International Women’s Year. And 2026 is the 70th anniversary of the establishment of diplomatic relations between Japan and Nepal. The timing could not be better for the special screening on 30 May at the Kathmandu International Mountain Film Festival (KMIFF) of the Junko Tabei biopic, Climbing for Life.
+
+As a Japanese citizen who has lived in Nepal for 36 years, and was a member of the same mountaineering club as Junko, I am among the generations she inspired.
+
+Junko received worldwide acclaim after her epic climb, and even while suffering from terminal illness in her later years, refused to limit her activities. She was loved by her family, enjoyed life to the fullest, continued to climb, and encouraged young people traumatised by the 2011 Tōhoku earthquake and tsunami to join her in climbing Mount Fuji, Japan’s tallest mountain.
+
+Photo: © “Climbing For Life” Film Partner
+
+Legendary Japanese actress Sayuri Yoshinaga plays Junko in the film, the 124th in her acting career. Throughout, Sayuri has maintained her status as a distinguished star and remained physically fit. Her journey in the film industry mirrors that of Junko, who also reached the top.
+
+Non plays Junko in her younger days, and has been active across a wide range of genres, including music, filmmaking, and art. I was surprised to see how accurately the young actress portrayed Junko’s casual gestures.
+
+Additionally, prominent and talented stars like Koichi Sato and Yuki Amami play Junko’s husband and lifelong best friend. Fumino Kimura and Ryuya Wakaba play Junko’s children. Together they enact the family as its members endure the challenges of having a celebrity mother.
+
+Director Junji Sakamoto has made numerous Japanese cinematic masterpieces since 1989, winning major awards like Japanese Academy‘s Best Director Award. He says the aim of the film was to be enjoyable even for people who are not devoted to the mountains.
+
+Director Junji Sakamoto. Photo: © “Climbing For Life” Film Partner
+
+REAL TO REEL
+
+Unlike the commercialisation of Himalayan climbing today, the 1975 Japanese Women’s Everest Expedition is remarkable. The film captures the spirit of adventure from the early years of expeditions. Everything has been recreated -- from the climbing gear kept in the Junko household to the shirts and boots worn by a young Junko and her future husband, as well as their family car.
+
+The film is authentic about the details of the Tabei family that I knew. The clothing and equipment look as if they were the originals. There may be some who think that Junko is a bit idealised in the movie. That would be natural since this is not a documentary but a feature film — but the move accurately brings the real to reel.
+
+Junko Tabei after summiting Mt Everest in 1975.
+
+In the KIMFF audience will be Japanese residents of Kathmandu, and the screening has been officially recognised as one of the events to celebrate the 70th anniversary of Japan-Nepal diplomatic relations this year.
+
+Junko Tabei loved Nepal and its people. Even in her later years, she kept returning to trek, sometimes with her husband, Masanobu, and other times with her son and daughter. Though they showed little interest in the outdoors as children, they LATER became her greatest supporters.
+
+In 2015, on the 40th anniversary of her ascent of Mount Everest, Nepal was struck by an earthquake which killed nearly 9,000 people nationwide. Additionally, an avalanche triggered by the earthquake caused numerous casualties at Everest Base Camp.
+
+After the chaos settled , Junko and her family marked her own anniversary of the climb at an event in Kathmandu (pictured). Their goal was to contribute to Nepal’s economic recovery by hosting the big get-together and spending money there. At the same time, she sought to strengthen the emotional resilience of her friends in Nepal, and encouraged them to talk and smile together during that challenging time for the nation.
+
+This act of compassion towards Nepal reflected Junko’s own empathy since her own hometown was also devastated by an earthquake and tsunami just four years previously. That 2015 event in Kathmandu was the last time I saw Junko.
+
+She passed away the following year. She did not let on at all that her illness was so advanced. Even now, I want to tell her, “Junko, show a little more weakness to others. I depended on you until the very end, but I was never able to return you the favour that made me a resident of Nepal.”
+
+Bringing the Junko film to KIMFF began as a casual conversation with its director Ramyata Limbu. We shared the same vague hope of screening the film in Kathmandu. We appreciate the support of many people, including the Tabei family, Embassy of Japan in Nepal, Kino Films, Tabei Junko Foundation, and Setsuko Kitamura (Junko’s closest friend and my mentor).
+
+This film might not have been produced if Junko was alive today. The production could therefore be a message from her soul. The screening will be a meaningful opportunity also for us to see Junko’s story unfold on the big screen and reflect on my memories of her.
+
+Junko Tabei in Nepal in 2015.
+
+Miki Upreti is a Japanese writer, former mountaineer, trail runner, and development worker who has lived in Nepal since 1990. She launched this film screening project in collaboration with KIMFF.
+
+Climbing for Life
+
+Directed by Junji Sakamoto
+
+130 mins | Japan | 2025","{'https://nepalitimes.com/cdn-cgi/image/w=1200,h=675/https://media.nepalitimes.com/cover/Sayuri%20Yoshinaga%20(Left).jpg', 'https://media.nepalitimes.com/content/TabeiJunko_Everest2015_photo%235.png', 'https://media.nepalitimes.com/content/Junko%20Tabei%20movie%20NT%201.jpg', 'https://media.nepalitimes.com/content/TabeiJunko_Everest2015_photo%232.png', 'https://nepalitimes.com/brand/nepali-times.png', 'https://media.nepalitimes.com/content/Dir.%20Junji%20Sakamoto.jpeg', 'https://nepalitimes.com/brand/nepali-times-icon.svg', 'https://media.nepalitimes.com/content/TabeiJunko_1975_Everest_photo.png', 'https://media.nepalitimes.com/cover/Sayuri%20Yoshinaga%20(Left).jpg'}","जुन्को तबेई (१९३९-२०१६) क॑ न सिर्फ १९७५ म॑ माउंट एवरेस्ट केरऽ शिखर प॑ पहुँचै वाला पहिलऽ महिला के रूप म॑ ही याद करलऽ जाय छै, बल्कि नेपाल केरऽ एगो अपूरणीय आजीवन दोस्त के रूप म॑ भी याद करलऽ जाय छै ।
+
+ई बात 1975 के बात छै, अंतर्राष्ट्रीय महिला वर्ष. आ २०२६ जापान आ नेपालक बीच कूटनीतिक सम्बन्ध स्थापनाक ७०म वर्षगाँठ अछि । जुन्को तबेई बायोपिक, क्लाइम्बिंग फॉर लाइफ केरऽ काठमांडू अंतर्राष्ट्रीय पर्वत फिल्म महोत्सव (केएमआईएफएफ) म॑ ३० मई क॑ होबै वाला विशेष प्रदर्शन लेली समय बेहतर नै हुअ॑ सकै छै ।
+
+एकटा जापानी नागरिक के रूप में जे 36 साल स नेपाल में रहैत छी, आ जुंको के समान पर्वतारोहण क्लब के सदस्य छलहुं, हम ओहि पीढ़ी में छी जे ओ प्रेरित केने छलीह.
+
+जुंको क॑ अपनऽ महाकाव्य चढ़ाई के बाद दुनिया भर म॑ प्रशंसा मिललै, आरू बाद केरऽ सालऽ म॑ घातक बीमारी स॑ पीड़ित होय के दौरान भी, वू अपनऽ गतिविधि क॑ सीमित करै स॑ मना करी देलकै । हुनका अपनऽ परिवार बहुत पसंद छेलै, जीवन केरऽ पूरा मजा लेलकै, चढ़ाई जारी रखलकै, आरू २०११ केरऽ टोहोकू भूकंप आरू सुनामी स॑ आहत युवा सिनी क॑ हुनका साथ मिल क॑ जापान केरऽ सबस॑ ऊँचऽ पहाड़ फूजी प॑ चढ़ै लेली प्रोत्साहित करलकै ।
+
+फोटो: © “क्लाइम्बिंग फॉर लाइफ” फिल्म पार्टनर
+
+जापान केरऽ दिग्गज अभिनेत्री सयुरी योशिनागा न॑ ई फिल्म म॑ जुंको के भूमिका निभैल॑ छै, जे हुनकऽ अभिनय कैरियर केरऽ १२४वां फिल्म छेकै । पूरा समय में सयुरी एकटा विशिष्ट सितारा के रूप में अपन हैसियत कायम रखने छथि आ शारीरिक रूप स फिट रहल छथि । फिल्म इंडस्ट्री म॑ हुनकऽ यात्रा जुंको केरऽ सफर के दर्पण छै, जे भी शीर्ष पर पहुँची गेलऽ छेलै ।
+
+नॉन अपनऽ छोटऽ दिनऽ म॑ जुंको के भूमिका निभाबै छै, आरू संगीत, फिल्म निर्माण, आरू कला सहित कई तरह के विधा म॑ सक्रिय रहलऽ छै । हमरा ई देखि आश्चर्य भेल जे युवा अभिनेत्री जुंको’क आकस्मिक इशारा केँ कतेक सटीक रूप सँ चित्रित केने छलीह.
+
+एकरऽ अलावा कोइची सातो आरू युकी अमामी जैसनऽ प्रमुख आरू प्रतिभाशाली सितारा जुंको केरऽ पति आरू आजीवन सबसें अच्छा दोस्त के भूमिका म॑ छै । फुमिनो किमुरा आ र्युया वाकाबा जुंको’क बच्चा’क भूमिका मे छथि. ई सब मिल क॑ परिवार क॑ एक्ट करै छै, कैन्हेंकि ओकरऽ सदस्य एगो सेलिब्रिटी माँ केरऽ चुनौती क॑ सहन करै छै ।
+
+निर्देशक जुन्जी साकामोटो न॑ १९८९ स॑ जापान केरऽ अनेक सिनेमाई कृति बनैल॑ छै, जेकरा म॑ जापानी अकादमी केरऽ सर्वश्रेष्ठ निर्देशक पुरस्कार जैसनऽ प्रमुख पुरस्कार मिललऽ छै । हुनकर कहनाय छनि जे एहि फिल्म के मकसद छल जे पहाड़ के प्रति समर्पित नहि लोक के लेल सेहो आनंददायक होए.
+
+निर्देशक जुन्जी साकामोटो। फोटो: © “क्लाइम्बिंग फॉर लाइफ” फिल्म पार्टनर
+
+REAL TO रील के लिये
+
+आइ हिमालयी पर्वतारोहणक व्यावसायिकरणक विपरीत 1975 क जापानी महिला एवरेस्ट अभियान उल्लेखनीय अछि । ई फिल्म अभियान केरऽ शुरुआती सालऽ के रोमांच के भावना क॑ कैप्चर करै छै । सब किछु के पुनर्निमाण कयल गेल अछि -- जुंको घर में राखल चढ़ाई के गियर सं ल क एकटा युवा जुंको आ ओकर होबय बला पति के पहिरल शर्ट आ बूट, संगहि हुनकर पारिवारिक गाड़ी सेहो.
+
+फिल्म तबेई परिवार के विवरण के बारे में प्रामाणिक अछि जे हमरा पता छल. कपड़ा-लत्ता आ उपकरण एना लगैत अछि जेना ओ सभ मूल हो। किछु गोटे एहन भ सकैत छथि जे सोचैत छथि जे सिनेमा मे जुंको कनि आदर्शीकृत छथि । ई स्वाभाविक होयत किएक त’ ई कोनो डॉक्यूमेंट्री नहि बल्कि फीचर फिल्म अछि — मुदा ई कदम सही ढंग सं असली के रील पर ल’ जाइत अछि.
+
+1975 मे माउंट एवरेस्ट के शिखर पर पहुंचला के बाद जुंको तबेई.
+
+किमफफ म॑ दर्शक काठमांडू केरऽ जापानी निवासी होतै, आरू ई प्रदर्शन क॑ आधिकारिक तौर प॑ जापान-नेपाल केरऽ कूटनीतिक संबंध केरऽ ७० वीं वर्षगांठ मनाबै के आयोजन म॑ स॑ एक के रूप म॑ मान्यता देलऽ गेलऽ छै ।
+
+जुन्को तबेई नेपाल आ ओकर लोकसँ प्रेम करैत छल । बाद के साल में भी ट्रेकिंग पर वापस आबै छेली, कखनी पति मसानोबू के साथ त कभी बेटा-बेटी के साथ। भले ही नेनपन में बाहरी दुनिया में बहुत कम रुचि देखै छेलै, लेकिन बाद में ओकरऽ सबसें बड़ऽ समर्थक बनी गेलै ।
+
+2015 मे माउंट एवरेस्ट पर चढ़बाक 40म वर्षगांठ पर नेपाल मे भूकंप आयल छल जाहि मे देश भरि मे लगभग 9 हजार लोकक मौत भ गेल छल। एकरऽ अलावा भूकंप स॑ शुरू होय वाला हिमस्खलन म॑ एवरेस्ट बेस कैंप म॑ भी बहुत लोगऽ के जानमाल के नुकसान होय ​​गेलै ।
+
+अराजकता बसलाक बाद , जुन्को आ हुनकर परिवार काठमांडू (चित्र मे) मे एकटा आयोजन मे चढ़ाई के अपन वर्षगांठ मनौलनि । हुनकऽ लक्ष्य छेलै कि बड़ऽ गेट-टुगेदर के आयोजन करी क॑ आरू वहाँ पैसा खर्च करी क॑ नेपाल केरऽ आर्थिक सुधार म॑ योगदान देलऽ जाय । संगे-संग नेपाल मे अपन मित्र लोकनिक भावनात्मक लचीलापन केँ मजबूत करबाक प्रयास केलनि, आ राष्ट्रक लेल ओहि चुनौतीपूर्ण समय मे दुनू गोटे केँ एक संग गप्प-सप्प आ मुस्कुराबय लेल प्रोत्साहित केलनि।
+
+नेपाल के प्रति ई करुणा के काम जुंको के अपनऽ सहानुभूति के दर्शाबै छेलै, कैन्हेंकि हुनकऽ अपनऽ सासुर भी महज चारि साल पहलें भूकंप आरू सुनामी स॑ तबाह होय गेलऽ छेलै । काठमांडू मे 2015 के ओ आयोजन आखिरी बेर छल जखन हम जुंको के देखलहुं.
+
+अगिला साल हुनकर निधन भ गेलनि। ओ एकदम नहि छोड़लीह जे हुनकर बीमारी एतेक आगू बढ़ि गेल छलनि । एखनहु हम हुनका कहय चाहैत छी, “जुंको, दोसर केँ कनि बेसी कमजोरी देखाउ, हम एकदम अंत धरि अहाँ पर निर्भर छलहुँ, मुदा हम कहियो अहाँ पर ओ उपकार वापस नहि क’ सकलहुँ जे हमरा नेपालक निवासी बना देलक।”
+
+जुंको फिल्म क॑ किमफफ म॑ लानै के शुरुआत ओकरऽ निर्देशक राम्यता लिम्बू स॑ आकस्मिक बातचीत के रूप म॑ होलै । हम सब काठमांडू मे फिल्म के प्रदर्शन के ओहिना अस्पष्ट आशा के साझा केलहुं। हम सब बहुत लोक के सहयोग के सराहना करैत छी, जाहि में तबेई परिवार, नेपाल में जापान के दूतावास, किनो फिल्म्स, तबेई जुंको फाउंडेशन, आ सेत्सुको कितामुरा (जुंको के सबस करीबी दोस्त आ हमर गुरु) शामिल छथि.
+
+जँ आइ जुन्को जीवित रहितथि तँ शायद ई फिल्म नहि बनैत । तेँ ई प्रोडक्शन हुनकर आत्माक संदेश भ' सकैत अछि । स्क्रीनिंग हमरा सब लेल सेहो एकटा सार्थक अवसर होयत जे हम सब जुंको के कहानी के बड़का पर्दा पर खुलैत देखब आ हुनका बारे में हमर याद पर चिंतन करी.
+
+२०१५ मे नेपाल मे जुन्को तबेई।
+
+मिकी उप्रेती जापानी लेखिका, पूर्व पर्वतारोही, ट्रेल रनर, आ विकास कार्यकर्ता छी जे १९९० सँ नेपाल मे रहैत छथि ।ओ किमफफ के सहयोग सँ ई फिल्म प्रदर्शन परियोजना के शुरुआत केने छलीह ।
+
+जीवन के लिये चढ़ाई
+
+जुन्जी साकामोटो द्वारा निर्देशित
+
+१३० मिनेट | जापान | 2025 के",Entertainment
+“Rubbish roads” in Nepal: Turning plastic waste into roads to create cleaner cities - The Times of India,“Rubbish roads” in Nepal: Turning plastic waste into roads to create cleaner cities  The Times of India,2026-05-25 07:07:00,https://news.google.com/rss/articles/CBMi9AFBVV95cUxORTVhU3NPc0Y4OUVsbUJaTkQ4Z0xPeUdNYUlpZVF2WFhoMUVzbHNubGF4cWVuMkRrRjV6VFkwMF8tLWZ2MWhFVmpldTIzMXJsa2FRblZQeGJNVF9vZzlFanE3czhUTzJKSExFRV8yRndVZnFWTllwd044YzR1OHNnUEZjdEVRQnVuUzh2ZDJ1Y28wVDJGM2dtN3FkUmxqQ25pbWJRMUMteXUxMGVYZ1FuQVFWZGV5MTlFd1NLUFNHN0N6aW8teVRxUFF5UWRZa1JZNU54OWRja0ZHLW9LTHNXX1doZlpqUHA2VkhSZWp4SkFQbXlY0gH6AUFVX3lxTFBncnRCZk5zQWxodlZUYTFuYzVvSDdsQzJWZWVEYXNFbjAzZlBwYVUyT3haYTZ6Z3o3SjJKaUxvSUZvbGlTWVdQMTMtakJKYm03VEF6cU1pLURXUDYxTUhuMEQxNnhDeDAwcUpBX3BGa2x0OVFFVkszSlBDZTlkd1N0M3RBSGRLMUxlc1lmQ2dJeklaNXlTMzVNUUFONGE4Q20xdEZPUXlidEVRcjFUd2xTQ3VLUDlUNzQydThmNnlFb1A2NUp1ZHFia1B5VVJhLVdMZUFnSlVmZjNIdDVCZ0VNLXFuQjBXeEJvaUswdFFVNjFxQWN6TG51ZFE?oc=5&hl=en-US&gl=US&ceid=US:en,https://timesofindia.indiatimes.com,The Times of India,"At TOI World Desk, our dedicated team of seasoned journalists and passionate writers tirelessly sifts through the vast tapestry of global events to bring you the latest news and diverse perspectives round the clock. With an unwavering commitment to accuracy, depth, and timeliness, we strive to keep you informed about the ever-evolving world, delivering a nuanced understanding of international affairs to our readers. Join us on a journey across continents as we unravel the stories that shape our interconnected world. Read More","{'https://static.toiimg.com/thumb/msid-131304085,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg', 'https://static.toiimg.com/photo/113254487.cms', 'https://static.toiimg.com/photo/122244803.cms', 'https://static.toiimg.com/photo/83033472.cms', 'https://static.toiimg.com/photo/92222747.cms', 'https://www.facebook.com/tr?id=593671331875494&ev=PageView&noscript=1', 'https://static.toiimg.com/photo/118390705.cms', 'https://static.toiimg.com/thumb/msid-131304085,imgsize-1645566,width-400,height-225,resizemode-4/rubbish-roads-in-nepal-turning-plastic-waste-into-roads-to-create-cleaner-cities.jpg'}","टीओआई वर्ल्ड डेस्क म॑ हमरऽ अनुभवी पत्रकार आरू भावुक लेखकऽ के समर्पित टीम अथक प्रयास स॑ वैश्विक आयोजनऽ के विशाल टेपेस्ट्री म॑ छानबीन करी क॑ आपने सब क॑ चौबीसों घंटा नवीनतम खबर आरू विविध दृष्टिकोण लानै छै । सटीकता, गहराई, आरू समयबद्धता के प्रति अटूट प्रतिबद्धता के साथ, हम कोशिश करै छियै कि आपने सब क॑ नित्य विकसित होय रहलऽ दुनिया के बारे म॑ जानकारी देलऽ जाय, जेकरा स॑ अंतरराष्ट्रीय मामलऽ के सूक्ष्म समझ हमरऽ पाठकऽ तलक पहुँचैलऽ जाय । महाद्वीप के यात्रा में हमरा सब के संग जुड़ू, जखन हम सब ओहि कहानी के उजागर करब जे हमर परस्पर जुडल दुनिया के आकार दैत अछि। और पढ़ें",Entertainment
+How Nepali eatery in Queens earns New York recognition - The Kathmandu Post,How Nepali eatery in Queens earns New York recognition  The Kathmandu Post,2026-05-25 07:17:52,https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZmFyWElKWU1yOEdhbkNsTk1pemlTelpWMDNlRldtLVY0Wlhudk9hNGE4Mm5LcFRPQ3JlRkVhTk5JN0wyRG82V1J3ak1Nd0hGaWF5cWpMZ2o2TUVpc25JM3BpRDBpS1M3LXkyWGNOVDBuOU1IcnlmcEt2UWtjRW5SNmFwMnB1dkdPTW9mV1pVcFItZHlULXNnU0t4TS12SGIyRExtTTZwQjFoTEE?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"Just outside the busy Jackson Heights-Roosevelt Avenue/74th Street subway station in Queens, sits a small Nepali restaurant that has become one of the most recognisable symbols of Nepali identity in New York City.
+
+Known widely among the Nepali diaspora as “Bimala Didi ko Bhanchha Ghar,” the eatery run by Bimala Hamal Shrestha recently earned a place on the New York Times’ prestigious list of the city’s 100 best restaurants. For many Nepalis living abroad, the recognition felt deeply personal, a rare moment when a small immigrant-run eatery serving Nepali food found itself recognised in one of the world’s most competitive dining cities.
+
+When Hamal first opened the restaurant in 2015, she said she never imagined it would one day receive such recognition. What drove her from the beginning, however, was a determination to preserve and promote authentic Nepali food and the culture attached to it.
+
+“Food and its many varieties not only establish ethnic or regional identity,” she said. “They also introduce a country’s civilisation, originality and culture to the world.”
+
+Over the past decade, Nepali cuisine has gradually expanded its presence in New York, particularly in Queens, where Jackson Heights has evolved into one of the largest hubs of the Nepali-speaking community in the United States. Once known primarily for Indian, Bangladeshi and Latin American food, the neighbourhood now hosts dozens of Nepali restaurants, grocery stores and businesses catering to a growing diaspora population.
+
+But even within that crowded and highly competitive restaurant industry, Hamal’s restaurant has built a reputation for simplicity and authenticity. The restaurant serves Nepali dishes such as momo, sel roti, chowmein and bhutan sukuti, a dried and spiced meat delicacy popular in Nepal.
+
+Hamal recalls that in the restaurant’s early years, many non-Nepali customers were unfamiliar with the cuisine. To introduce them to Nepali flavours, she often served complimentary sel roti, the traditional ring-shaped rice bread commonly prepared during festivals and family gatherings in Nepal.
+
+The gesture, she said, helped spark curiosity among customers and gradually built interest in Nepali food beyond the diaspora community.","{'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2019/third-party/bimalahamal24520260525511000x0-1779693208.jpg', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://openweathermap.org/img/w/03d.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png'}","क्वींस केरऽ व्यस्त जैक्सन हाइट्स-रूजवेल्ट एवेन्यू/74 वीं स्ट्रीट सबवे स्टेशन केरऽ ठीक बाहर, एगो छोटऽ नेपाली रेस्टोरेंट बैठलऽ छै जे न्यूयॉर्क शहर केरऽ नेपाली पहचान केरऽ सबसें पहचानऽ वाला प्रतीकऽ में से एक बनी गेलऽ छै ।
+
+नेपाली प्रवासी के बीच “बिमला दीदी को भंछा घर” के नाम सं व्यापक रूप सं जानल जाय वाला बिमला हमल श्रेष्ठ द्वारा संचालित ई भोजनालय हालहि में न्यूयॉर्क टाइम्स के शहर के 100 सर्वश्रेष्ठ रेस्टोरेंट के प्रतिष्ठित सूची में स्थान अर्जित केलक अछि. विदेश में रहय वाला बहुतो नेपाली के लेल ई मान्यता गहींर व्यक्तिगत लागल, ई एकटा दुर्लभ क्षण छल जखन नेपाली भोजन परोसय वाला एकटा छोट सन आप्रवासी द्वारा संचालित भोजनालय दुनिया के सब सं प्रतिस्पर्धी भोजन शहर में सं एक में अपना के पहचानल गेल.
+
+2015 मे जखन हमल पहिल बेर एहि रेस्टोरेंट कए खोललथि त ओ कहली जे हुनका कहियो इ कल्पना नहि छल जे एक दिन एकरा एहन मान्यता भेटत। मुदा शुरूए स हुनका जे प्रेरित केलक से छल प्रामाणिक नेपाली भोजन आ ओहि स जुड़ल संस्कृति कए संरक्षित आ बढ़ावा देबाक संकल्प ।
+
+ओ कहली जे भोजन आ ओकर कईटा किस्म न केवल जातीय या क्षेत्रीय पहचान स्थापित करैत अछि। “ई सब कोनो देश के सभ्यता, मौलिकता आ संस्कृति के दुनिया के सामने सेहो पेश करैत छथि।”
+
+पिछला एक दशक में नेपाली भोजन के धीरे-धीरे न्यूयॉर्क में अपन उपस्थिति बढ़ल अछि, खास क क्वींस में, जतय जैक्सन हाइट्स अमेरिका के नेपाली भाषी समुदाय के सबस पैघ केंद्र में स एक के रूप में विकसित भ गेल अछि. एक समय मुख्य रूप स॑ भारतीय, बांग्लादेशी आरू लैटिन अमेरिकी भोजन लेली जानलऽ जाय वाला ई मोहल्ला म॑ अब॑ दर्जनों नेपाली रेस्टोरेंट, किराना दुकान आरू बढ़तऽ प्रवासी आबादी क॑ पूरा करै वाला व्यवसाय छै ।
+
+मुदा ओहि भीड़-भाड़ वाला आ बेहद प्रतिस्पर्धी रेस्टोरेंट उद्योग के भीतर सेहो हमल’क रेस्टोरेंट सादगी आ प्रामाणिकता के लेल प्रतिष्ठा बनौने अछि. एहि रेस्टोरेंट मे नेपाल मे लोकप्रिय सूखल आ मसालेदार मांसक स्वादिष्ट भोजन मोमो, सेल रोटी, चाउमेन आ भूटान सुकुटी सन नेपाली व्यंजन परोसल जाइत अछि ।
+
+हमल स्मरण करैत छथि जे रेस्टोरेंट’क शुरुआती साल मे बहुत रास गैर-नेपाली ग्राहक एहि व्यंजन सं अपरिचित छलाह. नेपाली स्वाद स परिचित कराबय लेल ओ प्रायः नेपाल मे पावनि-तिहार आ पारिवारिक सभा मे आमतौर पर बनाओल जाय वाला पारंपरिक अंगूठी के आकार के चावल के रोटी सेल रोटी परोसैत छलीह.
+
+ओ कहली जे एहि इशारा स ग्राहक मे जिज्ञासा पैदा करबा मे मदद भेटल आ धीरे-धीरे प्रवासी समुदाय स आगू नेपाली भोजन मे रुचि बढ़ल।",Interview
+European Union ambassadors arrive for a two-day mission to Nepal - Onlinekhabar English,European Union ambassadors arrive for a two-day mission to Nepal  Onlinekhabar English,2026-05-25 07:34:49,https://news.google.com/rss/articles/CBMiekFVX3lxTFBqdDZvQ1VXQ01XS0RPakFDVkRJUUVGc3pGS1BJZUVXYkxOVHdpN3pyZG13QVJfNkZCUTBSSElnVGgwRnV4N2xmZ2xFRWFTeUdTdTBzZ0NUMlBxS1pxU0ZlaDI0Q05aNkhTVXM1RGZzMHJESGVoeHl3cUtR?oc=5&hl=en-US&gl=US&ceid=US:en,https://english.onlinekhabar.com,Onlinekhabar English,"Photo: Delegation of the European Union to Nepal
+
+Kathmandu, May 25
+
+The Delegation of the European Union (EU) to Nepal, led by H.E. Véronique Lorenzo, EU Ambassador to Nepal, is hosting a two-day high-level mission from May 25 to 26, with 22 Ambassadors and Deputy Heads of Mission from EU Member States. This visit is an opportunity to meet the new Balendra Shah Government and reaffirm the strong ties between the EU and Nepal.
+
+The delegation comprises Ambassadors and Deputy Ambassadors from Austria, Belgium, Bulgaria, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Italy, Lithuania, Luxembourg, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.
+
+The mission will feature high-level discussions with Nepal’s leadership, including a meeting with the Rt Hon Prime Minister Balendra Shah on Tuesday, 26 May. On Monday, 25 May, the delegation will hold talks with the Hon. Shisir Khanal, Minister of Foreign Affairs, the Hon. Khadak Raj Paudel, Minister of Culture, Tourism, and Civil Aviation, and the Hon. Sasmit Pokharel, Minister of Education, Science and Technology. The Ambassadors will also meet private sector leaders, civil society representatives, and youth leaders.
+
+“This mission underscores the EU’s commitment to Nepal. We are here to congratulate the new government, reaffirm our support for Nepal’s development priorities, and explore new avenues for cooperation—from trade and investment to climate action and multilateral issues. Together, as Team Europe, we stand ready to work with Nepal to build a more prosperous, sustainable, and inclusive future,” EU Ambassador Lorenzo stated.","{'https://certify.alexametrics.com/atrk.gif?account=au/Vl1a8FRh2em', 'https://english.onlinekhabar.com/wp-content/uploads/2026/04/DSC05734.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2021/05/Bijuli-Electric-Light-electricity-150x150.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/tribhuwan-University-TU-3-150x150.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/Cheese-Panchathar-1024x577-1-150x150.jpg', 'https://english.onlinekhabar.com/wp-content/themes/onlinekhabar-english-2020/img/author-img.png', 'https://english.onlinekhabar.com/wp-content/uploads/2020/07/landslide-in-nepal-150x150.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/dog-1024x500-1-150x150.png', 'https://english.onlinekhabar.com/wp-content/uploads/2026/04/Dunai-bazar-1024x768-1.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/EU-Heads-of-Mission-Nepal-Visit-Photography_01-1-1024x683.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2024/12/European-Union-EU-.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2021/06/Rupa-sunar-300x200.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/tribhuwan-University-TU-3-1024x609.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2020/12/Basmati-rice-300x182.gif', 'https://english.onlinekhabar.com/wp-content/themes/onlinekhabar-english-2020/img/site-main-logo.png', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/SKR09091-1024x683.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2021/04/krishna-gopal-shrestha-300x183.jpg', 'https://english.onlinekhabar.com/wp-content/plugins/ok-user-manager/img/ajax-loader.gif', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/elephants_cannes1-150x150.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/volleyball-feat-150x150.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/wall-art-1024x505-1-150x150.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2021/03/pashmina-shwal-flickr-300x223.jpg', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/Gavin-Paul-McCormack-150x150.jpeg', 'https://english.onlinekhabar.com/wp-content/themes/onlinekhabar-english-2020/img/ajax-loader.gif', 'https://english.onlinekhabar.com/wp-content/uploads/2026/04/Umpire-Eror-News-1024x500-1.jpg', 'https://english.onlinekhabar.com/wp-content/themes/onlinekhabar-english-2020/img/flag.png', 'https://english.onlinekhabar.com/wp-content/uploads/2026/05/Cannes-stall-150x150.jpg'}","फोटो : नेपालमे यूरोपीय संघक प्रतिनिधि मंडल
+
+काठमाण्डौ, २५ मे
+
+नेपाल मे यूरोपीय संघक प्रतिनिधिमंडल एच.ई. नेपालमे यूरोपीय संघक राजदूत वेरोनिक लोरेन्जो २५ सँ २६ मई धरि दू दिनक उच्च स्तरीय मिशनक मेजबानी क’ रहल छथि, जाहिमे यूरोपीय संघक सदस्य देशक २२ राजदूत आ उप मिशन प्रमुख छथि । ई यात्रा नयका बलेन्द्र शाह सरकार स॑ मिलै के आरू ईयू आरू नेपाल के बीच मजबूत संबंध क॑ दोबारा पुष्टि करै के अवसर छै ।
+
+प्रतिनिधिमंडल म॑ आस्ट्रिया, बेल्जियम, बुल्गारिया, साइप्रस, चेक गणराज्य, डेनमार्क, एस्टोनिया, फिनलैंड, फ्रांस, जर्मनी, ग्रीस, इटली, लिथुआनिया, लक्समबर्ग, नीदरलैंड, पोलैंड, पुर्तगाल, रोमानिया, स्लोवाकिया, स्लोवेनिया, स्पेन, आरू स्वीडन केरऽ राजदूत आरू उप राजदूत शामिल छै ।
+
+मिशन मे नेपालक नेतृत्वक संग उच्च स्तरीय चर्चा होयत, जाहि मे 26 मई मंगल दिन माननीय प्रधानमंत्री बलेन्द्र शाह सँ भेंट होयत। 25 मई सोमदिन प्रतिनिधिमंडल माननीय डॉ. शिसिर खनाल, विदेश मंत्री, मान. खडक राज पौडेल, संस्कृति, पर्यटन, एवं नागरिक उड्डयन मंत्री, एवं मान. सस्मित पोखरेल, शिक्षा, विज्ञान एवं प्रौद्योगिकी मंत्री। राजदूत निजी क्षेत्र के नेता, नागरिक समाज के प्रतिनिधि, आ युवा नेता सं सेहो भेंट करताह.
+
+""ई मिशन नेपाल के प्रति यूरोपीय संघ के प्रतिबद्धता क रेखांकित करै छै। हम नयका सरकार क बधाई दै लेली, नेपाल के विकास प्राथमिकता के प्रति अपनौ समर्थन के दोबारा पुष्टि करै लेली, आरू सहयोग के नया रास्ता खोजै लेली आयल छियै-व्यापार आरू निवेश स॑ ल॑ क॑ जलवायु कार्यवाही आरू बहुपक्षीय मुद्दा तक । टीम यूरोप के रूप म॑ हम्मं॑ मिल क॑ नेपाल के साथ मिल क॑ आरू समृद्ध, टिकाऊ, आरू समावेशी भविष्य के निर्माण लेली काम करै लेली तैयार छियै ।' लोरेंजो बयान देलनि।",Politics
+"Qatar & Nepal: 85 migrant workers, incl. 36 Nepalis, left unpaid for several months, incl. wages & food allowances, incl. co. comment - Business and Human Rights Centre","Qatar & Nepal: 85 migrant workers, incl. 36 Nepalis, left unpaid for several months, incl. wages & food allowances, incl. co. comment  Business and Human Rights Centre",2026-05-25 07:37:38,https://news.google.com/rss/articles/CBMigwJBVV95cUxOcWpyYVBBcTZzUFR6a0VuV08zb3UtTHJ3dFhuNGlkOEtmOEd4SUhDU2c1LUxZRkZKS09CU3doRlBwaTV6akRtLUtEMVNhdGNTNnRKRzdBdjhtWEhYdGZaNVc4UEpQWkFZQW1pLVRuRVNMZkVwSWJEMnhVTVNlaElrWXlCLV9YRGtnYk5LbEVkWm1BVnBhWTNfTDVwTE5wU09mc09wRUY0MmEyTFpPTWJobGFaM1lkMmlsRUpkUWZURW5ra0NRaTJQLUVidFhfdTE2eV91RFVMY1Raak83Wk9peE1SS2VCZ0pWbFZMYzdJMTBKeW1wVDdBZk1ia3h5WEE4ZTJB?oc=5&hl=en-US&gl=US&ceid=US:en,https://www.business-humanrights.org,Business and Human Rights Centre,"""Thirty-six Nepali workers in Qatar unpaid for eight months"", 23 May 2026
+
+At least 36 Nepali migrant workers in Qatar have been unpaid for the past eight months, with their combined outstanding dues exceeding Rs20.5 million, or around 540,000 Qatari Riyals.
+
+The workers, employed by Intertectra Qatar WLL, say the company has failed to clear salaries, overtime payments, gratuities and food allowances. In protest, 85 migrant workers from different countries, including 36 Nepalis, have stopped reporting to work…
+
+Ram Dayal Raya, a worker from Siraha who has been employed at the company for seven years, said the workers have appealed to both the Nepali embassy and Nepal’s Ministry of Labour, Employment and Social Security for intervention.
+
+“The company owes each worker between 15,000 and 40,000 Riyals in unpaid salaries and benefits,” Raya said. “Besides the eight months of unpaid wages, we have not received food allowances for 10 months and overtime payments for the past two years.”…
+
+“At first, the company paid one month’s salary every two or three months, even though work at the construction sites continued normally,” Khatwe said. “Later, after paying one month’s salary, they again made us wait another two months, saying payments from the project sites had not arrived.”
+
+He said the company also stopped paying food allowances after making a few partial payments.
+
+… According to the workers, officials from the Nepali embassy recently held discussions with company representatives. During the meeting, the company reportedly said it would clear the dues if the workers continued working for another two months.
+
+The workers, however, demanded a written commitment, which the company refused to provide.
+
+… The workers have now taken the case to the labour office in Sanaiya, Doha. If the dispute is not resolved there, they plan to move the Labour Court.
+
+The prolonged wage crisis has also left many workers struggling to afford basic necessities…","{'https://px.ads.linkedin.com/collect/?pid=8189409&fmt=gif', 'https://media.business-humanrights.org/media/images/shutterstock_2568310467_1.2e16d0ba.fill-1000x1000-c50.jpg', 'https://media.business-humanrights.org/media/images/shutterstock_2568310467_1.2e16d0ba.fill-1200x630.jpg', 'https://media.business-humanrights.org/media/images/arno-senoner-bCgsKqFzUcg-unsplash.2e16d0ba.fill-788x488.jpg', 'https://media.business-humanrights.org/media/images/2784b243-967a-4fe6-b988-3ea82dcaea.2e16d0ba.fill-788x488.jpg'}","""कतार मे छत्तीस नेपाली मजदूर आठ मास तक अवैतनिक"", २३ मई २०२६
+
+कतार मे कम स कम 36 नेपाली प्रवासी मजदूर पिछला आठ मास स अवैतनिक अछि, ओकर कुल बकाया बकाया 2 करोड़ 50 लाख टका यानी करीब 540,000 कतार रियाल स बेसी अछि।
+
+इंटरटेक्ट्रा कतार डब्ल्यूएलएल मे काज करय वाला मजदूर के कहनाय छनि जे कंपनी वेतन... ओवरटाइम के भुगतान... ग्रेच्युटी आओर खाद्य भत्ता के क्लियर करय मे नाकाम रहल अछि. एकर विरोध मे 36 नेपाली सहित विभिन्न देशक 85 प्रवासी मजदूर काज करय लेल रिपोर्टिंग बंद क देलक अछि...
+
+सात साल स कंपनी मे कार्यरत सिराहा क मजदूर राम दयाल राया कहला जे मजदूर नेपाली दूतावास आ नेपाल क श्रम, रोजगार आ सामाजिक सुरक्षा मंत्रालय दूनू स हस्तक्षेप क अपील केलथि अछि।
+
+राया कहला जे कंपनी कए प्रत्येक मजदूर पर 15 स 40 हजार रियाल क बीच अवैतनिक वेतन आ लाभ क बकाया अछि। “आठ महीना के अदत्त मजदूरी के अलावा हमरा सब के 10 महीना स खाद्य भत्ता आ पिछला दू साल स ओवरटाइम के भुगतान नै भेटल अछि।”...
+
+खटवे कहलनि जे, पहिने कंपनी हर दू-तीन महीना पर एक महीना के वेतन दैत छल, भले ही निर्माण स्थल पर काज सामान्य रूप सं जारी छल। “बाद मे एक मासक तनखाह देलाक बाद फेर हमरा सभ केँ दू मास आओर इंतजार करौलनि, ई कहैत जे प्रोजेक्ट साइट सँ भुगतान नहि आयल अछि.”
+
+ओ कहलनि जे, कंपनी किछु आंशिक भुगतान केलाक बाद खाद्य भत्ता सेहो बंद क देलक।
+
+... मजदूर सब के अनुसार नेपाली दूतावास के अधिकारी सब हाल में कंपनी के प्रतिनिधि सब स चर्चा केने छलाह। बताओल जा रहल अछि जे एहि बैसार मे कंपनी कहलक जे अगर मजदूर दू मास आओर काज करैत रहत त ओ बकाया क्लियर करत।
+
+मुदा मजदूर लिखित प्रतिबद्धता क मांग केलक, जेकरा कंपनी देबा स मना क देलक।
+
+... मजदूर आब एहि मामला के दोहा के सनैया स्थित श्रम कार्यालय पहुंचा देलक अछि. अगर ओतय विवाद के समाधान नहि भेल त लेबर कोर्ट मे पेश करय के योजना अछि.
+
+लम्बा समय तक मजदूरी के संकट के कारण बहुत मजदूर के बुनियादी जरूरत के खर्चा उठाबय में सेहो संघर्ष करय पड़ल अछि...",Culture
+Nepal Makes Cannes History As ‘Elephants In The Fog’ Wins The Un Certain Regard Jury Prize - homegrown.co.in,Nepal Makes Cannes History As ‘Elephants In The Fog’ Wins The Un Certain Regard Jury Prize  homegrown.co.in,2026-05-25 08:15:00,https://news.google.com/rss/articles/CBMiywFBVV95cUxQWk1wejdxc2Q4d1MwOVB6clE0eTExamh2MDZpQS1FRDhqeEhSdkxDVTFhY2JlaEktcG4ybTRlbU1kNTI2WUs5WGFjTUpoVHY5ellDU3BEdjlXX3NYdS03S0Q5V2VVdTVvTGxlajUxa28tNEdXaWFTdENaa2o1dTBnNWxFa0o4WW1sQmE5RXVsbDJPeGFSUHcwSjFJVTkwQWdOQnNfMU9Oc0FXWTVObkV1c0NUUWdjU3BxMzVXZmhMd05EbnR6OGZYbXdZONIB2AFBVV95cUxNWEtlOHNEbk5LMk9COE92SXdRRmNZaWRqZnF6bXlIQVRpdGFjZEFXMUVfUS1rUFdvRUlHTEhjc2lPeHluZzZPQzh2TDktWFJ0UHE0aWt1aFAtT25TRUJHNEFSeDRxdTJhclg4aXgtMkIxM0kwMHlLcExlaFdJWFlhWlRVSGNjcnRwR3B3OWFOaGRMVHVLbmwwSmRsa3pTRldmQnJfVF80dk9ZS0RGMDdBLXFBTS0zdWJhc0RXSEtOalZ4X3Y1UjB3VWZXdEdWa1NNb0tTNE43Q2Y?oc=5&hl=en-US&gl=US&ceid=US:en,https://homegrown.co.in,homegrown.co.in,"The Kinnar community at the film’s heart occupies a space deeply familiar to South Asian audiences. Revered in ritual and refused in daily life, they exist in an uncomfortable dichotomy — feared as cursed individuals and venerated for their supposed power to bless others with good fortune. In his acceptance speech, Shah gave voice to what the film had always been about. “For so long, the lives of Pirati and her daughters, the communities and all the persons who are in the East, have been kept invisible,” he said. “By bringing our story here and by recognising it with this award, we have pulled those margins into the light. We have made the invisible visible.”","{'https://media.assettype.com/homegrown%2F2026-05-25%2Fc6oou425%2FElephantsintheFogUndergroundTalkiesNepal2CLesValseurs2CDGS2.png?w=480&auto=format%2Ccompress&fit=max', 'https://media.assettype.com/homegrown%2F2026-05-25%2Fc6oou425%2FElephantsintheFogUndergroundTalkiesNepal2CLesValseurs2CDGS2.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100', 'https://gumlet.assettype.com/homegrown/2022-10/d7ffadf9-a80c-41bb-a811-df9c05ddbef6/Manifest_logo.jpg?w=50&fm=png', 'data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs='}","फिल्म केरऽ दिल म॑ किन्नर समुदाय दक्षिण एशियाई दर्शक लेली गहराई स॑ परिचित एगो जगह प॑ कब्जा करी लेल॑ छै । संस्कार में पूज्य आरू दैनिक जीवन में मना करलऽ जाय वाला ई लोगऽ के अस्तित्व एक असहज द्विविधा में छै — शापित व्यक्ति के रूप में डरलऽ जाय छै आरू दोसरऽ के सौभाग्य के आशीर्वाद दै के अपनऽ कथित शक्ति के लेलऽ पूजलऽ जाय छै । शाह अपन स्वीकृति भाषण मे ओहि बात के आवाज देलखिन्ह जे फिल्म पहिने सं छल. ओ कहला जे एतेक दिन स पिराती आ हुनकर बेटी, समुदाय आ सब व्यक्ति जे पूर्व मे छथि, ओकर जीवन अदृश्य राखल गेल अछि। “अपन कथा केँ एतय आनि आ एहि पुरस्कार सँ चिन्हित क’ हम सब ओहि हाशिया केँ इजोत मे खींचने छी, अदृश्य केँ दृश्यमान बना देलहुँ।”",Entertainment
+'UK will remain a valuable and reliable education partner for Nepal' - The Himalayan Times,'UK will remain a valuable and reliable education partner for Nepal'  The Himalayan Times,2026-05-25 08:26:15,https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbUdRcWdZQkY0RnctWEhpcTdIdEJhb0txYktJNDFHYm1XZjdDTm5tTTNXMTFsM3JHa2V0dXR0ZEhZaGJqa21UUGdSLVg4cnhhaVRjNW5NR1gxUkNyNTJ0eDhlUWVBSXNLSHhLUkxQMGVvbDU1VDM4RTd0aHhnNVBSWkhMZjNtWHNERWM1TzlWUFd6T3V3eDJWVC14U2hPQzAzVWdtbEdkek1LZw?oc=5&hl=en-US&gl=US&ceid=US:en,https://thehimalayantimes.com,The Himalayan Times,"KATHMANDU, MAY 24
+
+During high-level discussions with Nepali entrepreneurs in Kathmandu today, the UK Minister for Indo-Pacific and Minister for Equalities, Seema Malhotra, emphasised the growing importance of Nepal-UK collaboration in skills and education.
+
+Related Articles Adversaries and the forefront of the Prime Minister Balen Shah: Reframed and extended narrative PM Shah sits for discussions with HoR members from Madhesh Province
+
+She referred to it as a 'full spectrum education partnership,' spanning decades and encompassing all aspects of education, from public-sector collaboration to private-sector tie-ups and pastoral care for Nepali students in the UK. ""The UK will remain a valuable and reliable education partner for Nepal, bringing benefits to people in both our nations.""
+
+Minister Malhotra emphasised the UK's longstanding partnership with Nepal. ""We were Nepal's first partners, and our friendship is the only one in the world founded on a treaty. We have uniquely strong ties between our people and government.""
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1686127029429-0'); }); googletag.cmd.push(function() { googletag.display('div-gpt-ad-1686127067910-0'); }); googletag.cmd.push(function() { googletag.display('div-gpt-ad-1686127112906-0'); });
+
+And now, at a time of democratic renewal in Nepal, I'm here to strengthen our partnership and modernise it to meet today's challenges, she stated. According to her, no nation can achieve its goals without investing in human talent.
+
+For more than 70 years, the UK and Nepal have collaborated on education. ""Much of that began with school support and teacher training. Together, we've made significant progress, with more children now able to access education outcomes, including quality, skills and opportunities. And that is where the UK is currently collaborating closely with your new government.""
+
+She stated that the UK is assisting Nepal in developing its first foundational learning framework, drawing on expertise in Kathmandu and London. This builds on longstanding partnerships such as the UK's Girls' Education Challenge, which has helped over 30,000 of Nepal's most marginalised girls learn, stay in school and find work.
+
+She also added that 19 UK universities are currently working with 27 campuses in Nepal, serving over 17,000 students. ""That is the power of transnational education. That ambition lies at the heart of our International Education Strategy, which is about more than just growth. It is about shared prosperity, helping countries like Nepal build the skilled workforce that the future requires,"" she stated. ""This is where transnational education, or TNE, comes into its own. This means that students can obtain a UK qualification without leaving Nepal.""
+
+Welcoming the Nepal government's focus on quality assurance, she said that the UK stands ready to support through the British Council and our quality bodies. She expressed her happiness, stating that Nepalis are the 6th largest group of international students in the UK. ""It is a sign of trust and of the deep ties between our countries,"" she said.
+
+""But it has to be the right choice, for the right student. That means strong preparation, including language skills. And it means proper support once students arrive. Both our governments are increasingly focused on this.""
+
+She also emphasised that the British Council and organisations that connect people from our two countries, such as the Britain Nepal Society and the Nepal Britain Society, are increasing support for Nepali students in the UK, building on more than a century of friendship between our countries. ""It is a practical example of the friendship between our countries in action,"" she added.
+
+""Those students are part of a living bridge between our countries, shaped by friendships and warm personal ties. So, Nepal is a partner shaping our shared future – building skills, driving innovation and growing our economies together. Because it is through education that opportunity is created,"" she said, adding, ""And it is through opportunity that talent is unleashed. That is the promise of this partnership. And that is the future we are building together.""","{'https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/05/25/48479.jpeg', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_viber.png', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_telegram.png', 'https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/05/25/48469.jpg&w=30&q=100&f=webp', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_whatsapp.png', 'https://thehimalayantimes.com/theme_himalayantimes/images/logo-100.png', 'https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/04/05/47366.jpeg&w=30&q=100&f=webp', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_youtube.png', 'https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/04/01/47256.jpg&w=30&q=100&f=webp', 'https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/05/25/48471.jpeg&w=30&q=100&f=webp', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_instagram.png', 'https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/05/25/48479.jpeg&w=30&q=100&f=webp', 'https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/05/25/48475.jpeg&w=30&q=100&f=webp', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_messenger.png', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_x.png', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_pinterest.png', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_facebook.png', 'https://thehimalayantimes.com/theme_himalayantimes/images/layout/icon_linkedin.png', 'https://cdnx.premiumread.com/?url=https://thehimalayantimes.com/thehimalayantimes/uploads/images/2026/05/25/48470.jpg&w=30&q=100&f=webp'}","काठमाण्डू, 24 मई
+
+आइ काठमाण्डौमे नेपाली उद्यमीसबसँग उच्च स्तरीय चर्चाक क्रममे ब्रिटेनके भारत प्रशांत मन्त्री आ समानता मन्त्री सीमा मल्होत्रा कौशल आ शिक्षामे नेपाल-यूके सहयोगके बढैत महत्वपर जोर देलन्हि ।
+
+संबंधित लेख प्रतिद्वंदी एवं प्रधानमंत्री के अग्रणी बालेन शाह : पुनर्निर्मित एवं विस्तारित कथ्य पीएम शाह मधेश प्रांत के होआर सदस्यों के साथ चर्चा के लिये बैठे |
+
+हुनी एकरा ‘फुल स्पेक्ट्रम एजुकेशन पार्टनरशिप’ के रूप मँ संदर्भित करलकै, जे दशकौ स॑ फैललऽ छै आरू सार्वजनिक क्षेत्र के सहयोग स॑ ल॑ क॑ निजी क्षेत्र के टाई-अप आरू यूके म॑ नेपाली छात्रऽ लेली पशुपालन के देखभाल तक के शिक्षा के सब पहलू क॑ समेटै छै । ""यूके नेपाल के लेल एकटा मूल्यवान आ विश्वसनीय शिक्षा भागीदार बनल रहत, जे हमर दुनू राष्ट्र के लोक के लाभ पहुंचाओत।""
+
+मंत्री मल्होत्रा ​​नेपालक संग ब्रिटेन केर दीर्घकालीन साझेदारी पर जोर देलनि। ""हम नेपाल केरऽ पहिलऽ भागीदार छेलियै, आरू दुनिया म॑ हमरऽ दोस्ती ही एकमात्र संधि प॑ आधारित छै । हमरऽ जनता आरू सरकार के बीच हमरा सिनी के विशिष्ट मजबूत संबंध छै ।""
+
+गूगलटैग.सीएमडी.पुश (फंक्शन () { गूगलटैग.प्रदर्शन ('डिव-जीपीटी-विज्ञापन-1686127029429-0'); }); गूगलटैग.सीएमडी.पुश (फंक्शन () { गूगलटैग.प्रदर्शन ('डिव-जीपीटी-विज्ञापन-1686127067910-0'); }); गूगलटैग.सीएमडी.पुश (फंक्शन () { गूगलटैग.प्रदर्शन ('डिव-जीपीटी-विज्ञापन-1686127112906-0'); });
+
+आरू अब॑ नेपाल म॑ लोकतांत्रिक नवीकरण के समय म॑ हम्में अपनऽ साझेदारी क॑ मजबूत करै लेली आरू आजुक चुनौती स॑ निपटै लेली ओकरा आधुनिक बनाबै लेली ऐलऽ छियै, हुनी बयान देलकै । हुनकऽ अनुसार मानव प्रतिभा म॑ निवेश के बिना कोय भी राष्ट्र अपनऽ लक्ष्य क॑ प्राप्त नै करी सकै छै ।
+
+70 साल स बेसी स यूके आ नेपाल शिक्षा पर सहयोग क रहल अछि। ""ओकरऽ बहुत कुछ स्कूल केरऽ सहायता आरू शिक्षकऽ के प्रशिक्षण स॑ शुरू होलऽ छेलै । हम्मं॑ मिल क॑ काफी प्रगति करल॑ छियै, जेकरा म॑ अब॑ अधिक बच्चा शिक्षा केरऽ परिणाम तक पहुँचै म॑ सक्षम छै, जेकरा म॑ गुणवत्ता, कौशल आरू अवसर भी शामिल छै । आरू यहीं प॑ यूके अभी आपकऽ नया सरकार के साथ मिलक॑ सहयोग करी रहलऽ छै ।""
+
+ओ कहलनि जे, काठमांडू आ लंदन के विशेषज्ञता के आधार पर नेपाल के पहिल आधारभूत सीखय के ढाँचा बनेबा में यूके सहयोग क रहल अछि। ई यूके केरऽ गर्ल्स एजुकेशन चैलेंज जैसनऽ लंबा समय स॑ चलै वाला साझेदारी प॑ आधारित छै, जेकरा स॑ नेपाल केरऽ ३०,००० स॑ भी अधिक हाशिया प॑ पड़लऽ लड़की सिनी क॑ सीखै, स्कूल म॑ रहना आरू काम खोजै म॑ मदद मिललऽ छै ।
+
+ओ इहो कहलनि जे, यूके के 19 विश्वविद्यालय एखन नेपाल के 27 परिसर के संग काज क रहल अछि, जाहि मे 17 हजार सं बेसी छात्र के सेवा देल जा रहल अछि। ओ कहलनि जे, ""अंतर्राष्ट्रीय शिक्षा के शक्ति इएह अछि। ओ महत्वाकांक्षा हमर सबहक अंतर्राष्ट्रीय शिक्षा रणनीति के मूल में अछि, जे सिर्फ विकास सं बेसी अछि। ई साझा समृद्धि के बात अछि, जे नेपाल सन देश के कुशल कार्यबल के निर्माण में मदद करब अछि जेकर भविष्य के आवश्यकता अछि।"" ""एतहि ट्रांसनेशनल एजुकेशन यानी टीएनई अपन रूप मे अबैत अछि। एकर मतलब अछि जे छात्र नेपाल छोड़ने बिना यूके योग्यता प्राप्त क सकैत छथि।""
+
+नेपाल सरकार के गुणवत्ता आश्वासन पर ध्यान देल गेलाक स्वागत करैत ओ कहली जे ब्रिटेन ब्रिटिश काउंसिल आ हमर गुणवत्ता निकाय के माध्यम स सहयोग करय लेल तैयार अछि। ओ अपन खुशी व्यक्त करैत कहलनि जे, नेपाली यूके मे अंतरराष्ट्रीय छात्रक 6म पैघ समूह अछि। ओ कहली जे इ विश्वास आ हमर देश क बीच गहींर संबंध क निशानी अछि।
+
+""मुदा एकरा सही विकल्प होबाक चाही, सही छात्र लेल। एकर मतलब अछि मजबूत तैयारी, जाहि मे भाषा कौशल सेहो शामिल अछि। आओर एकर मतलब अछि जे छात्र पहुंचला पर उचित समर्थन। हमर दुनू सरकार एहि पर बेसी ध्यान केंद्रित क रहल अछि।""
+
+हुनी ई बात प॑ भी जोर देलकै कि ब्रिटिश काउंसिल आरू हमरऽ दूनू देश केरऽ लोगऽ क॑ जोड़ै वाला संगठन, जेना कि ब्रिटेन नेपाल सोसाइटी आरू नेपाल ब्रिटेन सोसाइटी, हमरऽ देशऽ के बीच एक शताब्दी स॑ भी अधिक के दोस्ती के आधार प॑ यूके म॑ नेपाली छात्रऽ लेली समर्थन बढ़ाबै छै । हुनी आरू कहलकै कि ई हमरऽ देशऽ के बीच दोस्ती के व्यावहारिक उदाहरण छै जे काम म॑ छै ।
+
+ओ कहलनि जे, ""ओ छात्र हमर देशक बीच एकटा जीवित सेतु के हिस्सा अछि, जे दोस्ती आ गर्मजोशी सं व्यक्तिगत संबंध सं गठित अछि। ताहि लेल, नेपाल हमर साझा भविष्य के आकार देबय वाला भागीदार अछि – कौशल के निर्माण, नवीनता के चलाबय आ अपन अर्थव्यवस्था के एक संग बढ़ाबय के. कारण शिक्षा के माध्यम संहि अवसर के निर्माण होइत अछि,"" ओ कहलनि जे, ""आ अवसर के माध्यम सं प्रतिभा के खुलासा होइत अछि. आ इएह हम सब भविष्य छी।"" एक संग निर्माण करब।""",Interview
+Govt courier service expands to 60 districts across Nepal - Khabarhub,Govt courier service expands to 60 districts across Nepal  Khabarhub,2026-05-25 08:53:54,https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fSEd3bENObWY4TmlfSHZWNW5DWm9kRHdpRnJaQmdLeGlpSzQ0SjRiWEZNbVN3U0hLZzIwSEtGUmhNOS1FSF9lRVhLWTVvVUliY29BYmlBcTU?oc=5&hl=en-US&gl=US&ceid=US:en,https://english.khabarhub.com,Khabarhub,"KATHMANDU: The government’s courier service, launched to deliver public services directly to citizens’ doorsteps, has now expanded to 60 districts across Nepal.
+
+According to the Department of Postal Services, the initiative is part of efforts to digitize and streamline the government service delivery system by providing home delivery of passports, driving licenses, educational certificates, and other official documents.
+
+Director General Man Maya Bhattarai Pangeni said the service has gradually become effective in most districts despite initial resistance in some areas.
+
+“We are expanding the service by mobilizing mechanisms down to the local level. Citizens are gradually being freed from the compulsion of visiting offices to collect government documents,” she said.
+
+The department stated that since the launch of the program, a total of 28,169 passports have been transported to the respective districts. Among them, 1,635 passports have already been delivered directly to service recipients at their homes.
+
+The department said the distribution process has become easier after district administration offices started collecting the addresses of applicants during passport application procedures.
+
+The postal system is also being increasingly used in transport-related services. As of May 22, the department had dispatched 470,881 driving licenses to concerned transport offices, while 671 licenses had been delivered to citizens’ homes.
+
+Beyond document delivery, the postal department has expanded collaboration with the education and health sectors. So far, 260 educational certificates have been distributed through the service.
+
+In coordination with the National Public Health Laboratory, the department has transported 488 laboratory samples. The laboratory sample transportation service has been launched from Surkhet, Banke, and Kathmandu.
+
+The department also said preparations are underway to launch a home delivery service for SIM cards in collaboration with Nepal Telecom.
+
+Meanwhile, transportation of question papers, answer sheets, and certificates has already begun in partnership with Mid-West University, while discussions are ongoing with Nepal Open University regarding educational certificate delivery.
+
+Similarly, the department said a preliminary draft agreement has been prepared with the National Health, Education and Information Center regarding postal transportation services. Discussions are also underway to transport materials distributed by Nepal Telecom through the postal network.
+
+The department further stated that talks have begun on expanding courier services to transport goods for the private sector as well.
+
+According to Director General Man Maya Bhattarai Pangeni, significant progress has also been made in international courier services, with preparations underway to expand postal access to additional countries through discussions with airline service providers.
+
+She said efforts are continuing to upgrade the service system despite limited resources.
+
+As part of system reforms, a study committee has been formed to integrate systems with the Department of Passports, while initiatives are also being taken to integrate systems with the Office of the Financial Comptroller General.
+
+The department said work is also underway to upgrade postal codes under the Postal Internal Tracking System (PITS).
+
+Although the government is attempting to transform the traditional postal service into a modern public service delivery system, the service remains in its early stages. With effective implementation yet to be achieved in many districts, improvements are still needed in delivery speed, transparency, and reliability.
+
+However, the concept of delivering government services directly to citizens’ homes is seen as a step toward making public administration more accessible and modern.","{'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/viber.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/linked-in.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/youtube.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/appstore.svg', 'https://english.khabarhub.com/wp-content/uploads/2019/01/logo-300x300-1-150x150.png', 'https://english.khabarhub.com/wp-content/uploads/2022/04/General-Post-Office-350x250.jpg', 'https://english.khabarhub.com/wp-content/uploads/2026/05/Himalayan-Literature-Festival-150x100.jpg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/instagram.svg', 'https://english.khabarhub.com/wp-content/uploads/2026/05/EU-Heads-of-Mission-Nepal-Visit-Photography-150x100.jpg', 'https://english.khabarhub.com/wp-content/uploads/2026/04/Ashim-150x100.jpg', 'https://english.khabarhub.com/wp-content/uploads/2022/04/General-Post-Office.jpg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/logos.png', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/logo-white-sm.png', 'https://english.khabarhub.com/wp-content/uploads/2026/04/balendra-2-150x100.jpg', 'data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/playstore.svg'}","KATHMANDU: The government’s courier service, launched to deliver public services directly to citizens’ doorsteps, has now expanded to 60 districts across Nepal.
+
+डाक सेवा विभाग के अनुसार ई पहल पासपोर्ट, ड्राइविंग लाइसेंस, शैक्षिक प्रमाणपत्र, आरू अन्य आधिकारिक दस्तावेज के होम डिलीवरी उपलब्ध कराबै के माध्यम स॑ सरकारी सेवा प्रदायगी प्रणाली क॑ डिजिटल आरू सुव्यवस्थित करै के प्रयास के हिस्सा छेकै ।
+
+महानिदेशक मान माया भट्टराई पंगेनी किछु क्षेत्र मे प्रारंभिक प्रतिरोधक बादो अधिकांश जिल्ला मे धीरे-धीरे सेवा प्रभावी भेल बतौलनि ।
+
+ओ कहली जे हम स्थानीय स्तर तक तंत्र कए जुटा कए एहि सेवा क विस्तार करि रहल छी, नागरिक कए धीरे-धीरे सरकारी दस्तावेज संग्रह करबा लेल कार्यालय मे जेबाक मजबूरी स मुक्त कैल जा रहल अछि।
+
+विभाग के कहनाय अछि जे एहि कार्यक्रम के शुरुआत के बाद सं कुल 28,169 पासपोर्ट के संबंधित जिला मे पहुंचाओल गेल अछि. एहि मे 1635 पासपोर्ट सीधा सेवा प्राप्तकर्ता कए घर पर पहुंचा देल गेल अछि।
+
+विभाग के कहनाय अछि जे जिला प्रशासन कार्यालय पासपोर्ट आवेदन प्रक्रिया के दौरान आवेदक के पता संकलन करय लागलाक बाद वितरण प्रक्रिया आसान भ गेल अछि.
+
+परिवहन सं जुड़ल सेवा मे सेहो डाक प्रणाली के उपयोग तेजी सं भ रहल अछि. 22 मई तक विभाग संबंधित परिवहन कार्यालय मे 470,881 ड्राइविंग लाइसेंस भेजने छल, जखन कि 671 लाइसेंस नागरिक क घर तक पहुंचा चुकल अछि।
+
+दस्तावेज वितरण स परे डाक विभाग शिक्षा आ स्वास्थ्य क्षेत्र क संग सहयोग क विस्तार केलक अछि। एखन धरि एहि सेवा क माध्यम स 260 शैक्षणिक प्रमाणपत्र वितरित भ चुकल अछि।
+
+राष्ट्रीय जनस्वास्थ्य प्रयोगशाला के समन्वय मे विभाग 488 प्रयोगशाला नमूना के परिवहन केलक अछि। सुर्खेत, बाँके, आ काठमांडू सँ प्रयोगशाला नमूना परिवहन सेवा शुरू कएल गेल अछि ।
+
+विभाग नेपाल दूरसंचार के सहयोग स सिम कार्ड के लेल होम डिलीवरी सेवा शुरू करय के तैयारी सेहो भ रहल अछि।
+
+एम्हर मध्य पश्चिम विश्वविद्यालय के साझेदारी में प्रश्नपत्र, उत्तर पत्र, आ प्रमाणपत्र के परिवहन शुरू भ चुकल अछि, जखन कि नेपाल मुक्त विश्वविद्यालय के संग शैक्षणिक प्रमाणपत्र वितरण के संबंध में चर्चा चलि रहल अछि।
+
+तहिना डाक परिवहन सेवा के संबंध मे राष्ट्रीय स्वास्थ्य, शिक्षा आ सूचना केन्द्र के संग समझौता के प्रारंभिक मसौदा तैयार कएल गेल विभाग के कहनाय अछि. डाक संजाल के माध्यम स नेपाल दूरसंचार द्वारा वितरित सामग्री के परिवहन के लेल सेहो चर्चा चलि रहल अछि।
+
+विभाग आगू कहलक जे निजी क्षेत्र क लेल सेहो सामान क परिवहन क लेल कूरियर सेवा क विस्तार पर गप शुरू भ गेल अछि।
+
+महानिदेशक मान माया भट्टराई पंगेनीके अनुसार अन्तर्राष्ट्रिय कूरियर सेवामे सेहो काफी प्रगति भेल अछि, जाहिमे एयरलाइन सेवा प्रदातासबसँग चर्चाक माध्यमसँ अतिरिक्त देशमे डाक पहुँच विस्तारक तैयारी चलि रहल अछि ।
+
+ओ कहली जे सीमित संसाधन क ​​बावजूद सेवा प्रणाली कए अपग्रेड करबाक प्रयास जारी अछि।
+
+सिस्टम सुधार के तहत पासपोर्ट विभाग के साथ सिस्टम क॑ एकीकृत करै लेली एगो अध्ययन समिति के गठन करलऽ गेलऽ छै, जबकि वित्तीय महानियंत्रक के कार्यालय के साथ सिस्टम क॑ एकीकृत करै के पहल भी करलऽ जाय रहलऽ छै ।
+
+विभाग क कहब अछि जे डाक आंतरिक ट्रैकिंग सिस्टम (पीआईटीएस) क तहत डाक कोड कए अपग्रेड करबाक काज सेहो चलि रहल अछि।
+
+हालांकि सरकार पारंपरिक डाक सेवा कए आधुनिक लोक सेवा प्रदायगी प्रणाली मे बदलबाक प्रयास क रहल अछि, मुदा इ सेवा अपन शुरुआती दौर मे अछि। बहुत सं जिलाक मे प्रभावी क्रियान्वयन कें प्राप्ति बाकी छै, तखनहु वितरण कें गति, पारदर्शिता, आ विश्वसनीयता मे सुधार कें जरूरत छै.
+
+लेकिन सरकारी सेवा क॑ सीधा नागरिकऽ के घरऽ म॑ पहुँचै के अवधारणा क॑ लोक प्रशासन क॑ अधिक सुलभ आरू आधुनिक बनाबै के दिशा म॑ एगो कदम के रूप म॑ देखलऽ जाय छै ।",Interview
+‘Careful’: A Gen Z Journalist in Nepal Writes an Open Letter to India’s ‘Cockroach’ Party - Newsreel Asia,‘Careful’: A Gen Z Journalist in Nepal Writes an Open Letter to India’s ‘Cockroach’ Party  Newsreel Asia,2026-05-25 08:55:58,https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSE1faGlsT05jcGhET2pnMWZFbmw1M3owdU9hQUJEcDRmWlBDQ2QycXRCQ1lBUTBZaXd2NUtpc3BKNlhHQV9EbnpLQ2VRc0htQ1hLaTZFN2ZPcW9GbXdGbUc0THRTbVRnWTBEajd3aDFFR1lDMGZIMlkzSU1LWnFkWUtVanJZclps?oc=5&hl=en-US&gl=US&ceid=US:en,https://newsreel.asia,Newsreel Asia,"Another major vulnerability for CJP stems from the two Indias dynamic, famously described by comedian Vir Das during his Washington D.C. show in 2021. The fear is that CJP represents only one India, the elite India, rather than the real India.
+
+What Dipke has started appears inaccessible to people in rural parts of India, where Instagram is not the first choice on their smartphones, and where even smartphones remain relatively scarce.
+
+Dipke appears to be firmly trapped in what seems to me an elite bubble, one that completely overshadows the pressing issues of underperforming states like Bihar and several other marginalised regions of the country.
+
+According to Dipke, journalists should not insult or underestimate the Gen Z of India by comparing them with the Nepali Gen Z movement because “the youth of India are far smarter, more aware, and more politically conscious.”
+
+Before making such hubristic remarks, Dipke should learn a lesson from one of India’s most established political strategists and kingmakers, Prashant Kishor, who was ultimately defeated in Bihar despite his unmatched digital presence and massive social media following.
+
+Kishor had launched a rigorous, almost two-year-long ground campaign alongside an unmatched digital presence supported by his tech-savvy team. He even claimed in interviews during the campaign that he had visited every village in Bihar during that period. Despite Kishor’s nearly two-year foot march, his party, Jan Suraaj, could not clinch a single seat in the Bihar election.
+
+Dipke should also look closely at the declining political career of his former boss, Arvind Kejriwal, who once appeared to be a formidable future candidate for prime minister. Kejriwal serves as a textbook example for Dipke to understand how difficult it is to translate digital popularity into real democratic change in the world’s largest democracy.
+
+Before lambasting the youth of other nations, particularly the Gen Z of Nepal, Dipke must first prove himself worthy of doing so. To stand on equal footing with youth who have brought about epochal and systemic change, Dipke needs to actively participate in elections, win a majority through democratic means, and establish a CJP-led government that delivers good governance and public accountability in India. Furthermore, all of this must be achieved peacefully, without bloodshed on the ground.
+
+This is undeniably a herculean task in a country as vast and layered as India. But as a young journalist from Nepal who has witnessed epochal political change happen in less than 48 hours, I sincerely wish CJP the best in bringing out the best for India.
+
+Until then, Dipke should know his limits and tread carefully before insulting the profound sacrifices made by youth in neighbouring countries in the struggle for democratic change.
+
+I truly hope CJP dismantles the dark dualities plaguing India through the fresh movement it has created, rather than becoming another copy of a copy of a copy, an agenda-driven loop that Indian youth have repeatedly fallen into.
+
+(Bal Krishna Sah is a political commentator and journalist based in Kathmandu. His work includes investigations for a BBC documentary on the Gen Z Revolution, reporting for WOZ, and several articles for The Himalayan Times, Nepal’s largest-selling English daily.)","{'http://static1.squarespace.com/static/64c78dcaa8ff677c508ade68/t/6a14106c086f311fc02c70e6/1779699820961/A+cockroach.jpeg?format=1500w', 'https://images.squarespace-cdn.com/content/v1/64c78dcaa8ff677c508ade68/24938209-673f-456b-9447-619e7df12d09/A+cockroach.jpeg', 'https://images.squarespace-cdn.com/content/v1/64c78dcaa8ff677c508ade68/60f1441d-afa5-4f09-a9b5-774078b0dbdf/Newsreel+Asia+Logo.png?format=1500w', 'https://px.ads.linkedin.com/collect/?pid=8007977&fmt=gif'}","सीजेपी लेली एगो आरू बड़ऽ कमजोरी दूनू भारत केरऽ गतिशीलता स॑ उपजलऽ छै, जेकरऽ प्रसिद्ध वर्णन हास्य अभिनेता वीर दास न॑ २०२१ म॑ अपनऽ वाशिंगटन डी.सी.
+
+दिपके न॑ जे शुरू करलकै, वू भारत केरऽ ग्रामीण भागऽ के लोगऽ लेली दुर्गम लगै छै, जहां इंस्टाग्राम ओकरऽ स्मार्टफोन प॑ पहलऽ पसंद नै छै, आरू जहां स्मार्टफोन भी अपेक्षाकृत दुर्लभ छै ।
+
+दिपके हमरा ओहि संभ्रांत बुलबुला मे मजबूती स फंसल देखा रहल अछि, जे बिहार जेहन कम प्रदर्शन करय वाला राज्य आओर देश के कईटा आओर हाशिया पर पड़ल क्षेत्र के जरुरी मुद्दा पर पूरा तरह सं छा गेल अछि.
+
+दिपके के अनुसार पत्रकार सब के नेपाली जेन जेड आन्दोलन स तुलना क भारत के जेन जेड के अपमान या कम नै बुझबाक चाही कियाक त “भारत के युवा कहीं बेसी होशियार, बेसी जागरूक, आ राजनीतिक रूप स बेसी जागरूक छथि।”
+
+ऐसनऽ घमंडी टिप्पणी करै स॑ पहल॑ दिपके क॑ भारत केरऽ एगो सबसें स्थापित राजनीतिक रणनीतिकार आरू राजा निर्माता प्रशांत किशोर स॑ सबक लेना चाहियऽ, जे अंततः बिहार म॑ अपनऽ बेजोड़ डिजिटल उपस्थिति आरू भारी सोशल मीडिया फॉलोइंग के बावजूद हारलऽ छेलै ।
+
+किशोर न॑ अपनऽ टेक-सेवी टीम द्वारा समर्थित बेजोड़ डिजिटल उपस्थिति के साथ-साथ एगो कठोर, लगभग दू साल के जमीनी अभियान शुरू करल॑ छेलै । अभियान के दौरान साक्षात्कार मे दावा तक केलखिन्ह जे ओहि दौरान ओ बिहार के हर गाम के दौरा केने छलाह. किशोर केरऽ लगभग दू साल केरऽ फुट मार्च के बावजूद हुनकऽ पार्टी जन सूरज बिहार चुनाव म॑ एको सीट प॑ कब्जा नै करी सकलऽ छै ।
+
+दिपके क॑ अपनऽ पूर्व मालिक अरविंद केजरीवाल केरऽ घटतऽ राजनीतिक कैरियर प॑ भी ध्यान स॑ देखना चाहियऽ, जे एक समय म॑ प्रधानमंत्री केरऽ भविष्य केरऽ भयंकर उम्मीदवार नजर आबी रहलऽ छेलै । केजरीवाल दीपके लेली ई समझै लेली पाठ्यपुस्तक के उदाहरण के रूप म॑ काम करै छै कि दुनिया केरऽ सबस॑ बड़ऽ लोकतंत्र म॑ डिजिटल लोकप्रियता क॑ वास्तविक लोकतांत्रिक परिवर्तन म॑ बदलना कतेक मुश्किल छै ।
+
+अन्य राष्ट्र खास क नेपाल के जेन जेड के युवा के लंबित करय सं पहिने दिपके के पहिने अपना के एहि लेल योग्य साबित करय पड़त. युगांतर आरू प्रणालीगत परिवर्तन लानै वाला युवा सिनी के साथ बराबर के पायदान प॑ खड़ा होय लेली दिपके क॑ चुनाव म॑ सक्रिय रूप स॑ भाग लेबै के जरूरत छै, लोकतांत्रिक साधन स॑ बहुमत जीतै के जरूरत छै, आरू भारत म॑ सुशासन आरू जन जवाबदेही प्रदान करै वाला भाकपा नेतृत्व वाला सरकार के स्थापना करै के जरूरत छै । संगहि, ई सबटा शांतिपूर्वक, बिना जमीन पर खून-खराबा केने हासिल करय पड़त।
+
+भारत जैसनऽ विशाल आरू परतदार देश म॑ ई निर्विवाद रूप स॑ हरक्यूलिस काम छै । लेकिन नेपाल केरऽ एगो युवा पत्रकार के रूप म॑ जे ४८ घंटा स॑ भी कम समय म॑ युगांतकारी राजनीतिक परिवर्तन के साक्षी बनलऽ छै, हम्में ईमानदारी स॑ कामना करै छियै कि भाजपा क॑ भारत लेली सर्वश्रेष्ठ सामने ऐलै ।
+
+ता धरि दिपके के अपन सीमा के जानय के चाही आ लोकतांत्रिक परिवर्तन के संघर्ष में पड़ोसी देश के युवा द्वारा देल गेल गहींर बलिदान के अपमान करय सं पहिने ध्यान सं कदम रखबाक चाही.
+
+हमरा सचमुच आशा अछि जे भाजपा भारत के सताबै वाला अन्हार द्वैत के अपन बनाओल गेल ताजा आंदोलन के माध्यम स भंग क देत, नै कि एकटा प्रतिलिपि के प्रतिलिपि के दोसर प्रतिलिपि बनय के बजाय, जे एजेंडा संचालित लूप अछि जाहि में भारतीय युवा बेर-बेर खसि पड़ल अछि.
+
+(बाल कृष्ण साह काठमांडू स्थित राजनीतिक टिप्पणीकार आ पत्रकार छैथ। हुनकर काज मे जेन जेड क्रांति पर बीबीसी के डॉक्यूमेंट्री के जांच, डब्ल्यूओजेड के लेल रिपोर्टिंग, आ नेपाल के सबस बेसी बिकय वाला अंग्रेजी दैनिक द हिमालयन टाइम्स के लेल कईटा लेख शामिल अछि।)",Interview
+China-Nepal Team Completes First Full-Depth Ice Core Drilling at Mt Everest Summit - Daily Pioneer,China-Nepal Team Completes First Full-Depth Ice Core Drilling at Mt Everest Summit  Daily Pioneer,2026-05-25 09:33:23,https://news.google.com/rss/articles/CBMivgFBVV95cUxObnhsQzdtRlMxaENELWZCc2dOclowdVk5MTZpN3ZUckdFb1BCdkZKWXY2dFNhM0Q1bzAtTlhBM0JrSk13c2xWazF5ajhzZmwzYkprNWVyMGRzZm9QZWhsc1BNa3NtQmhnaUhfbmtCS2Nyb1BsSi1FTFNNcXJpQWVIVHpla2k2d2ZScTFMMWNZcmFrdzdENG5WSFNiNDVUWjRnVFk4R3piXzhtZXdGSS1NTGFra2dJaGlpOS03THJn?oc=5&hl=en-US&gl=US&ceid=US:en,https://dailypioneer.com,Daily Pioneer,"A joint China-Nepal scientific expedition has completed the first full-depth ice core drilling at the summit of Mt Everest to collect samples for understanding climate and environmental changes in ultra-high-altitude areas.
+
+Members of the joint expedition conducted scientific sampling work, including ice core drilling, on the world’s tallest mountain at an altitude of 8,848.86 metres.
+
+It took about two hours for the expedition team on Thursday to complete the first-ever full-depth ice core extraction from the summit, China’s state-run Global Times reported.
+
+The team collected ice core and snow core samples across multiple altitude gradients on the way down.
+
+The samples will be transported to laboratories under low-temperature preservation conditions for research on climate and environmental changes in the world’s highest region, cryosphere evolution, and atmospheric records at extreme altitudes, the newspaper said.
+
+The collected samples are expected to help researchers better understand climate and environmental changes in ultra-high-altitude areas, the boundary of the Indian monsoon’s influence, the transport pathways of pollutants into high-altitude regions, and differences in climate responses between the northern and southern slopes of Mt Everest.
+
+Studying the Earth’s tallest mountain is imperative as it is undergoing unprecedented and largely irreversible change caused by global warming. In May 2023, the inter-governmental International Centre for Integrated Mountain Development (ICIMOD), with headquarters in Nepal’s Kathmandu, pointed out that 79 glaciers surrounding Everest have thinned by over 100 metres in just six decades, and the thinning rate has nearly doubled since 2009.
+
+In the Tibetan language, Mount Everest is known as Mount Qomolangma. China and Nepal settled their border dispute in 1961, with the boundary line passing through the summit of Mt Everest.
+
+According to the Guinness World Records website, an ice core was extracted at 8,020 metres (26,312 feet) above sea level from the South Col glacier on Mt Everest - just above the Camp IV and 828 metres below the summit in May 2019.","{'https://dailypioneer.com/uploads/2026/story/images/medium/R300_ex-gardener-held-for-rs-1-crore-burglary-in-pamposh-enclave-2026-05-25.jpg', 'https://dailypioneer.com/uploads/2026/story/images/medium/R300_syria-holds-legislative-elections-in-kurdish-majority-northeast-2026-05-25.jpg', 'https://dailypioneer.com/logo.png', 'https://dailypioneer.com/uploads/2026/story/images/medium/R300_mamata-banerjee-accuses-bjp-of----state-terrorism----over-demolition-drive-in-bengal-2026-05-25.jpg', 'https://dailypioneer.com/uploads/2026/story/images/medium/R300_fm-nirmala-sitharaman-defends-fuel-price-hike--says-india-cannot-afford-fear-mongering-2026-05-25.jpg', 'https://dailypioneer.com/uploads/2026/story/images/medium/R300_china-nepal-team-extracts-first-full-depth-ice-core-from-everest-summit-2026-05-25.jpg'}","चीन-नेपाल केरऽ संयुक्त वैज्ञानिक अभियान न॑ माउंट एवरेस्ट केरऽ शिखर प॑ पहिलऽ पूर्ण गहराई वाला बर्फ केरऽ कोर ड्रिलिंग पूरा करी क॑ अति उच्च ऊंचाई वाला क्षेत्रऽ म॑ जलवायु आरू पर्यावरणीय परिवर्तन क॑ समझै लेली नमूना संग्रहित करी लेल॑ छै ।
+
+संयुक्त अभियान के सदस्य न॑ ८,८४८.८६ मीटर के ऊंचाई प॑ दुनिया केरऽ सबस॑ ऊँचऽ पहाड़ प॑ आइस कोर ड्रिलिंग सहित वैज्ञानिक नमूना के काम करलकै ।
+
+चीन केरऽ सरकारी ग्लोबल टाइम्स न॑ बतैलकै कि गुरुवार क॑ अभियान टीम क॑ शिखर सम्मेलन स॑ पहलऽ बार पूरा गहराई स॑ बर्फ केरऽ कोर निकालै म॑ लगभग दू घंटा लगलै ।
+
+टीम न॑ नीचें के रास्ता म॑ कई ऊंचाई के ढाल के पार आइस कोर आरू स्नो कोर के नमूना एकत्रित करलकै ।
+
+अखबार न॑ कहलकै कि ई नमूना क॑ कम तापमान के संरक्षण के स्थिति म॑ प्रयोगशाला म॑ पहुँचैलऽ जैतै ताकि दुनिया केरऽ सबसें उच्च क्षेत्र म॑ जलवायु आरू पर्यावरणीय परिवर्तन, क्रायोस्फीयर के विकास, आरू चरम ऊंचाई प॑ वायुमंडलीय रिकॉर्ड के बारे म॑ शोध करलऽ जाय सक॑ ।
+
+एकत्रित नमूना स॑ शोधकर्ता सिनी क॑ अति-उच्च ऊंचाई वाला क्षेत्रऽ म॑ जलवायु आरू पर्यावरणीय परिवर्तन, भारतीय मानसून केरऽ प्रभाव के सीमा, उच्च ऊंचाई वाला क्षेत्रऽ म॑ प्रदूषकऽ के परिवहन के मार्ग, आरू माउंट एवरेस्ट केरऽ उत्तरी आरू दक्षिणी ढलान के बीच जलवायु प्रतिक्रिया म॑ अंतर क॑ बेहतर ढंग स॑ समझै म॑ मदद मिलै के उम्मीद छै ।
+
+पृथ्वी केरऽ सबस॑ ऊँचऽ पहाड़ के अध्ययन करना बहुत जरूरी छै, कैन्हेंकि ग्लोबल वार्मिंग के कारण ई अभूतपूर्व आरू बहुत हद तलक अपरिवर्तनीय परिवर्तन होय ​​रहलऽ छै । मई २०२३ म॑ नेपाल केरऽ काठमांडू म॑ मुख्यालय वाला अंतरसरकारी अंतर्राष्ट्रीय एकीकृत पर्वत विकास केंद्र (आईसीआईएमओडी) न॑ ई बात के ओर इशारा करलकै कि एवरेस्ट के आसपास के ७९ ग्लेशियर महज छह दशक म॑ १०० मीटर स॑ भी अधिक पतला होय गेलऽ छै, आरू २००९ के बाद स॑ पतला होय के दर लगभग दुगुना होय गेलऽ छै ।
+
+तिब्बती भाषा मे माउंट एवरेस्ट केँ माउंट क्यूमोलांगमा केर नाम सँ जानल जाइत अछि । चीन आरू नेपाल न॑ अपनऽ सीमा विवाद के निपटारा १९६१ म॑ करलकै, जेकरऽ सीमा रेखा माउंट एवरेस्ट केरऽ शिखर स॑ गुजरी क॑ गुजरी गेलै ।
+
+गिनीज वर्ल्ड रिकॉर्ड केरऽ वेबसाइट के अनुसार मई २०१९ म॑ माउंट एवरेस्ट प॑ स्थित साउथ कोल ग्लेशियर स॑ समुद्र तल स॑ ८,०२० मीटर (२६,३१२ फीट) प॑ बर्फ केरऽ कोर निकाललऽ गेलऽ छेलै - कैम्प चतुर्थ स॑ ठीक ऊपर आरू शिखर स॑ ८२८ मीटर नीचे ।",EduTech
+EU delegation in Nepal to meet PM Balen Shah tomorrow - Khabarhub,EU delegation in Nepal to meet PM Balen Shah tomorrow  Khabarhub,2026-05-25 09:48:54,https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMR0hpdFY3aUhJc2VEVGRNWWhodl9MZEk4VXpHZ1FBV1JTenFLbURLMHVrdDUybTZFQ3ludFRFUGtCOVllVkNUaVd0WlNGUm53c2JwNnQ4OHo?oc=5&hl=en-US&gl=US&ceid=US:en,https://english.khabarhub.com,Khabarhub,"KATHMANDU: The Delegation of the European Union (EU) to Nepal, led by EU Ambassador to Nepal Véronique Lorenzo, is hosting a two-day high-level visit by 22 Ambassadors and Deputy Heads of Mission from EU Member States today and tomorrow.
+
+As part of the visit, the delegation will call on Prime Minister (PM) Balendra Shah on Tuesday, 26 May. The visit aims to engage with the newly formed Balen Shah government and further strengthen EU–Nepal relations.
+
+According to the Delegation to the EU in Nepal, the delegation of EU ambassadors includes representatives from Austria, Belgium, Bulgaria, Cyprus, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Italy, Lithuania, Luxembourg, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden.
+
+During the visit, the delegation will hold a series of high-level meetings with Nepal’s leadership, including a courtesy call on PM Shah on Tuesday, 26 May.
+
+EU Ambassador Lorenzo said the mission reflects the EU’s continued commitment to Nepal, noting that the visit is intended to congratulate the new government, reaffirm support for Nepal’s development priorities, and explore expanded cooperation in areas such as trade, investment, climate action, and multilateral engagement.
+
+She added that “Team Europe” stands ready to work with Nepal toward a more prosperous, sustainable, and inclusive future. The European Union remains one of Nepal’s key development partners, working alongside government bodies, civil society, and the private sector to promote inclusive economic growth, democratic governance, education, and sustainable development.","{'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/viber.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/linked-in.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/youtube.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/appstore.svg', 'https://english.khabarhub.com/wp-content/uploads/2019/01/logo-300x300-1-150x150.png', 'https://english.khabarhub.com/wp-content/uploads/2022/04/General-Post-Office-350x250.jpg', 'https://english.khabarhub.com/wp-content/uploads/2026/05/Himalayan-Literature-Festival-150x100.jpg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/instagram.svg', 'https://english.khabarhub.com/wp-content/uploads/2026/05/EU-Heads-of-Mission-Nepal-Visit-Photography-150x100.jpg', 'https://english.khabarhub.com/wp-content/uploads/2026/04/Ashim-150x100.jpg', 'https://english.khabarhub.com/wp-content/uploads/2026/05/EU-Heads-of-Mission-Nepal-Visit-Photography.jpg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/logos.png', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/logo-white-sm.png', 'https://english.khabarhub.com/wp-content/uploads/2026/04/balendra-2-150x100.jpg', 'data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/playstore.svg'}","काठमाण्डु, मिथिला मिरर: नेपालमे रहल यूरोपीय संघके राजदूत वेरोनिक लोरेन्जोके नेतृत्वमे नेपालमे रहल यूरोपीय संघक प्रतिनिधि मंडल आइ आ काल्हि यूरोपीय संघक सदस्य देशक २२ राजदूत आ मिशन उपप्रमुखक दू दिनक उच्च स्तरीय यात्राक आयोजन कऽ रहल अछि ।
+
+एहि यात्रा क तहत प्रतिनिधिमंडल 26 मई मंगलदिन प्रधानमंत्री (पीएम) बलेन्द्र शाह स भेंट करत। ई यात्रा के उद्देश्य नवगठित बलेन शाह सरकार के साथ जुड़ना आरू यूरोपीय संघ-नेपाल संबंध क॑ आरू मजबूत करना छै ।
+
+नेपालमे यूरोपीय संघमे रहल प्रतिनिधि मंडलके अनुसार ईयू राजदूतके प्रतिनिधि मंडलमे आस्ट्रिया, बेल्जियम, बुल्गारिया, साइप्रस, चेक गणराज्य, डेनमार्क, एस्टोनिया, फिनलैंड, फ्रांस, जर्मनी, ग्रीस, इटली, लिथुआनिया, लक्समबर्ग, नीदरलैण्ड, पोलैंड, पुर्तगाल, रोमानिया, स्लोवाकिया, स्लोवेनिया, स्पेन, आ स्वीडनके प्रतिनिधिसभमे शामिल अछि ।
+
+एहि यात्राक दौरान प्रतिनिधिमंडल नेपालक नेतृत्वक संग उच्च स्तरीय बैसारक सिलसिला आयोजित करत, जाहि मे 26 मई मंगलदिन पीएम शाह केँ शिष्टाचारक साक्षात्कार सेहो होयत।
+
+ईयू के राजदूत लोरेंजो नँ कहलकै कि ई मिशन नयका सरकार क बधाई देना, नेपाल के विकास प्राथमिकता के समर्थन के दोबारा पुष्टि करना, आरू व्यापार, निवेश, जलवायु कार्रवाई, आरू बहुपक्षीय जुड़ाव जैसनौ क्षेत्र मँ विस्तारित सहयोग के खोज करना छै, ई बात क ध्यान मँ रखलकै ।
+
+हुनी आरू कहलकै कि “टीम यूरोप” नेपाल के साथ अधिक समृद्ध, टिकाऊ, आरू समावेशी भविष्य के तरफ काम करै लेली तैयार छै । यूरोपीय संघ नेपाल केरऽ प्रमुख विकास भागीदारऽ म॑ स॑ एक बनलऽ छै, जे सरकारी निकाय, नागरिक समाज, आरू निजी क्षेत्र के साथ मिल क॑ समावेशी आर्थिक विकास, लोकतांत्रिक शासन, शिक्षा, आरू सतत विकास क॑ बढ़ावा दै लेली काम करी रहलऽ छै ।",Politics
+No Winter Holidays review – haunting portrait of female companionship in Nepal’s frozen highlands - The Guardian,No Winter Holidays review – haunting portrait of female companionship in Nepal’s frozen highlands  The Guardian,2026-05-25 10:00:00,https://news.google.com/rss/articles/CBMinAFBVV95cUxQeERzMlNIaUdFYkoxLWhkX3JBMUxNZHc2NkdKazRYZXE2SGhlelpabHc5TkJmdWpGaWMxMXBPVUtKTEZLQTNBYU9aWDB5MUZ2ZG1RRDBXX1RvOS1kYXZqeHhZOENrUkdOM044MFZoSUVJWGktYWZVLU1mUzY3b285WXlqaHdTSUdNYlhZaFFkU3lTVGRlb0hTT0g4cl8?oc=5&hl=en-US&gl=US&ceid=US:en,https://www.theguardian.com,The Guardian,"I n the valley of Dhorpatan in western Nepal, winter arrives with unforgiving intensity. Clouds of freezing mist gradually descend, making the rocky terrain look starkly barren, a lonesome void amid vertiginous mountain ranges. At this time of the year, most of the inhabitants migrate south to warmer regions – except for two. Unfolding at a languid pace, Rajan Kathet and Sunir Pandey’s feature-length documentary debut casts its gaze on Ratima and Kalima, elderly caretakers tasked with watching over the abandoned village. Widows to the same man, they make for an unusual yet beguiling pair whose dynamic wavers between warmth and discord.
+
+The two women’s different temperaments make for an engaging contrast. The older, jaded Ratima spends her days in a haze of alcohol and regrets. Meanwhile, younger Kalima has a sunnier attitude, which she extends to creatures big and small; she even has pet names for the livestock. Once the second wife and hence a romantic rival, Kalima now takes care of the ailing Ratima with sisterly tenderness. Their daily routines – simple meals by the fire, reminiscences about their departed husband – are juxtaposed with expansive wide shots of the desolate landscape.
+
+There is much visual pleasure in the breathtaking cinematography, which observes the geographical contours of Dhorpatan in exquisite detail, from its frozen slumber to springtime awakening. Though the scenes are beautiful, the focus on the landscape at times distracts from a deeper exploration of Ratima and Kalima’s relationship; their interactions are riveting, yet they are too infrequent. As a result, the film occasionally veers into a nature documentary, without the beating emotional heart it shows elsewhere.","{'https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=film', 'https://i.guim.co.uk/img/media/5b0d9ae90ce879bcd5153a745e0e6ef9406f3302/686_0_2698_2160/master/2698.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=e2181f50701d4cc2dd15b88d8de7f05d', 'https://i.guim.co.uk/img/media/5b0d9ae90ce879bcd5153a745e0e6ef9406f3302/686_0_2698_2160/master/2698.jpg?width=465&dpr=1&s=none&crop=none'}","I n पश्चिम नेपाल के धोरपटन के घाटी में जाड़ अक्षम्य तीव्रता के साथ आबै छै. ठंढा धुंधक मेघ धीरे-धीरे उतरैत अछि, जाहि सं चट्टानी इलाका एकदम बंजर लगैत अछि, चक्करदार पहाड़ी श्रृंखलाक बीच एकटा अकेला शून्य. सालक एहि समय मे अधिकांश निवासी दक्षिण दिस गर्म क्षेत्र मे पलायन करैत छथि – दू टा छोड़ि । सुस्त गति स॑ खुललऽ राजन कैथेट आरू सुनीर पांडे केरऽ फीचर-लंबाई केरऽ डॉक्यूमेंट्री केरऽ शुरुआत अपनऽ नजर रतिमा आरू कालीमा प॑ डालै छै, जे बुजुर्ग देखभाल करै वाला छै, जेकरा परित्यक्त गाँव प॑ नजर रखै के जिम्मा देलऽ गेलऽ छै । एकहि आदमी के विधवा, ई सब एकटा असामान्य मुदा मोहक जोड़ी बनबैत अछि जकर गतिशीलता गर्मजोशी आ असहमति के बीच डगमगाइत अछि ।
+
+दुनू महिला’क अलग-अलग स्वभाव एकटा आकर्षक विपरीतता पैदा करैत अछि. पैघ, जड़ल रतिमा शराबक धुंध मे दिन बिताबैत छथि आ पछतावा करैत छथि । एम्हर छोटका कालिमाक रौदक मनोवृत्ति छनि, जकरा ओ छोट-छोट जीव धरि पहुँचाबैत छथि; एतेक धरि जे हुनका माल-जालक लेल पालतू जानवरक नाम सेहो छनि। कहियो दोसर पत्नी आ तें रोमांटिक प्रतिद्वंदी कालीमा आब बहिन सन कोमलताक संग बीमार रतिमाक देखभाल करैत छथि । हुनका लोकनिक दैनिक दिनचर्या – आगि लग साधारण भोजन, हुनक दिवंगत पतिक स्मरण – उजाड़ परिदृश्यक विस्तृत चौड़ा शॉटक संग बगल मे राखल गेल अछि ।
+
+ढोरपटन केरऽ भौगोलिक समोच्च केरऽ जमलऽ नींद स॑ ल॑ क॑ वसंत केरऽ जागरण तक केरऽ अति सुंदर विस्तार स॑ अवलोकन करै वाला लुभावना छायांकन म॑ बहुत दृश्य आनंद मिलै छै । दृश्य भले सुन्दर हो, मुदा परिदृश्य पर ध्यान कखनो काल रतिमा आ कालिमा के संबंध के गहींर अन्वेषण सं विचलित क’ दैत अछि; हुनका लोकनिक बातचीत रिवेटिंग होइत छनि, तइयो बहुत कम होइत छनि । एकरऽ परिणाम ई छै कि ई फिल्म बीच-बीच म॑ प्रकृति केरऽ डॉक्यूमेंट्री म॑ बदली जाय छै, जेकरा म॑ दोसरऽ जगह प॑ जे धड़कैतऽ भावनात्मक दिल नै छै ।",Opinion
