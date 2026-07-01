@@ -1,729 +1,4 @@
 title,description,published date,url,publisher.href,publisher.title,full_article,images,translated,label
-"Nepal cancels ID tender, betting on domestic control - Biometric Update","Nepal cancels ID tender, betting on domestic control  Biometric Update",2026-06-23 19:41:00,https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTYwWkZyVGExUFg5d0E5UHR3NF9McTR3SHlFLS0tRnlEODhpZVpEY2VMUTAxT2NlZkVfZTgzWjdwcnJtWmQxWDRwLXIzZWNIaEFvc0hZcE5TbW9yOUJsUDZXb2NQSW9wejNMbkhweXZHMWxfa2gxcFpQMkFZQ0U0bFNEelp5Rnc2dDdQVU1rZlZCLXk2?oc=5&hl=en-US&gl=US&ceid=US:en,https://www.biometricupdate.com,Biometric Update,"Nepal is facing mounting problems with its national identity system as printing challenges, a purported security issue and a tender cancellation is adding to delays.
-
-The government has scrapped a global tender for the operation, maintenance and technical support of the National Identity Card Management Information System (NIDMIS). The Kathmandu Post reports that the Nepali government has instead chosen to manage the system internally.
-
-window.googletag = window.googletag || {cmd: []}; googletag.cmd.push(function() { googletag.defineSlot('/22228962824/biometricupdate.com', ['fluid'], 'inarticle').setTargeting('pos', ['300_1']).addService(googletag.pubads()); googletag.pubads().enableSingleRequest(); googletag.enableServices(); });
-
-googletag.cmd.push(function() { googletag.display('inarticle'); });
-
-The NIDMIS Support and Maintenance tender was cancelled on May 8. The Prime Minister’s office and Council of Ministers will take full control of the system, which is under the umbrella of the Ministry of Home Affairs and the constituent Department of National ID and Civil Registration.
-
-According to an official quoted by The Kathmandu Post, the tender process was cancelled before technical evaluation was completed. The tender was published on December 17, 2025, and three companies applied. These were Gravity Group IND LLC of Dubai, Iris Corporation of Malaysia and IN Smart Identity (formerly Idemia Smart Identity) of France.
-
-The department’s director general Namaraj Ghimire was shifted to the Muslim Commission on May 11. The Ministry of Home Affairs made joint secretary Krishna Poudel the new director general on June 1. According to an official from the prime minister’s office, the decision was made to ensure domestic control of citizen data and that technical experts would be brought in to strengthen Nepal’s digital sovereignty.
-
-Functions including biometric enrollment, data storage and card printing have depended on foreign technology providers. Technical support for the national ID programme was provided by Advantage International Pvt Ltd, a local branch under Idemia, with which the Nepali government signed an agreement in 2018. It covered biometric registration, smart card production, personalization and other technical services.
-
-Following that agreement’s expiry, the now-cancelled international tender was launched.
-
-The administration of prime minister Balendra Shah, who took office on March 27, is looking to centralize digital governance and IT systems. Shah’s government is planning to establish an Information Technology and Electronic Governance Office, which will sit alongside the just created Ministry of Science, Technology, and Innovation.
-
-However, the country is facing a sharp reduction in card‑printing capacity. One of the two French‑supplied industrial printers has failed and the other is running without proper maintenance. This has cut daily output of national ID cards from 16,000–18,000 to about 3,000. Technicians warn the department lacks the expertise to recover from a major system failure.
-
-The slowdown has increased an already large backlog. Biometric data has been collected from 20 million people, but only 7.8 million cards have been printed. Recent server outages have further disrupted services and dropped public confidence.
-
-Nepal’s digital transformation step sees security setback
-
-Less than 24 hours after a National Identity Card download service was launched, the service became unavailable. The outage followed an investigation by online publication Khoj Samachar, which found alleged security issues with the system.
-
-The download service was intended to let citizens download their National Identity Cards directly to their smartphones without needing to visit government offices. It was seen as a step forward in Nepal’s ongoing digital transformation, allowing citizens to avoid paperwork and visiting physical centers.
-
-The investigation reportedly found the system could expose sensitive personal documents, as anyone only needed to obtain someone’s full name, date of birth and citizenship issuance date to access and download that person’s national ID document. There was reportedly no additional verification layer.
-
-According to Eurasia Review, the Khoj Samachar investigation sparked much online discussion and concern, while it also reported the system was offline (404’d) less than a day after the report was published.
-
-Overall, ID delays are becoming more serious as the national ID is increasingly required for passports, licences, banking, social security and other essential services. While the government argues that local management improves data sovereignty, officials fear the department lacks the skills and resources to operate the system reliably. Successful rollout hinges on how quickly technical capacity can be rebuilt.
-
-Related Posts NZ launches digital credential issuance platform tender July 30, 2025
-
-Nepal election commission integrates national ID biometrics November 17, 2025
-
-Hippo Digital finds inclusion, clarity gaps at root of UK digital ID trust problem January 7, 2026
-
-UK dependencies have choice on national digital ID, need details October 24, 2025
-
-Belize cabinet approves national digital ID roll out July 21, 2025
-
-NZ planning digital ID trust framework register tender for end of August August 7, 2025
-
-var end = 0; $(window).scroll(function() { if (end === 0) finished(); }); function finished() { var hT = $('#finished').offset().top, hH = $('#finished').outerHeight(), wH = $(window).height(), wS = $(this).scrollTop(); if (wS > (hT+hH-wH)){ end = 1; ga('send', 'event', 'Navigation', 'Finished Article', 'Nepal cancels ID tender, betting on domestic control'); } }
-
-Article Topics
-
-digital ID | digital sovereignty | national ID | Nepal | tender
-
-Latest Biometrics News New Zealand probes whether officials misled ministers over failed biometrics project Jun 23, 2026, 2:53 pm EDT New Zealand’s Immigration Minister Erica Stanford says it is now up to the Public Service Commissioner to decide whether officials… Stopping deepfake fraud with IAD: Live webinar to reveal insiders’ perspective Jun 23, 2026, 2:29 pm EDT The proliferation of deepfakes and the AI tools cybercriminals use to create them has made biometric injection attack detection (IAD)… Intellicheck reaches top 3K companies in US by market cap, joins Russell Indexes Jun 23, 2026, 2:26 pm EDT Intellicheck has been added to a pair of U.S. stock indexes, increasing the pathways for investment in its proprietary physical… EUDI Wallet biometric compromise draws privacy concerns Jun 23, 2026, 2:20 pm EDT EU member states have reached a compromise on a contentious biometric requirement for the European Digital Identity (EUDI) Wallets. Under… BioRugged launches biometric camera platform for European system integrators Jun 23, 2026, 2:15 pm EDT BioRugged has developed a new camera platform for biometric enrollment, border control and law enforcement applications and in a new… Regula expands ID verification capabilities for Uber in Poland Jun 23, 2026, 2:15 pm EDT Uber is deploying identity verification from Regula Forensics in more cities in Poland. A release says that the expanded partnership…
-
-.rp4wp-related-posts { display:none !important }","{'https://www.biometricupdate.com/wp-content/themes/bu/img/BU-Newsletter.jpg', 'https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/13121459/Nepal-National-Identity-Card-150x150.png', 'https://www.biometricupdate.com/wp-content/themes/bu/img/biometric-update-logo.png', 'https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/24113138/nepal-national-id-registration.jpeg', 'https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/01/24113138/nepal-national-id-registration-1024x768.jpeg', 'https://www.facebook.com/tr?ev=6024262178418&cd[value]=0.01&cd[currency]=CAD&noscript=1', 'https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/09/11132431/uk-digital-id-150x150.jpg', 'https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2025/06/20135351/shutterstock_2620728871-150x150.jpg', 'https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/08130132/digital-identity-fingerprint-150x150.jpg', 'https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/11/07145827/pacific-islander-150x150.png', 'https://www.biometricupdate.com/wp-content/themes/bu/img/biometric-update-logo-white.png'}","नेपाल के राष्ट्रीय पहचान प्रणाली के साथ बढ़त समस्या के सामना करना पड़॑ छै, कैन्हेंकि छपाई के चुनौती, सुरक्षा के कथित मुद्दा आरू निविदा रद्द होय के कारण देरी बढ़ी रहलऽ छै ।
-
-सरकार राष्ट्रीय पहचान पत्र प्रबंधन सूचना प्रणाली (एनआईडीएमआईएस) क संचालन, रखरखाव आ तकनीकी सहायता क वैश्विक निविदा रद्द क देलक अछि। काठमांडू पोस्ट के खबर अछि जे नेपाली सरकार एकर बदला मे एहि व्यवस्था के आंतरिक रूप सं प्रबंधन करय के फैसला केलक अछि.
-
-window.googletag = विंडो.गूगलटैग || {सीएमडी: []}; googletag.cmd.push (function () { googletag.defineSlot ('/22228962824/biometricupdate.com', ['द्रव'], 'inarticle').setTargeting ('pos', ['300_1']).addService (googletag.pubads ()); googletag.pubads ().enableSingleRequest (); googletag.enableServices ( });
-
-गूगलटैग.सीएमडी.पुश (फंक्शन () { गूगलटैग.प्रदर्शन ('इनालेख'); });
-
-एनआईडीएमआईएस केरऽ सहायता आरू रखरखाव केरऽ निविदा ८ मई क॑ रद्द करी देलऽ गेलऽ छेलै ।प्रधानमंत्री केरऽ कार्यालय आरू मंत्री परिषद न॑ ई सिस्टम प॑ पूरा नियंत्रण लेतै, जे गृह मंत्रालय आरू राष्ट्रीय आईडी आरू नागरिक पंजीकरण केरऽ घटक विभाग केरऽ छत्रछाया म॑ छै ।
-
-द काठमांडू पोस्ट के उद्धृत एक अधिकारी के अनुसार तकनीकी मूल्यांकन पूरा होबय सं पहिने निविदा प्रक्रिया रद्द क देल गेल छल. ई निविदा 17 दिसंबर 2025 कए प्रकाशित भेल छल, आओर तीनटा कंपनी आवेदन केलक अछि। ई दुबई केरऽ ग्रेविटी ग्रुप आईएनडी एलएलसी, मलेशिया केरऽ आईरिस कॉर्पोरेशन आरू फ्रांस केरऽ आईएन स्मार्ट आइडेंटिटी (पहिने आइडेमिया स्मार्ट आइडेंटिटी) छेलै ।
-
-विभाग केरऽ महानिदेशक नमाराज घिमिरे क॑ ११ मई क॑ मुस्लिम आयोग म॑ स्थानांतरित करी देलऽ गेलै ।गृह मंत्रालय न॑ १ जून क॑ संयुक्त सचिव कृष्ण पौडेल क॑ नया महानिदेशक बनैलकै ।प्रधानमंत्री कार्यालय केरऽ एगो अधिकारी के अनुसार नागरिक डाटा प॑ घरेलू नियंत्रण सुनिश्चित करै आरू नेपाल केरऽ डिजिटल संप्रभुता क॑ मजबूत करै लेली तकनीकी विशेषज्ञऽ क॑ लानै के फैसला करलऽ गेलऽ छै ।
-
-बायोमेट्रिक नामांकन, डाटा स्टोरेज आ कार्ड प्रिंटिंग सहित कार्य विदेशी तकनीक प्रदाताक पर निर्भर रहल अछि. राष्ट्रीय आईडी कार्यक्रम के लेल तकनीकी सहायता इडेमिया के तहत स्थानीय शाखा एडवांटेज इंटरनेशनल प्राइवेट लिमिटेड के तरफ सं देल गेल छल, जाहि सं नेपाली सरकार 2018 मे समझौता केने छल.एहि मे बायोमेट्रिक पंजीकरण, स्मार्ट कार्ड उत्पादन, पर्सनलाइजेशन आ अन्य तकनीकी सेवा शामिल छल.
-
-ओहि समझौता के समाप्ति के बाद आब रद्द भ गेल अंतरराष्ट्रीय निविदा शुरू भ गेल.
-
-27 मार्च कए पदभार संभालनिहार प्रधानमंत्री बलेन्द्र शाह क प्रशासन डिजिटल गवर्नेंस आ आईटी सिस्टम कए केंद्रीकृत करबा मे लागल अछि। शाह के सरकार सूचना प्रौद्योगिकी आरू इलेक्ट्रॉनिक शासन कार्यालय के स्थापना के योजना बना रहलऽ छै, जे अभी-अभी बनलऽ विज्ञान, प्रौद्योगिकी, आरू नवाचार मंत्रालय के साथ-साथ बैठतै ।
-
-लेकिन देश म॑ कार्ड-प्रिंटिंग क्षमता म॑ भारी कमी के सामना करना पड़॑ छै । फ्रांस द्वारा आपूर्ति कयल गेल दू टा औद्योगिक प्रिंटर मे सं एकटा खराब भ गेल अछि आ दोसर बिना उचित रखरखाव के चलि रहल अछि. एहि स राष्ट्रीय आईडी कार्ड क दैनिक उत्पादन 16,000-18,000 स घटि कए लगभग 3,000 भ गेल अछि। तकनीशियन के चेतावनी छै कि विभाग म॑ सिस्टम केरऽ बड़ऽ विफलता स॑ उबर॑ लेली विशेषज्ञता के कमी छै ।
-
-एहि मंदी स पहिने स पैघ बैकलॉग बढ़ि गेल अछि। दू करोड़ लोक स बायोमेट्रिक डाटा एकत्रित कैल गेल अछि, मुदा मात्र 78 लाख कार्ड छपल अछि। हाल के सर्वर आउटेज के कारण सेवा आओर बाधित भ गेल अछि आओर लोक के विश्वास कम भ गेल अछि.
-
-नेपाल के डिजिटल रूपांतरण के कदम में सुरक्षा में झटका देखल जा रहल अछि
-
-राष्ट्रीय पहचान पत्र डाउनलोड सेवा शुरू भेलाक 24 घंटा सं कम समय बाद ई सेवा अनुपलब्ध भ गेल. ऑनलाइन प्रकाशन खोज समाचार केरऽ जांच के बाद ई आउटेज होय गेलऽ छै, जेकरा म॑ सिस्टम के साथ कथित सुरक्षा मुद्दा मिललै ।
-
-डाउनलोड सेवा के उद्देश्य नागरिक क॑ सरकारी कार्यालय म॑ जाय के जरूरत के बिना सीधा अपनऽ स्मार्टफोन प॑ अपनऽ राष्ट्रीय पहचान पत्र डाउनलोड करै के अनुमति छेलै । एकरा नेपाल केरऽ जारी डिजिटल रूपांतरण म॑ एक कदम के रूप म॑ देखलऽ गेलै, जेकरा स॑ नागरिक क॑ कागजी काम आरू भौतिक केंद्रऽ के दौरा स॑ बचै के मौका मिललै ।
-
-खबर छै कि जांच म॑ पता चललै कि ई सिस्टम संवेदनशील व्यक्तिगत दस्तावेजऽ क॑ उजागर करी सकै छै, कैन्हेंकि कोय भी व्यक्ति केरऽ राष्ट्रीय आईडी दस्तावेज तक पहुँचै आरू डाउनलोड करै लेली खाली ककरो पूरा नाम, जन्म तिथि आरू नागरिकता जारी करै के तारीख प्राप्त करै के जरूरत छै । खबर अछि जे एहि मे कोनो अतिरिक्त सत्यापन परत नहि छल।
-
-यूरेशिया रिव्यू के अनुसार खोज समाचार के जांच स॑ ऑनलाइन बहुत चर्चा आरू चिंता पैदा होय गेलै, जबकि एकरा म॑ रिपोर्ट प्रकाशित होय के एक दिन स॑ भी कम समय बाद सिस्टम ऑफलाइन (404’d) होय के खबर भी मिललै ।
-
-कुल मिला कए आईडी क देरी गंभीर भ रहल अछि, किया कि पासपोर्ट, लाइसेंस, बैंकिंग, सामाजिक सुरक्षा आ अन्य आवश्यक सेवा क लेल राष्ट्रीय आईडी क जरूरत बढ़ि रहल अछि। सरकार केरऽ तर्क छै कि स्थानीय प्रबंधन स॑ डाटा संप्रभुता म॑ सुधार होय छै, लेकिन अधिकारियऽ क॑ आशंका छै कि विभाग म॑ सिस्टम क॑ भरोसेमंद तरीका स॑ संचालित करै लेली कौशल आरू संसाधन के कमी छै । सफल रोलआउट एहि बात पर निर्भर करैत अछि जे तकनीकी क्षमता कें कतेक जल्दी पुनर्निर्माण कैल जा सकय छै.
-
-संबंधित पोस्ट एनजेड 30 जुलाई, 2025 कए डिजिटल क्रेडेंशियल जारी करबाक प्लेटफॉर्म निविदा शुरू केलक
-
-नेपाल निर्वाचन आयोग राष्ट्रिय आईडी बायोमेट्रिक एकीकृत November 17, 2025
-
-हिप्पो डिजिटल क॑ यूके डिजिटल आईडी ट्रस्ट समस्या के जड़ म॑ समावेश, स्पष्टता के अंतर मिललै 7 जनवरी, 2026
-
-यूके निर्भरता राष्ट्रीय डिजिटल आईडी पर विकल्प छै, जरूरत विवरण 24 अक्टूबर, 2025
-
-बेलीज कैबिनेट न॑ राष्ट्रीय डिजिटल आईडी रोल आउट क॑ 21 जुलाई, 2025 क॑ मंजूरी देलकै
-
-एनजेड योजना डिजिटल आईडी ट्रस्ट फ्रेमवर्क रजिस्टर निविदा 7 अगस्त, 2025 कें अंत कें लेल
-
-var अंत = 0; $ (विंडो).स्क्रॉल (फंक्शन () { अगर (अंत = = = 0) समाप्त (); }); फ़ंक्शन समाप्त () { var hT = $ ('# समाप्त'). ऑफसेट (). शीर्ष, hH = $ (' # समाप्त'). बाहरी ऊंचाई (), wH = $ (विंडो). ऊंचाई (), wS = $ (इस). scrollTop (); अगर (wS > (hT + hH-wH)) { अंत = 1; ga(' भेजल', 'घटना', 'नेविगेशन', 'समाप्त लेख', 'नेपाल आईडी निविदा रद्द, घरेलू नियंत्रण पर दांव लगा देलक'); } } .
-
-लेख विषय
-
-डिजिटल आईडी | डिजिटल संप्रभुता | राष्ट्रीय आईडी | नेपाल | निविदा
-
-नवीनतम बायोमेट्रिक समाचार न्यूजीलैंड न॑ जांच करलकै कि असफल बायोमेट्रिक परियोजना प॑ अधिकारियऽ न॑ मंत्री सिनी क॑ गुमराह करलकै कि नै Jun 23, 2026, 2:53 pm EDT न्यूजीलैंड केरऽ आप्रवासन मंत्री एरिका स्टैनफोर्ड न॑ कहलकै कि अब॑ ई फैसला लोक सेवा आयुक्त प॑ छै कि अधिकारियऽ... IAD के साथ गहरी धोखाधड़ी रोकना: अंदरूनी सूत्रऽ के नजरिया के खुलासा करै लेली लाइव वेबिनार Jun 23, 2026, 2:29 pm EDT डीपफेक केरऽ प्रसार आरू साइबर अपराधी ओकरा बनाबै लेली इस्तेमाल करलऽ जाय वाला एआई टूल न॑ बायोमेट्रिक इंजेक्शन अटैक डिटेक्शन (आईएडी) बनैलकै... इंटेलीचेक न॑ मार्केट कैप के हिसाब स॑ अमेरिका केरऽ शीर्ष 3K कंपनी तलक पहुँची गेलै, रसेल इंडेक्स म॑ शामिल होय गेलै Jun 23, 2026, 2:26 pm EDT इंटेलीचेक क॑ यू.एस. अपनऽ मालिकाना भौतिक म॑ निवेश केरऽ मार्ग बढ़ैलऽ जाय रहलऽ छै... ईयूडीआई बटुआ बायोमेट्रिक समझौता गोपनीयता केरऽ चिंता आकर्षित करै छै Jun 23, 2026, 2:20 pm EDT ईयू केरऽ सदस्य देशऽ न॑ यूरोपीय डिजिटल पहचान (ईयूडीआई) बटुआ लेली एगो विवादित बायोमेट्रिक आवश्यकता प॑ समझौता करी लेल॑ छै । तहत... बायोरग्ड न॑ यूरोपीय सिस्टम इंटीग्रेटरऽ लेली बायोमेट्रिक कैमरा प्लेटफॉर्म शुरू करलकै Jun 23, 2026, 2:15 pm ईडीटी बायोरग्ड न॑ बायोमेट्रिक नामांकन, सीमा नियंत्रण आरू कानून प्रवर्तन अनुप्रयोग लेली एगो नया कैमरा प्लेटफॉर्म विकसित करलकै आरू एक नया... रेगुला न॑ पोलैंड म॑ उबर लेली आईडी सत्यापन क्षमता के विस्तार करलकै 23 जून, 2026, 2:15 बजे ईडीटी उबर पहचान तैनात करी रहलऽ छै पोलैंड के अधिक शहरों में रेगुला फोरेंसिक से सत्यापन | एकटा रिलीज मे कहल गेल अछि जे विस्तारित साझेदारी...
-
-.rp4wp-related-posts { प्रदर्शन:कोनो नहि !महत्वपूर्ण }",Interview
-Nepal Becomes 40th Country To Legally Recognise Equal Marriage - YOUR EX,Nepal Becomes 40th Country To Legally Recognise Equal Marriage  YOUR EX,2026-06-23 21:19:06,https://news.google.com/rss/articles/CBMiqgJBVV95cUxOYXB6V2lZUU9sRmQ2N0t6VXBhS2JDMTVDVHhXQTZXNHZPbjZjZ29hNmdxVlNia3FnTmZfdEREZlZMX0xYVkFDR3JwQWZ3U2JQczZBWkszbTlzOUJBZlVENmZkNXFVTG9KRDU3b0VSaUhDVHNVTkM1eUdJMGFWVHEyV2RaazZfNS1oSWo5dnkwa2tTUG9SeDNVSHF5UHpod0F6VzB4RlNGcU1FajlRRzg4Ylc0c2hISjVURzhBUXF1bTFRRWhyLXRCclFRajVGZTNUR3psOGtxeDRPZEdDSG9RTnlPWTJ4QThDb191bEljWjluN1IwWFR5OHZyN2ZMTmxVaVIzZ1UxZHEyOE5uTy1oSzhIUUptdG8yVEd5Z3pOam5mWjdvblFqNzlR?oc=5&hl=en-US&gl=US&ceid=US:en,https://gayexpress.co.nz,YOUR EX,"Nepal’s Supreme Court has ruled in favour of equal marriage, marking a major win for LGBTQ+ rights in South Asia.
-
-On 18 June, the court ordered the Nepali government to ensure equal marriage rights for queer and trans people. The ruling makes Nepal the 40th country worldwide to legally recognise equal marriage.
-
-Equal marriage had previously been recognised in Nepal following an interim Supreme Court ruling in 2023, after a group of nine LGBTQ+ activists challenged the country’s marriage laws, which defined marriage as a union between a man and a woman.
-
-That case led the court to order Nepal’s government to create a new marriage register for couples from gender minority communities. In November 2023, Nepal recorded South Asia’s first legally recognised LGBTQ+ marriage, when Maya Gurung and Surendra Pandey received official recognition in Lamjung district.
-
-This month’s ruling provides greater certainty and legal security for Nepali LGBTQ+ couples who wish to marry in the future.
-
-Speaking to Nepali non-profit Pahichan on 19 June, human rights activist, monk and former politician Sunil Babu Pant described the decision as historic.
-
-“This landmark ruling marks a historic milestone for equality, dignity, and human rights in Nepal, while providing crucial legal clarity and protection for the rights of same-sex couples,” Pant said.
-
-They continued: “The verdict reaffirms the constitutional principles established in Sunil Babu Pant vs Nepal govt, and strengthened through later cases, including Maya Surendra’s first-ever legal registration of non-traditional heterosexual marriage in Nepal.
-
-“It confirms that gender and sexual minority couples are entitled to equal protection of the law and reinforces Nepal’s commitment to inclusion, equality, and non-discrimination.”
-
-The Blue Diamond Society, an LGBTQ+ rights organisation based in Nepal, also celebrated the decision.
-
-“The ruling is now the fourth Supreme Court decision over nearly two decades that makes clear: the freedom to marry the person you love is a guarantee under Nepal’s Constitution, and LGBTQIA+ couples and their families must be afforded the dignity, respect, and protections that only marriage can provide,” the group said in a statement.
-
-“With this victory, a counter-writ petition filed by advocate Yuvraj Paudel aiming to block these rights was decisively dismissed by the court,” it continued.
-
-“We, the Blue Diamond Society team, welcome this important milestone from the Supreme Court of Nepal towards ensuring marriage equality provisions in Nepal and are excited to witness the next steps from the Government in translating this ruling into practice.”
-
-Nepal has long been seen as a regional leader on LGBTQ+ rights. A landmark 2007 Supreme Court decision in Sunil Babu Pant and Others v Nepal Government recognised the rights of sexual and gender minorities and helped establish constitutional protections against discrimination.
-
-For LGBTQ+ couples in Nepal, the latest ruling is not only symbolic. It brings the country closer to full legal recognition of their relationships, families and futures.","{'https://gayexpress.co.nz/wp-content/uploads/2026/06/WOW1571-Your-ex-digi-728x90px2.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/05/YourEx_300x300.gif', 'https://gayexpress.co.nz/wp-content/uploads/2025/09/ezgif.com-optimize-2.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/04/ezgif.com-animated-gif-maker-3.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/05/DIGITAL_UA_ISD-1263_NZ_YourEXMagazineAds_300X300_OPC_R1.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/Kyiv-Pride-March.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/Carmen-Curlers-Online-Ad300px-wide-300px.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/05/YourEx_728x90.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/DIGITAL_UA_ISD-1263_NZ_YourEXMagazineAds_728X90_OPA_R2.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/ALCF26_GIFBanner_728x90_v2.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/ezgif.com-optimize-4.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/04/8c1ca59e-a313-4453-979f-e41d8930f4b2.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2025/08/Untitled-design-10.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/WOW1571-Your-ex-digi-300x300px.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/Carmen-Curlers-Online-Ad728px-wide-90px.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2025/08/MVF-2-1.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/Romeo-Beckham.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/05/SZA4048-e-Vitara-Phase-3-728x9039-1.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/JPD-03164-Wallpaper-SALE-2026_300x300_V1-1.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/94852547-aacb-40de-a03d-daf6fc28392c.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/Leviticus_Digital_YourEx_MaxiWebAd_300x300_ICN_NZ.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2025/08/YOUR-EX-ONLINE-LOGO-MAIN.png', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/ALCF26_GIFBanner_300x300.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/04/https___t.cfjump.com_85259_t_93455_Urlhttps3a2f2ftsbliving.co_.nz2f-1.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2025/11/NZIP_GayExpress-Advert_300x300px.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/JPD-03164-Wallpaper-SALE-2026_728x90_V1.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/DIGITAL_UA_ISD-1263_NZ_YourEXMagazineAds_728X90_OPC_R2.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2025/08/https___accentdentists.co_.nz_.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2024/08/ES-Maxi-Square-Advert-yourex.gif', 'https://gayexpress.co.nz/wp-content/uploads/2026/03/27b422ec-736a-45cf-ba6a-82805f313b14.png', 'https://gayexpress.co.nz/wp-content/uploads/2025/08/Untitled-design-9.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/06/Nepal-Same-Sex-marriage.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2026/05/SZA4048-e-Vitara-Launch-300x3002-1.jpg', 'https://gayexpress.co.nz/wp-content/uploads/2024/06/UA_ISD-9317_NZ_YourExMagazine_Online_EDM_ADS_300X300px_OPC_R2.jpg'}","नेपाल केरऽ सुप्रीम कोर्ट न॑ समान विवाह के पक्ष म॑ फैसला देल॑ छै, जेकरा स॑ दक्षिण एशिया म॑ एलजीबीटीक्यू+ अधिकारऽ प॑ एगो बड़ऽ जीत मिललऽ छै ।
-
-18 जून कए कोर्ट नेपाली सरकार कए क्वीयर आ ट्रांस लोक कए समान विवाह अधिकार सुनिश्चित करबाक आदेश देलक। एहि फैसला स नेपाल विश्व भरि मे समान विवाह कए कानूनी तौर पर मान्यता देनिहार 40म देश बना देल गेल अछि।
-
-नेपाल म॑ २०२३ म॑ सुप्रीम कोर्ट केरऽ अंतरिम फैसला के बाद समान विवाह क॑ पहल॑ भी मान्यता देलऽ गेलऽ छेलै, जेकरा बाद नौ एलजीबीटीक्यू+ कार्यकर्ता केरऽ समूह न॑ देश केरऽ विवाह कानून क॑ चुनौती देल॑ छेलै, जेकरा म॑ विवाह क॑ एक पुरुष आरू एक महिला के बीच के संघ के रूप म॑ परिभाषित करलऽ गेलऽ छेलै ।
-
-ओहि मामला मे कोर्ट नेपाल सरकार के जेंडर अल्पसंख्यक समुदाय के दंपति के लेल नवका विवाह रजिस्टर बनेबाक आदेश देलक. नवम्बर २०२३ म॑ नेपाल न॑ दक्षिण एशिया केरऽ पहलऽ कानूनी रूप स॑ मान्यता प्राप्त एलजीबीटीक्यू+ विवाह दर्ज करलकै, जब॑ माया गुरुंग आरू सुरेन्द्र पाण्डे क॑ लमजुंग जिला म॑ आधिकारिक मान्यता मिललै ।
-
-एहि मासक फैसला सं भविष्य मे विवाह करय चाहय वाला नेपाली एलजीबीटीक्यू+ जोड़ी के बेसि निश्चितता आओर कानूनी सुरक्षा मिलैत अछि.
-
-19 जून कए नेपाली गैर-लाभकारी संस्था पहिचन सँ बातचीत करैत मानव अधिकार कार्यकर्ता, भिक्षु आ पूर्व राजनीतिज्ञ सुनील बाबू पंत एहि निर्णय केँ ऐतिहासिक बतौलनि ।
-
-पंत नँ कहलकै, “ई मील के पत्थर वाला फैसला नेपाल मँ समानता, गरिमा, आरू मानव अधिकार लेली एगो ऐतिहासिक मील के पत्थर छेकै, जबकि समलैंगिक दंपति के अधिकार लेली महत्वपूर्ण कानूनी स्पष्टता आरू सुरक्षा प्रदान करै छै ।
-
-ओ सब आगू कहलनि जे, ई फैसला सुनील बाबू पंत बनाम नेपाल सरकार मे स्थापित संवैधानिक सिद्धांत के दोबारा पुष्टि करैत अछि, आ बाद के मामला के माध्यम सं मजबूत भेल अछि, जाहि मे माया सुरेंद्र के पहिल बेर नेपाल मे गैर-पारंपरिक विषमलिंगी विवाह के कानूनी पंजीकरण सेहो शामिल अछि.
-
-“ई पुष्टि करै छै कि लैंगिक आरू यौन अल्पसंख्यक दंपति कानून के समान सुरक्षा के हकदार छै आरू नेपाल के समावेश, समानता, आरू अभेदभाव के प्रति प्रतिबद्धता क॑ मजबूत करै छै।”
-
-नेपाल स्थित एलजीबीटीक्यू+ अधिकार संस्था ब्लू डायमंड सोसाइटी सेहो एहि निर्णयक उत्सव मनौलक ।
-
-समूह न॑ जारी बयान म॑ कहलकै कि ई फैसला अब॑ लगभग दू दशक म॑ सुप्रीम कोर्ट केरऽ चारिम फैसला छै जेकरा स॑ साफ होय गेलऽ छै कि आपने जेकरा स॑ प्यार करै छियै ओकरा स॑ शादी करै के आजादी नेपाल केरऽ संविधान के तहत गारंटी छै, आरू एलजीबीटीक्यूआईए+ दंपति आरू ओकरऽ परिवार क॑ वू गरिमा, सम्मान, आरू सुरक्षा देना जरूरी छै जे केवल विवाह ही द॑ सकै छै ।
-
-आगू कहलकै, “ई जीत के साथ अधिवक्ता युवराज पौडेल द्वारा दायर करलौ गेलौ काउंटर रिट याचिका क जेकरौ उद्देश्य ई अधिकारौ क रोकै के छेलै, कोर्ट नँ निर्णायक रूप स॑ खारिज करी देलकै ।
-
-“हम ब्लू डायमंड सोसाइटी के टीम नेपाल में वैवाहिक समानता के प्रावधान सुनिश्चित करय के दिशा में नेपाल के सर्वोच्च न्यायालय के एहि महत्वपूर्ण मील के पत्थर के स्वागत करैत छी आ एहि फैसला के व्यवहार में उतारय में सरकार के तरफ सं अगिला कदम के साक्षी बनय लेल उत्साहित छी।”
-
-नेपाल क॑ बहुत दिन स॑ एलजीबीटीक्यू+ अधिकारऽ प॑ क्षेत्रीय नेता के रूप म॑ देखलऽ जाय रहलऽ छै । सुनील बाबू पंत आ अन्य बनाम नेपाल सरकार मे २००७ मे सर्वोच्च न्यायालयक एकटा मील के पत्थर निर्णय यौन आ लैंगिक अल्पसंख्यक के अधिकार के मान्यता देलक आ भेदभाव के खिलाफ संवैधानिक सुरक्षा स्थापित करबा मे मदद केलक ।
-
-नेपाल के एलजीबीटीक्यू+ जोड़ी के लेल ताजा फैसला सिर्फ प्रतीकात्मक नहिं अछि. ई देश क॑ हुनकऽ संबंध, परिवार आरू भविष्य केरऽ पूर्ण कानूनी मान्यता के करीब लानै छै ।",Interview
-"The Taste of Sel Roti metaphor of separation, longing, and identity - The Rising Nepal","The Taste of Sel Roti metaphor of separation, longing, and identity  The Rising Nepal",2026-06-24 00:36:45,https://news.google.com/rss/articles/CBMiUEFVX3lxTE1vNFZPRVkxUVY3V2hkR0Ftd08wdWFOVWx5T3RSYnZQSjN0aWc5Z3k5UDAzejd4dnBNaEM1eXdUWTBJaHRUellQcmszSXM3T0Uz?oc=5&hl=en-US&gl=US&ceid=US:en,https://risingnepaldaily.com,The Rising Nepal,"By A Staff Reporter, Kathmandu, June 24: In Nepali society, sel roti is more than just a traditional delicacy, it is also a symbol of relationships, memories and reunion.
-
-The Taste of Sel Roti, presented by Kathaghera, draws on this cultural significance to weave together three distinct stories from Kirat mythology, folklore and contemporary life.
-
-Running for around an hour, the play brings to life not only the flavour of sel roti but also the emotions, traditions and history associated with it.
-
-The production is divided into three segments. Although each story differs in its characters, setting and time period, all are connected through a common thread, sel roti.
-
-The play portrays it not merely as food but as a cultural symbol that reconnects people with one another.
-
-The first segment is set in contemporary society. A divorced man, living alone, is visited by his former wife, who has since remarried, on the birthday of their late daughter.
-
-Their conversation revisits their past relationship, separation, regrets and the grief left behind by the loss of their child. In this context, sel roti becomes a vehicle for remembrance.
-
-The play refers to the Kirat tradition of offering sel roti as a farewell gift to daughters returning home from their maternal family or to departing guests.
-
-Its circular shape symbolises the hope of meeting again, much like the cyclical nature of time.
-
-This cultural meaning lends emotional depth to the story. The second segment presents the well-known Kirat myth of Sumnima and Paruhang.
-
-The tale explores the relationship between Paruhang, the deity of the mountains, and Sumnima, focusing on themes of insult, curse and the resulting turmoil.
-
-At a pivotal moment, Sumnima offers sel roti to Paruhang as he prepares to leave, urging him to return soon. The scene conveys sel roti as a symbol of longing, affection and reunion rather than merely a food item.
-
-Through this mythological narrative, the play seeks to share the legends and cultural memories associated with sel roti. The third segment draws on the legend of the Thewe bird, which holds a special place in Kirat folklore.
-
-The story of a mother who loses her child due to the deceit of villagers is reinterpreted within the context of Nepal’s conflict era.
-
-Her grief, the family tensions that follow and her endless search for the lost child form the emotional core of the narrative. Here too, sel roti appears as a symbol of memory and connection, linking the past with the present.
-
-Though the three stories are distinct, they ultimately convey the same message that relationships may break, but memories endure, people may drift apart, yet the hope of reunion remains alive. The play highlights these cultural and emotional layers hidden within the familiar taste of sel roti.
-
-Director Millsan D. Chamling successfully balances the different narratives and timelines. Performers Bedana Khersungma Rai and Prayas Rai bring their characters vividly to life, strengthening the emotional impact of the stories through compelling performances.
-
-The Taste of Sel Roti is not simply a story about a traditional food. It is a story of memory, separation, love, longing and Kirat's cultural identity.
-
-The play encourages audiences to reflect on their heritage and the deeply human emotions woven into it.
-
-Currently being staged at Kaushi Theatre, the production will continue its run until July 12.","{'https://risingnepaldaily.com/storage/media/104809/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104814/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104810/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104811/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104805/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/commons/rising-logo.png', 'https://risingnepaldaily.com/storage/media/104806/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104813/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104798/Untitled-1.jpg', 'https://risingnepaldaily.com/storage/media/104814/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104811/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104805/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104808/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/885/conversions/square-thumb-thumb-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104810/conversions/Untitled-1-square-thumb.jpg'}","एकटा स्टाफ रिपोर्टर, काठमांडू, 24 जून : नेपाली समाज मे सेल रोटी मात्र पारंपरिक स्वादिष्ट भोजन स बेसी अछि, इ संबंध, स्मृति आ पुनर्मिलन क प्रतीक सेहो अछि।
-
-कथघेरा द्वारा प्रस्तुत सेल रोटी के स्वाद ई सांस्कृतिक महत्व के आकर्षित करी क॑ किरात पौराणिक कथा, लोककथा आरू समकालीन जीवन के तीन अलग-अलग कहानी क॑ एक साथ बुनै छै ।
-
-करीब एक घंटा धरि चलैत एहि नाटक मे सेल रोटीक स्वाद त' एहि सँ जुड़ल भाव, परंपरा आ इतिहास केँ सेहो जीवंत कयल गेल अछि ।
-
-निर्माण तीन सेगमेंट मे बँटल अछि । यद्यपि प्रत्येक कथाक पात्र, परिवेश आ समय अवधि मे भिन्नता अछि, मुदा सभटा एकटा साझा धागा, सेल रोटीक माध्यमे जुड़ल अछि ।
-
-नाटक मे एकरा मात्र भोजनक रूप मे नहि अपितु एकटा सांस्कृतिक प्रतीकक रूप मे चित्रित कयल गेल अछि जे लोक केँ एक दोसरा सँ पुनः जोड़ैत अछि ।
-
-पहिल खंड समकालीन समाज मे सेट अछि। एकटा तलाकशुदा पुरुष, जे असगर रहैत छथि, हुनकर पूर्व पत्नी, जे तकर बाद दोसर विवाह कएने छथि, हुनका लोकनिक स्वर्गीय बेटीक जन्मदिन पर जाइत छथि ।
-
-हुनका लोकनिक गप्प-सप्प मे हुनकर पूर्व संबंध, विरह, पछतावा आ बच्चाक क्षति सँ छोड़ल गेल दुखक पुनर्विचार होइत छनि । एहि क्रम मे सेल रोटी स्मरणक वाहन बनि जाइत अछि ।
-
-नाटक मे अपन मातृपरिवार सँ घर घुरैत बेटी केँ वा प्रस्थान करयवला अतिथि केँ विदाई उपहारक रूप मे सेल रोटी चढ़ेबाक किरात परम्पराक संदर्भ देल गेल अछि |
-
-एकरऽ गोलाकार आकार समय केरऽ चक्रीय प्रकृति के तरह ही फेरू मिलै के आशा के प्रतीक छेकै ।
-
-ई सांस्कृतिक अर्थ कथा मे भावात्मक गहराई दैत अछि । दोसर खण्ड मे सुमनीमा आ परुहंगक सुप्रसिद्ध किरात मिथक प्रस्तुत कयल गेल अछि |
-
-कथा में पहाड़ के देवता परुहांग आरू सुमनीमा के बीच के संबंध के खोज करलऽ गेलऽ छै, जेकरा में अपमान, गारी आरू एकरऽ परिणामस्वरूप पैदा होय वाला उथल-पुथल के विषय पर ध्यान देलऽ गेलऽ छै ।
-
-एकटा महत्वपूर्ण क्षण पर सुमनीमा परुहांग के जेबाक तैयारी में सेल रोटी के प्रस्ताव दैत अछि, ओकरा जल्दी वापस आबय के आग्रह करैत अछि. दृश्य में सेल रोटी के संप्रेषण मात्र भोजन के वस्तु के बजाय लालसा, स्नेह आ पुनर्मिलन के प्रतीक के रूप में कयल गेल अछि |
-
-एहि पौराणिक कथ्यक माध्यमे एहि नाटक मे सेल रोटी सँ जुड़ल किंवदंती आ सांस्कृतिक स्मृति केँ साझा करबाक प्रयास कयल गेल अछि | तेसर खंड मे किरात लोककथा मे विशेष स्थान रखनिहार थेवे चिड़ै के किंवदंती के आकर्षित कयल गेल अछि |
-
-गामक लोकक छल-प्रपंच सँ अपन बच्चा केँ गमाब’ बला मायक कथाक पुनर्व्याख्या नेपालक द्वंद्व युगक परिप्रेक्ष्य मे कयल गेल अछि ।
-
-ओकर शोक, ओकर बाद जे पारिवारिक तनाव आ ओकर हेरायल बच्चाक अंतहीन खोज कथ्यक भावनात्मक कोर बनैत छैक । एतय सेहो सेल रोटी स्मृति आ जुड़ावक प्रतीकक रूप मे प्रकट होइत अछि, जे अतीत केँ वर्तमान सँ जोड़ैत अछि |
-
-तीनू कथा भले अलग-अलग हो, मुदा अंततः एकहि संदेश दैत अछि जे संबंध टूटि सकैत अछि, मुदा स्मृति टिकैत अछि, लोक अलग भ' सकैत अछि, तइयो पुनर्मिलनक आशा जीवित अछि. सेल रोटी के परिचित स्वाद के भीतर नुकायल एहि सांस्कृतिक आ भावात्मक परत के नाटक में उजागर कयल गेल अछि |
-
-निर्देशक मिलसन डी. चामलिंग विभिन्न कथ्य आ समय रेखा के सफलतापूर्वक संतुलित करैत छथि । कलाकार बेदाना खेरसुंगमा राय आरू प्रयास राय अपनऽ पात्र क॑ सजीव रूप स॑ जीवंत करी क॑ आकर्षक प्रस्तुति के माध्यम स॑ कहानी के भावनात्मक प्रभाव क॑ मजबूत करी दै छै ।
-
-सेल रोटी के स्वाद खाली कोनो पारंपरिक भोजन के कहानी नै छै। स्मृति, विरह, प्रेम, लालसा आ किरातक सांस्कृतिक पहिचानक कथा अछि ।
-
-नाटक दर्शक के अपन धरोहर आ ओहि मे बुनल गहींर मानवीय भाव पर चिंतन करय लेल प्रोत्साहित करैत अछि ।
-
-वर्तमान मे कौशी रंगमंच मे मंचित ई प्रस्तुति 12 जुलाई धरि अपन चलन जारी रहत।",Literature
-Rescue Health Insurance - The Rising Nepal,Rescue Health Insurance  The Rising Nepal,2026-06-24 00:57:14,https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RZkFfQXE4dXFURGJZaWFOS1VVWWVNclNSMFE0T0ZlQ0t2VVVCSmJVb2hsMThnRTBsOTBQZXBVd05YS2ZhRVMwSjlGbkE3SGZi?oc=5&hl=en-US&gl=US&ceid=US:en,https://risingnepaldaily.com,The Rising Nepal,"In 2017, the government enacted the Health Insurance Act, 2017, which established the Health Insurance Board, mandated to manage and expand the programme nationwide. The programme was launched under the Social Health Insurance Policy 2013 to achieve universal health coverage and protect families from significant health expenditures. The scheme, which was first introduced in Kailai, Ilam and Baglung as a pilot project, has gradually expanded to 77 districts. On average, around 50,000 people take services every day, with over 10 million people being covered by health insurance. However, this noble initiative has witnessed declining enrollment and operational challenges. Delayed reimbursement to hospitals is a major issue. Due to the accumulation of outstanding dues, many hospitals have suspended health insurance services, and many have warned the government that they would be compelled to discontinue the service.
-
-
-
-
-
-Emerging troubles impelled the HIB to revise its policy in February, deciding that beneficiaries can now receive OPD services up to Rs. 25,000 only. Beneficiaries who previously had coverage of Rs. 100,000 for OPD, inpatient and emergency services became financially strained. Likewise, the renewal rate is also not steady. There is a trend toward discontinuing the scheme, creating an imbalance in the system that eventually strains it. The trend of healthy people being less enrolled in the scheme and people with chronic illnesses being enrolled more has also been putting strain on the scheme, as the balance between contributions and claims is significantly lacking.
-
-
-
-
-
-The National Health Insurance Board (NHIB) has recently paid Rs. 2 billion to 364 different hospitals and health institutions across the country. The decision is praiseworthy as it was made at a time when many hospitals had warned of suspending the insurance service if they did not get paid for the health insurance service. However, the board has yet to pay claims of many more hospitals and health posts. The hospitals claiming more than Rs. 150 million are yet to be paid. The timely reimbursement to the government, community and private hospitals is very important for the smooth running of the health insurance programme.
-
-
-
-
-
-Education and healthcare have become costly for a larger section of people. Healthcare facilities put a large strain on a family, and in a country like ours, where the availability of health insurance is nascent, a family has to spend a large sum of money to access healthcare facilities. Health insurance is important because it provides security to the individual when medical emergencies arise. By covering medical expenses, it saves a substantial amount for any individual. An average family almost goes broke when a family member suffers from a terminal illness. Likewise, people with health insurance services undergo regular checkups and receive preventive care, which is beneficial for them and the country.
-
-
-
-
-
-Despite the tremendous benefits, penetration of the health insurance programme is low in developing countries due to affordability issues, awareness and lack of insurance literacy. The government should be fully committed to carrying forward this programme with benefits added for the financially vulnerable. This programme should continue and thrive so that people are not deprived of their constitutional right to basic health services.","{'https://risingnepaldaily.com/storage/media/104809/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104814/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104810/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104811/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104805/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/commons/rising-logo.png', 'https://risingnepaldaily.com/storage/media/104806/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104813/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104814/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104811/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104805/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104800/edtoril.jpg', 'https://risingnepaldaily.com/storage/media/104808/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/885/conversions/square-thumb-thumb-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104810/conversions/Untitled-1-square-thumb.jpg'}","2017 मे सरकार स्वास्थ्य बीमा अधिनियम, 2017 बनौलक, जे स्वास्थ्य बीमा बोर्ड कें स्थापना केलक, जेकरा देश भर मे कार्यक्रम कें प्रबंधन आ विस्तार कें अनिवार्यता देल गेल छै. इ कार्यक्रम सामाजिक स्वास्थ्य बीमा नीति 2013 कें तहत सार्वभौमिक स्वास्थ्य कवरेज प्राप्त करय आ परिवारक कें महत्वपूर्ण स्वास्थ्य खर्च सं बचाव कें लेल शुरू कैल गेलय छै. कैलाई, इलाम आ बागलुंग मे पहिल बेर पायलट प्रोजेक्ट क रूप मे शुरू कैल गेल इ योजना धीरे-धीरे 77 जिला मे विस्तारित भ गेल अछि। औसतन हर दिन लगभग 50,000 लोग सेवा लैत छै, जइ मे एक करोड़ सं बेसि लोग स्वास्थ्य बीमा कें कवरेज मे छै. लेकिन ई उदात्त पहल म॑ नामांकन म॑ कमी ​​आरू परिचालन चुनौती के गवाह बनलऽ छै । अस्पतालक कें प्रतिपूर्ति मे देरी एकटा पैघ मुद्दा छै. बकाया बकाया जमा होय के कारण बहुत अस्पताल स्वास्थ्य बीमा सेवा बंद करी देल॑ छै, आरू बहुत अस्पताल न॑ सरकार क॑ चेतावनी देल॑ छै कि हुनी ई सेवा बंद करै लेली मजबूर होय जैतै ।
-
-
-
-
-
-उभरैत परेशानी के कारण एचआईबी फरवरी म॑ अपनऽ नीति म॑ संशोधन करै लेली मजबूर होय गेलै, जेकरा म॑ ई फैसला करलऽ गेलै कि अब॑ लाभार्थी क॑ 1000 रुपया तलक के ओपीडी सेवा मिल॑ सकै छै । 25 हजार मात्र। लाभार्थी जिनका पहिने 1000 रुपया क कवरेज छल। ओपीडी, इनपेसिंट आ आपातकालीन सेवा लेल एक लाख रुपैया आर्थिक तनाव मे पड़ि गेल। तहिना नवीकरण दर सेहो स्थिर नहि अछि। योजना बंद करय के प्रवृत्ति अछि, जाहि सं सिस्टम मे असंतुलन पैदा भ रहल अछि जे अंततः ओकरा पर तनाव पैदा क दैत अछि. एहि योजना मे स्वस्थ लोकक नामांकन कम आ पुरान बीमारी सं पीड़ित लोकक नामांकन बेसी हेबाक प्रवृत्ति सेहो एहि योजना पर तनाव पैदा करैत रहल अछि, कारण योगदान आ दावाक बीच संतुलन मे काफी कमी अछि।
-
-
-
-
-
-राष्ट्रीय स्वास्थ्य बीमा बोर्ड (एनएचआईबी) हाल मे 100 रुपया देलक अछि। देश भर मे 364 अलग-अलग अस्पताल आ स्वास्थ्य संस्थान मे 2 अरब टका देल गेल। ई फैसला प्रशंसनीय छै, कैन्हेंकि ई फैसला ऐन्हऽ समय म॑ करलऽ गेलऽ छेलै जब॑ बहुत अस्पताल न॑ चेतावनी देल॑ छेलै कि अगर ओकरा स्वास्थ्य बीमा सेवा केरऽ भुगतान नै मिलतै त॑ बीमा सेवा क॑ रोकलऽ जाय । हालांकि बोर्ड एखन धरि आओर कईटा अस्पताल आओर स्वास्थ्य चौकी क दावा नहि चुका सकल अछि। 100 रुपया स बेसी क दावा करय वाला अस्पताल। 15 करोड़ क भुगतान एखन बाकी अछि। स्वास्थ्य बीमा कार्यक्रम कें सुचारू रूप सं संचालन कें लेल सरकार, सामुदायिक आ निजी अस्पतालक कें समय पर प्रतिपूर्ति बहुत महत्वपूर्ण छै.
-
-
-
-
-
-शिक्षा आ स्वास्थ्य सेवा एकटा पैघ वर्ग के लोक के लेल महग भ गेल अछि. स्वास्थ्य सेवा सुविधा एकटा परिवार पर पैघ तनाव डालैत अछि, आ हमरा सन देश मे, जतय स्वास्थ्य बीमाक उपलब्धता नवजात अछि, स्वास्थ्य सेवाक सुविधाक उपयोग लेल परिवार कें पैघ रकम खर्च करय पड़ैत छैक. स्वास्थ्य बीमा महत्वपूर्ण छै, कियाकि इ व्यक्ति कें सुरक्षा प्रदान करएयत छै जखन चिकित्सा आपातकालीन स्थिति पैदा होयत छै. चिकित्सा खर्च कें कवर करय सं कोनों व्यक्ति कें लेल काफी राशि कें बचत होयत छै. एकटा औसत परिवार लगभग टूटि जाइत अछि जखन परिवारक कोनो सदस्य कोनो घातक बीमारी सं पीड़ित भ जाइत अछि. तहिना स्वास्थ्य बीमा सेवा वाला लोक के नियमित जांच होइत छनि आ निवारक देखभाल सेहो भेटैत छनि, जे हुनका आ देश के लेल फायदेमंद अछि.
-
-
-
-
-
-जबरदस्त लाभ कें बावजूद, किफायती कें मुद्दा, जागरूकता आ बीमा साक्षरता कें कमी कें कारण विकासशील देशक मे स्वास्थ्य बीमा कार्यक्रम कें पैठ कम छै. सरकार कें आर्थिक रूप सं कमजोर लोगक कें लेल लाभ जोड़ल गेलय कें साथ अइ कार्यक्रम कें आगू बढ़ावा कें लेल पूर्ण रूप सं प्रतिबद्ध होबाक चाही. इ कार्यक्रम जारी रहबाक चाही आ पनपबाक चाही ताकि लोक कें बुनियादी स्वास्थ्य सेवाक कें संवैधानिक अधिकार सं वंचित नहि कैल जा सकय.",Interview
-Nepal schools put children’s photos online. Parents aren’t asked - The Kathmandu Post,Nepal schools put children’s photos online. Parents aren’t asked  The Kathmandu Post,2026-06-24 00:59:56,https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDk4bHFsOFlsSHRsQjVScHlEb2FjM3RVTDYzN1BIMmg0R1pYU2huY3NNdXlVYVlFZEEyUGItLVFfem5vaUszUm0wUW5RbWtKa2lndjhsblV4dzF4Q3lfczlRM2J2anEteEdvYk45RWpRVmdEUXhTXzVzMDZ2MjJpRURaa2IyclRQaDRtRGhGTVlKMHQ5X3ZQeG9ud28zSG1pZ3RNa0RQUVF0REpQQVE?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"Uma Prasai was scrolling through TikTok one evening when she paused on a video featuring her son. He was in a swimming pool, and the camera followed him closely, while music blared in the background. He appeared distressed, pulling away from whoever was filming and trying to get out of frame. The comments underneath were about his behaviour rather than his discomfort. Prasai’s son is autistic. She had never given anyone permission to film him.
-
-She did not learn about the video from his school. She learned about it from the internet, the way a stranger might.
-
-The footage had started from a class group chat, where teachers regularly shared photos and videos from school activities. From there, another parent had downloaded it, added music, and posted it publicly — without consulting Prasai, the teacher who filmed it, or anyone else.
-
-Across Kathmandu, parents and child rights advocates say this is not an isolated lapse but a routine practice, one that schools have normalised for years and that artificial intelligence (AI) is now making far more dangerous, turning a casual classroom photo into raw material that can be copied, manipulated, and misused well beyond whoever first shared it.
-
-For Prasai, the experience was deeply unsettling. She said, ‘‘In the video, one can see my child is aggressive and does not want to be in the picture.’’
-
-At first, she did not think much of it. Photos of student activities had become routine, what she calls a ‘‘new normal’’ in Nepali schools, and her son’s classroom already had CCTV cameras so that she could review his day if needed. However, the school had never asked for her permission to publish photographs or videos of him, not at admission, not verbally, not at any point since.
-
-It was only after the TikTok video circulated that she raised the issue directly with her son’s class teacher, asking that he not be photographed unless he gave his consent. The school agreed, but only for her child. Other students in the same classroom continue to be filmed and photographed without any such arrangement, and Prasai said many of the parents have not objected. Some, she says, are comfortable with their children appearing in school posts and videos.
-
-“I feel like I am in a minority,’’ she said. ‘‘But autistic or not, the children’s pictures should not be shared without the individual’s consent, or that of their parents.’’
-
-Her proposed fix is simple: if schools can send payment notices home through students, they can send consent forms the same way.
-
-Her experience is not unusual. Across Kathmandu, parents describe a similar pattern: schools photographing and filming nearly every activity: swimming, eating, dancing, sports day, and circulating the material through class group chats, school Facebook pages, and prospectuses, often without ever asking.
-
-For Shilpa Dhakal, who is the parent of a seven-year-old boy and a thirteen-year-old girl, the discomfort has built gradually, through smaller frictions rather than one viral moment. Her objections began not with the school’s own posts but with other parents. They shared exam results without permission, and children’s grades became visible to the wrong audience. She has also pushed back on what she sees as a more subtle harm: the unevenness of which of the children get photographed and praised online, and which do not.
-
-‘‘When one child does something well but their picture isn’t posted while another friend’s picture is posted repeatedly—that is problematic,’’ Dhakal said. ‘‘Children like to compare.’’ She said her own children have noticed the pattern, sometimes asking why a classmate’s photos appear again and again while theirs do not.
-
-Dhakal credits her son’s school with being unusually responsive to her concerns, including over the unsupervised posting of exam results. But she is careful to note that this responsiveness is not common. ‘‘It’s usually the vocal parents who are heard,’’ she said. ‘‘The quiet ones are not.’’
-
-Consent for photography itself, she said, was never formalised. It was simply understood, verbally, until the practice became so normalised that parents now expect it. ‘‘Before, parents used to complain if their child’s photo wasn’t posted,’’ she said.
-
-Her sharpest concern is more specific: older children, particularly girls, photographed in swimwear at the pool, with those images posted to the school’s public Facebook page. ‘‘There are privacy concerns, and there is a risk of misuse of such photos,’’ she said.
-
-Children are highly attuned to patterns of inclusion and exclusion, said Pallawi Ghimire, a psychologist. A child’s sense of self is shaped by how others view and treat them, and when a child is repeatedly left out of photographs being shared, the message can be internalised long before they have the language to articulate it.
-
-“They may internalise messages like, ‘I am less important’ or ‘I am not worthy of being seen,’” Ghimire said. A single instance may not register. But a repeated pattern, she said, can destroy a child’s self-esteem and social identity, a feeling that intensifies with age as peer comparison and self-consciousness take on added weight.
-
-The capacity to meaningfully consent develops gradually, Ghimire said. Preschool-age children can express a preference, but do not yet grasp the long-term consequences of having their image shared. By age twelve, most children understand the implications for their reputation and privacy. That does not mean younger children’s preferences should be disregarded: even a simple question — ‘‘Are you comfortable with this photo being shared?’’ — builds a child's sense of bodily autonomy and trust in adults, Ghimire said.
-
-The risk is more acute for children like Prasai’s son, who is autistic.
-
-Neurodivergent children often struggle to navigate social stigma, and emotional responses during moments of distress are easily misread by those filming. ‘‘Recording or sharing moments of emotional dysregulation can lead to humiliation, shame, and public mockery,’’ the psychologist said, raising the risk that a child will be targeted by classmates or others online.
-
-The cumulative effect of years of undocumented consent is a digital footprint a child did not choose and may not discover until adolescence, when it can surface alongside questions of reputation and self-presentation the child never had a say in, says Ghimire.
-
-Photos of rows of students in uniform during morning assembly, children receiving prizes on stage, and snapshots from field trips have become a standard part of how schools communicate with parents and promote school activities. But such images often contain far more information than schools may realise: faces, uniforms, school logos, location details, and sometimes name tags, all of which can make a child identifiable. Once posted, they can be copied, downloaded, altered, and redistributed without the knowledge of school administrators, parents, or the children themselves.
-
-While Nepal has taken some steps to protect children online, experts say awareness and enforcement remain weak.
-
-The Ministry of Women, Children, Gender and Sexual Minorities, and Social Security approved the Online Child Protection Procedure, 2021, under the Children’s Act. The procedure bars schools from collecting and uploading children’s photographs and personal details without obtaining prior consent from guardians. It also encourages schools to educate children on online abuse and reporting mechanisms.
-
-Anil Raghuvanshi, founder of ChildSafeNet, an organisation that works to combat online sexual exploitation and abuse of children, said schools have a responsibility to protect children in digital spaces as well as physical ones.
-
-Even group photographs, often considered relatively harmless, can present risks. They may include children whose identities require additional protection, including survivors of abuse, children involved in custody disputes, or those facing other safety concerns.
-
-“Schools must understand that public photos are global, searchable, downloadable, and often permanent,” Raghuvanshi said. “A school noticeboard and a public Facebook account are not the same.”
-
-The rise of AI technologies has intensified those concerns.
-
-Recent cases abroad have shown how images taken from school websites and social media accounts can be repurposed using AI tools. According to the Internet Watch Foundation (IWF), a school in the United Kingdom was targeted by criminals who allegedly scraped photographs of students from publicly available sources and used AI tools to generate child sexual abuse material. The perpetrators then attempted to extort the school by threatening to publish the manipulated images online unless they were paid.
-
-The IWF subsequently identified around 150 images linked to the incident that met the legal definition of child sexual abuse material under UK law. The organisation then used digital fingerprinting technology to help prevent the images from being shared online.
-
-For child protection advocates, the incident highlights how rapidly evolving technologies, such as deepfakes and generative AI, have changed the nature of online risks.
-
-Experts warn that AI can combine publicly available images with information such as school names, event details, and locations to create detailed profiles of children, potentially increasing risks of grooming, harassment, fraud, and exploitation.
-
-The developments have also raised questions about whether Nepal’s legal framework is equipped to address emerging threats.
-
-At present, the Constitution of Nepal recognises privacy as a fundamental right, while the Privacy Act and the Children’s Act contain provisions on personal information and the protection of children. However, experts say the country lacks clear and enforceable child-specific guidelines governing how schools photograph, store, and share children’s images online.
-
-Raju Ghimire, general secretary of Children as Zones of Peace, an organization working to protect children’s rights, said existing protections have big gaps.
-
-“Nepal’s laws protect children from online abuse and exploitation, but not fully,” Ghimire said. “Stronger child-specific cyber safety legislation, improved enforcement capacity and better digital literacy would help. So would parent education, and enhanced cooperation with technology companies.”
-
-Not every school treats consent as an afterthought. At Kathmandu World School, the process is built into admission and renewed annually, said Seeresh Ratna Tuladhar, a Chief Branding, Partnerships & Strategic Officer there. Parents are informed about how photographs, videos and student work may be used for educational, communication and promotional purposes, and the school reaches out separately for activities that call for additional permission.
-
-The shift was not prompted by any single complaint or incident, Tuladhar said, but grew out of routine policy review and an effort to align with international child-safeguarding practices. ‘‘We believe educational institutions have a responsibility to anticipate evolving expectations around privacy and child protection,’’ he said. ‘‘Rather than waiting for concerns to arise, we prefer to establish clear and transparent practices from the outset.’’
-
-When a parent withholds consent, Tuladhar said, the child is not excluded from school life. ‘‘Our focus is always on inclusion,’’ he said. ‘‘It simply means exercising care and professionalism in how documentation and communication are handled.’’
-
-He said the policy does not require new staffing or systems and has largely been absorbed into existing administrative routines. Nor has it created the friction some principles might expect, he said: ‘‘Having clear expectations actually reduces misunderstandings.’’ His advice to schools that view consent processes as a hassle is to see them instead as a way to build trust. ‘‘At the end of the day, schools are entrusted with the care and well-being of children,’’ he said. ‘‘Respecting family preferences and maintaining transparency are simply extensions of that trust.’’
-
-Experts further recommend that schools adopt a principle of data-minimisation practices by asking whether photographs need to be shared publicly at all. Alternatives could include using private communication channels, blurring images, taking photos from behind, using artwork, or taking group shots that do not clearly identify individual children.
-
-They also urge schools to avoid publishing full names alongside photographs, disable location tagging, moderate comments, regularly review old posts, and promptly remove images upon request.
-
-“Children’s achievements should be celebrated,” Raghuvanshi said. “But never at the expense of their privacy, dignity, safety, or future well-being.”","{'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/childrens-1782262592.jpg', 'https://openweathermap.org/img/w/01d.png'}","उमा प्रसाई एक साँझ टिकटोक के स्क्रॉल क रहल छलीह कि अपन बेटा के फीचर वाला वीडियो पर रुकि गेलीह. ओ एकटा स्विमिंग पूल मे छलाह, आ कैमरा हुनका नीक जकाँ पाछू-पाछू चलैत छल, जखन कि बैकग्राउंड मे संगीतक गूँज छल. जे कियो फिल्मांकन क' रहल छल, ओकरा सॅं हटि क' फ्रेम सॅं बाहर निकलबाक प्रयास मे ओ व्यथित देखाइत छलाह । नीचाँक टिप्पणी हुनकर असुविधा सँ बेसी हुनकर व्यवहार पर छल । प्रसाई’क बेटा ऑटिस्टिक अछि. हुनका फिल्मांकन करबाक अनुमति कहियो ककरो नहि देने छलीह ।
-
-हुनकर स्कूल स वीडियो के बारे मे हुनका पता नहि चललनि। इंटरनेट स' हुनका एहि बारे मे पता चललनि, जेना कोनो अनजान आदमी के भ' सकैत अछि.
-
-ई फुटेज क्लास ग्रुप चैट स शुरू भेल छल, जतय शिक्षक नियमित रूप स स्कूल क गतिविधि क फोटो आ वीडियो शेयर करैत छलाह। ओतय सँ एकटा आओर अभिभावक एकरा डाउनलोड कएने छलाह, संगीत जोड़ने छलाह, आ सार्वजनिक रूप सँ पोस्ट केने छलाह — बिना प्रसाई सँ, फिल्मांकन करयवला शिक्षक सँ, वा ककरो सँ परामर्श केने ।
-
-पूरा काठमांडू में अभिभावक आरू बाल अधिकार के पक्षधरऽ के कहना छै कि ई एगो अलग-थलग चूक नै बल्कि एगो नियमित प्रथा छै, जेकरा स्कूलऽ न॑ सालों स॑ सामान्य करी देल॑ छै आरू आर्टिफिशियल इंटेलिजेंस (एआई) अब॑ कहीं अधिक खतरनाक करी रहलऽ छै, जेकरा स॑ एक आकस्मिक कक्षा के फोटो क॑ कच्चा माल म॑ बदली देलऽ गेलऽ छै जेकरऽ नकल, हेरफेर, आरू दुरुपयोग करलऽ जाब॑ सकै छै, जेकरा स॑ बहुत आगू जे भी पहलऽ बार शेयर करलकै ।
-
-प्रसाई लेल अनुभव गहींर बेचैन करयवला छल। ओ बजलीह, ‘‘वीडियो मे देखल जा सकैत अछि जे हमर बच्चा आक्रामक अछि आ तस्वीर मे नहि रहय चाहैत अछि।’’
-
-पहिने तऽ ओ एहि पर बेसी नहि सोचलीह । छात्रक गतिविधिक फोटो दिनचर्या बनि गेल छल, जकरा ओ नेपाली स्कूल मे ‘‘न्यू नॉर्मल’’ कहैत छथि, आ बेटाक कक्षा मे पहिने सँ सीसीटीवी कैमरा लागल छल जाहि सँ जरूरत पड़ला पर ओकर दिनक समीक्षा क’ सकैत छल. मुदा, स्कूल कहियो हुनका सं हुनकर फोटो या वीडियो प्रकाशित करय के अनुमति नहिं मंगने छल, प्रवेश के समय नहिं, मौखिक रूप सं नहिं, तकर बाद कोनो समय नहिं.
-
-टिकटोक के वीडियो फैलला के बाद ही ओ सीधा अपन बेटा के क्लास टीचर सं ई मुद्दा उठेलखिन्ह आओर कहलखिन्ह जे जा धरि ओ सहमति नहिं द’ देताह ता धरि हुनकर फोटो नहिं खींचल जाए. स्कूल मानि गेलै, मुदा मात्र ओकर बच्चाक लेल। ओही कक्षा मे अन्य छात्र कए बिना एहन कोनो व्यवस्था कए फिल्मांकन आ फोटो खिंचब जारी अछि, आ प्रसाई कहला जे बहुतो अभिभावक कए कोनो आपत्ति नहि भेल अछि। हुनकऽ कहना छै कि कुछ लोगऽ क॑ स्कूल केरऽ पोस्ट आरू वीडियो म॑ अपनऽ बच्चा केरऽ उपस्थिति स॑ सहजता छै ।
-
-ओ कहली जे हमरा लगैत अछि जे हम अल्पसंख्यक मे छी।‘‘मुदा ऑटिस्टिक हो वा नहि, बच्चा क तस्वीर बिना व्यक्ति क सहमति, या ओकर माता-पिता क सहमति क शेयर नहि करबाक चाही।’’
-
-हुनकऽ प्रस्तावित फिक्स सरल छै: अगर स्कूल छात्रऽ के माध्यम स॑ भुगतान के नोटिस घर भेज॑ सकै छै त॑ वू सहमति पत्र भी वू ही तरह स॑ भेज॑ सकै छै ।
-
-हुनकर अनुभव कोनो असामान्य नहि छनि। काठमांडू भर म॑ अभिभावकऽ न॑ भी ऐन्हऽ ही पैटर्न के वर्णन करै छै: स्कूलऽ म॑ लगभग हर गतिविधि के फोटोग्राफी आरू फिल्मांकन: तैराकी, खाना, नाचना, खेल के दिन, आरू सामग्री क॑ कक्षा समूह चैट, स्कूल के फेसबुक पेज, आरू प्रोस्पेक्टस के माध्यम स॑ प्रसारित करना, अक्सर बिना कहियो पूछले ।
-
-सात साल के लड़का आरू तेरह साल के लड़की के माता-पिता शिल्पा ढकल के लेलऽ ई असुविधा धीरे-धीरे, एक वायरल मोमेंट के बजाय छोटऽ-छोटऽ घर्षण के माध्यम स॑ बढ़ी गेलऽ छै । हुनकर आपत्ति स्कूल’क अपन पोस्ट सँ नहि अपितु आन अभिभावक सँ शुरू भेल छलनि. बिना अनुमति के परीक्षा के रिजल्ट साझा क’ लैत छलाह, आ बच्चा’क ग्रेड गलत दर्शक के सामने देखाइत छल. ओ जेकरा बेसी सूक्ष्म नुकसान बुझैत छथि ताहि पर सेहो पाछू हटि गेल छथि : कोन बच्चाक फोटो आ प्रशंसा ऑनलाइन भ' जाइत छैक, आ कोन बच्चाक असमानता.
-
-‘‘जखन एकटा बच्चा किछु नीक काज करैत अछि मुदा ओकर तस्वीर पोस्ट नहि होइत छैक जखन कि दोसर मित्रक तस्वीर बेर-बेर पोस्ट होइत छैक-तखन समस्याग्रस्त अछि,’’ ढकल कहलनि. ‘‘बच्चा सब के तुलना करनाय पसंद छै.’’ ओ कहली जे हुनकर अपन बच्चा सब के ई पैटर्न पर ध्यान गेल छैन्ह, कखनो काल पूछैत छैन्ह जे कोनो सहपाठी के फोटो बेर-बेर किएक आबि रहल छैन्ह जखन कि हुनकर फोटो नहिं.
-
-ढकल अपन बेटा के स्कूल के श्रेय दैत छथिन्ह जे ओ हुनकर चिंता के प्रति असामान्य रूप सं जवाबदेह छल, जाहि मे परीक्षा के रिजल्ट के बिना देखरेख के पोस्ट करय के मामला सेहो शामिल अछि. मुदा ओ सावधान रहैत छथि जे ई प्रतिक्रियाशीलता आम बात नहि अछि । ‘‘प्रायः मुखर अभिभावक के सुनल जाइत छैक,’’ ओ बजलीह । ‘‘चुपचाप नै छै।’’
-
-ओ कहली जे फोटोग्राफी क लेल ही सहमति कहियो औपचारिक नहि भेल। एकरा बस, मौखिक रूप सॅं बुझल जाइत छल, जाबत धरि ई प्रथा एतेक सामान्य नहि भ' गेल जे आब अभिभावक लोकनि एकर अपेक्षा करैत छथि । ‘‘पहिने माता-पिता अपन बच्चाक फोटो पोस्ट नहि भेला पर शिकायत करैत छलाह,’’ ओ बजलीह.
-
-हुनकऽ सबसें तीखा चिंता अधिक विशिष्ट छै: बड़ऽ बच्चा, खास करी क॑ लड़कियऽ, पूल प॑ स्विमवियर म॑ फोटो खिंचैलकै, जेकरा म॑ वू छवि स्कूल केरऽ सार्वजनिक फेसबुक पेज प॑ पोस्ट करलऽ गेलऽ छै । ‘‘गोपनीयता के चिंता छै, आरू ऐन्हऽ फोटो के दुरुपयोग के खतरा छै,’’ हुनी कहलकै ।
-
-मनोवैज्ञानिक पल्लवी घिमिरे न॑ कहलकै कि बच्चा सब समावेश आरू बहिष्कार के पैटर्न के साथ बहुत अनुकूल होय छै । बच्चाक कें आत्म-बोध कें आकार इ बात सं बनएयत छै की दोसर ओकरा कोना देखयत छै आ ओकरा कोना व्यवहार करएयत छै, आ जखन कोनों बच्चा कें बेर-बेर फोटो साझा कैल जै सं बाहर छोड़ल जायत छै, तखन ओकरा ओकरा व्यक्त करएय कें भाषा मिलएय सं बहुत पहिले सं संदेश कें आंतरिक रूप देल जा सकएय छै.
-
-घिमिरे कहलनि जे, ओ सब ‘हम कम महत्वपूर्ण छी’ या ‘हम देखय योग्य नहि छी’ जेहन संदेश के आंतरिक रूप स ल सकैत छथि। एकटा इंस्टेंस पंजीकृत नहि भ' सकैत अछि. लेकिन बार-बार पैटर्न, हुनी कहलकै, बच्चा के आत्मसम्मान आरू सामाजिक पहचान क॑ नष्ट करी सकै छै, जे भावना उम्र के साथ तेज होय जाय छै, कैन्हेंकि साथी के तुलना आरू आत्म-चेतना के वजन बढ़ी जाय छै ।
-
-घिमिरे कहलनि जे, सार्थक सहमति देबाक क्षमता धीरे-धीरे विकसित होइत अछि। स्कूल सं पहिले कें उम्र कें बच्चाक कोनों पसंद व्यक्त कयर सकएय छै, मुदा ओकर छवि साझा करएय कें दीर्घकालिक परिणामक कें एखन तइक नहि पकड़एयत छै. बारह साल कें उम्र तइक अधिकतर बच्चाक कें अपन प्रतिष्ठा आ निजता कें निहितार्थ समझएयत छै. एकरऽ मतलब ई नै छै कि छोटऽ बच्चा सिनी के पसंद के अनदेखी करलऽ जाय: एक साधारण सवाल भी — ‘‘की आपने ई फोटो शेयर करलऽ जाय स॑ सहज छियै?’’ — बच्चा केरऽ शारीरिक स्वायत्तता आरू वयस्कऽ प॑ भरोसा के भावना पैदा करै छै, घिमिरे न॑ कहलकै ।
-
-प्रसाई कें बेटा जैना बच्चाक कें लेल इ जोखिम बेसि तीव्र छै, जे ऑटिस्टिक छै.
-
-न्यूरोडाइवर्जेंट बच्चाक अक्सर सामाजिक कलंक कें नेविगेट करय कें लेल संघर्ष करएयत छै, आ संकट कें क्षणक कें दौरान भावनात्मक प्रतिक्रियाक कें फिल्मांकन करएय वाला लोग आसानी सं गलत पढ़एयत छै. ‘‘भावनात्मक विनियमन केरऽ क्षण रिकॉर्ड करला या साझा करला स॑ अपमान, शर्म, आरू सार्वजनिक मजाक केरऽ सामना करना पड़॑ सकै छै,’’ मनोवैज्ञानिक न॑ कहलकै, जेकरा स॑ ई खतरा बढ़ी जाय छै कि कोय बच्चा क॑ ऑनलाइन सहपाठी या दोसरऽ लोगऽ द्वारा निशाना बनालऽ जैतै ।
-
-घिमिरे कहै छै कि सालक कें अदस्तावेज रहित सहमति कें संचयी प्रभाव एकटा डिजिटल पदचिह्न छै जेकरा कोनों बच्चा नहि चुनने छल आ शायद किशोरावस्था तइक पता नहि चलल, जखन कि इ प्रतिष्ठा आ आत्म-प्रस्तुति कें सवालक कें साथ सामने आबि सकय छै, जेकरा मे बच्चा कें कहियो कोनों कहनाय नहि छल.
-
-सुबह के सभा के दौरान वर्दी में छात्र के कतार के फोटो, मंच पर बच्चा सब के पुरस्कार प्राप्त करय के फोटो, आ फील्ड ट्रिप के स्नैपशॉट स्कूल अभिभावक सं कोना संवाद करैत अछि आ स्कूल के गतिविधि के बढ़ावा दैत अछि, एकर मानक हिस्सा बनि गेल अछि. मुदा ऐहन छवि मे अक्सर स्कूलक कें एहसास सं कहीं बेसि जानकारी होयत छै: चेहरा, वर्दी, स्कूल कें लोगो, स्थान कें विवरण, आ कखनों-कखनों नाम कें टैग, इ सबटा बच्चा कें पहचान करएय योग्य बना सकएय छै. एक बेर पोस्ट भ गेलाक कें बाद, स्कूल प्रशासक, अभिभावक या खुद बच्चाक कें जानकारी कें बिना ओकरा कॉपी, डाउनलोड, बदलल आ पुनर्वितरण कैल जा सकएय छै.
-
-नेपाल जखन किछ कदम उठेलक अछि ओतहि ऑनलाइन बच्चा सभक सुरक्षा लेल, विशेषज्ञ लोकनिक कहब छनि जे जागरूकता आ प्रवर्तन कमजोर बनल अछि।
-
-महिला, बाल, लैंगिक आ यौन अल्पसंख्यक, आ सामाजिक सुरक्षा मंत्रालय बाल अधिनियम कें तहत ऑनलाइन बाल संरक्षण प्रक्रिया, 2021 कें मंजूरी द देलक छै. इ प्रक्रिया मे स्कूलक कें अभिभावक सं पूर्व सहमति कें बिना बच्चाक कें फोटो आ व्यक्तिगत विवरण कें संग्रहण आ अपलोड करय सं रोकल गेल छै. इ स्कूलक कें ऑनलाइन दुर्व्यवहार आ रिपोर्टिंग तंत्र कें बारे मे बच्चाक कें शिक्षित करय कें लेल सेहो प्रोत्साहित करयत छै.
-
-ऑनलाइन यौन शोषण आरू बच्चा सिनी के साथ दुर्व्यवहार के मुकाबला करै लेली काम करै वाला संगठन चाइल्डसेफनेट के संस्थापक अनिल रघुवंशी नँ कहलकै कि स्कूल के जिम्मेदारी छै कि डिजिटल स्पेस के साथ-साथ भौतिक बच्चा सिनी के सुरक्षा भी करलौ जाय ।
-
-समूह फोटोग्राफ कें सेहो, जे अक्सर अपेक्षाकृत हानिरहित मानल जायत छै, जोखिम पैदा कयर सकएय छै. अइ मे ओय बच्चाक शामिल भ सकएय छै, जइ कें पहचान कें लेल अतिरिक्त सुरक्षा कें आवश्यकता होयत छै, जइ मे दुर्व्यवहार सं बचि गेल बच्चाक, हिरासत विवाद मे शामिल बच्चाक, या अन्य सुरक्षा चिंता कें सामना करएय वाला बच्चाक शामिल छै.
-
-रघुवंशी कहलकै, “स्कूल क॑ ई समझना चाहियऽ कि सार्वजनिक फोटो वैश्विक, खोजै योग्य, डाउनलोड करलऽ जाय वाला आरू अक्सर स्थायी होय छै । “स्कूल के नोटिसबोर्ड आ पब्लिक फेसबुक अकाउंट एक समान नै छै।”
-
-एआई तकनीक क उदय स ओ चिंता आओर तेज भ गेल अछि।
-
-विदेशऽ म॑ हाल केरऽ मामला स॑ पता चललै छै कि स्कूल केरऽ वेबसाइट आरू सोशल मीडिया अकाउंट स॑ लेलऽ गेलऽ छवि क॑ कोना एआई टूल के इस्तेमाल करी क॑ पुनः प्रयोजन करलऽ जाय सकै छै । इंटरनेट वॉच फाउंडेशन (आईडब्ल्यूएफ) के अनुसार यूनाइटेड किंगडम केरऽ एगो स्कूल क॑ अपराधी सिनी न॑ निशाना बनैलकै, जेकरा न॑ कथित तौर प॑ सार्वजनिक रूप स॑ उपलब्ध स्रोतऽ स॑ छात्रऽ के फोटो क॑ खुरचलकै आरू एआई टूल के इस्तेमाल करी क॑ बाल यौन शोषण सामग्री पैदा करलकै । एकरऽ बाद अपराधी न॑ स्कूल स॑ रंगदारी के कोशिश करलकै आरू धमकी देलकै कि जब॑ तलक ओकरा पैसा नै देलऽ जैतै, ओकरा म॑ हेरफेर करलऽ गेलऽ छवि क॑ ऑनलाइन प्रकाशित करलऽ जैतै ।
-
-एकरऽ बाद आईडब्ल्यूएफ न॑ ई घटना स॑ जुड़लऽ लगभग १५० छवि के पहचान करलकै जे यूके के कानून के तहत बाल यौन शोषण सामग्री के कानूनी परिभाषा क॑ पूरा करलकै । एकरऽ बाद संगठन न॑ डिजिटल फिंगरप्रिंटिंग तकनीक के इस्तेमाल करी क॑ ई छवि क॑ ऑनलाइन शेयर नै करै म॑ मदद करलकै ।
-
-बाल संरक्षण कें पैरवीकारक कें लेल इ घटना इ बात कें उजागर करएयत छै की डीपफेक आ जेनरेटिव एआई जैना तेजी सं विकसित प्रौद्योगिकी ऑनलाइन जोखिम कें प्रकृति कें कतेक बदललक छै.
-
-विशेषज्ञक कें चेतावनी छै कि एआई सार्वजनिक रूप सं उपलब्ध छविक कें स्कूल कें नाम, घटनाक कें विवरण, आ स्थान जैना जानकारी कें साथ मिला क बच्चाक कें विस्तृत प्रोफाइल बना सकय छै, जे संभावित रूप सं ग्रूमिंग, उत्पीड़न, धोखाधड़ी आ शोषण कें जोखिम बढ़ा सकय छै.
-
-एहि घटनाक्रम स इ सवाल सेहो उठल अछि जे की नेपाल क कानूनी रूपरेखा उभरैत खतरा कए दूर करबा लेल सुसज्जित अछि।
-
-वर्तमान मे नेपालक संविधान मे निजता केँ मौलिक अधिकारक रूप मे मान्यता देल गेल अछि, जखन कि गोपनीयता अधिनियम आ बाल अधिनियम मे व्यक्तिगत सूचना आ बच्चाक सुरक्षाक प्रावधान अछि । हालांकि विशेषज्ञक कें कहनाय छै कि देश मे बच्चाक कें लेल स्पष्ट आ प्रवर्तनीय दिशा निर्देशक कें कमी छै जे स्कूल बच्चाक कें छवि कें ऑनलाइन फोटोग्राफ, स्टोर आ शेयर कोना लेतय.
-
-बाल अधिकारक कें रक्षा कें लेल काज करय वाला संगठन चिल्ड्रेन एज जोन्स ऑफ पीस कें महासचिव राजू घिमिरे कहलनि जे, मौजूदा सुरक्षा मे पैघ अंतर छै.
-
-घिमिरे कहलनि जे, नेपाल के कानून बच्चा के ऑनलाइन दुर्व्यवहार आ शोषण स बचाबैत अछि, मुदा पूरा तरह स नहि। ""बच्चा-विशिष्ट साइबर सुरक्षा कानून कें मजबूत, प्रवर्तन क्षमता मे सुधार आ बेहतर डिजिटल साक्षरता मदद करतय. अभिभावक शिक्षा कें सेहो मदद करतय, आ प्रौद्योगिकी कंपनीक कें साथ सहयोग मे वृद्धि होयत.""
-
-हर स्कूल सहमति के आफ्टर थॉट के रूप में नहिं मानैत अछि. काठमांडू विश्व विद्यालय मे ई प्रक्रिया प्रवेश मे निर्मित होइत अछि आ सालाना नवीकरण होइत अछि, ओतय के मुख्य ब्रांडिंग, साझेदारी आ रणनीतिक अधिकारी सीरेश रत्न तुलाधर कहलनि। अभिभावक कें इ जानकारी देल जायत छै की फोटोग्राफ, वीडियो आ छात्रक कें काज कें उपयोग शैक्षिक, संचार आ प्रचार कें उद्देश्यक कें लेल कोना कैल जा सकय छै, आ स्कूल अलग सं ऐहन गतिविधियक कें लेल हाथ बढ़ायत छै जइ मे अतिरिक्त अनुमति कें आवश्यकता होयत छै.
-
-तुलाधर नँ कहलकै कि ई बदलाव कोनो भी शिकायत या घटना के कारण नै छेलै, लेकिन ई नियमित नीति समीक्षा आरू अंतरराष्ट्रीय बाल सुरक्षा प्रथा के साथ तालमेल बनाबै के प्रयास स॑ बढ़ी गेलऽ छै । ‘‘हमरऽ मानना ​​छै कि शैक्षिक संस्थानऽ के जिम्मेदारी छै कि वू गोपनीयता आरू बाल सुरक्षा के आसपास विकसित होय रहलऽ अपेक्षा के पूर्वानुमान लगाबै,’’ हुनी कहलकै । ‘‘चिंता पैदा होय के इंतजार करै के बजाय हम शुरू स॑ ही स्पष्ट आरू पारदर्शी प्रथा स्थापित करना पसंद करै छियै ।’’
-
-जखन कोनो अभिभावक सहमति रोकैत अछि त तुलाधर कहला जे बच्चा कए स्कूली जीवन स बाहर नहि राखल जाइत अछि। ‘‘हमरऽ ध्यान हमेशा समावेश प॑ ही रहै छै,’’ हुनी कहलकै । ‘‘एकरऽ बस मतलब छै कि दस्तावेजीकरण आरू संचार क॑ कोना संभाललऽ जाय छै, एकरा म॑ सावधानी आरू पेशेवरता के प्रयोग करना ।’’
-
-ओ कहला जे एहि नीति मे नव कर्मचारी या सिस्टम क जरूरत नहि अछि आ एकरा काफी हद तक मौजूदा प्रशासनिक दिनचर्या मे समाहित कैल गेल अछि। आरू नै ही ओकरा स॑ वू घर्षण पैदा होय गेलऽ छै जेकरऽ उम्मीद कुछ सिद्धांत करी सकै छै, हुनी कहलकै: ‘‘स्पष्ट अपेक्षा रखला स॑ वास्तव म॑ गलतफहमी कम होय जाय छै ।’’ सहमति प्रक्रिया क॑ परेशानी के रूप म॑ देखै वाला स्कूलऽ लेली हुनकऽ सलाह ई छै कि ओकरा एकरऽ बदला म॑ विश्वास पैदा करै के तरीका के रूप म॑ देखै । ‘‘अंत मे स्कूल कए बच्चा क देखभाल आ भलाई क जिम्मा सौंपल जाइत अछि,’’ ओ कहला। ‘‘परिवार केरऽ पसंद के सम्मान करना आरू पारदर्शिता कायम रखना बस वू विश्वास केरऽ विस्तार छै ।’’
-
-विशेषज्ञक कें आगू सिफारिश छै की स्कूलक कें इ पूछय कें लेल की फोटोग्राफ कें सार्वजनिक रूप सं साझा करय कें जरूरत बिल्कुल छै या नहि, डाटा-मिनिमाइजेशन प्रथाक कें सिद्धांत अपनावा. विकल्पक मे निजी संचार चैनलक कें उपयोग करनाय, छवि धुंधला करनाय, पाछू सं फोटो खिंचनाय, कलाकृति कें उपयोग करनाय, या समूह शॉट लेनाय शामिल भ सकय छै जे व्यक्तिगत बच्चाक कें स्पष्ट रूप सं पहचान नहि करएयत छै.
-
-स्कूलऽ स॑ ई भी आग्रह करै छै कि फोटो के साथ-साथ पूरा नाम प्रकाशित करै स॑ बचै, लोकेशन टैगिंग क॑ अक्षम करै, टिप्पणी क॑ संचालित करै, नियमित रूप स॑ पुरानऽ पोस्ट के समीक्षा करै, आरू अनुरोध प॑ तुरंत छवि हटाबै ।
-
-रघुवंशी कहलनि जे, बच्चा सभक उपलब्धि के जश्न मनाओल जेबाक चाही। “मुदा कहियो हुनकर निजता, मर्यादा, सुरक्षा, वा भविष्यक कल्याणक कीमत पर नहि।”",Interview
-"Opinion | More practical cooperation, stronger Nepal-China relations - The Kathmandu Post","Opinion | More practical cooperation, stronger Nepal-China relations  The Kathmandu Post",2026-06-24 01:05:03,https://news.google.com/rss/articles/CBMipAFBVV95cUxPUUJSX09ZbXMyZ0U4NWZfSzgweVdab214Y0x3LU1OUGVVMF9JZ1RaRURZQXhNbFo1UWFIcXdzenh6bmJHSjRHRkttemFXOFVUaFRrWGFyT1J0cDBwQWtrWkpmUWxrYTBWUUFieTIwVGJHQU53RDl0dDJvU1I2bXBPUE9YV0kzeUo1YnNORG1yVFNkWkREcmo0cmpXTVBRV1BzeldKWA?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"The latest progress in Nepal-China relations was the official visit to China by Nepal’s Minister for Foreign Affairs, Honourable Shisir Khanal, from June 14 to 17, 2026. As the first visit to China by a member of Nepal’s new Cabinet, it also marked an important high-level engagement following the celebrations of the 70th anniversary of the establishment of diplomatic relations between the two countries last year. The visit yielded fruitful outcomes.
-
-During the visit, Foreign Minister Khanal paid a courtesy call on HE Wang Huning, Member of the Standing Committee of the Political Bureau of the Communist Party of China (CPC) Central Committee and Chairman of the National Committee of the Chinese People’s Political Consultative Conference (CPPCC). He also held talks with HE Wang Yi, Member of the Political Bureau of the CPC Central Committee and Minister of Foreign Affairs of China, and met with HE Liu Haixing, Minister of the International Department of the CPC Central Committee. The two sides had in-depth exchanges of views on Nepal-China relations, mutually beneficial cooperation across various fields, and international and regional issues of mutual concern, reaching a broad range of positive consensus.
-
-The two sides agreed to further consolidate political mutual trust and continue to firmly support each other on issues involving their core interests. The Nepali side reaffirmed that the Taiwan question and Xizang-related issues are China’s internal affairs. Nepal unswervingly upholds the one-China principle, supports China’s full reunification, and will never allow any forces to use Nepali territory to undermine China’s interests. The Chinese side has always placed its relations with Nepal high on its neighbourhood diplomacy agenda. China’s friendship policy towards Nepal embraces all Nepali people. China will continue to support Nepal in safeguarding its national sovereignty, independence and territorial integrity, back the new Nepali government in its smooth governance with the support of its people, and support Nepal in pursuing a development path suited to its national realities.
-
-Both sides agreed that guided by high-quality Belt and Road cooperation, they should continue to align their development strategies, deepen practical cooperation across various fields, and enhance the quality and efficiency of bilateral relations. Four priority areas were identified.
-
-First, improving connectivity between the two countries by accelerating the development of cross-border transportation, border infrastructure and air links, thereby facilitating people-to-people exchanges and improving logistics efficiency.
-
-Second, deepening energy cooperation by expanding practical cooperation in electricity, power grids and clean energy, and enhancing Nepal’s energy security and green development capacity.
-
-Third, expanding trade and investment cooperation by optimising bilateral trade structures, encouraging mutually beneficial business cooperation, creating a fair, law-based and friendly business environment for Chinese enterprises investing and operating in Nepal, and enhancing both the scale and quality of bilateral economic and trade cooperation.
-
-Fourth, strengthening exchanges on governance experience, promoting people-to-people exchanges, and expanding cooperation in education, youth, local government and media, thereby consolidating the public support underpinning Nepal-China relations.
-
-Foreign Minister Khanal’s visit further deepened the shared understanding between the two countries and demonstrated their common aspiration and firm commitment to pursuing development together.
-
-China and Nepal are friendly neighbours connected by mountains and rivers and bound by a shared future. The Himalayas stand between the two countries, yet they have never impeded the exchanges and friendship between the two peoples. Looking back, commercial and cultural exchanges have flourished for centuries, and mutual learning between civilisations has continued to deepen. Looking ahead, the two countries have supported each other on their development paths and advanced hand in hand, maintaining the sound and steady growth of bilateral relations.
-
-Over the 71 years since the establishment of diplomatic relations, China and Nepal have always, despite changes in the international landscape and Nepal’s domestic circumstances, developed their relations on the basis of the Five Principles of Peaceful Coexistence. The two countries have always treated each other with respect and equality, engaged in mutually beneficial cooperation, and set a good example of friendly coexistence between countries with different social systems and sizes.
-
-In 2019, Chinese President HE Xi Jinping paid a successful historic state visit to Nepal, during which the two sides elevated their relationship to a Strategic Partnership of Cooperation Featuring Ever-lasting Friendship for Development and Prosperity. In 2025, the two countries jointly celebrated the 70th anniversary of the establishment of diplomatic relations, carrying forward their traditional friendship, expanding mutually beneficial cooperation, and opening a new chapter in the development of bilateral ties.
-
-Nepal has concluded its elections of the House of Representatives steadily as scheduled in March 2026 and successfully formed a new government. Under the new circumstances, both China and Nepal are at a crucial stage of national development and revitalisation, committed to improving people’s livelihoods, promoting development and advancing modernisation. Faced with complex development tasks and a changing external environment, deepening mutually beneficial cooperation is not only a practical necessity but also a strategic choice for the future. China actively supports the new Nepali government in its efforts to govern effectively and respond to the aspirations of the Nepali people for reform and development. The Nepali side has also reiterated its friendly policy towards China and expressed its readiness to deepen bilateral cooperation across various fields.
-
-Today, the international situation is undergoing profound and complex changes, with uncertainty and instability on the rise. More than ever, developing countries such as China and Nepal need a stable environment for development and reliable partners for cooperation. China is committed to the path of peaceful development and to promoting the building of a community with a shared future for humanity. China actively implements the Global Development Initiative, the Global Security Initiative, the Global Civilisation Initiative and the Global Governance Initiative, and advocates true multilateralism. China always prioritises its neighbourhood in its overall diplomacy and is committed to promoting regional peace, stability, development and prosperity and working with neighbouring countries to create a brighter future.
-
-A close neighbour is better than a distant relative. History has repeatedly demonstrated that mutual respect is the most valuable asset in Nepal-China relations, mutually beneficial cooperation their most distinctive feature, and friendship between the two peoples their strongest foundation. China will always be a trustworthy and reliable good neighbour, friend and partner for Nepal in its pursuit of development, revitalisation and modernisation. China stands ready to work with Nepal to strengthen strategic communication, enhance development synergy, deepen practical cooperation and foster closer people-to-people ties, so as to advance the Strategic Partnership of Cooperation Featuring Ever-lasting Friendship for Development and Prosperity and deliver greater benefits to the two peoples.","{'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/DOWNPhotoCourtesyofShisirKhanalsX-1782262773.jpg', 'https://openweathermap.org/img/w/01d.png'}","नेपाल-चीन सम्बन्धमे ताजा प्रगति भेल नेपालक विदेश मन्त्री आदरणीय शिसिर खनाल द्वारा १४ जून सँ १७ जून २०२६ धरि चीनक आधिकारिक यात्रा ।नेपालक नव मंत्रिमंडलक सदस्यक पहिल चीन यात्राक रूपमे ई बीच कूटनीतिक सम्बन्ध स्थापनाक ७०म वर्षगांठक उत्सवक बाद एकटा महत्वपूर्ण उच्च स्तरीय जुड़ाव सेहो छल पिछला साल दुनू देश। एहि यात्राक फलदायी परिणाम भेटल।
-
-ई दौरान विदेश मंत्री खनाल न॑ चीन केरऽ कम्युनिस्ट पार्टी केरऽ केंद्रीय समिति केरऽ राजनीतिक ब्यूरो केरऽ स्थायी समिति के सदस्य आरू चीनी जन राजनीतिक परामर्शदात्री सम्मेलन (सीपीपीसीसी) केरऽ राष्ट्रीय समिति के अध्यक्ष महामहिम वांग हुनिंग स॑ शिष्टाचार के साक्षात्कार करलकै । हुनी सीपीसी केंद्रीय समिति केरऽ राजनीतिक ब्यूरो के सदस्य आरू चीन केरऽ विदेश मंत्री महामहिम वांग यी स॑ भी बातचीत करलकै आरू सीपीसी केंद्रीय समिति केरऽ अंतर्राष्ट्रीय विभाग केरऽ मंत्री महामहिम लियू हैक्सिंग स॑ भी भेंट करलकै । नेपाल-चीन संबंध, विभिन्न क्षेत्र मे आपसी लाभकारी सहयोग, आ आपसी सरोकार के अंतरराष्ट्रीय आ क्षेत्रीय मुद्दा पर दुनू पक्ष के गहन विचार आदान-प्रदान भेल, जाहि मे सकारात्मक सहमति के व्यापक दायरा तक पहुंचल।
-
-दूनू पक्ष राजनीतिक आपसी विश्वास क॑ आरू मजबूत करै आरू अपनऽ मूल हित स॑ जुड़लऽ मुद्दा प॑ एक-दूसरा क॑ मजबूती स॑ सहयोग जारी रखै प॑ सहमत होय गेलै । नेपाली पक्ष ताइवान के सवाल आरू ज़िज़ांग स॑ जुड़लऽ मुद्दा चीन केरऽ आतंरिक मामला छै, ई बात के दोबारा पुष्टि करलकै । नेपाल एक चीन सिद्धांत केरऽ अटल रूप स॑ कायम छै, चीन केरऽ पूर्ण एकीकरण के समर्थन करै छै, आरू चीन केरऽ हित क॑ कमजोर करै लेली कोय भी ताकत क॑ नेपाली इलाका के इस्तेमाल कहियो नै करै देतै । चीनी पक्ष नेपाल के साथ अपनऽ संबंध क॑ हमेशा स॑ अपनऽ पड़ोसी कूटनीति के एजेंडा म॑ उच्च स्थान प॑ रखलकै । चीन के नेपाल के प्रति मैत्री नीति सब नेपाली जनता के अपना में समेटने अछि | चीन नेपाल के राष्ट्रीय संप्रभुता, स्वतंत्रता आ क्षेत्रीय अखंडता के रक्षा में सहयोग करत, अपन जनता के सहयोग स नव नेपाली सरकार के सुचारू शासन में समर्थन करत, आ नेपाल के अपन राष्ट्रीय यथार्थ के अनुकूल विकास मार्ग पर चलय में सहयोग करत।
-
-दूनू पक्ष ई बात प॑ सहमत छेलै कि उच्च गुणवत्ता वाला बेल्ट आरू रोड सहयोग के मार्गदर्शन म॑ हुनका अपनऽ विकास रणनीति क॑ संरेखित करतें रहना चाहियऽ, विभिन्न क्षेत्रऽ म॑ व्यावहारिक सहयोग क॑ गहरा करना चाहियऽ, आरू द्विपक्षीय संबंधऽ के गुणवत्ता आरू दक्षता बढ़ाबै के चाही । चारिटा प्राथमिकता क्षेत्र क पहचान कैल गेल।
-
-पहिल, सीमा पार परिवहन, सीमा बुनियादी ढाँचा आ हवाई संपर्क कें विकास मे तेजी ला क दूनू देशक कें बीच संपर्क मे सुधार करनाय, जेकरा सं लोगक कें बीच आदान-प्रदान मे सुविधा आ रसद दक्षता मे सुधार करनाय.
-
-दोसर, बिजली, बिजली ग्रिड आ स्वच्छ ऊर्जा मे व्यावहारिक सहयोग कें विस्तार करयत ऊर्जा सहयोग कें गहरा करनाय, आ नेपाल कें ऊर्जा सुरक्षा आ हरित विकास क्षमता कें बढ़ावा देनाय.
-
-तेसर, द्विपक्षीय व्यापार संरचना के अनुकूल बना क व्यापार आ निवेश सहयोग के विस्तार करब, आपसी लाभकारी व्यवसायिक सहयोग के प्रोत्साहित करब, नेपाल में निवेश आ संचालन करय वाला चीनी उद्यम के लेल निष्पक्ष, कानून आधारित आ मैत्रीपूर्ण व्यापारिक वातावरण बनाबय के, आ द्विपक्षीय आर्थिक आ व्यापारिक सहयोग के पैमाना आ गुणवत्ता दुनु के बढ़ाबय के.
-
-चारिम, शासन अनुभव पर आदान-प्रदान कें मजबूत करनाय, जन-जन आदान-प्रदान कें बढ़ावा देनाय, आ शिक्षा, युवा, स्थानीय सरकार आ मीडिया मे सहयोग कें विस्तार करनाय, जेकरा सं नेपाल-चीन संबंधक कें आधार बनय वाला जनसमर्थन कें मजबूत करनाय.
-
-विदेश मंत्री खनाल केरऽ ई यात्रा न॑ दूनू देशऽ के बीच साझा समझदारी क॑ आरू गहरा करलकै आरू एक साथ विकास के काम करै लेली ओकरऽ साझा आकांक्षा आरू दृढ़ प्रतिबद्धता के प्रदर्शन करलकै ।
-
-चीन आ नेपाल पहाड़ आ नदी स जुड़ल आ साझा भविष्य स बान्हल मित्रवत पड़ोसी अछि। हिमालय दुनू देशक बीच ठाढ़ अछि, तइयो दुनू लोकक बीच आदान-प्रदान आ मित्रता मे कहियो बाधा नहि पहुँचेलक। पाछू घुमि क' देखल जाय त' सदियो स' व्यावसायिक आ सांस्कृतिक आदान-प्रदान खूब फलल-फूलल अछि, आ सभ्यताक बीच आपसी सीखब गहींर होइत रहल अछि. आगू क॑ देखत॑ हुअ॑ दूनू देश न॑ अपनऽ विकास केरऽ रास्ता प॑ एक-दूसरा के साथ देल॑ छै आरू हाथऽ म॑ हाथ धरी क॑ आगू बढ़ी क॑ द्विपक्षीय संबंधऽ के सुदृढ़ आरू स्थिर विकास क॑ कायम रखलकै ।
-
-कूटनीतिक संबंध केरऽ स्थापना के बाद स॑ ७१ साल म॑ चीन आरू नेपाल हमेशा स॑ ही अंतरराष्ट्रीय परिदृश्य आरू नेपाल केरऽ घरेलू परिस्थिति म॑ बदलाव के बावजूद शांतिपूर्ण सह-अस्तित्व केरऽ पाँच सिद्धांत के आधार प॑ अपनऽ संबंध के विकास करलकै । दूनू देश हमेशा स॑ एक-दूसरा के साथ सम्मान आरू समानता के साथ व्यवहार करलकै, आपसी लाभकारी सहयोग म॑ जुटलऽ छै, आरू अलग-अलग सामाजिक व्यवस्था आरू आकार के देशऽ के बीच दोस्ताना सह-अस्तित्व के एगो अच्छा उदाहरण पेश करलकै ।
-
-2019 मे चीन के राष्ट्रपति महामहिम शी जिनपिंग नेपाल के सफल ऐतिहासिक राज्य यात्रा केलखिन्ह, जाहि दौरान दुनु पक्ष अपन संबंध के विकास आ समृद्धि के लेल सदा स्थायी मैत्री के विशेषता वाला सहयोग के सामरिक साझेदारी में बढ़ा देलखिन्ह. 2025 म॑ दूनू देश न॑ संयुक्त रूप स॑ कूटनीतिक संबंध केरऽ स्थापना केरऽ 70 वीं वर्षगांठ मनाबै के मौका देलकै, अपनऽ पारंपरिक दोस्ती क॑ आगू बढ़ाबै के काम करलकै, आपसी लाभकारी सहयोग के विस्तार करलकै, आरू द्विपक्षीय संबंध के विकास म॑ एगो नया अध्याय खोललकै ।
-
-नेपाल मार्च २०२६ मे निर्धारित प्रतिनिधी सभाक निर्वाचन स्थिरतापूर्वक सम्पन्न कए सफलतापूर्वक नव सरकार गठन केलक अछि । नबका परिस्थिति मे चीन आ नेपाल दुनू राष्ट्रीय विकास आ पुनर्जीवनक महत्वपूर्ण चरण मे अछि, जे लोकक आजीविका मे सुधार, विकास केँ बढ़ावा देब आ आधुनिकीकरण केँ आगू बढ़ेबाक लेल प्रतिबद्ध अछि । जटिल विकास कार्य आ बदलैत बाहरी वातावरण कें सामना करयत, आपसी लाभकारी सहयोग कें गहरा करनाय न केवल व्यावहारिक आवश्यकता छै बल्कि भविष्य कें लेल एकटा रणनीतिक विकल्प सेहो छै. चीन नव नेपाली सरकार के प्रभावी ढंग स शासन करबाक प्रयास मे सक्रिय रूप स सहयोग करैत अछि आ नेपाली जनता के सुधार आ विकास के आकांक्षा के जवाब दैत अछि । नेपाली पक्ष चीन के प्रति अपन मैत्रीपूर्ण नीति सेहो दोहरबैत विभिन्न क्षेत्र मे द्विपक्षीय सहयोग गहींर करबाक तत्परता व्यक्त केलक अछि ।
-
-आइ अंतरराष्ट्रीय स्थिति मे गहींर आ जटिल परिवर्तन भ रहल अछि, जाहि मे अनिश्चितता आ अस्थिरता बढ़ि रहल अछि। पहिने स बेसी चीन आ नेपाल जेहन विकासशील देश कए विकास क लेल स्थिर वातावरण आ सहयोग लेल विश्वसनीय भागीदार क जरूरत अछि। चीन शांतिपूर्ण विकास के रास्ता आरू मानवता लेली साझा भविष्य वाला समुदाय के निर्माण क॑ बढ़ावा दै लेली प्रतिबद्ध छै । चीन वैश्विक विकास पहल, वैश्विक सुरक्षा पहल, वैश्विक सभ्यता पहल आरू वैश्विक शासन पहल क॑ सक्रिय रूप स॑ लागू करै छै, आरू सच्चा बहुपक्षीयता के वकालत करै छै । चीन हमेशा अपनऽ समग्र कूटनीति म॑ अपनऽ पड़ोस क॑ प्राथमिकता दै छै आरू क्षेत्रीय शांति, स्थिरता, विकास आरू समृद्धि क॑ बढ़ावा दै आरू पड़ोसी देशऽ के साथ मिल क॑ एगो उज्जवल भविष्य बनाबै लेली प्रतिबद्ध छै ।
-
-दूरक रिश्तेदारसँ नजदीकी पड़ोसी नीक होइत अछि । इतिहास बार-बार ई सिद्ध करलकै कि नेपाल-चीन संबंधऽ म॑ आपसी सम्मान सबसें मूल्यवान संपत्ति छै, आपसी लाभकारी सहयोग एकरऽ सबसें विशिष्ट विशेषता छै, आरू दूनू जनता के बीच दोस्ती ओकरऽ सबस॑ मजबूत आधार छै । चीन विकास, पुनर्जीवन आ आधुनिकीकरण के खोज में नेपाल के लेल सदिखन भरोसेमंद आ विश्वसनीय नीक पड़ोसी, मित्र आ भागीदार रहत। चीन नेपाल के साथ सामरिक संचार मजबूत करै, विकास तालमेल बढ़ाबै, व्यवहारिक सहयोग गहरा करै आरू जन-जन संबंध के घनिष्ठता के बढ़ावा दै लेली काम करै लेली तैयार छै, ताकि विकास आरू समृद्धि के लेलऽ सदा स्थायी मैत्री के विशेषता वाला सहयोग के सामरिक साझेदारी क॑ आगू बढ़ाबै आरू दूनू जनता क॑ अधिक लाभ पहुँचैलऽ जाय ।",Interview
-Regulatory sandbox guidelines aim to foster Nepal fintech innovation - The Kathmandu Post,Regulatory sandbox guidelines aim to foster Nepal fintech innovation  The Kathmandu Post,2026-06-24 01:14:59,https://news.google.com/rss/articles/CBMisAFBVV95cUxQZTExTVQxUmU1dGJXQ29UN3BwNkVqNGRYWWVxLXZaYldJOFJJTi1OS2huRlN3dUd0eGlKZTltcVdHSXlpdnNEMTJ3bU5pQjZzNEl6X3FqU0RKbXZKbDhVcnZpeVBWN2dSN09tT3JZXy1SMHJnSHBVYlN1RjhIY3NGekw2dWlrdzB4M0JVR2ppVWstWXhxR2hrRmZZcWE3aXRCWm1GSmF1cDFBNmVMUjZrcA?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"The Nepal Rastra Bank (NRB) has drafted Regulatory Sandbox Guidelines aimed at creating a conducive environment for the development and deployment of innovative technology-enabled products, services and solutions in the financial sector.
-
-The proposed Regulatory Sandbox is designed primarily for fintech innovators and other financial service providers that have already developed a product, service or solution and are ready to conduct live market testing under a controlled, supervised and monitored environment.
-
-A Regulatory Sandbox is a structured testing platform that allows participants to experiment with new products and services before commercial rollout. The framework is intended to promote evidence-based assessment of emerging financial innovations while safeguarding consumers and the broader financial system.
-
-Sudha Shrestha, deputy spokesperson and information officer at Nepal Rastra Bank, said the guidelines will enable banks and financial institutions (BFIs), payment service providers and licensed fintech companies to test new products in a simulated environment before launching them in the market.
-
-“This will help fintech companies assess the commercial viability of their products and identify potential technical and operational issues before full-scale deployment,” she said.
-
-According to Shrestha, participants will not be charged any fees for testing their products within the Sandbox. The central bank is currently working on implementing the guidelines.
-
-Industry players have welcomed the initiative, saying it will help create an enabling environment for the introduction of advanced financial technologies.
-
-“As of now, regulations do not cover every type of fintech solution, and technology is evolving rapidly,” said Praveen Regmi, chief executive officer at IME Khalti. “The guidelines will support the development and testing of new products while allowing regulators and industry players to better understand associated risks.”
-
-Regmi said regulatory sandboxes have become a widely used tool globally and can strengthen collaboration between innovators and regulators in the areas of risk management, transparency and consumer protection.
-
-Under the draft guidelines, entities eligible to participate include banks and financial institutions, payment system operators, payment service providers, remittance companies and new fintech firms operating within or supporting activities that fall under NRB’s regulatory jurisdiction.
-
-New fintech companies developing innovative financial products, services or solutions may receive temporary regulatory relief strictly for the purpose of Sandbox testing.
-
-Participants will benefit from simplified reporting and disclosure requirements, non-discriminatory and low-cost access to payment and banking infrastructure, temporary waivers related to support centre operating hours and dispute management mechanisms, provided that consumer protection standards and minimum service requirements are maintained.
-
-The guidelines also propose technology-neutral provisions that would allow emerging technologies to be tested. Participants may be granted flexibility in marketing and advertising, provided customers are clearly informed that the products are being tested within the Sandbox framework.
-
-The Sandbox will operate through four phases: application, application evaluation, testing, and evaluation and graduation.
-
-NRB said the initiative is intended to support fintech innovation by allowing products to be tested in a live environment while ensuring adequate safeguards for consumers and the financial services sector.
-
-The application and evaluation process will generally be completed within 120 working days from the opening of the application window. Each application window will remain open for 45 working days.
-
-Oversight of the Sandbox will be provided by a dedicated inter-departmental steering body known as the Sandbox Governing Committee. The committee will meet regularly to supervise operations, review testing outcomes, ensure consistency in supervision and make strategic decisions, including scope modifications and participant exit pathways.
-
-The guidelines include a list of eligible products and services that may be tested under the framework. These include application programming interfaces (APIs), mobile money services, retail payment solutions, money transfer services, digital know-your-customer (KYC) systems, digital identity services, digital lending platforms, smart contracts and financial inclusion products.
-
-Cybersecurity solutions, embedded finance services, regulatory technology products and other innovations approved by the central bank may also qualify for testing.
-
-According to the NRB, the Regulatory Sandbox will help accelerate the introduction of innovative technology-enabled financial services, deepen financial inclusion and enable regulators to monitor emerging technologies before they are introduced at scale.
-
-The central bank said the framework will also help identify potential systemic risks and strengthen consumer protection measures in response to technological changes in the financial sector.
-
-The guidelines clarify that only activities falling within NRB’s regulatory oversight, or those that facilitate and support regulated financial activities, will be eligible for Sandbox testing.
-
-Acceptance into the Regulatory Sandbox will not constitute a permanent operating licence, nor will it exempt participants from future regulatory oversight and supervision.","{'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://openweathermap.org/img/w/01d.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/money/NRBBaluwatar-1782263514.jpg'}","नेपाल राष्ट्र बैंक (एनआरबी) वित्तीय क्षेत्र मे अभिनव प्रौद्योगिकी सक्षम उत्पाद, सेवा आ समाधान कें विकास आ तैनाती कें लेल अनुकूल वातावरण बनावा कें उद्देश्य सं नियामक सैंडबॉक्स दिशा निर्देशक कें मसौदा तैयार करलक छै.
-
-प्रस्तावित नियामक सैंडबॉक्स मुख्य रूप सं फिनटेक नवाचारक आ अन्य वित्तीय सेवा प्रदाताक कें लेल डिजाइन कैल गेल छै जे पइहले सं कोनों उत्पाद, सेवा या समाधान विकसित कयर चुकल छै आ नियंत्रित, पर्यवेक्षित आ निगरानी वातावरण कें तहत लाइव बाजार परीक्षण करय कें लेल तैयार छै.
-
-नियामक सैंडबॉक्स एकटा संरचित परीक्षण मंच छै जे प्रतिभागियक कें व्यावसायिक रोलआउट सं पहिले नव उत्पाद आ सेवाक कें साथ प्रयोग करय कें अनुमति देयत छै. ढाँचा कें उद्देश्य उपभोक्ता आ व्यापक वित्तीय प्रणाली कें सुरक्षा कें संग-संग उभरैत वित्तीय नवाचारक कें साक्ष्य आधारित आकलन कें बढ़ावा देनाय छै.
-
-नेपाल राष्ट्र बैंकके उपप्रवक्ता आ सूचना अधिकारी सुधा श्रेष्ठ कहलनि जे, एहि दिशानिर्देशसँ बैंक आ वित्तीय संस्था (बीएफआई), भुगतान सेवा प्रदाता आ लाइसेंसधारी फिनटेक कंपनी सभ नव उत्पादकेँ बाजारमे उतारबासँ पहिने सिम्युलेटेड वातावरणमे परीक्षण कए सकैत अछि ।
-
-हुनी कहलकै, “ई स॑ फिनटेक कंपनी सिनी क॑ अपनऽ उत्पाद केरऽ व्यावसायिक व्यवहार्यता के आकलन करै म॑ मदद मिलतै आरू पूर्ण पैमाना प॑ तैनाती स॑ पहल॑ संभावित तकनीकी आरू परिचालन संबंधी मुद्दा के पहचान करलऽ जैतै ।
-
-श्रेष्ठ के अनुसार सैंडबॉक्स के भीतर अपन उत्पाद के परीक्षण के लेल प्रतिभागी स कोनो शुल्क नै लेल जायत। केंद्रीय बैंक एखन एहि दिशानिर्देश कए लागू करबा पर काज क रहल अछि।
-
-उद्योग जगत के खिलाड़ी नँ ई पहल के स्वागत करतें कहलकै कि ई उन्नत वित्तीय तकनीक के शुरूआत लेली एगो सक्षम वातावरण बनाबै मँ मदद करतै ।
-
-आईएमई खाल्टी केरऽ मुख्य कार्यकारी अधिकारी प्रवीण रेग्मी न॑ कहलकै कि अभी तलक नियमऽ म॑ हर तरह के फिनटेक समाधान क॑ शामिल नै करलऽ गेलऽ छै, आरू तकनीक म॑ तेजी स॑ विकास होय रहलऽ छै । “ई दिशानिर्देश नयका उत्पाद के विकास आरू परीक्षण मँ सहायता करतै जबकि नियामक आरू उद्योग के खिलाड़ी क संबद्ध जोखिम क बेहतर ढंग स॑ समझै के अनुमति देतै।”
-
-रेग्मी नँ कहलकै कि नियामक सैंडबॉक्स वैश्विक स्तर प व्यापक रूप सँ उपयोग करलौ जाय वाला उपकरण बनी गेलौ छै आरू ई जोखिम प्रबंधन, पारदर्शिता आरू उपभोक्ता सुरक्षा के क्षेत्र मँ नवाचारी आरू नियामकौ के बीच सहयोग क मजबूत करी सकै छै ।
-
-मसौदा दिशा निर्देशक कें तहत, भाग लेवा कें लेल पात्र संस्थाक मे बैंक आ वित्तीय संस्थान, भुगतान प्रणाली संचालक, भुगतान सेवा प्रदाता, रेमिटंस कंपनी आ नव फिनटेक फर्म शामिल छै जे एनआरबी कें नियामक अधिकार क्षेत्र मे आवय वाला गतिविधियक कें भीतर संचालित या समर्थन करय वाला छै.
-
-अभिनव वित्तीय उत्पाद, सेवा या समाधान विकसित करय वाला नव फिनटेक कंपनीक कें सैंडबॉक्स परीक्षण कें उद्देश्य सं सख्ती सं अस्थायी नियामक राहत भेट सकय छै.
-
-प्रतिभागियक कें सरलीकृत रिपोर्टिंग आ खुलासा आवश्यकताक, भुगतान आ बैंकिंग बुनियादी ढाँचा कें गैर-भेदभावपूर्ण आ कम लागत वाला पहुंच, सहायता केंद्र कें संचालन कें घंटे आ विवाद प्रबंधन तंत्र सं संबंधित अस्थायी माफी सं लाभ होयत, बशर्ते कि उपभोक्ता संरक्षण मानक आ न्यूनतम सेवा आवश्यकताक कें कायम राखल जाय.
-
-दिशा निर्देश मे प्रौद्योगिकी-तटस्थ प्रावधानक कें प्रस्ताव सेहो देल गेल छै जे उभरैत तकनीक कें परीक्षण करय कें अनुमति देयत. प्रतिभागियक कें विपणन आ विज्ञापन मे लचीलापन देल जा सकय छै, बशर्ते ग्राहकक कें स्पष्ट रूप सं सूचित कैल जै की उत्पादक कें परीक्षण सैंडबॉक्स ढाँचा कें भीतर कैल जा रहल छै.
-
-सैंडबॉक्स चारि चरणक कें माध्यम सं संचालित होयत: आवेदन, आवेदन मूल्यांकन, परीक्षण, आ मूल्यांकन आ स्नातक.
-
-एनआरबी नँ कहलकै कि ई पहल के उद्देश्य उपभोक्ता आरू वित्तीय सेवा क्षेत्र लेली पर्याप्त सुरक्षा सुनिश्चित करै के साथ-साथ उत्पादौ क लाइव वातावरण मँ परीक्षण करै के अनुमति द क फिनटेक नवाचार क समर्थन करना छै ।
-
-आवेदन आ मूल्यांकन प्रक्रिया आमतौर पर आवेदन विंडो खुलला सं 120 कार्य दिवसक कें भीतर पूरा भ जेतय. प्रत्येक आवेदन विंडो 45 कार्य दिवस तक खुलल रहत।
-
-सैंडबॉक्स कें निगरानी एकटा समर्पित अंतर-विभागीय संचालन निकाय द्वारा कैल जेतय जे सैंडबॉक्स गवर्निंग कमेटी कें नाम सं जानल जायत छै. समिति कें नियमित बैठक संचालन कें देखरेख, परीक्षण परिणामक कें समीक्षा, पर्यवेक्षण मे स्थिरता सुनिश्चित करनाय आ रणनीतिक निर्णय लेनाय, जइ मे दायरा संशोधन आ प्रतिभागी कें बाहर निकलय कें मार्ग शामिल छै.
-
-दिशा निर्देशक मे पात्र उत्पादक आ सेवाक कें सूची शामिल छै जे ढाँचा कें तहत परीक्षण कैल जा सकय छै. अइ मे एप्लीकेशन प्रोग्रामिंग इंटरफेस (एपीआई), मोबाइल मनी सेवाक, खुदरा भुगतान समाधान, मनी ट्रांसफर सेवाक, डिजिटल नो-योर-ग्राहक (केवाईसी) सिस्टम, डिजिटल पहचान सेवाक, डिजिटल लेंडिंग प्लेटफॉर्म, स्मार्ट अनुबंध आ वित्तीय समावेश उत्पाद शामिल छै.
-
-साइबर सुरक्षा समाधान, एम्बेडेड फाइनेंस सेवाक, नियामक प्रौद्योगिकी उत्पाद आ केंद्रीय बैंक दूवारा अनुमोदित अन्य नवाचारक कें सेहो परीक्षण कें लेल योग्य भ सकय छै.
-
-एनआरबी कें अनुसार, नियामक सैंडबॉक्स अभिनव तकनीक-सक्षम वित्तीय सेवाक कें शुरूआत मे तेजी लावय मे मदद करतय, वित्तीय समावेश कें गहरा करतय आ नियामकक कें पैमाना पर शुरू करय सं पहिले उभरैत प्रौद्योगिकी कें निगरानी करय मे सक्षम बनायत.
-
-केंद्रीय बैंक नँ कहलकै कि ई रूपरेखा संभावित प्रणालीगत जोखिम के पहचान करै मँ भी मदद करतै आरू वित्तीय क्षेत्र मँ तकनीकी परिवर्तन के जवाब मँ उपभोक्ता सुरक्षा उपाय क मजबूत करतै ।
-
-दिशा निर्देशक मे स्पष्ट कैल गेल छै की केवल एनआरबी कें नियामक निगरानी मे आवय वाला गतिविधियक, या जे विनियमित वित्तीय गतिविधियक कें सुविधा आ समर्थन करय छै, सैंडबॉक्स परीक्षण कें लेल पात्र होयत.
-
-नियामक सैंडबॉक्स मे स्वीकृति स्थायी संचालन लाइसेंस कें गठन नहि करतय, आ नहि ही इ प्रतिभागियक कें भविष्य कें नियामक निगरानी आ पर्यवेक्षण सं मुक्त करतय.",Economy
-"Nepal Olympic Committee Award honours athletes, coaches, association and journalists - The Kathmandu Post","Nepal Olympic Committee Award honours athletes, coaches, association and journalists  The Kathmandu Post",2026-06-24 01:19:51,https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ09uSGZrajVmZG9hNXZGN2gyQmwwajVyamExbGx6ZVlDeHZFbmoyTXZhTVhveVFtSXZVUjRPUjRFX2NoaWN3T2JGTjNnY3lIM2FPVFozeExmbExnTmljeG82aTZFaHI3X1pvN1ZqYUJzNFVxZ0VrQlE3VkZfZDVBT2thU3NkSDFWNmlSdE1LaEtpZXA5TUM2Y2x3dDFTT09vRDF5VkRjNHRrbzVmWWxCRzl3cFBPbkt2Zkc0ck9fbk1CclVh?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"The Nepal Olympic Committee celebrated the Olympic Day, which is celebrated globally on June 23, honouring the best athletes, association and journalists at the fourth edition of the NOC Award in Kathmandu on Tuesday.
-
-The Nepal Olympic Committee has been organising the NOC Award annually on Olympic Day.
-
-The NOC handed over awards across ten categories in the fourth edition.
-
-Of them, four were for athletes—Best Young Athlete (male and female), Best Athlete (male and female)—two for coaches (male and female), one for the best Association and three for journalists—Best Cameraperson, Best Online Journalist and Best Sports Journalist (writing).
-
-Tennis player Shivali Gurung and boxer Nurbu Thendup Sherpa received the awards for the NOC Best Young Athlete in the female and male categories, respectively.
-
-Among the senior athletes, karateka Arika Gurung, who has 11 gold and four silver medals internationally in less than three years, was adjudged as the NOC Best Athlete in the female category. Gurung had won the award in the previous edition as well.
-
-Bijaya Sinjali, a wushu practitioner, received the NOC Best Athlete award in the male category. Sinjali had won a bronze medal at the 3rd Taolu World Cup last year.
-
-Likewise, karate’s Kushal Shrestha and kabaddi’s Harina Thapa were acknowledged for their contributions and awarded as the best coaches in the male and female categories, respectively.
-
-Similarly, Nepal Karate Federation was awarded as the Best Association.
-
-Meanwhile, Ajay Phuyal, a former president of the Nepal Sports Journalists Forum and a senior sports journalist, was awarded with the Best Sports Journalist (writing). Phuyal is currently operating kheladi.com.
-
-Sudarshan Ranjit, a veteran freelance sports photojournalist based in Pokhara, was honoured with the NOC Best Cameraperson award.
-
-Sarita Shrestha, a senior sports journalist currently working at Hamrokhelkud.com, was feted with the NOC Best Online Journalist award.
-
-The NOC also honoured the contributions of several other stakeholders with the President’s Recognition.
-
-Presidential Recognition was provided to individuals—Ashok Ratna Bajracharya, Chaturananda Raj Vaidya, Geeta Rana, Surya Lal Bhandari and Laxmi Shrestha—and organisations—Nepal Ex-sportsmen Forum, Sharad Chandra Shah Memorial Foundation and Thunderbolts Sports Academy (GEMS School).","{'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://openweathermap.org/img/w/01d.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/sports/IMG2051-1782263813.jpg'}","नेपाल ओलम्पिक समिति मंगलदिन काठमाण्डौमे एनओसी पुरस्कारके चारिम संस्करणमे सर्वश्रेष्ठ एथलीट, संघ आ पत्रकारके सम्मानित करैत २३ जूनके विश्वस्तरमे मनाओल जायवला ओलम्पिक दिवस मनाओल गेल अछि ।
-
-नेपाल ओलम्पिक समिति प्रतिवर्ष ओलम्पिक दिवसमे एनओसी पुरस्कारक आयोजन करैत आबि रहल अछि ।
-
-एनओसी चारिम संस्करण मे दस श्रेणी मे पुरस्कार देलक।
-
-ओहि मे चारि टा एथलीट लेल छल-बेस्ट यंग एथलीट (पुरुष आ महिला), बेस्ट एथलीट (पुरुष आ महिला)-दूटा कोच (पुरुष आ महिला) लेल, एकटा बेस्ट एसोसिएशन लेल आ तीनटा पत्रकार लेल छल-बेस्ट कैमरापर्सन, बेस्ट ऑनलाइन जर्नलिस्ट आ बेस्ट स्पोर्ट्स जर्नलिस्ट (लेखन)।
-
-टेनिस खिलाड़ी शिवली गुरुंग आरू मुक्केबाज नुरबू थेंडुप शेर्पा क॑ क्रमशः महिला आरू पुरुष वर्ग म॑ एनओसी सर्वश्रेष्ठ युवा एथलीट के पुरस्कार मिललै ।
-
-सीनियर एथलीटऽ म॑ तीन साल स॑ भी कम समय म॑ अंतरराष्ट्रीय स्तर प॑ ११ स्वर्ण आरू ४ रजत पदक जीत॑ वाला कराटेका अरिका गुरुंग क॑ महिला वर्ग म॑ एनओसी सर्वश्रेष्ठ एथलीट के रूप म॑ चुनलऽ गेलै । गुरुंग एहि पुरस्कार कए पिछला संस्करण मे सेहो जीत चुकल छलाह।
-
-वुशु प्रैक्टिशनर विजया सिंजली क॑ पुरुष वर्ग म॑ एनओसी बेस्ट एथलीट केरऽ पुरस्कार मिललै । सिंजलि पिछला साल तृतीय ताओलू विश्व कप मे कांस्य पदक जीतने छलीह ।
-
-तहिना कराटे के कुशल श्रेष्ठ आ कबड्डी के हरिना थापा के योगदान के लेल स्वीकार कयल गेल आ क्रमशः पुरुष आ महिला वर्ग में सर्वश्रेष्ठ कोच के रूप में सम्मानित कायल गेल।
-
-तहिना नेपाल कराटे फेडरेशन के सर्वश्रेष्ठ संघ के रूप में सम्मानित कायल गेल।
-
-अहिना, नेपाल खेल पत्रकार मञ्चक पूर्व अध्यक्ष आ वरिष्ठ खेल पत्रकार अजय फुलाल केँ सर्वश्रेष्ठ खेल पत्रकार (लेखन) सँ सम्मानित कएल गेल । फुयाल एखन खेलडी डॉट कॉम संचालित क रहल अछि।
-
-पोखरा स्थित दिग्गज फ्रीलांस स्पोर्ट्स फोटोजर्नलिस्ट सुदर्शन रंजीत क॑ एनओसी बेस्ट कैमरापर्सन पुरस्कार स॑ सम्मानित करलऽ गेलै ।
-
-वर्तमान में हमरोखेलकुड डॉट कॉम पर कार्यरत वरिष्ठ खेल पत्रकार सरिता श्रेष्ठ के एनओसी के सर्वश्रेष्ठ ऑनलाइन पत्रकार पुरस्कार स सम्मानित कायल गेल।
-
-एनओसी न॑ राष्ट्रपति केरऽ मान्यता स॑ कई अन्य हितधारकऽ के योगदान क॑ भी सम्मानित करलकै ।
-
-व्यक्ति-अशोक रत्न बजराचार्य, चतुरानन्द राज वैद्य, गीता राणा, सूर्य लाल भण्डारी आ लक्ष्मी श्रेष्ठ-आ संस्था-नेपाल पूर्व खेलाडी फोरम, शरद चन्द्र शाह मेमोरियल फाउंडेशन आ थंडरबोल्ट्स स्पोर्ट्स एकेडमी (जीईएमएस स्कूल) केँ राष्ट्रपति मान्यता प्रदान कयल गेल।",Sports
-Pragmatic Diplomacy In Focus - The Rising Nepal,Pragmatic Diplomacy In Focus  The Rising Nepal,2026-06-24 01:30:16,https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aeEJxc2ZHci1vRDJmYkV1SXZzUUtldGNfRlYydGdpS2V6Q0V3VFoxNWhJUjNtQkE3SjJXRkh2QkV3TWhESTRUY3F1czR0R3gt?oc=5&hl=en-US&gl=US&ceid=US:en,https://risingnepaldaily.com,The Rising Nepal,"Continuity and change are key characteristics of Nepal’s foreign policy. The national interest is the long-term foreign policy goal of any country, which does not change despite changes in governments or even in the political system. However, the tactics, tools and approaches may change depending upon the context and developments in the outer world to achieve the core objectives of foreign policy. In Nepal’s case, despite changes in political systems and regimes in the past, the fundamental interests, goals and priorities of foreign policy have remained unchanged, while consecutive governments may have adopted different styles and approaches in achieving the core dynamics of foreign policy goals.
-
-The Rastriya Swatantra Party (RSP) government, headed by Prime Minister Balendra Shah, appears to have adopted slightly different styles, approaches and priorities in handling the country’s diplomacy. The first action is the government’s decision to strictly follow and uphold the diplomatic code of conduct, which had not been in practice in the past. Prime Minister Balendra Shah avoided meetings with individual ambassadors and instead he met and interacted with them in a group, which is in practice in other countries as well.
-
-Pragmatic diplomacy
-
-Secondly, the new government has focused more on pragmatic diplomacy to achieve the country’s foreign policy goals as enshrined in the constitution. It has emphasised ‘Nepal first and Nepali first’ policy around which diplomacy seems to have been anchored. Economic and development diplomacy are the new government’s buzz words, which, in our national context, would imply mainly focusing on bringing more development assistance, foreign direct investment, promoting export trade, technology transfer, attracting more quality tourists by popularising Nepal’s destinations and other social and cultural features apart from mobilising Nepali diaspora and properly utilising other soft power tools.
-
-Geography is one of the key determinants in shaping the behaviour of the state and its foreign policy priorities. In the realist world of diplomacy, Nepal’s geographic position also begs rational diplomatic handling and pursuing a delicate balance between our two immediate neighbours and other key powers as well as development partners. This is both Nepal’s choice as well as compulsion for its best and broader national interest. It has also been the consistent stance and policy right from the time Nepal’s foreign policy started evolving.
-
-Neighbours are always the priority of foreign policy and diplomatic dealings for any country in the world. The level of relations with other countries depends upon the nature of engagements and level of partnership. Neighbours have definitely more engagements. Although Nepal has diplomatic relations with 183 countries in the world but the nature of relations and level of engagement with different countries distinctly vary. Being close neighbours, Nepal has definitely greater engagements with India and China. However, other powers and development partners, including the United States, United Kingdom and Japan, too, occupy prominence in our foreign policy.
-
-The present government also seems to have accorded greater priority to the neighbours, which is a natural, pragmatic and correct approach. The government is effortful in accelerating engagements with countries based on priority and economic interest, with higher importance to its close neighbours— India and China. Building trust and confidence is the first and foremost necessity in dealing with other countries. Exchanges of visits and interactions contribute to building trust and confidence among nations.
-
-Foreign policy is Prime Minister Shah’s key priority. But he tends to focus more on domestic matters and, thus, Foreign Minister Shisir Khanal has been busy in diplomatic dealings and interactions with neighbours, friends and partners seeking to build trust and confidence. As neighbours are a priority, Foreign Minister Khanal first visited India and interacted with Indian leaders and officials, which helped create a positive vibe in Nepal-India relations. Soon after returning from India, Khanal concluded a friendly visit to northern neighbour China.
-
-During his visit to Beijing, Khanal got actively engaged in meaningful diplomatic dialogue with his Chinese counterpart Wang Yi and other officials on matters concerning bilateral relations and cooperation. The visit and interaction helped them understand one another and build an atmosphere of trust between the two countries. As RSP is the new political force that rose to power in the aftermath of the Gen Z movement, some people have tried to portray Nepal’s new political developments and the RSP government in a different light.
-
-Minister Khanal reiterated Nepal’s long-held ‘One-China Policy’ and stated Nepal’s focus on economic diplomacy for which he sought China’s meaningful support. Nepal and China also have their own concerns. Minister Khanal diplomatically but clearly conveyed Nepal’s concern and, at the same time, he assured that Nepal will fully address Beijing’s concerns in Nepal. While Khanal emphasised close neighbourhood relations, Chinese foreign minister Wang Yi remarked “close neighbours are more important than far-off relatives,” implying that China accords greater importance to relations with Nepal. In the present geopolitical scenario, these overtures carry significant message and meaning. As a whole, Khanal’s visit contributed to building an atmosphere of trust and goodwill between Nepal and China.
-
-Time-tested relations
-
-Nepal and China have long and time-tested relations based on friendship, cooperation and respect for one another’s sovereignty and sensitivities. The modern and formal relations between these two countries started being reshaped after Nepal and China established diplomatic relations in 1955. Since then, relations between these two close neighbours have continued to grow.
-
-China is not only a close neighbour of Nepal but also a global power that has a big clout in international power politics. Similarly, China is the world’s second-largest economy and has achieved remarkable progress in other sectors. But we have not fully reaped the desirable benefits from China’s rise and growth mainly because these two countries have not yet overcome the geographical barrier. The transport connectivity between them is still poor. China has financial resources as well as technological prowess which can be used to build reliable all-weather surface connectivity so that Nepal can benefit more from China’s development. As a global economic power, it is also China’s obligation to help its neighbour come out of poverty and backwardness.
-
-
-
-
-
-(The author is a former chief editor of this daily and a former ambassador. lamsalyubanath@gmail.com)","{'https://risingnepaldaily.com/storage/media/885/conversions/square-thumb-thumb-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104809/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104814/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104810/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104811/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104805/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/commons/rising-logo.png', 'https://risingnepaldaily.com/storage/media/104806/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104813/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104814/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104811/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104805/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104808/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/104803/Untitled-1.jpg', 'https://risingnepaldaily.com/storage/media/104810/conversions/Untitled-1-square-thumb.jpg'}","निरंतरता आ परिवर्तन नेपालक विदेश नीतिक प्रमुख विशेषता अछि । राष्ट्रीय हित कोनो भी देश केरऽ दीर्घकालीन विदेश नीति केरऽ लक्ष्य छै, जे सरकारऽ म॑ बदलाव के बावजूद या राजनीतिक व्यवस्था म॑ भी बदलाव के बावजूद नै बदलै छै । लेकिन विदेश नीति केरऽ मूल उद्देश्य क॑ प्राप्त करै लेली बाहरी दुनिया केरऽ संदर्भ आरू विकास के आधार प॑ रणनीति, उपकरण आरू दृष्टिकोण बदली सकै छै । नेपाल केरऽ मामला म॑ पूर्व म॑ राजनीतिक व्यवस्था आरू शासन म॑ बदलाव के बावजूद विदेश नीति केरऽ मौलिक हित, लक्ष्य आरू प्राथमिकता म॑ कोनो बदलाव नै ऐलऽ छै, जबकि लगातार सरकार न॑ विदेश नीति केरऽ लक्ष्य केरऽ मूल गतिशीलता क॑ प्राप्त करै म॑ अलग-अलग शैली आरू दृष्टिकोण अपनान॑ हुअ॑ सकै छै ।
-
-प्रधानमंत्री बलेन्द्र शाह केरऽ नेतृत्व वाला राष्ट्रीय स्वतंत्र पार्टी सरकार न॑ देश केरऽ कूटनीति क॑ संभाल॑ म॑ कुछ अलग शैली, दृष्टिकोण आरू प्राथमिकता अपनान॑ नजर आबी रहलऽ छै । पहिल कार्रवाई सरकार केरऽ कूटनीतिक आचार संहिता केरऽ सख्ती स॑ पालन आरू पालन करै के फैसला छै, जे पहिने व्यवहार म॑ नै छेलै । प्रधानमंत्री बलेन्द्र शाह व्यक्तिगत राजदूतऽ स॑ भेंट करै स॑ बचलै आरू एकरऽ बदला म॑ हुनका स॑ एगो समूह म॑ भेंट करी क॑ बातचीत करलकै, जे व्यवहार म॑ दोसरऽ देशऽ म॑ भी छै ।
-
-व्यावहारिक कूटनीति
-
-दोसर बात ई जे नव सरकार संविधान मे निहित देश के विदेश नीति के लक्ष्य के पूरा करय लेल व्यावहारिक कूटनीति पर बेसी ध्यान देलक अछि. एहि मे ‘नेपाल पहिने आ नेपाली पहिने’ नीति पर जोर देल गेल अछि जकर चारूकात कूटनीतिक लंगर लागल बुझाइत अछि । आर्थिक आरू विकास कूटनीति नयका सरकार केरऽ बज़ शब्द छै, जेकरऽ तात्पर्य मुख्य रूप स॑ अधिक विकास सहायता लानै, प्रत्यक्ष विदेशी निवेश, निर्यात व्यापार क॑ बढ़ावा दै, प्रौद्योगिकी हस्तांतरण, नेपाल केरऽ गंतव्य क॑ लोकप्रिय बनाबै के आरू अन्य सामाजिक आरू सांस्कृतिक विशेषता के अलावा अधिक गुणवत्ता वाला पर्यटकऽ क॑ आकर्षित करै प॑ ध्यान देना होतै आरू अन्य सामाजिक आरू सांस्कृतिक विशेषता क॑ नेपाली प्रवासी क॑ जुटाबै के अलावा अन्य सॉफ्ट पावर टूल के सही उपयोग करै प॑ ध्यान देना होतै ।
-
-राज्य केरऽ व्यवहार आरू ओकरऽ विदेश नीति के प्राथमिकता क॑ आकार दै म॑ भूगोल एगो प्रमुख निर्धारक छै । कूटनीति के यथार्थवादी दुनिया में नेपाल के भौगोलिक स्थिति तर्कसंगत कूटनीतिक संभाल के भीख मांगै छै आरू हमरऽ दूनू निकटतम पड़ोसी आरू अन्य प्रमुख शक्ति के साथ-साथ विकास भागीदार के बीच नाजुक संतुलन बनाबै के भीख मांगै छै । ई नेपाल केरऽ पसंद के साथ-साथ ओकरऽ सर्वोत्तम आरू व्यापक राष्ट्रहित केरऽ मजबूरी भी छै । नेपाल केरऽ विदेश नीति केरऽ विकास शुरू होय के समय स॑ ही ई सुसंगत रुख आरू नीति भी रहलऽ छै ।
-
-दुनिया के कोनो भी देश के लेल विदेश नीति आ कूटनीतिक व्यवहार में पड़ोसी हमेशा प्राथमिकता रहैत छैथ। अन्य देशक कें साथ संबंधक कें स्तर जुड़ाव कें प्रकृति आ साझेदारी कें स्तर पर निर्भर करय छै. पड़ोसी के सगाई निश्चित रूप स बेसी अछि। यद्यपि नेपाल के विश्व के १८३ देश के साथ कूटनीतिक संबंध छै लेकिन विभिन्न देश के साथ संबंध के प्रकृति आरू जुड़ाव के स्तर में स्पष्ट रूप स॑ भिन्नता छै । निकट पड़ोसी होय के कारण नेपाल के भारत आरू चीन के साथ निश्चित रूप स॑ अधिक जुड़ाव छै । लेकिन, अमेरिका, यूनाइटेड किंगडम आरू जापान सहित अन्य शक्ति आरू विकास भागीदार भी हमरऽ विदेश नीति म॑ प्रमुखता रखै छै ।
-
-वर्तमान सरकार सेहो पड़ोसी देश कए बेसी प्राथमिकता देलक बुझाइत अछि जे स्वाभाविक, व्यावहारिक आ सही तरीका अछि । सरकार प्राथमिकता आरू आर्थिक हित के आधार प॑ देशऽ के साथ जुड़ाव क॑ तेज करै म॑ प्रयासरत छै, जेकरऽ महत्व ओकरऽ करीबी पड़ोसी देशऽ- भारत आरू चीन लेली अधिक छै । दोसर देशक सं निपटय मे विश्वास आ आत्मविश्वास कें निर्माण पहिल आ सब सं पैघ आवश्यकता छै. दौरा आरू बातचीत के आदान-प्रदान राष्ट्रऽ के बीच विश्वास आरू विश्वास पैदा करै म॑ योगदान दै छै ।
-
-विदेश नीति प्रधानमंत्री शाह केरऽ प्रमुख प्राथमिकता छै । लेकिन हुनकऽ प्रवृत्ति घरेलू मामला प॑ अधिक ध्यान देना छै आरू ई तरह विदेश मंत्री शिसिर खनाल विश्वास आरू आत्मविश्वास पैदा करै के कोशिश म॑ पड़ोसी, दोस्त आरू भागीदारऽ के साथ कूटनीतिक सौदा आरू बातचीत म॑ व्यस्त रहलऽ छै । पड़ोसी देश प्राथमिकता रहला के कारण विदेश मंत्री खनाल पहिने भारत गेलाह आ भारतीय नेता आ अधिकारी सब सं बातचीत केलनि, जाहि सं नेपाल-भारत संबंध मे सकारात्मक वाइब बनेबा मे मदद भेटल. भारत स॑ घुरला के तुरंत बाद खनाल न॑ उत्तरी पड़ोसी देश चीन केरऽ दोस्ताना यात्रा के समापन करलकै ।
-
-बीजिंग यात्रा के दौरान खनाल न॑ अपनऽ चीनी समकक्ष वांग यी आरू अन्य अधिकारियऽ के साथ द्विपक्षीय संबंध आरू सहयोग स॑ जुड़लऽ मामलऽ प॑ सार्थक कूटनीतिक संवाद म॑ सक्रिय रूप स॑ शामिल होय गेलै । ई यात्रा आरू बातचीत स॑ एक-दूसरा क॑ समझै आरू दूनू देशऽ के बीच विश्वास के माहौल बनाबै म॑ मदद मिललै । जेना कि आरएसपी जेन जेड आन्दोलन के बाद सत्ता में आयल नवका राजनीतिक शक्ति अछि, ताहि लेल किछ लोक नेपाल के नवका राजनीतिक घटनाक्रम आ आरएसपी सरकार के अलग नजरि मे देखाबय के कोशिश केलखिन्ह.
-
-मंत्री खनाल नेपाल केरऽ लंबा समय स॑ चलै वाला ‘एक चीन नीति’ क॑ दोहरैलकै आरू नेपाल केरऽ आर्थिक कूटनीति प॑ ध्यान केंद्रित करै के बात कहलकै, जेकरा लेली हुनी चीन स॑ सार्थक समर्थन मँगलकै । नेपाल आ चीन सेहो अपन चिन्ता अछि। मंत्री खनाल कूटनीतिक रूप सँ मुदा स्पष्ट रूप सँ नेपालक चिन्ता व्यक्त केलनि आ संगहि आश्वासन देलनि जे नेपाल नेपाल मे बीजिंगक सरोकार केँ पूर्ण रूप सँ संबोधित करत। खनाल न॑ जहाँ घनिष्ठ पड़ोसी संबंध प॑ जोर देलकै, वहीं चीन केरऽ विदेश मंत्री वांग यी न॑ टिप्पणी करलकै कि “दूर के रिश्तेदारऽ स॑ भी घनिष्ठ पड़ोसी के महत्व छै,” जेकरऽ मतलब छै कि चीन नेपाल के साथ संबंध क॑ अधिक महत्व दै छै । वर्तमान भू-राजनीतिक परिदृश्य में ई ओवरचर महत्वपूर्ण संदेश आरू अर्थ के वाहक छै । समग्र रूप स खनाल क एहि यात्रा स नेपाल आ चीन क बीच विश्वास आ सद्भावना क माहौल बनेबा मे योगदान देलक।
-
-समय-परीक्षित संबंध
-
-नेपाल आरू चीन के बीच दोस्ती, सहयोग आरू एक-दूसरा के संप्रभुता आरू संवेदनशीलता के प्रति सम्मान के आधार प॑ लंबा आरू समय के परीक्षण करलऽ गेलऽ संबंध छै । 1955 मे नेपाल आ चीन कूटनीतिक संबंध स्थापित केलाक बाद एहि दुनू देशक बीच आधुनिक आ औपचारिक संबंधक नव रूप देब शुरू भेल छल ।तहिया सँ एहि दुनू घनिष्ठ पड़ोसी देशक बीच संबंध बढ़ैत रहल अछि ।
-
-चीन नेपाल केरऽ करीबी पड़ोसी ही नै बल्कि एगो वैश्विक शक्ति भी छै जेकरऽ अंतरराष्ट्रीय सत्ता राजनीति म॑ बहुत बड़ऽ दबदबा छै । तहिना चीन दुनिया केरऽ दोसरऽ सबसें बड़ऽ अर्थव्यवस्था छेकै आरू अन्य क्षेत्रऽ म॑ भी उल्लेखनीय प्रगति हासिल करी चुकलऽ छै । लेकिन चीन केरऽ उदय आरू विकास स॑ हम्में पूरा तरह स॑ वांछित फायदा नै उठाय सकलऽ छियै मुख्य रूप स॑ ई लेली कि ई दूनू देश अभी तलक भौगोलिक बाधा क॑ पार नै करी सकलऽ छै । दुनूक बीच परिवहन संपर्क एखनो खराब अछि। चीन के पास वित्तीय संसाधन के साथ-साथ तकनीकी पराक्रम भी छै जेकरऽ उपयोग स॑ विश्वसनीय हर मौसम के सतह संपर्क के निर्माण करलऽ जाब॑ सकै छै ताकि चीन के विकास स॑ नेपाल क॑ अधिक फायदा मिल॑ सक॑ । वैश्विक आर्थिक शक्ति के रूप म॑ चीन केरऽ दायित्व भी छै कि वू अपनऽ पड़ोसी देश क॑ गरीबी आरू पिछड़ापन स॑ बाहर निकलै म॑ मदद करै ।
-
-
-
-
-
-(लेखक एहि दैनिकक पूर्व मुख्य संपादक आ पूर्व राजदूत छथि। lamsalyubanath@gmail.com)",Interview
 Buffalo export hits meat businesses - The Rising Nepal,Buffalo export hits meat businesses  The Rising Nepal,2026-06-24 01:51:50,https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kb1JHZkZEX3pqVVgwVU1EcWYtLUl2cnhKdjZLV01GU3FjeGJRQmlLVVZLS0ZSX2w5emhOSGRDNno2ZTVDT2ZneGRSTWpKVWxm?oc=5&hl=en-US&gl=US&ceid=US:en,https://risingnepaldaily.com,The Rising Nepal,"By Hariprasad Koirala,Urlabari, June 24: The illegal export of male buffaloes from Nepal to India has increased, leaving Nepali meat and dried meat producers struggling to secure enough animals for their businesses.
 
 According to traders, Indian buyers regularly visit major livestock markets in Koshi Province, including Inaruwa in Sunsari, Belbari and Mangalbare in Morang and Damak and Dhulabari in Jhapa, to purchase buffaloes.
@@ -11199,3 +10474,304 @@ A stable, sovereign, genuinely non-aligned Nepal is unambiguously in India's int
 स्थिर, सार्वभौम, वास्तविक रूप सँ असंरेखित नेपाल निर्विवाद रूप सँ भारतक हित मे आ नेपालक हित मे अछि । ओहि संतुलन पर खतरा दक्षिण स नहि आबि रहल अछि। एकरा तिब्बती पठार पर कंक्रीट आ फाइबर-ऑप्टिक केबल मे ढारल जा रहल अछि। भारत के उत्तरी रक्षा के लेल, आ नेपाल के अपन स्वतंत्रता के लेल जे रेखा पकड़य पड़त ओ कोनो नक्शा पर नहिं अछि. ई सिद्धांत छै कि कोनो बाहरी शक्ति क॑ दुनिया के छत क॑ चौकीदार म॑ बदलै के मौका नै मिलै छै ।
 
 (adsbygoogle = विंडो.adsbygoogle || []).पुश ({});",Sports
+Four Nepalese nationals held after brawl outside Vidhana Soudha - Deccan Herald,Four Nepalese nationals held after brawl outside Vidhana Soudha  Deccan Herald,2026-06-30 23:01:18,https://news.google.com/rss/articles/CBMixAFBVV95cUxPQU81aE9zRE1QM3p0ZEtNdU1RcmdkaE9qQnVlR2dEMkpCbWZWeDJTdnVuYllaeE5UOFpwdjduNnMzZFVKQmUxZk8wSzB2SWRsN3J3QVVOeHMtNVBlRGpqdEN1NkhhSEtPYWJfRi1qXzl4THRzNFFUNFdzUFBQTGhRSjB5U21FbFBaV1VlOW43dzU1eFBTcGh6RTczcHBFdWl5WGFZOTdycnR4SWl2ejRJQzZOYlk5Mkk3T0JKOW4wcUJMVUtv?oc=5&hl=en-US&gl=US&ceid=US:en,https://www.deccanherald.com,Deccan Herald,"Four Nepalese nationals held after brawl outside Vidhana Soudha
+
+Police said the arrested have been identified as Shakti, Ishwar, Dipendra, and another associate. They were working as security guards employed with a private company in Kaggadasapura near Indiranagar.","{'https://sb.scorecardresearch.com/p?c1=2&c2=39632204&cv=3.9.1&cj=1', 'https://media.assettype.com/deccanherald%2F2026-06-30%2F290hqgcx%2Ffile86iifzm1y0w1f2fztb0h.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop', 'https://media.assettype.com/deccanherald%2F2025-06-19%2Fziie95h3%2Fdhwhiteblue_auth.png?w=undefined&auto=format%2Ccompress&fit=max'}","विधान सौधा के बाहर झगड़ा के बाद पकड़ल गेल चारि नेपाली नागरिक
+
+पुलिस के कहनाय अछि जे गिरफ्तार लोक के पहचान शक्ति, ईश्वर, दीपेंद्र, आओर दोसर सहयोगी के रूप मे कायल गेल अछि. ओ सब इंदिरानगर के समीप कग्गदासपुरा मे एकटा निजी कंपनी मे नियोजित सुरक्षा गार्ड के रूप मे काज क रहल छल।",Entertainment
+Nepal Oil Corporation cuts fuel and LPG prices - Khabarhub,Nepal Oil Corporation cuts fuel and LPG prices  Khabarhub,2026-06-30 23:05:13,https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pa1otTjFXLVBUNUo3RjBfU2FXcERoaDBlcEtBcDNsOUFsN2M1OUM1Z2x0bW1jLXhrekhodXlnWjdBU243SHdGRmNYWkNKZEJVUU9oaFpYZXA?oc=5&hl=en-US&gl=US&ceid=US:en,https://english.khabarhub.com,Khabarhub,"KATHMANDU; Nepal Oil Corporation (NOC) has reduced the prices of petroleum products, including petrol, diesel, kerosene, aviation fuel and liquefied petroleum gas (LPG).
+
+A meeting of the NOC Board of Directors on Tuesday decided to lower the price of petrol by Rs 20 per litre and diesel and kerosene by Rs 30 per litre.
+
+The price of domestic aviation fuel has been reduced by Rs 40 per litre, while international aviation fuel for Kathmandu has been cut by US$ 265 per kilolitre. The price of a 14.2-kg LPG cylinder has been reduced by Rs 100.
+
+Under the revised rates, petrol in Kathmandu, Pokhara and Dipayal (Category III) now costs Rs 197 per litre, while diesel and kerosene are priced at Rs 195 per litre. Previously, petrol and diesel were priced at Rs 217 and Rs 225 per litre, respectively.
+
+In Category I areas—Charali, Biratnagar, Janakpur, Amlekhgunj, Bhalubang, Nepalgunj, Dhangadhi and Birgunj—the price of petrol has been fixed at Rs 194.50 per litre and diesel at Rs 192.50 per litre.
+
+In Category II areas, including Surkhet and Dang, petrol will now cost Rs 196 per litre and diesel Rs 194 per litre.
+
+The new price of domestic aviation fuel has been set at Rs 229 per litre. International aviation fuel has been fixed at US$ 1,566 per kilolitre for Kathmandu, US$ 1,100 for Pokhara and US$ 1,085 for Bhairahawa.
+
+Following the latest revision, a 14.2-kg LPG cylinder will now cost Rs 2,060, down from Rs 2,160.
+
+The NOC said the price adjustment was made under its automatic pricing mechanism based on fluctuations in international petroleum prices and the latest procurement rates received from Indian Oil Corporation (IOC).","{'https://english.khabarhub.com/wp-content/uploads/2024/04/FOREX-e1764984075308-150x100.webp', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/appstore.svg', 'https://english.khabarhub.com/wp-content/uploads/2019/11/Nepal-Oil.jpg', 'https://english.khabarhub.com/wp-content/uploads/2024/05/Economic-Digest-350x250.jpg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/logos.png', 'https://english.khabarhub.com/wp-content/uploads/2019/01/logo-300x300-1-150x150.png', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/logo-white-sm.png', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/linked-in.svg', 'https://english.khabarhub.com/wp-content/uploads/2025/09/Rastriya-Swatantra-Party-RSP-150x100.jpg', 'data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=', 'https://english.khabarhub.com/wp-content/uploads/2021/10/Weather-1-e1750897810127-150x100.jpg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/youtube.svg', 'https://english.khabarhub.com/wp-content/uploads/2024/08/Federal-Parliament-Secretariat-150x100.png', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/instagram.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/viber.svg', 'https://english.khabarhub.com/wp-content/themes/Khabarhubenglish/img/icons/playstore.svg'}","काठमाण्डु; नेपाल तेल निगम पेट्रोल, डीजल, मिट्टी के तेल, विमानन ईंधन आ तरल पेट्रोलियम गैस (एलपीजी) सहित पेट्रोलियम उत्पाद के दाम घटा देलक अछि ।
+
+मंगलदिन एनओसी के निदेशक मंडल के बैसार मे पेट्रोल के दाम 20 रुपैया प्रति लीटर आ डीजल आ मिट्टी के तेल के दाम 30 रुपैया प्रति लीटर कम करबाक निर्णय लेल गेल अछि।
+
+घरेलू विमानन ईंधन के दाम प्रति लीटर 40 रुपैया घटल गेल अछि, जखन कि काठमांडू के लेल अंतरराष्ट्रीय विमानन ईंधन मे 265 अमेरिकी डॉलर प्रति किलोलीटर के कटौती कएल गेल अछि. 14.2 किलो के एलपीजी सिलेंडर के दाम मे 100 रुपया के कमी कएल गेल अछि.
+
+संशोधित दर के तहत काठमांडू, पोखरा आ दिपयाल (तृतीय श्रेणी) मे पेट्रोल के दाम आब 197 रुपैया प्रति लीटर अछि, जखन कि डीजल आ मिट्टी के तेल के दाम 195 रुपया प्रति लीटर अछि। एहि स पहिने पेट्रोल आ डीजल क दाम क्रमशः 217 आ 225 टका प्रति लीटर छल।
+
+प्रथम श्रेणी के क्षेत्र-चरली, विराटनगर, जनकपुर, अमलेखगंज, भालूबांग, नेपालगंज, धनगढी आ वीरगंज मे पेट्रोल के दाम १९४.५० रुपैया प्रति लीटर आ डीजल के दाम १९२.५० रुपैया प्रति लीटर निर्धारित कएल गेल अछि ।
+
+सुर्खेत आ डांग सहित द्वितीय श्रेणी क क्षेत्र मे आब पेट्रोल क दाम 196 टका आ डीजल क दाम 194 टका प्रति लीटर होएत।
+
+घरेलू विमानन ईंधन क नव दाम 229 टका प्रति लीटर तय कैल गेल अछि। अन्तर्राष्ट्रिय विमानन ईंधन काठमाण्डौके १,५६६ अमेरिकी डॉलर प्रति किलोलीटर, पोखराके १,१०० अमेरिकी डॉलर आ भैरहवाके १,०८५ अमेरिकी डॉलर निर्धारित कएल गेल अछि ।
+
+ताजा संशोधन क बाद आब 14.2 किलो क एलपीजी सिलेंडर क कीमत 2,060 टका होएत, जे 2,160 टका स कम अछि।
+
+एनओसी न॑ कहलकै कि अंतरराष्ट्रीय पेट्रोलियम केरऽ दाम म॑ उतार-चढ़ाव आरू भारतीय तेल निगम (आईओसी) स॑ मिललऽ नवीनतम खरीद दर के आधार प॑ ओकरऽ स्वचालित मूल्य निर्धारण तंत्र के तहत मूल्य समायोजन करलऽ गेलऽ छै ।",Politics
+Nepal Rastra Bank Sets Foreign Exchange Rates for Wednesday - Ratopati,Nepal Rastra Bank Sets Foreign Exchange Rates for Wednesday  Ratopati,2026-07-01 00:06:50,https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSk5rclZSYTUzUFdlanFxYXMxMGpUSUFxQW1wdmtUTGd0SkpFaXlPU2MyTmhTR21obG1zeHgwSTJieGEwdWpWUlY0NXhaNEpCYjdOMmhJYks0TFJXWW5VNzM5RmxmUnpDTDNmeWxYVk1qNDZxMWdNb0JKZkNiNHU1alY3SnlUeGwxNFI2eU5yX2ItUlU2RXhlSmVqUHVhdFJncnpRSnYyaXBiUQ?oc=5&hl=en-US&gl=US&ceid=US:en,https://english.ratopati.com,Ratopati,"Kathmandu. Nepal Rastra Bank has determined the foreign exchange rates for today (Wednesday).
+
+According to the central bank, the purchase rate for one US dollar has been set at 151 rupees 16 paisa and the selling rate at 151 rupees 76 paisa.
+
+Similarly, the purchase rate for one European Euro has been set at 172 rupees 28 paisa and the selling rate at 172 rupees 97 paisa, for one UK Pound Sterling at 200 rupees 07 paisa and the selling rate at 200 rupees 86 paisa, and for one Swiss Franc at 186 rupees 70 paisa and the selling rate at 187 rupees 44 paisa.
+
+The purchase rate for one Australian Dollar has been set at 104 rupees 06 paisa and the selling rate at 104 rupees 47 paisa, for one Canadian Dollar at 106 rupees 17 paisa and the selling rate at 106 rupees 59 paisa, and for one Singapore Dollar at 116 rupees 75 paisa and the selling rate at 117 rupees 22 paisa.
+
+The purchase rate for 10 Japanese Yen has been set at nine rupees 31 paisa and the selling rate at nine rupees 35 paisa, for one Chinese Yuan at 22 rupees 28 paisa and the selling rate at 22 rupees 37 paisa, for one Saudi Arabian Riyal at 40 rupees 24 paisa and the selling rate at 40 rupees 40 paisa, and for one Qatari Riyal at 41 rupees 47 paisa and the selling rate at 41 rupees 63 paisa.
+
+According to the central bank, the purchase rate for one Thai Baht has been set at four rupees 55 paisa and the selling rate at four rupees 57 paisa, for one UAE Dirham at 41 rupees 47 paisa and the selling rate at 41 rupees 63 paisa, for one Malaysian Ringgit at 37 rupees and the selling rate at 37 rupees 15 paisa, for 100 South Korean Won at nine rupees 75 paisa and the selling rate at nine rupees 78 paisa, for one Swedish Kroner at 15 rupees 52 paisa and the selling rate at 15 rupees 58 paisa, and for one Danish Kroner at 23 rupees 05 paisa and the selling rate at 23 rupees 14 paisa.
+
+Nepal Rastra Bank has set the purchase rate for one Hong Kong Dollar at 19 rupees 28 paisa and the selling rate at 19 rupees 35 paisa, for one Kuwaiti Dinar at 490 rupees 94 paisa and the selling rate at 492 rupees 89 paisa, for one Bahraini Dinar at 400 rupees 93 paisa and the selling rate at 402 rupees 52 paisa, and for one Omani Rial at 392 rupees 64 paisa and the selling rate at 394 rupees 20 paisa. The purchase rate for 100 Indian Rupees has been set at 160 rupees and the selling rate at 160 rupees 15 paisa.
+
+Nepal Rastra Bank has stated that it can revise these exchange rates at any time as needed. The exchange rates set by commercial banks may differ, and updated exchange rates will be available on the central bank's website.","{'https://english.ratopati.com/build/img/logo-rp.png', 'https://npcdn.ratopati.com/media/news/donald-trump_ofb3ulwtUJ.webp', 'https://npcdn.ratopati.com/media/news/petrol-pump_npl-(20)_oyx9OCRcTz.jpg', 'https://rpcdn.ratopati.com/media/RSS.jpg', 'https://rpcdn.ratopati.com/media/albums/karma_tshring_sherpa_1r7JnSpbJD.jpg', 'https://npcdn.ratopati.com/media/news/25a673c6-d1f0-4e29-a55f-55566970b394.jpg_C5coKZE6pq.webp', 'https://npcdn.ratopati.com/media/news/gas-cylinder_C1DsfWsEkc.jpg', 'https://npcdn.ratopati.com/media/news/woman-with-heart-attack_yGyKTWu34o.jpg', 'https://npcdn.ratopati.com/media/news/music-and-ai_anKQ1M7VOI.jpg', 'https://npcdn.ratopati.com/media/news/mex_FwWvAGCXo2.jpg', 'https://rpcdn.ratopati.com/media/albums/us_dollor_vMQwVu7ZmH.jpg', 'https://npcdn.ratopati.com/media/news/eye-twitch_yXKxnt6RTw.jpg', 'https://npcdn.ratopati.com/media/news/kiran-pandit-1782813954_JS6E5gXphj.jpg', 'https://npcdn.ratopati.com/media/news/1500x900_410057-new-york-supreme-court-donald-trump_J38eRQJs5m.png', 'https://npcdn.ratopati.com/media/news/flood-cover_nIzgeU6N1T.jpg'}","काठमांडू। नेपाल राष्ट्र बैंक आइ (बुधदिन) के लेल विदेशी मुद्रा दर निर्धारित केलक अछि ।
+
+केंद्रीय बैंक के अनुसार एक अमेरिकी डॉलर के खरीद दर 151 रुपया 16 पैसा आओर बिक्री दर 151 रुपया 76 पैसा तय कएल गेल अछि.
+
+तहिना एक यूरोपीय यूरो के खरीद दर 172 रुपया 28 पैसा आ बिक्री दर 172 रुपया 97 पैसा, एक यूके पाउंड स्टर्लिंग के 200 रुपया 07 पैसा आ बिक्री दर 200 रुपया 86 पैसा, आ एक स्विस फ्रैंक के 186 रुपया 70 पैसा आ बिक्री दर 187 निर्धारित कएल गेल अछि रुपैया ४४ पैसा।
+
+एक ऑस्ट्रेलियाई डॉलर के खरीद दर 104 रुपया 06 पैसा आ बिक्री दर 104 रुपया 47 पैसा, एक कनाडाई डॉलर के 106 रुपया 17 पैसा आ बिक्री दर 106 रुपया 59 पैसा, आ एक सिंगापुर डॉलर के 116 रुपया 75 पैसा आ बिक्री दर 117 रुपया निर्धारित कएल गेल अछि २२ पैसा।
+
+10 जापानी येन के खरीद दर नौ रुपया 31 पैसा आ बिक्री दर नौ रुपया 35 पैसा, एक चीनी युआन के 22 रुपया 28 पैसा आ बिक्री दर 22 रुपया 37 पैसा, एक सऊदी अरब रियाल के 40 रुपया 24 पैसा आ बिक्री दर 40 रुपया 40 पैसा, आ... एक कतार रियाल के लेल 41 रुपया 47 पैसा आ बिक्री दर 41 रुपया 63 पैसा.
+
+केंद्रीय बैंक के अनुसार एक थाई बाथ के खरीद दर चारि रुपया 55 पैसा आ बिक्री दर चारि रुपया 57 पैसा, एक यूएई दिरहम के 41 रुपया 47 पैसा आ बिक्री दर 41 रुपया 63 पैसा, एक मलेशियाई रिंगित के 37 रुपया आ बिक्री दर 37 रुपया 15 पैसा, के लेल निर्धारित कएल गेल अछि 100 दक्षिण कोरियाई वोन नौ रुपया 75 पैसा आ बिक्री दर नौ रुपया 78 पैसा, एकटा स्वीडिश क्रोनर के 15 रुपया 52 पैसा आ बिक्री दर 15 रुपया 58 पैसा, आ एकटा डेनिश क्रोनर के लेल 23 रुपया 05 पैसा आ बिक्री दर 23 रुपया 14 पैसा.
+
+नेपाल राष्ट्र बैंक एक हांगकांग डॉलर के खरीद दर १९ रुपया २८ पैसा आ बिक्री दर १९ रुपया ३५ पैसा, एक कुवैती दिनार के ४९० रुपैया ९४ पैसा आ बिक्री दर ४९२ रुपैया ८९ पैसा, एक बहरीन दिनार के ४०० रुपया ९३ पैसा आ बिक्री दर ४०२ निर्धारित केलक अछि रुपया 52 पैसा, आ एक ओमानी रियाल के लेल 392 रुपया 64 पैसा आ बिक्री दर 394 रुपया 20 पैसा। 100 भारतीय रुपया के खरीद दर 160 रुपया आओर बिक्री दर 160 रुपया 15 पैसा तय कएल गेल अछि.
+
+नेपाल राष्ट्र बैंक आवश्यकतानुसार कोनो समय एहि विनिमय दर मे संशोधन कए सकैत अछि से कहने अछि । वाणिज्यिक बैंकक कें द्वारा निर्धारित विनिमय दर अलग-अलग भ सकय छै, आ केंद्रीय बैंक कें वेबसाइट पर अपडेट विनिमय दर उपलब्ध होयत.",Economy
+Nepal Oil Corporation Reduces Fuel Prices - Ratopati,Nepal Oil Corporation Reduces Fuel Prices  Ratopati,2026-07-01 00:21:40,https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVW5CN0hDMHRJOHVHbnZSaS1UMm50TEFaaVdHdXpTcVBTc0ZRMkdERHM4dVVfZDQ5bmdYQjEtQzJSQXBYWFU5QUY4bVRnR3VKbEV3R1pJYm1zUzZqVExQMmctblNIWFpqMlIzWnA1YXZqbE4wemNaNmpjS3lHVVpKTVRXQUs5MWxqT2w4?oc=5&hl=en-US&gl=US&ceid=US:en,https://english.ratopati.com,Ratopati,"Kathmandu. Nepal Oil Corporation has reduced the price of petroleum products. The corporation's board of directors meeting on Tuesday reduced the prices of petrol, diesel, kerosene, aviation fuel, and cooking LP gas.
+
+The corporation has reduced the price of petrol by Rs 20 per liter and diesel and kerosene by Rs 30 per liter. Similarly, aviation fuel (domestic) has been reduced by Rs 40 per liter and aviation fuel (international) for Kathmandu has been reduced by US$ 265 per kiloliter. The price of cooking LP gas has been cut by Rs 100 per cylinder.
+
+According to the new price list, under the third category, the price of petrol in Kathmandu, Pokhara, and Dipayal is now Rs 197 per liter and the price of diesel and kerosene is Rs 195 per liter. Earlier, petrol was Rs 217 per liter and diesel was Rs 225 per liter in these areas.
+
+Similarly, under the first category, in Charali, Biratnagar, Janakpur, Amlekhgunj, Bhairahawa, Nepalgunj, Dhangadhi, and Birgunj, petrol is priced at Rs 194.50 per liter and diesel at Rs 192.50 per liter. Under the second category, in Surkhet and Dang, the price of petrol is fixed at Rs 196 per liter and the price of diesel at Rs 194.
+
+The new price of aviation fuel (domestic) is fixed at Rs 229 per liter. Similarly, the price of international aviation fuel for Kathmandu is US$ 1,566, for Pokhara US$ 1,100, and for Bhairahawa US$ 1,085 per kiloliter.
+
+With the price reduction, consumers will now get cooking LP gas per cylinder (14.2 kg) for Rs 2,060. Earlier, the price of gas was Rs 2,160 per cylinder.
+
+The corporation stated that the prices have been adjusted according to the automatic pricing system based on the fluctuations in the international market prices of petroleum products and the new purchase price received from Indian Oil Corporation (IOC).","{'https://npcdn.ratopati.com/media/news/rsp-party-office-rasapa-rswapa_s4mkmqukua_e83wuDjnRP.jpg', 'https://npcdn.ratopati.com/media/news/koshi-budget_r8PTfr1jUS.jpg', 'https://english.ratopati.com/build/img/logo-rp.png', 'https://npcdn.ratopati.com/media/news/donald-trump_ofb3ulwtUJ.webp', 'https://npcdn.ratopati.com/media/news/petrol-pump_npl-(20)_oyx9OCRcTz.jpg', 'https://rpcdn.ratopati.com/media/albums/karma_tshring_sherpa_1r7JnSpbJD.jpg', 'https://npcdn.ratopati.com/media/news/25a673c6-d1f0-4e29-a55f-55566970b394.jpg_C5coKZE6pq.webp', 'https://npcdn.ratopati.com/media/news/woman-with-heart-attack_yGyKTWu34o.jpg', 'https://npcdn.ratopati.com/media/news/music-and-ai_anKQ1M7VOI.jpg', 'https://npcdn.ratopati.com/media/news/mex_FwWvAGCXo2.jpg', 'https://npcdn.ratopati.com/media/news/eye-twitch_yXKxnt6RTw.jpg', 'https://rpcdn.ratopati.com/media/albums/us_dollor_vMQwVu7ZmH.jpg', 'https://npcdn.ratopati.com/media/news/rsp-office_qYgZcktPr9.png', 'https://npcdn.ratopati.com/media/news/kiran-pandit-1782813954_JS6E5gXphj.jpg', 'https://npcdn.ratopati.com/media/news/petrol11-1024x673_aWGKERZeSX.jpg', 'https://npcdn.ratopati.com/media/news/1500x900_410057-new-york-supreme-court-donald-trump_J38eRQJs5m.png', 'https://npcdn.ratopati.com/media/authors/ratopati_science_NFZUqqNiRF.jpg'}","काठमांडू। नेपाल तेल निगम पेट्रोलियम उत्पाद के दाम घटा देलक अछि। निगम केरऽ निदेशक मंडल केरऽ बैठक म॑ मंगलवार क॑ पेट्रोल, डीजल, मिट्टी के तेल, विमानन ईंधन, आरू खाना बनाबै के एलपी गैस के दाम म॑ कमी ​​करलऽ गेलै ।
+
+निगम पेट्रोल क दाम मे 20 टका प्रति लीटर आ डीजल आ मट्टी तेल क दाम मे 30 टका प्रति लीटर क कमी केलक अछि। तहिना काठमांडू लेल विमानन ईंधन (घरेलू) मे ४० टका आ काठमाण्डौ लेल विमानन ईंधन (अन्तर्राष्ट्रीय) मे २६५ अमेरिकी डॉलर प्रति किलोलीटर कम कएल गेल अछि । खाना बनाबय वाला एलपी गैस के दाम मे 100 रुपया प्रति सिलेंडर के कटौती कएल गेल अछि.
+
+नव मूल्य सूची के अनुसार तेसर श्रेणी के अंतर्गत काठमांडू, पोखरा, आ दीपायल मे पेट्रोल के दाम आब 197 रुपया प्रति लीटर आ डीजल आ मट्टी तेल के दाम 195 रुपया प्रति लीटर अछि। पहिने एहि क्षेत्र मे पेट्रोल 217 टका आ डीजल 225 टका प्रति लीटर छल।
+
+तहिना प्रथम श्रेणी अन्तर्गत चरली, विराटनगर, जनकपुर, अमलेखगंज, भैरहवा, नेपालगंज, धनगढी, आ वीरगंज मे पेट्रोल प्रति लीटर १९४.५० रुपैया आ डीजल १९२.५० रुपैया प्रति लीटर अछि । दोसर श्रेणी मे सुर्खेत आ दांग मे पेट्रोल क दाम 196 टका प्रति लीटर आ डीजल क दाम 194 टका तय कैल गेल अछि।
+
+विमानन ईंधन (घरेलू) क नव दाम 229 टका प्रति लीटर तय कैल गेल अछि। तहिना काठमांडू के लेल अंतर्राष्ट्रीय विमानन ईंधन के दाम १५६६ अमेरिकी डॉलर, पोखरा के ११०० अमेरिकी डॉलर, आ भैरहवा के लेल १,०८५ अमेरिकी डॉलर प्रति किलोलीटर अछि ।
+
+दाम मे कमी क संग आब उपभोक्ता कए कुकिंग एलपी गैस प्रति सिलेंडर (14.2 किलोग्राम) 2060 टका मे भेटत। एहि स पहिने गैस क दाम 2160 टका प्रति सिलेंडर छल।
+
+निगम नँ कहलकै कि पेट्रोलियम उत्पाद केरौ अंतरराष्ट्रीय बाजार मूल्य मँ उतार-चढ़ाव आरू भारतीय तेल निगम (आईओसी) सँ मिललौ नया खरीद मूल्य के आधार प स्वचालित मूल्य निर्धारण प्रणाली के अनुसार मूल्य मँ समायोजन करलौ गेलौ छै ।",Economy
+Sunmaya Budha returned from a record-breaking win in Italy. Nepal barely noticed - The Kathmandu Post,Sunmaya Budha returned from a record-breaking win in Italy. Nepal barely noticed  The Kathmandu Post,2026-07-01 00:56:14,https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTk9YNHc4OTltWGt6QmxzanRSdmpkaGttMFhjVExOM1liMU5BWnlCR1RsTVNGVFVFT2lzWkRSdlFZYU5mc3pDZTBvSmNYRDlOMTlERkdkbWNManVrZ252R2pGQWZfUVpaeHRLYmNpd2VUMTYzUzBpWjVpYjlZUEJ6NHk5QW1DS0J4NXQwUTRMb1VxWVVNMUtnMFdqXzFxMkV5WFNSTF9wTmpLdXdMTzlKMTZJd2VNbThLZDZNSHhyd1E?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"On Saturday, June 27, Sunmaya Budha was crowned the new queen of the Lavaredo Ultra Trail 120K in Italy after winning the race’s 19th edition. After conquering a gruelling 120-kilometre course with more than 5,800 metres of elevation gain, she crossed the finish line to a roar from hundreds of spectators. Budha held the finishing tape, raised her arms in triumph and was celebrated as a champion.
+
+Three days later, when Budha walked through the arrival gate at Tribhuvan International Airport with the winner’s medal, there was no cheering crowd waiting.
+
+Instead, a small group led by Nepal Adventure Running Federation (NARF) Vice-President Rajan Khatri, joined by a handful of well-wishers carrying a banner, bouquets and scarfs, welcomed one of Nepal’s greatest trail runners home.
+
+Budha, however, appeared neither surprised nor disappointed. It was a reception she had long expected.
+
+“I knew there wouldn’t be a grand welcome for a trail runner at the airport, even after winning one of the biggest races,” Budha told the Post as she sat at a coffee shop inside the international arrivals terminal. “That’s why I usually don’t even share my arrival details.”
+
+Budha did not merely win the Lavaredo Ultra Trail 120K—she rewrote its history. She completed the course in 13 hours, 33 minutes and 18 seconds, shaving more than six minutes off the course record that had stood for 11 years.
+
+The victory was anything but comfortable. Budha caught and passed Australia’s Lucy Bartholomew on a downhill section near the end of the race before crossing the finish line just a minute and a half ahead of her rival.
+
+“Sunmaya is a great runner,” said Preeti Khatri, founder and director of Nepal Trail Series, a company that manages Budha’s race calendar, logistics, media and sponsorships. “The race she just won was one of the biggest races in the world where elite runners participate.”
+
+Khatri added, “A couple of decades ago, Dawa Dachhiri Sherpa led a generation of trail runners. He was followed by Bhim Gurung, and then came Mira Rai. Now, there is Sunmaya.”
+
+For Preeti, however, Budha’s record-breaking victory made the reception at Tribhuvan International Airport even harder to accept.
+
+“Do you see any representatives from the government?” Preeti asked, gesturing around the arrivals’ hall. “Sunmaya won one of the world's biggest trail races while representing Nepal. And this is what she gets in return.”
+
+A few minutes later, media representatives from the National Sports Council arrived, took a handful of pictures and left after speaking briefly with Budha. “But is this all that the state can do?” Preeti asked again.
+
+Even before Budha’s flight landed in New Delhi from Rome on Monday morning, Nepal Trail Series had issued a statement calling on the government to honour her achievement.
+
+“A state honour or a national award. A formal meeting between the Prime Minister and Sunmaya. Is that too much to ask after everything she has achieved for the country?” Preeti said. “And this is not just about Sunmaya. Many Nepali trail runners have been winning medals around the world, yet they continue to be ignored. That neglect seems to have continued even under a government that has promised change.”
+
+The statement also demands a policy framework providing elite trail and mountain running athletes financial support, healthcare, and post-career security and recognising trail and mountain running as a strategic national sport, given Nepal’s geographic advantage and trail running’s coming Olympic inclusion.
+
+Yet, despite their frustration, neither Preeti nor Budha appeared ready to give up. Both spoke less about what had been denied than about what could still be achieved if Nepal finally began taking trail running seriously.
+
+Budha comes from Patarasi, a remote village in Jumla, where running was part of everyday life long before it became a profession. She began running at the age of 12 and turned professional five years later.
+
+“I had a guru, Hari Rokka. He trained me while I was in school and the President’s Running Shield was underway,” Budha recalls. “I started in track and field and went on to trail running.”","{'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://openweathermap.org/img/w/04d.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/third-party/SUNMAYA-1782867157.jpg'}","27 जून शनिदिन इटली म॑ आयोजित लावारेडो अल्ट्रा ट्रेल 120K केरऽ नयका रानी के ताज पहनैलऽ गेलै सुनमाया बुधा क॑ ई दौड़ केरऽ 19वां संस्करण जीतला के बाद । 5800 मीटर स॑ भी अधिक ऊंचाई बढ़ला के साथ 120 किलोमीटर के कठिन कोर्स जीतला के बाद सैकड़ों दर्शक के गर्जना के साथ फिनिश लाइन पार करी लेलकै । बुढ़ा फिनिशिंग टेप पकड़ने छलीह, जीत मे अपन बाँहि उठौलनि आ चैंपियनक रूप मे मनाओल गेलनि।
+
+तीन दिन बाद जखन बुढ़ा त्रिभुवन अंतर्राष्ट्रीय हवाई अड्डा पर विजेता पदक ल’ क’ आगमन गेट सं गुजरल त’ कोनो जयजयकार करय बला भीड़ इंतजार मे नहि छल.
+
+बल्कि नेपाल एडवेंचर रनिंग फेडरेशन (एनएआरएफ) के उपाध्यक्ष राजन खत्री के नेतृत्व में एकटा छोट समूह के संग बैनर, गुलदस्ता आ दुपट्टा ल क मुट्ठी भर शुभचिंतक के संग नेपाल के एकटा पैघ ट्रेल रनर के घर में स्वागत केलक।
+
+बुढ़ा, मुदा, ने आश्चर्यचकित देखाइत छलीह आ ने निराश। ई एकटा एहन स्वागत छल जकर आशा ओ बहुत दिनसँ कएने छलीह ।
+
+इंटरनेशनल आगमन टर्मिनल के अंदर एकटा कॉफी शॉप पर बैसल बुधा पोस्ट के कहलनि जे, हमरा बुझल छल जे एयरपोर्ट पर ट्रेल रनर के भव्य स्वागत नहिं होयत, ओहो एकटा पैघ दौड़ जीतला के बाद. “एही लेल हम प्रायः अपन आगमनक विवरण तक नहि साझा करैत छी.”
+
+बुधा खाली लावारेडो अल्ट्रा ट्रेल 120K जीतने नै छेलै-ओकरऽ इतिहास क॑ दोबारा लिखलकै । ओ 13 घंटा 33 मिनट आ 18 सेकेंड मे कोर्स पूरा केलथि, जाहि मे 11 साल स बनल कोर्स क रिकॉर्ड स छह मिनट स बेसी समय तक शेविंग भ गेलीह।
+
+जीत किछुओ नहि छल मुदा आरामदायक। बुधा न॑ दौड़ के अंत के पास डाउनहिल सेक्शन प॑ ऑस्ट्रेलिया केरऽ लुसी बार्थोलोम्यू क॑ पकड़ी क॑ ओकरा पास करी क॑ अपनऽ प्रतिद्वंदी स॑ महज डेढ़ मिनट आगू फिनिश लाइन पार करी लेलकै ।
+
+बुढ़ा केरऽ रेस कैलेंडर, रसद, मीडिया आरू प्रायोजन केरऽ प्रबंधन करै वाला कंपनी नेपाल ट्रेल सीरीज केरऽ संस्थापक आरू निदेशक प्रीति खत्री न॑ कहलकै कि सुनमाया एगो बढ़िया धावक छै । “ओ एखन जे दौड़ जीतने छलीह ओ दुनिया के सबस पैघ दौड़ मे स एक छल जतय कुलीन धावक भाग लैत छथि।”
+
+खत्री आगू बजलाह, “एक दू दशक पहिने दवा दछिरी शेरपा ट्रेल रनर के एकटा पीढ़ी के नेतृत्व केने छलाह. हुनका बाद भीम गुरुंग आबि गेलाह, आ फेर मीरा राय आबि गेलाह. आब, सुनमाया छथि।”
+
+प्रीति लेली लेकिन बुधा केरऽ रिकॉर्ड तोड़ जीत न॑ त्रिभुवन अंतर्राष्ट्रीय हवाई अड्डा प॑ स्वागत क॑ स्वीकार करना आरू मुश्किल करी देलकै ।
+
+“सरकारक कोनो प्रतिनिधि देखैत छी?” प्रीति आगमन’क हॉल मे इशारा करैत पुछलकै. “सुनमाया नेपालक प्रतिनिधित्व करैत दुनियाक एकटा पैघ ट्रेल रेस जीतने छलीह। आ बदला मे हुनका इएह भेटैत छनि।”
+
+किछु मिनटक बाद राष्ट्रीय खेल परिषद् के मीडिया प्रतिनिधि पहुंचलाह, मुट्ठी भरि फोटो खिंचौलनि आ बुढ़ा सं संक्षेप मे गप्प केलाक बाद चलि गेलाह. “मुदा की राज्य एतबे क’ सकैत अछि?” प्रीति फेर पुछलकै।
+
+सोमदिन भोर मे रोम सं बुढ़ा के फ्लाइट नई दिल्ली उतरय सं पहिने सेहो नेपाल ट्रेल सीरीज एकटा बयान जारी क सरकार सं हुनकर उपलब्धि के सम्मान करय के आह्वान केने छल.
+
+“राज्यक सम्मान वा राष्ट्रीय पुरस्कार। प्रधानमंत्री आ सुनमायाक बीच औपचारिक बैसार। की ई बहुत बेसी अछि जे ओ देश लेल जे किछु हासिल केने छथि ओकर बाद पूछब?” प्रीति बजलीह। “आरू ई खाली सुनमाया के बात नै छै। दुनिया भर में बहुत नेपाली ट्रेल रनर पदक जीती रहलऽ छै, तभियो ओकरा नजरअंदाज करलऽ जाय रहलऽ छै। वू उपेक्षा ऐन्हऽ सरकार के समय में भी जारी रहलऽ नजर आबै छै जे परिवर्तन के वादा करलकै।”
+
+बयान म॑ नेपाल केरऽ भौगोलिक फायदा आरू ट्रेल रनिंग केरऽ आबै वाला ओलंपिक समावेश क॑ देखत॑ हुअ॑ कुलीन ट्रेल आरू माउंटेन रनिंग एथलीटऽ क॑ आर्थिक सहायता, स्वास्थ्य सेवा, आरू कैरियर के बाद सुरक्षा प्रदान करै आरू ट्रेल आरू माउंटेन रनिंग क॑ सामरिक राष्ट्रीय खेल के रूप म॑ मान्यता दै वाला नीतिगत रूपरेखा के मांग भी करलऽ गेलऽ छै ।
+
+तइयो अपन कुंठाक बादो ने प्रीति आ ने बुढ़ा हार मानय लेल तैयार देखाइत छलीह । दुनू गोटे एहि बात पर कम बजलाह जे नकारल गेल छल, नहि कि अगर नेपाल आखिरकार ट्रेल रनिंग कए गंभीरता स लेबय लागल त एखनो की हासिल भ सकैत अछि।
+
+बुढ़ा जुमला केरऽ एगो सुदूर गाँव पतरासी स॑ छै, जहां दौड़ना पेशा बनै स॑ बहुत पहलें रोजमर्रा के जीवन के हिस्सा छेलै । 12 साल के उम्र स दौड़य लगलीह आ पांच साल बाद प्रोफेशनल भ गेलीह।
+
+बुढ़ा स्मरण करैत कहैत छथि, “हमर एकटा गुरु छलाह, हरि रोक्का, ओ हमरा स्कूल मे रहैत प्रशिक्षण देलनि आ राष्ट्रपतिक रनिंग शील्ड चलि रहल छल।” “हम ट्रैक एंड फील्ड मे शुरू केलहुं आ ट्रेल रनिंग मे आबि गेलहुं।”",Sports
+Rising Mercury - The Rising Nepal,Rising Mercury  The Rising Nepal,2026-07-01 01:10:28,https://news.google.com/rss/articles/CBMiUEFVX3lxTE1IRXVBdXg2Qkk5RW1WMS1acnprWDNtbHp4aHpwTllQdkZCRmVZZ3Q3UGxNamxDYlJOT0UydUlraU9QS3JTODI3enQ1Nk1YeUdY?oc=5&hl=en-US&gl=US&ceid=US:en,https://risingnepaldaily.com,The Rising Nepal,"Across cities in the Northern Hemisphere, road asphalt is heating up, air conditioners are overworked, water coolers are seeing long queues, and people are sweltering in the heat as the mercury sets a record. The conversations are mostly about the weather as people dip in river canals in cities around Europe, which is seeing a record high temperature across France, the UK, Germany and Spain, among others. Meanwhile, throughout Asian nations, urban areas are getting scorched. In Nepal, too, the Terai region is facing oppressive heat even with the onset of the monsoon.
+
+Summer might be the season of chilled drinks, laps in swimming pools, ice-creams melting in cones and lighter clothes but it can be a menace as climate change adds to erratic weather. After the deep slumber of winter and the mildness of spring, summer is a welcome change of weather. However, for many, there is a constant peskiness of sweltering mercury as sweat gathers in pools and drips down the face and body. The humidity breaks out the skin in acne, while the hair becomes frizzy and unmanageable. Then there is the fear of mosquitoes, as dengue is a common problem during hotter weather in countries such as Nepal. These, however, are less perilous than heat waves.
+
+Heat waves occur when a large mass of warm air gets trapped over a region due to a stalled high-pressure system. It pushes the jet stream while blocking the cooler air from moving in. As the ground heats up in the day with little relief at night, each day starts warmer than the last. A heat island forms as buildings in urban areas absorb sunlight during the day and radiate it at night. All of these compounds are affected by heat waves since the radiation cannot escape. Ultimately, it takes a toll on human lives.
+
+As such, the human body cools through sweating but only when the surrounding air can absorb the moisture. During high humidity, sweat cannot evaporate effectively, and consequently, the body cannot shed heat. It leads to the rise in core temperature and heat exhaustion occurs, finally causing heat stroke, which can be fatal. Especially those at risks are elderly, infirm, infants and outdoor workers without access to cooling resources. Likewise, hot weather can worsen the health of those with existing medical conditions such as heart disease.
+
+Unfortunately, climate change has exacerbated heat waves that are getting longer, more frequent and unpredictable. Places that once had historically mild summers, such as Northern Europe and the Pacific Northwest, are seeing record temperature, deterring tourists and making the lives of residents problematic.
+
+As a way to counteract extreme heat, especially in urban areas, schools are shut down or classes are shifted to mornings and evenings, the work hours are reduced, water bottles are distributed and green spaces are formed so as to facilitate the lives of people. But occasionally, there is a shortage of air conditioners and fans, while power shortage occurs due to the over-exertion on electric grids. As a result, there is often an unequal distribution of resources, with the richer people having access to facilities that the poorer ones don’t. It thus falls upon the government and concerned organisations to better prepare for and mitigate heat waves.","{'https://risingnepaldaily.com/storage/media/105233/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105241/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105244/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105229/Untitled-1.jpg', 'https://risingnepaldaily.com/storage/media/105237/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105232/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105236/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105239/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105246/conversions/Traffice1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105240/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105241/conversions/Untitled-1-square-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105235/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/105231/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/commons/rising-logo.png', 'https://risingnepaldaily.com/storage/media/105240/conversions/Untitled-1-original-thumb.jpg', 'https://risingnepaldaily.com/storage/media/885/conversions/square-thumb-thumb-thumb.jpg'}","उत्तरी गोलार्ध केरऽ शहरऽ भर म॑ सड़कऽ के डामर गरम होय रहलऽ छै, एयर कंडीशनरऽ प॑ अधिक काम होय रहलऽ छै, वॉटर कूलर म॑ लम्बा कतार देखलऽ जाय रहलऽ छै, आरू पारा के रिकॉर्ड बनैला के साथ-साथ गर्मी म॑ लोगऽ के सूजन होय ​​रहलऽ छै । बातचीत अधिकतर मौसम के बारे में छै, कैन्हेंकि यूरोप के आसपास के शहरऽ में लोग नदी के नहरऽ में डुबकी लगाबै छै, जेकरा म॑ पूरा फ्रांस, ब्रिटेन, जर्मनी आरू स्पेन आरू अन्य देशऽ म॑ रिकॉर्ड उच्च तापमान देखलऽ जाय रहलऽ छै । एम्हर पूरा एशियाई राष्ट्र मे शहरी इलाका झुलसि रहल अछि. नेपाल मे सेहो तराई क्षेत्र मानसून शुरू भेला पर सेहो दमनकारी गर्मी के सामना करय पड़ि रहल अछि.
+
+गर्मी में ठंडा पेय पदार्थ, स्विमिंग पूल में गोद, शंकु में पिघलना आइसक्रीम आ हल्का कपड़ा के मौसम भ सकैत अछि मुदा जलवायु परिवर्तन के कारण अव्यवस्थित मौसम में वृद्धि भ रहल अछि, ई खतरा भ सकैत अछि. जाड़क गहींर नींद आ वसंत ऋतुक कोमलताक बाद गर्मी मौसमक स्वागत योग्य परिवर्तन थिक । मुदा, कतेको गोटेक लेल, पसीना पोखरि में जमा भ' चेहरा आ शरीर सं टपकैत पारा के लगातार परेशानी होइत छैक. नमी मुँहासे मे त्वचा के तोड़ि दैत अछि, जखन कि केश घुंघराला आ बेकाबू भ जाइत अछि । तखन मच्छरक डर सेहो अछि, कारण नेपाल सन देश मे गरम मौसम मे डेंगू एकटा आम समस्या अछि । मुदा ई सब गर्मी के लहर सं कम खतरनाक होइत अछि.
+
+ताप तरंग तखन होइत अछि जखन कोनो क्षेत्रक ऊपर गरम हवाक पैघ द्रव्यमान ठमकल उच्च दबाव प्रणालीक कारण फँसि जाइत अछि । ई जेट स्ट्रीम क॑ धक्का दै छै जबकि ठंडा हवा क॑ अंदर जाय स॑ रोकी दै छै ।जैन्हऽ-जैन्हऽ जमीन गरम होय जाय छै आरू रात म॑ कम राहत मिलै छै, हर दिन आखिरी दिन स॑ गरम होय जाय छै । शहरी क्षेत्रऽ के भवनऽ म॑ दिन म॑ सूर्य केरऽ रोशनी क॑ सोखला के साथ-साथ रात म॑ ओकरा विकिरण करै के कारण हीट आइलैंड बन॑ छै । ई सब यौगिक गर्मी के तरंगऽ स॑ प्रभावित होय छै, कैन्हेंकि विकिरण बाहर नै निकली सकै छै । अंततः मनुक्खक जीवन पर एकर असर पड़ैत छैक ।
+
+एहि तरहेँ मनुक्खक शरीर पसीना बहलाक माध्यमे ठंढा भ' जाइत अछि मुदा तखने जखन आसपासक हवा नमी केँ सोखि सकैत अछि । अधिक आर्द्रता कें दौरान पसीना प्रभावी ढंग सं वाष्पित नहि भ सकएयत छै, आ फलस्वरूप, शरीर गर्मी नहि बहा सकएयत छै. एकरऽ कारण कोर केरऽ तापमान बढ़ी जाय छै आरू गर्मी केरऽ थकान होय ​​जाय छै, जेकरा स॑ अंततः गर्मी केरऽ झटका होय जाय छै, जे जानलेवा होय सकै छै । विशेष रूप सं जे लोग खतरा मे छै, ओ बुजुर्ग, कमजोर, शिशुआक आ बाहरी काम करएय वाला छै जइ मे शीतलन संसाधनक कें पहुंच नहि छै. तहिना गर्मी के मौसम सं हृदय रोग जेहन मौजूदा चिकित्सा स्थिति वाला लोक के स्वास्थ्य खराब भ सकैत अछि.
+
+दुर्भाग्यवश जलवायु परिवर्तन के कारण गर्मी के लहर बढ़ी गेलऽ छै जे लम्बा, बार-बार आरू अप्रत्याशित होय रहलऽ छै । जे जगहऽ प॑ कहियो ऐतिहासिक रूप स॑ हल्का गर्मी छेलै, जेना कि उत्तरी यूरोप आरू प्रशांत उत्तर-पश्चिम, वू जगहऽ प॑ रिकॉर्ड तापमान देखलऽ जाय रहलऽ छै, जेकरा स॑ पर्यटकऽ क॑ रोकलऽ जाय रहलऽ छै आरू निवासी सिनी के जीवन समस्याग्रस्त होय रहलऽ छै ।
+
+अत्यधिक गर्मी कें मुकाबला करय कें तरीका कें रूप मे, खासकर शहरी क्षेत्रक मे, स्कूल बंद कैल जायत छै या कक्षाक कें भोर आ सांझ मे शिफ्ट कैल जायत छै, काम कें समय कम कैल जायत छै, पानी कें बोतल बांटल जायत छै आ हरियर जगहक कें निर्माण कैल जायत छै, ताकि लोगक कें जीवन मे सुविधा भ सकय. लेकिन बीच-बीच म॑ एयर कंडीशनर आरू पंखा के कमी भी होय छै, जबकि इलेक्ट्रिक ग्रिड प॑ बेसी मेहनत के कारण बिजली के कमी भी होय छै । एकरऽ परिणाम ई छै कि अक्सर संसाधनऽ के असमान वितरण होय छै, जेकरा म॑ अमीर लोगऽ क॑ ऐन्हऽ सुविधा मिलै छै जे गरीब लोगऽ क॑ नै मिलै छै । एहि तरहें गर्मी के लहर के बेहतर तैयारी आओर ओकरा कम करय के काज सरकार आओर संबंधित संगठन पर पड़ैत अछि.",Health
+Opinion | What the mushrooming of paid laundry services reveals about Nepal’s rising middle class - The Kathmandu Post,Opinion | What the mushrooming of paid laundry services reveals about Nepal’s rising middle class  The Kathmandu Post,2026-07-01 01:11:17,https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWxoeDlHN2FHQmUtVXlRRGZwY2V3aEdsMFJJN09zT09hN0pkeXFFa3pfaXJDWTRVTmp5U1NadG9EWVJoTXJCX2RmVGhhQTRLUXQ4WlNTekcycF81djBiVDYtV1Jia2NuTXp3N2x4SDBLeGwxMnRVTDljZUdDQVp0REV0M0JvQmNuTDFHREs1aWJvQ1dIeGhFcVd4bkVZR19TeXh4MmFiYW9XWWt5cHJZZGFOTkhCYkFVRDZZY2ZjSEZuRFp4MzdjMTJmbno?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"The EVs get all the attention on Nepali streets, but something humbler is multiplying alongside them—the laundry service. Flex boards advertising one are now hard to miss in Kathmandu and increasingly beyond it. Although a seemingly innocuous detail, the proliferation of laundry services can be read as an indicator of economic growth.
+
+The macro indicators already point in a favourable direction. Over the past decade, Nepal has achieved positive GDP growth every year bar the pandemic-stricken 2020. Averaged across the same period, the economy expanded by roughly 4.3 percent annually and nearly doubled the per-capita income. But such aggregates are often treated with a degree of suspicion, particularly in developing countries where a large share of economic activity is informal, unpaid or never recorded—a description that fits Nepal perfectly. Therefore, devising inventive ways to take an economy’s pulse is not unheard of. Satellite imagery of nighttime lights, for example, has been used to estimate national output, while lipstick sales and even the so-called stripper index are tracked to predict recessions before official data catch up. Read in that tradition, growth seen through something as ordinary as laundry is not as strange as it first sounds.
+
+Laundry is, admittedly, not the only candidate. The proliferation of restaurants serving foreign cuisine, the sudden appearance of pickleball courts, or the infectious matcha latte that we all pretend to like could each signal the same thing. But laundry is arguably the stronger proxy primarily because of its cultural history. Nepal remains an agrarian society with over 60 percent of households still dependent on agriculture, and in agrarian societies, gendered divisions of labour tend to be more pronounced. Laundry has long sat firmly on one side of that line as a chore that fell, almost without question, to the women of the house. Therefore, for generations, laundry appeared to be free only because its cost was absorbed by the gendered expectation of who would do it.
+
+​What a laundry service does, then, is let a household buy back that labour, and buying back one’s own time is precisely what people do when they grow richer. A matcha latte was always a luxury for a thin stratum of the demographic, but laundry is a necessity that someone always had to perform, so paying to be relieved of it is a choice that only becomes possible once there is money to spare.
+
+This is where the actual growth reveals itself. Any spending beyond necessities is called discretionary spending, and a sustained rise in it can broadly be read as a rise in prosperity. So when people begin paying for things they could do themselves or do without, it usually signals incomes rising underneath, and the same pattern is visible across Nepal. People eat out more, travel more within the country and summon a ride-hailing app rather than wait for a bus. The laundry service belongs to this same basket. Each of these is a small surrender of a cheaper option in favour of a paid one, and taken together, they are the texture of a middle-class taking shape. The shift also circles back to women. Since a chore once shouldered almost entirely by them is now outsourced, we would expect, over time, to see more women freed to enter paid work themselves. Slowly, it does seem to be happening. Female labour-force participation has climbed from 20.7 percent in 1990 to 27.5 percent in 2025,. This percentile, albeit half the global average, is moving in the right direction.
+
+Perhaps, it’s easy to assume laundry shops mostly serve tourists, but they are mushrooming in residential corners of Kathmandu, Nepalgunj and Biratnagar with no tourists in sight. One quieter mechanism to consider is that a rented room in these cities rarely has the space for a washing machine, and renters hesitate to buy one anyway, given the impermanence of living in a flat. So the mundane chore is drifting out of the home and into a shop, and what was once unpaid and invisible is quietly becoming a transaction.
+
+One objection worth raising is about where the money comes from. Nepal’s boom is, to a large degree, a remittance boom, with wages sent home from foreign labour worth roughly a quarter of the economy. So a laundromat’s growing clientele may be funded less by a productive economy at home and more by drops of sweat fallen abroad, which would make this consumption-led rather than productivity-led growth. But disposable income is disposable income, no matter where it was earned. Therefore, to reiterate, a household choosing to pay to have its clothes washed is a new and conscious decision driven by expanding spending capacity.
+
+However, all of this must still be viewed with caution, because the studies also expose how far the floor remains from the ceiling. By Nepal’s own measure, roughly one in five people still live below the poverty line, and another fifth sit close enough to slip back under it after a single unexpected expense. Growth is forecast to slow to barely 2 percent this year, while the rising youth emigration hinders it further. It is also evident from the experience of Latin America and Southeast Asia that countries can cultivate a comfortable middle class and still leave a fifth of their people in poverty, and Nepal is in no way immune to the same fate.
+
+So the laundromat is not the sole index of anything. The claim that Nepal is moving, albeit slowly, in the right direction because of rising laundromats remains a hunch dressed as an argument, incomplete unless replete with empirical evidence. But it offers a small solace. More people, in more cities, can now afford to let the machine do the washing. A generation ago, this was a luxury almost nobody bought. That, becoming an ordinary expense, is not nothing. It may be quiet and unglamorous, but it is the shape of a country finally beginning to afford itself.","{'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://openweathermap.org/img/w/04d.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/DOWNPostFilePhoto-1782838559.jpg', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png'}","ईवी सब पर नेपाली सड़क पर सब ध्यान भेटैत अछि, मुदा एकर बगल मे किछु विनम्रता बढ़ि रहल अछि- कपड़ा धोबय के सेवा। एकटा के विज्ञापन देबय वाला फ्लेक्स बोर्ड आब काठमांडू आओर ओहि सं आगू बढ़ि कs छूटि जायब मुश्किल भ गेल अछि. हालांकि ई निष्पक्ष प्रतीत होय वाला विवरण छै, लेकिन कपड़ा धोबै के सेवा के प्रसार क॑ आर्थिक विकास के सूचक के रूप म॑ पढ़लऽ जाब॑ सकै छै ।
+
+मैक्रो संकेतक पहिने सं अनुकूल दिशा दिस इशारा करैत अछि. पिछला एक दशक मे नेपाल महामारी ग्रस्त 2020 कए छोड़ि कए हर साल सकल घरेलू उत्पाद मे सकारात्मक वृद्धि हासिल केलक अछि।एही अवधि मे औसतन अर्थव्यवस्था मे सालाना लगभग 4.3 प्रतिशत क विस्तार भेल आ प्रति व्यक्ति आय लगभग दुगुना भ गेल। लेकिन ऐन्हऽ समुच्चयऽ प॑ अक्सर कुछ हद तलक शंका के व्यवहार करलऽ जाय छै, खास करी क॑ विकासशील देशऽ म॑ जहाँ आर्थिक गतिविधि केरऽ एगो बड़ऽ हिस्सा अनौपचारिक, अवैतनिक या कहियो दर्ज नै होय छै-ई वर्णन नेपाल प॑ एकदम फिट बैठै छै । अतः कोनो अर्थव्यवस्था के नब्ज लेबय के आविष्कारशील तरीका गढ़ब कोनो अनसुना बात नहिं. उदाहरण लेली रात के रोशनी के उपग्रह इमेजरी के उपयोग राष्ट्रीय उत्पादन के अनुमान लगाबै लेली करलौ गेलौ छै, जबकि लिपस्टिक के बिक्री आरू यहां तक ​​कि तथाकथित स्ट्रिपर इंडेक्स के ट्रैक करी क आधिकारिक आंकड़ा पकड़ै स॑ पहल॑ मंदी के भविष्यवाणी करलऽ जाय छै । ओहि परंपरा मे पढ़ू, कपड़ा धोबय सन साधारण चीज के माध्यम सं देखल गेल विकास ओतेक अजीब नहिं अछि जतेक पहिने लगैत अछि.
+
+कपड़ा धोबय के काज, मानि लिय' जे एकमात्र उम्मीदवार नहिं अछि. विदेशी भोजन परोसयवला रेस्टोरेंटक प्रसार, अचानक पिकलबॉल कोर्टक उपस्थिति, वा संक्रामक माचा लट्टे जे हमरा लोकनि सब पसिन करबाक नाटक करैत छी, प्रत्येक एकहि संकेत द सकैत अछि. लेकिन कपड़ा धोना तर्कसंगत रूप स॑ एकरऽ मजबूत प्रॉक्सी मुख्य रूप स॑ एकरऽ सांस्कृतिक इतिहास के कारण छै । नेपाल कृषि समाज बनल अछि जाहि मे 60 प्रतिशत सँ बेसी घर एखनो कृषि पर निर्भर अछि, आ कृषि समाज मे लैंगिक श्रम विभाजन बेसी स्पष्ट होइत अछि । कपड़ा धोबय के काज बहुत दिन स ओहि लाइन के एक कात एकटा एहन काज के रूप में मजबूती स बैसल अछि जे लगभग बिना कोनो सवाल के घर के महिला सब पर पड़ल। तें, पीढ़ी-दर-पीढ़ी कपड़ा धोबय के काज केवल एहि लेल मुफ्त बुझाइत छल जे एकर लागत जेंडर अपेक्षा में आत्मसात भ' गेल छल जे के करत.
+
+तखन कपड़ा धोबय के सेवा जे करैत अछि से ई जे कोनो घर के ओहि श्रम के वापस कीनय दैत छैक, आ अपन समय वापस कीनब ठीक वैह होइत छैक जेना लोक अमीर भ’ जाइत छैक. जनसांख्यिकीय केरऽ एगो पातर स्तर लेली माचा लट्टे हमेशा विलासिता छेलै, लेकिन कपड़ा धोना एगो ऐन्हऽ जरूरत छै जेकरा हमेशा ककरो प्रदर्शन करना पड़ै छेलै, ई लेली एकरा स॑ राहत लेली पैसा देना एगो ऐसनऽ विकल्प छै जे एक बार पैसा बचला के बाद ही संभव होय जाय छै ।
+
+एतहि वास्तविक वृद्धि स्वयं प्रकट होइत अछि । आवश्यकता स॑ परे कोनो भी खर्च क॑ विवेकाधीन खर्च कहलऽ जाय छै, आरू एकरा म॑ लगातार बढ़ोत्तरी क॑ मोटा-मोटी समृद्धि म॑ वृद्धि के रूप म॑ पढ़लऽ जाब॑ सकै छै । अस्तु जखन लोक एहन काजक भुगतान करय लगैत छथि जे ओ स्वयं क' सकैत छल वा बिना क' सकैत छल, त' आमतौर पर ई नीचाँ आमदनी बढ़बाक संकेत दैत अछि, आ नेपाल भरि मे सेहो इएह पैटर्न देखबा मे अबैत अछि. लोक बाहर बेसि भोजन करैत अछि, देश के भीतर बेसि यात्रा करैत अछि आओर बस के इंतजार करय सं बेसि राइड-हेलिंग ऐप के बुलबैत अछि. कपड़ा धोबय के सेवा सेहो एही टोकरी के अछि. एहि मे सँ प्रत्येक एकटा सस्ता विकल्पक छोट-छोट आत्मसमर्पण अछि जे एकटा पेड विकल्पक पक्ष मे अछि, आ एकरा मिला क' देखल जाय त' ई सब एकटा मध्यमवर्गीय लोकक आकार लेबाक बनावट थिक. पाली सेहो वापस महिला दिस चक्कर लगा दैत अछि। चूँकि कहियो लगभग पूरा तरहेँ हुनका लोकनिक कंधा पर चलय बला काज आब आउटसोर्स भ' गेल अछि, तें हमरा लोकनि ई अपेक्षा करब जे, समयक संग, बेसी महिला स्वयं वेतनभोगी काज मे प्रवेश करबा लेल मुक्त भ' जेतीह. धीरे-धीरे, ई जरूर भ' रहल बुझाइत अछि। महिला श्रम-बल कें भागीदारी 1990 मे 20.7 प्रतिशत सं बढ़ि क 2025 मे 27.5 प्रतिशत भ गेल छै,... ई परसेंटाइल भले ही वैश्विक औसत स॑ आधा होय, लेकिन सही दिशा म॑ बढ़ी रहलऽ छै ।
+
+शायद, कपड़ा धोबय के दोकान में बेसीतर पर्यटक के सेवा भेटैत अछि से मानब आसान अछि, मुदा काठमांडू, नेपालगंज आ विराटनगर के आवासीय कोन में मशरूम भ’ रहल अछि जाहि में कोनो पर्यटक नजरि नहिं आबि रहल अछि. एकटा शांत तंत्र पर विचार करबाक चाही जे एहि शहर सबमें किराया पर लेने कोठलीमें वाशिंग मशीनक जगह बहुत कम होइत छैक, आ फ्लैटमें रहबाक अस्थायित्वकें देखैत किरायादार लोकनि ओनाहु एकटा कीनबामें संकोच करैत छथि. तें सांसारिक काज घर सं बाहर आ दोकान में बहैत जा रहल अछि, आ जे कहियो बिना वेतन आ अदृश्य छल से चुपचाप लेन-देन बनि रहल अछि.
+
+एकटा आपत्ति उठाबय योग्य अछि जे पाइ कतय सं अबैत अछि. नेपाल केरऽ उछाल, बहुत हद तक, रेमिटेंसी केरऽ उछाल छै, जेकरा म॑ विदेशी श्रम स॑ घर भेजलऽ जाय वाला मजदूरी अर्थव्यवस्था केरऽ लगभग एक चौथाई छै । त’ एकटा लॉन्ड्रोमैट के बढ़ैत ग्राहक के फंडिंग घर में उत्पादक अर्थव्यवस्था सं कम आ विदेश में खसल पसीना के बूंद सं बेसी भ सकैत अछि, जाहि सं ई उत्पादकता के नेतृत्व में नहिं बल्कि उपभोग के नेतृत्व में विकास होयत. मुदा डिस्पोजेबल इनकम डिस्पोजेबल इनकम अछि, चाहे ओ कतहु कमाएल हो। अतः दोहराबै के लेलऽ कि घरऽ के कपड़ा धोबै लेली पैसा देना चुनना एगो नया आरू सचेत निर्णय छै जे खर्च क्षमता के विस्तार स॑ संचालित छै ।
+
+लेकिन, ई सब क॑ अखनी भी सावधानी स॑ देखना जरूरी छै, कैन्हेंकि अध्ययनऽ स॑ ई भी पता चलै छै कि फर्श छत स॑ कतेक दूर रह॑ छै । नेपाल केरऽ अपनऽ नाप स॑ मोटा-मोटी हर पांच म॑ स॑ एक लोग अखनी भी गरीबी रेखा स॑ नीचें रह॑ छै, आरू दोसरऽ पांचवा लोग एतना नजदीक बैठलऽ छै कि एक अप्रत्याशित खर्च के बाद ओकरा नीचें वापस फिसल जाय छै । एहि साल विकास दर मुश्किल स 2 प्रतिशत तक धीमा हेबाक अनुमान अछि, जखन कि बढ़ैत युवा पलायन एकरा आओर बाधा पहुंचा रहल अछि। लैटिन अमेरिका आरू दक्षिण पूर्व एशिया के अनुभव स॑ ई भी स्पष्ट छै कि देशऽ म॑ आरामदायक मध्यम वर्ग के खेती होय सकै छै आरू तभियो अपनऽ पांचवा हिस्सा लोगऽ क॑ गरीबी म॑ छोड़ी सकै छै, आरू नेपाल भी कोनो तरह स॑ वू भाग्य स॑ अछूता नै छै ।
+
+तें लॉन्ड्रोमैट कोनो वस्तुक एकमात्र सूचकांक नहिं होइत छैक. बढ़ैत लॉन्ड्रोमैट के कारण नेपाल धीरे-धीरे सही दिशा में बढ़ि रहल अछि, ई दावा तर्क के रूप में सज-धज क कूबड़ बनल अछि, जा धरि अनुभवजन्य साक्ष्य सं भरल नहिं होयत, अपूर्ण अछि. मुदा एकटा छोट सन सांत्वना दैत अछि। बेसी लोक, बेसी शहर मे, आब मशीन कए धोबय देबाक सामर्थ्य राखि सकैत छथि। एक पीढ़ी पहिने ई एकटा एहन विलासिता छल जे लगभग कियो नहि कीनने छल। जे, साधारण खर्च बनि, किछु नहि। भ' सकैछ जे ई शांत आ अनग्लैमरस हो, मुदा ई एहन देशक आकार थिक जे अंततः अपना केँ बर्दाश्त करय लागल अछि.",Interview
+Editorial | Will stiffer fines really fix Nepal’s traffic culture? - The Kathmandu Post,Editorial | Will stiffer fines really fix Nepal’s traffic culture?  The Kathmandu Post,2026-07-01 01:11:17,https://news.google.com/rss/articles/CBMiogFBVV95cUxOVHJCcTJWWkRLWm1JdGcybFdxQUhVOWtqOGxtcG9scG9OenFJNktHWFRfdzd1WEc4a2NIdkZqTnVNTksyaHV6RTEzMFI3N1h4Y1BJbmtvemZEbTFRQXl3eTJMd1BzZ3BjOHRmLUtmbGZpN0xFaXhsQTQ5QWpSYWlQTkRud3dMMHhORlFEV3l4YlVFMU9UYllheHdaWEpkb0ltelE?oc=5&hl=en-US&gl=US&ceid=US:en,https://kathmandupost.com,The Kathmandu Post,"The Ministry of Infrastructure Development has recently introduced a draft bill that seeks to revamp road safety in Nepal through a regime of significantly escalated traffic fines. While the intention to curb the nation’s alarming rate of road fatalities—currently standing at 28 deaths per 100,000 people—is noble, the proposed penalties have sparked a national debate. With fines ranging from Rs500 for jaywalking to a staggering Rs100,000 for unauthorised vehicle modifications, the legislation represents a move from nominal deterrents to what some experts describe as prohibitive, and perhaps unrealistic, financial burdens.
+
+The fundamental purpose of a traffic fine is to modify behaviour before a tragedy occurs. Proponents of the bill argue that the current flat-rate fines, often as low as Rs500, lack the psychological weight required to instil discipline in a chaotic transport environment. By introducing tiered penalties for speeding—where exceeding the limit by more than 60 percent triggers a maximum fine—and substantial penalties for driving under the influence (DUI) of up to Rs50,000, the state aims to align its enforcement with international standards, which prioritise absolute deterrence.
+
+However, a law is only as effective as its feasibility. Critics point out the stark disconnect between the proposed fines and the economic reality of the average citizen. In a country where many earn between Rs25,000 and Rs30,000 per month, a single Rs50,000 fine for a speeding violation could be catastrophic. When a penalty exceeds the monthly salary of the driver or, in some cases, the total value of the motorcycle they are riding, the law becomes a catalyst for economic ruin. As witnessed in Bangladesh, the sudden imposition of extreme penalties can lead to public revolt, nationwide strikes, and eventual legislative backpedalling.
+
+Furthermore, it is difficult to justify penalising a motorist for lane violations when they are frequently forced to swerve into adjacent lanes to avoid deep, unrepaired potholes. Lawmaker Gyanendra Shahi’s recent demand in the House of Representatives for ‘equitable accountability’ strikes at the heart of this issue. Shahi proposed that if the state expects citizens to pay heavy fines, the state itself must be held to account: Rs100,000 for potholes not fixed within 24 hours and Rs50,000 for non-functional streetlights. The state must provide the infrastructure—including clear signage, functioning traffic lights, and smooth road surfaces—before it can ethically levy life-altering fines for the failure to navigate them perfectly.
+
+There is also the pressing concern of systemic integrity. Empowering traffic officials of Assistant Sub-Inspector (ASI) rank to impose massive fines on the spot may inadvertently fuel corruption. History in other developing nations, such as Kenya, suggests that when official fines are exorbitantly high, violators are more likely to offer a smaller bribe to an officer to escape a ruinous legal penalty. Without a robust, automated digital system to record violations and collect payments, these high fines risk becoming a tool for personal leverage rather than public safety.
+
+To find a middle ground, the government might look to Nepal’s own successes and international best practices. The ‘MaPaSe’ campaign against drunk driving succeeded through ‘non-financial inconvenience’—confiscating licences and requiring mandatory attendance at safety lectures. Additionally, the European ‘day-fine’ system, where penalties are indexed to a person’s daily disposable income, offers a model of social equity. This ensures that a wealthy executive and a delivery driver feel the same relative sting for the same violation, preventing the law from becoming a ‘tax on the poor’ while allowing the rich to purchase the right to speed.
+
+While stricter rules are necessary to save lives, they must be liveable and aligned with the nation’s infrastructure and economic capacity. A law that generates panic rather than discipline is unlikely to succeed. For the new transport bill to truly transform Nepal’s roads, it must move forward as a partnership between the state and the citizen—one where safer roads and fairer fines go hand in hand. Only then can the country achieve the road discipline it so desperately requires without sacrificing the principles of fairness and accountability.","{'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logos/thekathmandupost-logo-white.png', 'https://jcss-cdn.kathmandupost.com/assets/images/lazy.png', 'https://openweathermap.org/img/w/04d.png', 'https://jcss-cdn.kathmandupost.com/assets/images/logo-sticky-bar-tkp-weekender-1.png', 'https://assets-cdn.kathmandupost.com/uploads/source/news/2026/opinion/thumb1-1782868127.jpg', 'https://jcss-cdn.kathmandupost.com/assets/images/tkp-logo-weekender.png'}","पूर्वाधार विकास मन्त्रालय हालहि मे एकटा मसौदा विधेयक पेश केलक अछि जाहि मे नेपाल मे काफी बढ़ल यातायात जुर्माना के व्यवस्था के माध्यम सं सड़क सुरक्षा मे सुधार करय के कोशिश कएल गेल अछि. राष्ट्र केरऽ सड़कऽ प॑ होय वाला मौतऽ के चिंताजनक दर प॑ लगाम लगाबै के मंशा-जहाँ वर्तमान म॑ प्रति एक लाख लोगऽ प॑ २८ मौत होय रहलऽ छै-कुलीन छै, वहीं प्रस्तावित दंडऽ प॑ राष्ट्रीय बहस शुरू होय गेलऽ छै । जेवॉकिंग पर 500 रुपया सं ल क अनधिकृत वाहन संशोधन पर डगमगाइत एक लाख रुपया तक के जुर्माना के संग ई कानून नाममात्र के निवारक सं ल क किछु विशेषज्ञ निषेधात्मक, आ शायद अवास्तविक आर्थिक बोझ दिस बढ़बाक प्रतिनिधित्व करैत अछि.
+
+ट्रैफिक जुर्माना केरऽ मौलिक उद्देश्य कोनो त्रासदी घटित होय स॑ पहल॑ व्यवहार म॑ संशोधन करना छै । विधेयक के समर्थकऽ के तर्क छै कि वर्तमान फ्लैट रेट जुर्माना, जे अक्सर ५०० रुपया तलक कम छै, म॑ अराजक परिवहन वातावरण म॑ अनुशासन पैदा करै लेली जरूरी मनोवैज्ञानिक वजन के कमी छै । तेज रफ्तार सं चलय कें लेल स्तरीय जुर्माना लागू करय सं-जतय 60 प्रतिशत सं बेसि सीमा सं बेसि सं अधिकतम जुर्माना शुरू भ सकय छै-आ नशा मे गाड़ी चलाबय कें लेल (डीयूआई) 50,000 रुपया तइक कें पर्याप्त जुर्माना लागू करय सं राज्य कें लक्ष्य छै कि ओ अपन प्रवर्तन कें अंतरराष्ट्रीय मानक कें साथ संरेखित करय, जे निरपेक्ष निवारण कें प्राथमिकता देयत छै.
+
+मुदा, कोनो कानून ओतबे प्रभावी होइत छैक जतेक ओकर व्यवहार्यता। आलोचक प्रस्तावित जुर्माना आरू औसत नागरिक के आर्थिक वास्तविकता के बीच घोर विच्छेद के ओर इशारा करै छै । जाहि देश मे बहुतो कए महीना मे 25 स 30 हजार टका क बीच कमाई होइत अछि, ओहि देश मे तेज रफ्तार क उल्लंघन पर एक बेर 50 हजार टका जुर्माना तबाही मचा सकैत अछि। जखन कोनो जुर्माना ड्राइवर के मासिक वेतन या किछु मामला में ओ जे मोटरसाइकिल चला रहल छथि ओकर कुल मूल्य सं बेसी भ जायत अछि त कानून आर्थिक बर्बादी के उत्प्रेरक बनि जाइत अछि. जेना कि बांग्लादेश म॑ देखलऽ गेलऽ छै कि अचानक चरम दंड लगाबै स॑ जनविद्रोह, देशव्यापी हड़ताल आरू अंततः विधायी बैकपैडल के कारण बनी सकै छै ।
+
+एकरऽ अलावा, लेन के उल्लंघन के लेलऽ मोटर चालक क॑ दंडित करै के औचित्य साबित करना मुश्किल छै जब॑ ओकरा अक्सर गहरा, बिना मरम्मत के गड्ढा स॑ बचै लेली बगल के लेन म॑ घुसै लेली मजबूर करलऽ जाय छै । विधायक ज्ञानेन्द्र शाही केरऽ हाल म॑ प्रतिनिधि सभा म॑ ‘समान जवाबदेही’ के मांग ई मुद्दा के केंद्र म॑ आबी रहलऽ छै । शाही प्रस्ताव रखलनि जे अगर राज्य नागरिक स भारी जुर्माना देबाक उम्मीद करैत अछि त राज्य कए खुद जवाबदेही देबाक चाही: 24 घंटा क भीतर ठीक नहि भेल गड्ढा क लेल एक लाख टका आ गैर-कार्यशील स्ट्रीट लाइट लेल 50 हजार टका। राज्य कें बुनियादी ढाँचा उपलब्ध करानाय आवश्यक छै-जइ मे स्पष्ट साइनेज, काम करय वाला ट्रैफिक लाइट, आ चिकनी सड़क सतह शामिल छै-एहि सं पहिने जे ओकरा नैतिक रूप सं ओकरा सही ढंग सं नेविगेट करय मे विफलता पर जीवन बदलय वाला जुर्माना लगा सकय.
+
+प्रणालीगत अखंडता के सेहो जरुरी चिंता अछि. सहायक उपनिरीक्षक (एएसआई) रैंक के ट्रैफिक अधिकारी के मौका पर भारी जुर्माना लगाबय के सशक्त बनाबय सं अनजाने मे भ्रष्टाचार के ईंधन भ सकैत अछि. केन्या जैसनऽ अन्य विकासशील राष्ट्रऽ के इतिहास स॑ पता चलै छै कि जब॑ सरकारी जुर्माना बेहद अधिक होय जाय छै त॑ उल्लंघन करै वाला क॑ कोनो अधिकारी क॑ बर्बाद करऽ वाला कानूनी दंड स॑ बचै लेली छोटऽ घूस दै के संभावना अधिक होय जाय छै । उल्लंघन कें रिकॉर्ड करय आ भुगतान वसूली कें लेल एकटा मजबूत, स्वचालित डिजिटल प्रणाली कें बिना, इ उच्च जुर्माना सार्वजनिक सुरक्षा कें बजाय व्यक्तिगत लाभ उठावा कें लेल एकटा उपकरण बनय कें खतरा छै.
+
+बीच के रास्ता खोजय लेल सरकार नेपाल के अपन सफलता आओर अंतरराष्ट्रीय सर्वोत्तम प्रथा पर नजरि राखि सकैत अछि. नशा में गाड़ी चलाबै के खिलाफ ‘मापासे’ अभियान ‘गैर-वित्तीय असुविधा’ के माध्यम स॑ सफल रहलै-लाइसेंस जब्त करी क॑ सुरक्षा व्याख्यान म॑ अनिवार्य रूप स॑ उपस्थिति के जरूरत पड़लै । एकर अतिरिक्त, यूरोपीय ‘डे-फाइन’ प्रणाली, जतय जुर्माना कें अनुक्रमणिका व्यक्ति कें दैनिक प्रयोज्य आय कें अनुसार कैल जायत छै, सामाजिक इक्विटी कें मॉडल प्रदान करयत छै. ई सुनिश्चित करै छै कि एगो धनी कार्यकारी आरू एक डिलीवरी ड्राइवर क॑ एक ही उल्लंघन लेली एक ही सापेक्षिक डंक महसूस होय छै, जेकरा स॑ कानून ‘गरीबऽ प॑ कर’ नै बनी जाय छै जबकि अमीर क॑ गति के अधिकार खरीदै के अनुमति मिलै छै ।
+
+जान बचाबै लेली जहाँ सख्त नियम जरूरी छै, वहीं एकरा जीबै योग्य आरू राष्ट्र केरऽ बुनियादी ढाँचा आरू आर्थिक क्षमता के अनुरूप होना चाहियऽ । अनुशासन स बेसी घबराहट पैदा करय वाला कानून के सफलता के संभावना कम अछि. नेपाल केरऽ सड़कऽ क॑ सही मायने म॑ बदलै लेली नया परिवहन विधेयक क॑ राज्य आरू नागरिक के बीच साझेदारी के रूप म॑ आगू बढ़ना जरूरी छै-जहाँ सुरक्षित सड़क आरू निष्पक्ष जुर्माना के साथ-साथ चलै छै । तखनहि देश निष्पक्षता आ जवाबदेही के सिद्धांत के त्याग केने बिना सड़क अनुशासन के एतेक बेस आवश्यकता के प्राप्त क सकैत अछि।",Opinion
+What China's Energy Experience Can Teach Nepal - myRepublica,What China's Energy Experience Can Teach Nepal  myRepublica,2026-07-01 01:16:18,https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVNWb1ZKOTBzbDFIY3BqWFdueWFsRUl1VjVjMkdsUW00ZEVtNFFXYWo2dk5vYWR0cWpoWWp6SDBPMXFDWGZfcjN0UzlNamNnelIxdjhJYmo4SHU3RkR2Q2JJcmR4em14WWNhRUYxWUNLN3UzclhkYXNjZHUtQ2ptS2FQM2dORXVQTXBYRklJQUxGSkpVTXFla3NZNjJpcE8wMUE?oc=5&hl=en-US&gl=US&ceid=US:en,https://myrepublica.nagariknetwork.com,myRepublica,"Nepal has installed around 5,000 megawatts of hydro-power capacity, which is only a small fraction of the country's vast technical potential. China, by contrast, accounts for nearly one-third of the world's hydro-power capacity and has emerged as a global leader in renewable energy technology and equipment.
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+That contrast became increasingly evident during our three-week participation in the Seminar on Renewable Energy Industry Promotion and Energy Management for Developing Countries, held in Chengdu and Shanghai from May 21 to June 10, 2026. Organized by the Biogas Institute of China's Ministry of Agriculture and Rural Affairs (BIOMA) with support from China's Ministry of Commerce, the programme brought together 21 delegates from seven developing countries, including Nepal, Malaysia, The Gambia, Honduras, Zimbabwe, Kenya and Mauritius.
+
+Turning Waste into Energy
+
+The seminar introduced participants to a broad range of renewable energy technologies, including waste-to-energy incineration, biogas, hydrogen, geothermal energy, hydro-power development, straw biogas and agricultural waste utilization, bio-diesel, wind power generation and solar fuels. These sessions were delivered by professors, lecturers, scientists and experts from prestigious Chinese universities and institutions. A common theme ran through almost every session: waste should be viewed not as a burden but as a valuable resource. Sessions on biogas technology demonstrated how anaerobic digestion converts agricultural residue, kitchen waste and animal manure into clean energy for cooking, heating and electricity generation. The process also destroys harmful pathogens. The remaining residue serves as organic fertilizer. China's approach varies by location: densely populated urban areas rely on waste-to-energy plants, where land is scarce, while rural communities make greater use of biogas systems that utilize locally available agricultural waste. Interaction with trainers, experts and fellow participants from different countries added further perspective on how these technologies could be adapted in Nepal and other developing nations facing similar constraints.
+
+Related story Applications open for ‘Teach for Nepal Fellowship’
+
+A Hydrogen Opportunity for Nepal
+
+Among the many technologies discussed, hydrogen production left the strongest impression.
+
+Nepal experiences a recurring surplus of hydro-power during the monsoon season, when rivers are at their fullest and electricity generation exceeds domestic demand. China's efforts to convert excess renewable electricity into hydrogen suggest a promising way to store surplus energy instead of allowing it to go unused.
+
+For Nepal, where only about 12 percent of technically feasible hydro-power potential has been developed against an installed capacity of roughly 5,000 megawatts, hydrogen could eventually become an important component of a more diversified and resilient energy strategy. China, by comparison, accounts for close to 30 percent of global hydro-power capacity and has become a major exporter of hydro-power equipment and technology. The scale of that gap is part of what made the seminar's discussions feel directly relevant, given that both countries are working with the same underlying resource: water.
+
+Long-Term Planning Matters
+
+The seminar also explored China's broader approach to sustainable development. A lecture on Xi Jinping Thought on Ecological Civilization emphasized that economic growth and environmental protection need not be competing objectives. Instead, careful planning can integrate both from the outset. The session reinforced a wider theme of the programme: that international cooperation and a shared, long-term vision are central to advancing renewable energy and sustainable development, a point also made by BIOMA's director at the seminar's closing ceremony.
+
+This philosophy was evident during visits to the Chengdu Urban Planning Exhibition Hall, where long-term urban development strategies were showcased, and the Dujiangyan Ecological Water Conservancy Project. Built more than 2,300 years ago, the project includes the Fish Mouth Levee, a structure that splits the flow of the river to manage flooding and supply irrigation. The system continues to perform this function today and has also been integrated with tourism, allowing the original engineering to remain in active use while supporting the local economy in a way its designers could not have foreseen.
+
+Lessons Beyond Technology
+
+The programme offered more than technical knowledge. It underscored the importance of policy coherence, long-term planning and international cooperation in advancing renewable energy. Our appreciation goes to the Government of China, BIOMA, the Chinese Embassy in Kathmandu and the Nepal Electricity Authority for facilitating our participation in this programme. We are equally grateful to S.C.I.G. International Nepal Hydro Joint Development Investment Company and its parent company, Sichuan Energy Development Group Co., Ltd for their support. The group's investments in Nepal's Marsyangdi basin—including the 135-megawatt Manang Marsyangdi Hydropower Project and around 601 megawatts of associated projects—reflect the growing scope of Nepal-China cooperation in the energy sector.
+
+Our experience in China strengthened our understanding of renewable energy technologies and broadened our perspective on how policy, innovation and international collaboration can accelerate the clean energy transition. Many of the approaches we observed cannot simply be replicated in Nepal, but they offer valuable insights that can inform the country's efforts to harness its abundant renewable energy resources and build a more sustainable energy future.","{'https://republicajscss.nagariknewscdn.com//img/default_image.png', 'https://republicajscss.nagariknewscdn.com//img/radio-nagarik-logo.png', 'https://republicajscss.nagariknewscdn.com//img/side-bar-logo.svg', 'https://republicajscss.nagariknewscdn.com//img/logo.svg', 'https://republicaimg.nagariknewscdn.com/shared/web/uploads/media/Hydro-1782867537.webp', 'https://republicajscss.nagariknewscdn.com//img/nagarik-logo.png', 'https://republicajscss.nagariknewscdn.com//img/nrm-logo-with-tagline-english.png', 'https://republicajscss.nagariknewscdn.com//img/logo-mobile.svg', 'https://republicajscss.nagariknewscdn.com//img/sukrabar-logo.png'}","नेपाल मे लगभग ५,००० मेगावाट जलविद्युत क्षमता लगाओल गेल अछि, जे देशक विशाल तकनीकी क्षमताक मात्र एकटा छोट अंश अछि । एकरऽ विपरीत चीन केरऽ हिस्सा दुनिया केरऽ जल-विद्युत क्षमता के लगभग एक तिहाई छै आरू अक्षय ऊर्जा प्रौद्योगिकी आरू उपकरणऽ के क्षेत्र म॑ वैश्विक अग्रणी के रूप म॑ उभरी क॑ सामने ऐलऽ छै ।
+
+(adsbygoogle = विंडो.adsbygoogle || []).पुश ({});
+
+ई विपरीत विकासशील देशऽ लेली अक्षय ऊर्जा उद्योग संवर्धन आरू ऊर्जा प्रबंधन केरऽ संगोष्ठी म॑ हमरऽ तीन सप्ताह के भागीदारी के दौरान तेजी स॑ स्पष्ट होय गेलै, जे 21 मई स॑ 10 जून, 2026 तलक चेंगदू आरू शंघाई म॑ आयोजित करलऽ गेलऽ छेलै ।चीन केरऽ कृषि आरू ग्रामीण मामलऽ के मंत्रालय (बायोमा) केरऽ बायोगैस संस्थान द्वारा चीन केरऽ वाणिज्य मंत्रालय, द कार्यक्रम मे नेपाल, मलेशिया, द गैम्बिया, होन्डुरस, जिम्बाब्वे, केन्या आ मारीशस सहित सात विकासशील देशक 21 प्रतिनिधि सभ केँ एक ठाम आनल गेल छल |
+
+अपशिष्ट के ऊर्जा में बदलना
+
+संगोष्ठी मे प्रतिभागियक कें अक्षय ऊर्जा प्रौद्योगिकी कें एकटा विस्तृत श्रृंखला सं परिचित करायल गेलय, जइ मे अपशिष्ट सं ऊर्जा भस्म करनाय, बायोगैस, हाइड्रोजन, भू-तापीय ऊर्जा, जल-विद्युत् विकास, भूसा बायोगैस आ कृषि अपशिष्ट कें उपयोग, जैव-डीजल, पवन ऊर्जा उत्पादन आ सौर ईंधन शामिल छै. ई सत्र चीन केरऽ प्रतिष्ठित विश्वविद्यालय आरू संस्थानऽ के प्रोफेसर, व्याख्याता, वैज्ञानिक आरू विशेषज्ञ न॑ देल॑ छेलै । लगभग हर सत्र मे एकटा आम विषय चलैत छल जे कचरा कए बोझ नहि बल्कि एकटा मूल्यवान संसाधन क ​​रूप मे देखल जेबाक चाही। बायोगैस प्रौद्योगिकी पर सत्रक मे इ दर्शाओल गेल जे कोना अवायवीय पाचन कृषि अवशेष, रसोई कें कचरा आ जानवरक कें खाद कें खाना बनावा, ताप आ बिजली उत्पादन कें लेल स्वच्छ ऊर्जा मे बदलय छै. इ प्रक्रिया हानिकारक रोगजनक कें सेहो नष्ट करएयत छै. शेष अवशेष जैविक खाद कें काज करएयत छै. चीन कें दृष्टिकोण स्थानक कें अनुसार भिन्न-भिन्न छै: घनी आबादी वाला शहरी क्षेत्रक कचरा सं ऊर्जा संयंत्रक पर निर्भर छै, जत जमीन कें कमी छै, जखन कि ग्रामीण समुदाय बायोगैस प्रणालीक कें बेसि उपयोग करएयत छै जे स्थानीय रूप सं उपलब्ध कृषि कचरा कें उपयोग करएयत छै. विभिन्न देशऽ के प्रशिक्षक, विशेषज्ञ आरू साथी प्रतिभागी सिनी के साथ बातचीत स॑ ई बात के आरू परिप्रेक्ष्य जोड़लऽ गेलै कि नेपाल आरू अन्य विकासशील राष्ट्रऽ म॑ भी ई तकनीक क॑ कोना अनुकूलित करलऽ जाब॑ सकै छै जेकरा म॑ ऐसनऽ ही बाधा के सामना करना पड़ै छै ।
+
+Related story ‘टीच फॉर नेपाल फेलोशिप’ हेतु खुजल आवेदन
+
+नेपाल के लिये एक हाइड्रोजन अवसर
+
+चर्चा भेल बहुत रास तकनीक मे हाइड्रोजन उत्पादन सबस मजबूत छाप छोड़लक।
+
+नेपाल में मानसून के मौसम में जलविद्युत के बार-बार अधिशेष के अनुभव होइत अछि, जखन नदी सब अपन पूर्ण रूप सं रहैत अछि आ बिजली उत्पादन घरेलू मांग सं बेसी भ जाइत अछि. चीन केरऽ अतिरिक्त अक्षय बिजली क॑ हाइड्रोजन म॑ बदलै के कोशिश स॑ अतिरिक्त ऊर्जा क॑ अप्रयुक्त होय के बजाय ओकरा संग्रहित करै के आशाजनक तरीका मिलै छै ।
+
+नेपाल के लेलऽ, जहां लगभग ५,००० मेगावाट के स्थापित क्षमता के विरु द्ध तकनीकी रूप स॑ व्यवहार्य जल-विद्युत् क्षमता के मात्र लगभग १२ प्रतिशत ही विकास करलऽ गेलऽ छै, हाइड्रोजन अंततः अधिक विविधतापूर्ण आरू लचीला ऊर्जा रणनीति के एगो महत्वपूर्ण घटक बनी सकै छै । एकरऽ तुलना म॑ चीन केरऽ हिस्सेदारी वैश्विक जलविद्युत क्षमता केरऽ लगभग ३० प्रतिशत छै आरू ई जलविद्युत उपकरण आरू तकनीक केरऽ प्रमुख निर्यातक बनी गेलऽ छै । ओहि अंतर के पैमाना ओहि बात के हिस्सा अछि जे एहि संगोष्ठी के चर्चा के सीधा प्रासंगिक महसूस केलक, ई देखैत जे दुनू देश एकहि अंतर्निहित संसाधन के संग काज क रहल अछि: पानि.
+
+दीर्घकालिक योजना के मामले
+
+गोष्ठी म॑ चीन केरऽ सतत विकास केरऽ व्यापक दृष्टिकोण के भी खोज करलऽ गेलै । पारिस्थितिकी सभ्यता पर शी जिनपिंग विचार पर एकटा व्याख्यान मे एहि बात पर जोर देल गेल जे आर्थिक विकास आ पर्यावरण संरक्षण के प्रतिस्पर्धी उद्देश्य होबय के जरूरत नहिं. बल्कि सावधानीपूर्वक योजना शुरूए सं दुनू कें एकीकृत कयर सकय छै. ई सत्र न॑ कार्यक्रम केरऽ एगो व्यापक विषय क॑ मजबूत करलकै: कि अंतर्राष्ट्रीय सहयोग आरू साझा, दीर्घकालिक दृष्टि अक्षय ऊर्जा आरू सतत विकास क॑ आगू बढ़ाबै लेली केंद्रीय छै, ई बात क॑ बायोमा केरऽ निदेशक न॑ गोष्ठी केरऽ समापन समारोह म॑ भी बतैलकै ।
+
+ई दर्शन चेंगदू शहरी योजना प्रदर्शनी हॉल, जहां दीर्घकालिक शहरी विकास रणनीति के प्रदर्शन करलऽ गेलऽ छेलै, आरू दुजियांगयान पारिस्थितिकी जल संरक्षण परियोजना के दौरा के दौरान स्पष्ट छेलै । 2300 साल स॑ भी अधिक समय पहल॑ बनलऽ ई परियोजना म॑ फिश माउथ लेवी शामिल छै, जे एगो ऐसनऽ संरचना छै जे नदी केरऽ बहाव क॑ विभाजित करी क॑ बाढ़ के प्रबंधन आरू सिंचाई के आपूर्ति करै छै । ई सिस्टम आज भी ई काम जारी रखै छै आरू पर्यटन के साथ भी एकीकृत करलऽ गेलऽ छै, जेकरा स॑ मूल इंजीनियरिंग क॑ सक्रिय उपयोग म॑ रह॑ के अनुमति मिलै छै जबकि स्थानीय अर्थव्यवस्था क॑ ऐन्हऽ तरह स॑ सहायता मिलै छै जेकरऽ डिजाइनरऽ के पूर्वानुमान नै छेलै ।
+
+तकनीक से परे सबक
+
+कार्यक्रम मे तकनीकी ज्ञान स बेसी किछु भेटैत छल। ई अक्षय ऊर्जा क॑ आगू बढ़ाबै म॑ नीतिगत सुसंगतता, दीर्घकालिक योजना आरू अंतर्राष्ट्रीय सहयोग के महत्व प॑ जोर देलकै । हमर सबहक प्रशंसा चीन सरकार, बायोमा, काठमांडू मे चीनी दूतावास आ नेपाल विद्युत प्राधिकरण के अछि जे एहि कार्यक्रम मे हमरा सब के सहभागिता के सुविधा देलक। हम सब ओतबे आभारी छी एस.सी.आई.जी. अन्तर्राष्ट्रीय नेपाल जल संयुक्त विकास निवेश कम्पनी आ ओकर मूल कंपनी सिचुआन ऊर्जा विकास समूह कं, लि. नेपाल केरऽ मार्सयांगडी बेसिन म॑ समूह केरऽ निवेश-जइ म॑ १३५ मेगावाट के मनांग मार्सयांगडी जलविद्युत परियोजना आरू लगभग ६०१ मेगावाट के संबद्ध परियोजना शामिल छै- ऊर्जा क्षेत्र म॑ नेपाल-चीन सहयोग के बढ़तऽ दायरा क॑ दर्शाबै छै ।
+
+चीन म॑ हमरऽ अनुभव न॑ अक्षय ऊर्जा प्रौद्योगिकी के बारे म॑ हमरऽ समझ क॑ मजबूत करलकै आरू नीति, नवाचार आरू अंतर्राष्ट्रीय सहयोग स्वच्छ ऊर्जा संक्रमण क॑ कोना तेज करी सकै छै, ई बात प॑ हमरऽ दृष्टिकोण क॑ व्यापक बनैलकै । हम जे बहुत रास दृष्टिकोण देखलौं ओकर नकल नेपाल मे मात्र नहि कएल जा सकैत अछि, मुदा ओ मूल्यवान अंतर्दृष्टि प्रदान करैत अछि जे देशक प्रचुर अक्षय ऊर्जा संसाधनक सदुपयोग आ बेसी टिकाऊ ऊर्जा भविष्यक निर्माण करबाक प्रयास केँ सूचित क' सकैत अछि ।",Interview
