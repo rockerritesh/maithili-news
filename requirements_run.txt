@@ -2,7 +2,8 @@ numpy==1.24.3
 protobuf>=3.20.3
 altair==4.1.0
 gnews>=0.4.3
-googlenewsdecoder>=0.1.7
+googlenewsdecoder==0.1.7
+selectolax<1.0  # 1.0 removed the Modest backend googlenewsdecoder imports
 # newspaper3k==0.2.8
 scikit-learn==1.5.0
 deep-translator>=1.11.4
